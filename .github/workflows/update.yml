@@ -3,6 +3,10 @@ name: Daily News Collector
 on:
   push:
     branches: [ "master", "main" ]
+    paths: # 수집 로직이 바뀔 때만 자동 실행 (문서/CSS/데이터 커밋엔 안 돎 → API 쿼터 절약)
+      - 'collector.py'
+      - 'requirements.txt'
+      - '.github/workflows/update.yml'
   schedule:
     - cron: '0 0 * * *' # Every day at 00:00 UTC (9 AM KST)
   workflow_dispatch: # Allow manual trigger
@@ -10,6 +14,7 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     permissions:
       contents: write
 
