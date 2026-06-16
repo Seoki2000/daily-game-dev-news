@@ -1,0 +1,64 @@
+[
+  {
+    "title": "\"IP is the next great asset class: AI gives us the superpower to codify it\"",
+    "link": "https://aigamechangers.substack.com/p/ip-is-the-next-great-asset-class",
+    "date": "2026-06-15",
+    "summary": [
+      "이레나 페레이라가 설립한 Infinite Realms는 AI를 활용하여 소설, 대본 등 원천 자료를 구조화된 세계 모델로 변환합니다.",
+      "이 플랫폼은 IP 각색 과정을 더 빠르고 저렴하며 원작에 충실하게 만들어 게임, 만화, 스트리밍 등 다양한 미디어에 적용됩니다.",
+      "이를 통해 팀은 복잡한 IP를 사전에 전문가가 아니어도 쉽게 다룰 수 있게 됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI"
+    ],
+    "source": "AI Gamechangers"
+  },
+  {
+    "title": "How Playrix is growing Township with Unity Ads’ D28 IAP ROAS optimizer",
+    "link": "https://unity.com/blog/playrix-township-roas-optimization-vector",
+    "date": "2026-06-15",
+    "summary": [
+      "Playrix는 Unity Ads의 D28 IAP ROAS 최적화 도구를 활용하여 모바일 게임 'Township'의 성장을 가속화하고 있습니다.",
+      "Unity Vector 출시 이후, 특히 Google Play에서 캠페인 규모가 크게 확장되어 Unity가 Playrix의 주요 채널 중 하나가 되었습니다.",
+      "Playrix는 Unity의 전체 마케팅 솔루션 제품군을 통해 뛰어난 성과와 수익 증대를 경험했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "From digital twins to industrial AI: Building the machine information system",
+    "link": "https://unity.com/blog/digital-twin-building-machine-information-system",
+    "date": "2026-06-15",
+    "summary": [
+      "디지털 트윈은 단순한 시각화를 넘어 실시간 기계 상태, 기업 데이터, 운영 지식을 통합하여 AI 및 실제 운영에 활용하는 방향으로 진화하고 있습니다.",
+      "이러한 변화는 AI를 위한 구조화된 데이터 요구와 연결된 시스템의 문서화 및 수명 주기 관리 현대화에 의해 가속화됩니다.",
+      "이러한 발전은 신속한 고장 진단, 향상된 운영자 지원 등 실질적인 운영 개선을 제공하며, 접목 가능한 산업용 AI의 기반을 마련합니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "A day in the life of a training designer building interactive 3D — without waiting on specialized simulation teams",
+    "link": "https://unity.com/blog/interactive-3d-training-unity-studio-without-simulation-teams",
+    "date": "2026-06-11",
+    "summary": [
+      "기존 교육 방식의 비효율성으로 학습 몰입도 및 효과가 부족했습니다.",
+      "인터랙티브 3D 훈련의 필요성을 느끼지만, 개발 자원 부족으로 구현에 어려움을 겪었습니다.",
+      "Unity Studio를 활용하여 이러한 문제를 해결하고, 효율적으로 3D 몰입형 훈련 콘텐츠를 제작합니다."
+    ],
+    "tags": [
+      "Training",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  }
+]

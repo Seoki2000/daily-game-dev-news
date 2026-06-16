@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Guide - Daily Insights</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .dev-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 40px;
+            backdrop-filter: blur(10px);
+        }
+        h2 { margin-top: 30px; margin-bottom: 15px; color: var(--accent-color); font-size: 1.5rem; }
+        h3 { margin-top: 20px; margin-bottom: 10px; }
+        p { line-height: 1.6; margin-bottom: 15px; color: var(--text-secondary); }
+        pre, code {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 15px;
+            border-radius: 8px;
+            font-family: Consolas, monospace;
+            color: #60a5fa;
+            display: block;
+            margin-bottom: 20px;
+            overflow-x: auto;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        ul { margin-left: 20px; margin-bottom: 15px; color: var(--text-secondary); line-height: 1.8; }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: #e2e8f0;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 30px;
+            transition: background 0.2s;
+        }
+        .back-link:hover { background: rgba(255,255,255,0.2); }
+    </style>
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+    
+    <div class="container">
+        <a href="index.html" class="back-link">← 대시보드로 돌아가기</a>
+        
+        <div class="dev-container">
+            <h1>개발자 및 사용 가이드</h1>
+            <p>이 페이지는 Daily Game Dev & AI Insights 시스템을 유지보수하고 커스터마이징하는 방법을 안내합니다.</p>
+            
+            <h2>1. 새로운 구독처(RSS/유튜브) 추가하기</h2>
+            <p>새로운 블로그, 서브스택, 유튜브 채널의 글을 수집하려면 <code>collector.py</code> 파일을 텍스트 편집기(메모장, VS Code 등)로 열고 <code>FEEDS</code> 리스트에 주소를 추가하면 됩니다.</p>
+            <pre>
+FEEDS = [
+    # 기존 항목들...
+    {"url": "https://추가할사이트주소/feed", "default_tag": "원하는태그명"},
+    
+    # 예시: 유튜브 채널 추가 방식 (채널 ID 필요)
+    {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=유튜브채널ID", "default_tag": "YouTube"}
+]</pre>
+            
+            <h2>2. 데이터 수집 자동화 (윈도우 스케줄러)</h2>
+            <p>매일 수동으로 스크립트를 실행할 필요 없이, 컴퓨터가 켜져 있을 때 알아서 최신 글을 가져오도록 윈도우 스케줄러를 설정할 수 있습니다.</p>
+            <ul>
+                <li>윈도우 키를 누르고 <strong>"작업 스케줄러"</strong>를 검색하여 실행합니다.</li>
+                <li>오른쪽 '작업 메뉴'에서 <strong>기본 작업 만들기</strong>를 클릭합니다.</li>
+                <li>이름을 지정하고 (예: Daily News Update), 트리거를 <strong>'매일'</strong>로 설정합니다.</li>
+                <li>작업은 <strong>'프로그램 시작'</strong>으로 선택합니다.</li>
+                <li>프로그램/스크립트 항목에서 찾아보기를 눌러 프로젝트 폴더 안에 있는 <code>run_update.bat</code> 파일을 선택하고 마칩니다.</li>
+            </ul>
+
+            <h2>3. 작동 원리</h2>
+            <ul>
+                <li><strong>collector.py</strong>: 등록된 주소에서 최신 글을 다운로드한 뒤, 설정된 Gemini API 키를 통해 글의 핵심을 3줄 요약하고 카테고리 태그를 추출하여 <code>data/articles.js</code> 파일에 저장합니다.</li>
+                <li><strong>index.html / script.js</strong>: 웹 브라우저가 열릴 때 <code>articles.js</code>을 읽어와서 예쁜 카드로 렌더링하고 검색 기능을 제공합니다.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

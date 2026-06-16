@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Game Dev & AI Insights</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+    
+    <div class="container">
+        <header>
+            <h1><span class="gradient-text">Daily Insights</span></h1>
+            <p>Game Development, Unity & Artificial Intelligence</p>
+            
+            <div style="margin-bottom: 30px;">
+                <a href="developer.html" style="color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; border: 1px solid var(--card-border); padding: 8px 16px; border-radius: 20px; background: rgba(255,255,255,0.05); transition: all 0.2s ease; display: inline-block;">
+                    ⚙️ 개발자 가이드 (사용법 및 소스 추가)
+                </a>
+            </div>
+            
+            <div class="controls">
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="키워드 검색 (예: Unity, LLM, Shader...)">
+                </div>
+                <div class="filters" id="tagFilters">
+                    <button class="filter-btn active" data-tag="all">All</button>
+                    <!-- Tags will be dynamically populated -->
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="stats" id="statsDisplay">데이터를 불러오는 중...</div>
+            <div class="grid" id="articlesGrid">
+                <!-- Cards will go here -->
+            </div>
+        </main>
+    </div>
+
+    <script src="data/articles.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
