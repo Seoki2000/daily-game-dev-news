@@ -42,6 +42,13 @@ FEEDS = [
     {"url": "https://blog.unity.com/feed", "default_tag": "Unity"},
     {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFK6NCbuRICzA6xTq1uVD0w", "default_tag": "Unity"},
     {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg", "default_tag": "AI"},
+    {"url": "https://80.lv/rss", "default_tag": "GameDev"},
+    {"url": "https://www.gamedeveloper.com/rss.xml", "default_tag": "News"},
+    {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX_b3NNQN5bzExm-22-NVVg", "default_tag": "Unity"},
+    {"url": "https://huggingface.co/blog/feed.xml", "default_tag": "AI"},
+    {"url": "https://openai.com/news/rss.xml", "default_tag": "AI"},
+    {"url": "https://deepmind.google/blog/rss.xml", "default_tag": "AI"},
+    {"url": "https://www.deeplearning.ai/the-batch/feed/", "default_tag": "AI"},
 ]
 
 def strip_html(html_content):
