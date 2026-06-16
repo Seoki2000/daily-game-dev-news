@@ -77,22 +77,27 @@ Format your response strictly as valid JSON like this:
     payload = {
         "contents": [{"parts": [{"text": prompt}]}]
     }
-    try:
-        response = requests.post(url, json=payload)
-        response.raise_for_status()
-        data = response.json()
-        text_response = data['candidates'][0]['content']['parts'][0]['text']
-        # Extract JSON if markdown wrapped
-        if "```json" in text_response:
-            text_response = text_response.split("```json")[1].split("```")[0].strip()
-        elif "```" in text_response:
-            text_response = text_response.split("```")[1].split("```")[0].strip()
+    
+    for attempt in range(3):
+        try:
+            response = requests.post(url, json=payload)
+            response.raise_for_status()
+            data = response.json()
+            text_response = data['candidates'][0]['content']['parts'][0]['text']
+            # Extract JSON if markdown wrapped
+            if "```json" in text_response:
+                text_response = text_response.split("```json")[1].split("```")[0].strip()
+            elif "```" in text_response:
+                text_response = text_response.split("```")[1].split("```")[0].strip()
+                
+            result = json.loads(text_response)
+            return result.get("translated_title", title), result.get("summary", []), result.get("tags", [])
+        except Exception as e:
+            print(f"Attempt {attempt+1} failed for '{title}': {e}")
+            time.sleep(5)
             
-        result = json.loads(text_response)
-        return result.get("translated_title", title), result.get("summary", []), result.get("tags", [])
-    except Exception as e:
-        print(f"Error analyzing content for '{title}': {e}")
-        return title, ["요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."], []
+    print(f"All attempts failed for '{title}'.")
+    return title, ["요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."], []
 
 def collect_news():
     articles = []
@@ -145,7 +150,7 @@ def collect_news():
                 "source": feed.feed.title if hasattr(feed.feed, 'title') else "Unknown Source"
             })
             
-            time.sleep(1.5)
+            time.sleep(4.5)
             
     articles.sort(key=lambda x: x["date"], reverse=True)
     
