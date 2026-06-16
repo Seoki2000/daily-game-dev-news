@@ -1,0 +1,30 @@
+# Daily Game Dev & AI Insights 🚀
+
+매일 아침 9시(KST)에 업데이트되는 유니티(Unity), 게임 개발(Game Dev), 인공지능(AI) 관련 최신 뉴스 및 인사이트 대시보드입니다.
+
+🌐 **웹사이트 접속하기**: [https://seoki2000.github.io/daily-game-dev-news/](https://seoki2000.github.io/daily-game-dev-news/)
+
+## 📝 프로젝트 소개
+
+이 프로젝트는 개발자들이 매일 쏟아지는 수많은 영어 아티클과 영상들을 일일이 찾아보는 수고를 덜어주기 위해 제작되었습니다.
+GitHub Actions와 Google Gemini AI를 활용하여, 매일 정해진 시간에 여러 소스의 새 글을 수집하고 **한국어로 제목을 번역하고 3줄 요약**하여 읽기 편한 웹사이트 형태로 제공합니다.
+
+### 📡 현재 수집 중인 데이터 소스
+현재 다음과 같은 소스에서 양질의 데이터를 수집하고 있습니다:
+- Unity Official Blog
+- GameDev Digest
+- AI Gamechangers (Substack)
+- AI Playbook (Substack)
+- 유명 AI & 게임 개발 유튜브 채널 등
+
+## 💡 새로운 소스 추가 요청
+
+나만 알기 아까운 좋은 해외 블로그, 서브스택, 혹은 유튜브 채널이 있다면 언제든지 추천해 주세요! 
+요청해주시면 매일 수집되는 파이프라인에 추가해 드립니다.
+
+[👉 여기를 클릭하여 새로운 구독처 추가 요청하기](https://github.com/Seoki2000/daily-game-dev-news/issues/new)
+
+*(GitHub Issue 메뉴로 이동됩니다. 추천하고 싶은 사이트 주소를 남겨주세요!)*
+
+---
+*본 레포지토리는 자동화된 파이썬 스크립트와 GitHub Actions에 의해 100% 자동으로 유지보수 및 갱신됩니다.*
