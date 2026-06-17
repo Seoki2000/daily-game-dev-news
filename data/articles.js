@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+    "translated_title": "클로드 AI의 내면을 들여다보다, 이상한 결과가 나왔다",
+    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+    "date": "2026-06-16",
+    "summary": [
+      "연구자들이 클로드 AI의 내부 작동 방식을 조사했다.",
+      "자연어 자동 인코더 연구를 통해 AI의 흥미로운 결과가 관찰되었다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
     "translated_title": "마우스: P.I. For Hire의 대담한 세계관 분석 - 내러티브 노트 #4",
     "link": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
@@ -31,52 +46,63 @@ const allArticlesData = [
   },
   {
     "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
-    "translated_title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
+    "translated_title": "금지되었던 공포 게임 'Horses', 3만 장 판매 후 개발비 회수 시작",
     "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "'Horses' 게임이 3만 장 판매고를 올렸습니다.",
+      "이를 통해 개발비 회수를 시작했으며, 수익은 투자자 및 디렉터에게 분배되었습니다."
     ],
     "tags": [
-      "News"
+      "News",
+      "GameDev"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "UK social media ban will restrict 'high-risk' features on game platforms",
-    "translated_title": "UK social media ban will restrict 'high-risk' features on game platforms",
+    "translated_title": "영국, 게임 플랫폼 '고위험' 기능 제한 소셜 미디어 금지법 시행",
     "link": "https://www.gamedeveloper.com/business/uk-social-media-ban-will-restrict-high-risk-features-on-game-platforms",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "영국에서 게임 플랫폼의 '고위험' 기능에 대한 소셜 미디어 금지법이 시행됩니다.",
+      "특히 통신 및 라이브스트리밍 기능을 제공하는 플랫폼이 영향을 받을 것입니다."
     ],
     "tags": [
-      "News"
+      "News",
+      "GameDev"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "Predicting model behavior before release by simulating deployment",
-    "translated_title": "Predicting model behavior before release by simulating deployment",
+    "translated_title": "배포 전 모델 동작 예측을 위한 시뮬레이션",
     "link": "https://openai.com/index/deployment-simulation",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "OpenAI가 '배포 시뮬레이션' 도입",
+      "실제 대화 데이터를 활용하여 모델 배포 전 동작 예측",
+      "안전성 및 평가 정확도 향상 목표"
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "OpenAI News"
   },
   {
     "title": "Unlocking UK house-building with AI-accelerated planning",
-    "translated_title": "Unlocking UK house-building with AI-accelerated planning",
+    "translated_title": "AI 가속화된 계획으로 영국 주택 건설 잠금 해제",
     "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "영국 정부, 구글 딥마인드와 협력하여 AI 기반 주택 건설 계획 프로토타입 개발",
+      "목표는 주택 건설 관련 의사 결정 속도 향상"
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "Google DeepMind News"
@@ -129,6 +155,22 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA's New Free AI - A Gift To Humanity",
+    "translated_title": "NVIDIA의 새로운 무료 AI, 인류를 위한 선물",
+    "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+    "date": "2026-06-14",
+    "summary": [
+      "NVIDIA에서 Nemotron 3 Ultra 모델을 무료로 공개했습니다.",
+      "이 모델은 연구 및 개발에 활용될 수 있으며, GPU 클라우드 서비스도 함께 소개되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Introducing the OpenAI Partner Network",
@@ -225,13 +267,16 @@ const allArticlesData = [
   },
   {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "translated_title": "How an astrophysicist uses Codex to help simulate black holes",
+    "translated_title": "천체 물리학자가 코덱스를 활용하여 블랙홀 시뮬레이션을 돕는 방법",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "date": "2026-06-11",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "천체 물리학자 찬치콴이 코덱스를 이용해 블랙홀 시뮬레이션을 구축합니다.",
+      "이를 통해 과학자들은 극한 물리학을 연구하고 일반 상대성 이론을 검증할 수 있습니다."
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "OpenAI News"
