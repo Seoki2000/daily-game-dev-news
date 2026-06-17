@@ -1,5 +1,87 @@
 const allArticlesData = [
   {
+    "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
+    "translated_title": "마우스: P.I. For Hire의 대담한 세계관 분석 - 내러티브 노트 #4",
+    "link": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
+    "date": "2026-06-16",
+    "summary": [
+      "'마우스: P.I. For Hire'는 단순한 스팀보트 윌리 패러디 이상입니다.",
+      "게임의 세계관 구축이 항상 성공적이었는지 분석합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Treyarch studio head steps down after 22 years",
+    "translated_title": "트레이아크 스튜디오 책임자, 22년 만에 퇴임",
+    "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
+    "date": "2026-06-16",
+    "summary": [
+      "트레이아크 스튜디오 책임자 마크 고든이 22년 만에 자리에서 물러납니다.",
+      "새로운 공동 스튜디오 책임자 두 명이 그의 뒤를 이어 업무를 맡게 됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
+    "translated_title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
+    "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
+    "date": "2026-06-16",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "UK social media ban will restrict 'high-risk' features on game platforms",
+    "translated_title": "UK social media ban will restrict 'high-risk' features on game platforms",
+    "link": "https://www.gamedeveloper.com/business/uk-social-media-ban-will-restrict-high-risk-features-on-game-platforms",
+    "date": "2026-06-16",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Predicting model behavior before release by simulating deployment",
+    "translated_title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "date": "2026-06-16",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "translated_title": "Unlocking UK house-building with AI-accelerated planning",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-16",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How Playrix is growing Township with Unity Ads’ D28 IAP ROAS optimizer",
     "translated_title": "플레이릭스, Unity Ads의 D28 IAP ROAS 최적화 도구로 '타운쉽' 성장시키는 방법",
     "link": "https://unity.com/blog/playrix-township-roas-optimization-vector",
@@ -49,67 +131,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "EA announces advertising platform to launch ads 'directly into gameplay'",
-    "translated_title": "EA, 게임 플레이에 직접 광고 삽입하는 플랫폼 발표",
-    "link": "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform-to-launch-ads-directly-into-gameplay-",
-    "date": "2026-06-15",
-    "summary": [
-      "EA가 새로운 광고 플랫폼 'EA Advertising' 출시를 발표했습니다.",
-      "이 플랫폼은 Visa, Red Bull 등 여러 브랜드와 파트너십을 맺었습니다.",
-      "광고는 게임 플레이 중에 직접 삽입될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Two former Rare execs are leaving Xbox",
-    "translated_title": "보도: 전 Rare 임원 2명, Xbox 떠난다",
-    "link": "https://www.gamedeveloper.com/business/report-two-former-rare-execs-are-leaving-xbox",
-    "date": "2026-06-15",
-    "summary": [
-      "Xbox Game Studios 총괄인 크레이그 던컨이 퇴사합니다.",
-      "Xbox Game Studios 최고 비서인 루이즈 오코너도 함께 떠납니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Microsoft CEO says Xbox must become 'sustainable' as it reportedly considers major spinoff",
-    "translated_title": "마이크로소프트 CEO, 엑스박스 '지속 가능한' 비즈니스 모델 필수 강조... 대규모 분사 검토 보도",
-    "link": "https://www.gamedeveloper.com/console/microsoft-ceo-says-xbox-must-become-sustainable-as-it-reportedly-considers-major-spinoff",
-    "date": "2026-06-15",
-    "summary": [
-      "엑스박스의 현재 엔터테인먼트 사업은 수익을 창출하지 못하고 오히려 보조금을 지급하는 형태로 운영되고 있음.",
-      "이러한 상황 속에서 엑스박스의 '지속 가능한' 비즈니스 모델 구축이 필요하다는 CEO의 발언이 나옴.",
-      "이러한 경영 전략의 일환으로 엑스박스의 대규모 분사 가능성이 보도되고 있음."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA's New Free AI - A Gift To Humanity",
-    "translated_title": "NVIDIA의 새로운 무료 AI - 인류에게 주어진 선물",
-    "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-    "date": "2026-06-14",
-    "summary": [
-      "NVIDIA에서 Nemotron 3 Ultra라는 새로운 무료 AI 모델을 공개했습니다.",
-      "해당 모델의 논문 및 관련 정보는 제공된 링크에서 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Introducing the OpenAI Partner Network",
     "translated_title": "OpenAI 파트너 네트워크 출시",
     "link": "https://openai.com/index/introducing-openai-partner-network",
@@ -123,21 +144,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "The art of game writing in 'non-narrative' games ft. Emma Kidwell and Harrison Pink",
-    "translated_title": "내러티브 중심이 아닌 게임에서의 게임 글쓰기 기법: 엠마 키드웰, 해리슨 핑크와의 대담",
-    "link": "https://www.gamedeveloper.com/design/the-art-of-game-writing-in-non-narrative-games-ft-emma-kidwell-and-harrison-pink",
-    "date": "2026-06-12",
-    "summary": [
-      "내러티브 중심이 아닌 게임에서 이야기 콘텐츠를 만드는 방법에 대한 논의.",
-      "내러티브 디자이너와 게임 작가의 경험 공유."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "olmo-eval: An evaluation workbench for the model development loop",
@@ -218,33 +224,15 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "OpenAI to acquire Ona",
-    "translated_title": "OpenAI, Ona 인수 계획 발표",
-    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "translated_title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "date": "2026-06-11",
     "summary": [
-      "OpenAI가 Ona를 인수하여 Codex 기능을 확장할 예정입니다.",
-      "Ona의 기술로 안전하고 지속적인 클라우드 환경을 제공합니다.",
-      "이를 통해 엔터프라이즈 워크플로우에서 장기 실행 AI 에이전트를 지원할 수 있습니다."
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
     ],
     "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "translated_title": "BBVA, OpenAI와 협력하여 AI를 은행업의 핵심으로",
-    "link": "https://openai.com/index/bbva",
-    "date": "2026-06-11",
-    "summary": [
-      "BBVA가 ChatGPT Enterprise를 10만 명의 직원에게 확장했습니다.",
-      "OpenAI와의 파트너십을 통해 AI 기반 은행 혁신을 가속화하고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
+      "AI"
     ],
     "source": "OpenAI News"
   },
@@ -271,67 +259,6 @@ const allArticlesData = [
     "summary": [
       "구글 딥마인드와 파트너들이 1천만 달러 규모의 펀딩 콜을 발표했습니다.",
       "주요 초점은 다중 에이전트 AI 안전 연구입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "translated_title": "AI 에이전트가 Hugging Face Spaces 두 개를 연결하여 3D 파리 갤러리를 구축한 방법",
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "date": "2026-06-09",
-    "summary": [
-      "AI 에이전트가 Hugging Face Spaces 두 개를 연동했습니다.",
-      "이를 통해 3D 파리 갤러리를 성공적으로 구축했습니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "translated_title": "Gemini 3.5 Live Translate: 유연하고 자연스러운 음성 번역",
-    "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "date": "2026-06-09",
-    "summary": [
-      "Gemini 3.5 Live Translate는 거의 실시간에 가까운 자연스러운 음성 번역을 제공합니다.",
-      "Google AI Studio, Google Translate, Google Meet에서 사용할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "translated_title": "Gemma 4 12B 소개: 통일되고 인코더 없는 멀티모달 모델",
-    "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "date": "2026-06-09",
-    "summary": [
-      "Gemma 4 12B는 통일된 구조를 가진 멀티모달 모델입니다.",
-      "이 모델은 인코더가 없는 아키텍처를 특징으로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Powering the future of robotics in Europe",
-    "translated_title": "유럽 로봇 공학의 미래를 이끌다",
-    "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "date": "2026-06-09",
-    "summary": [
-      "유럽에서 로봇 공학의 미래를 위한 혁신과 발전에 대해 다룹니다.",
-      "새로운 기술과 연구 동향을 소개하며 유럽 로봇 공학의 가능성을 조명합니다."
     ],
     "tags": [
       "AI",
