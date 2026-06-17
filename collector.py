@@ -83,19 +83,24 @@ Format your response strictly as valid JSON like this:
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
 
     delay = 8  # 429일 때 지수 backoff 시작 간격(초)
-    for attempt in range(4):
+    for attempt in range(5):
         try:
             response = requests.post(url, json=payload, timeout=60)
 
-            # 레이트리밋: 더 오래 기다렸다 재시도 (Retry-After 우선)
+            # 레이트리밋: 더 오래 기다렸다 재시도. 본문 메시지로 쿼터 종류(분당/일일) 로깅.
             if response.status_code == 429:
                 wait = delay
                 ra = response.headers.get("Retry-After", "")
                 if ra.isdigit():
                     wait = max(wait, int(ra))
-                print(f"  429 rate limit — {wait}s 대기 후 재시도 ({attempt+1}/4): '{title[:50]}'")
+                quota_hint = ""
+                try:
+                    quota_hint = response.json().get("error", {}).get("message", "")[:170]
+                except Exception:
+                    pass
+                print(f"  429 rate limit ({wait}s 대기, {attempt+1}/5) {quota_hint}")
                 time.sleep(wait)
-                delay = min(delay * 2, 90)
+                delay = min(delay * 2, 120)
                 continue
 
             response.raise_for_status()
@@ -113,7 +118,7 @@ Format your response strictly as valid JSON like this:
             msg = str(e).split("?key=")[0]  # 에러 메시지에 API 키가 섞여 들어가지 않게 제거
             print(f"  Attempt {attempt+1} failed for '{title[:50]}': {msg}")
             time.sleep(delay)
-            delay = min(delay * 2, 90)
+            delay = min(delay * 2, 120)
 
     print(f"All attempts failed for '{title[:50]}'.")
     return title, [FALLBACK_SUMMARY], []
@@ -229,7 +234,7 @@ def collect_news():
             })
 
             if not failed:
-                time.sleep(6)  # 성공 호출 사이 간격 → RPM 한도 회피
+                time.sleep(12)  # 성공 호출 사이 간격 → 무료 RPM 한도 회피(여유 있게)
 
     articles.sort(key=lambda x: x["date"], reverse=True)
 
