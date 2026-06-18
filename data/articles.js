@@ -1,78 +1,173 @@
 const allArticlesData = [
   {
-    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-    "translated_title": "클로드 AI의 내면을 들여다보다, 이상한 결과가 나왔다",
-    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-    "date": "2026-06-16",
+    "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
+    "translated_title": "텐센트의 단기 투자 미결정에 따른 Don't Nod, 재정적 미래 확보 위한 '다양한 방안' 모색",
+    "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
+    "date": "2026-06-17",
     "summary": [
-      "연구자들이 클로드 AI의 내부 작동 방식을 조사했다.",
-      "자연어 자동 인코더 연구를 통해 AI의 흥미로운 결과가 관찰되었다."
+      "텐센트는 Don't Nod에 단기 추가 투자를 하지 않기로 결정했습니다.",
+      "텐센트는 여전히 Don't Nod의 장기 주주로 남아있습니다.",
+      "Don't Nod는 재정적 미래를 위해 여러 가지 방안을 추진하고 있습니다."
     ],
     "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
+    "translated_title": "언리얼 엔진 6, UE5와 UEFN을 '하나의 통합된 엔진'으로 합친다",
+    "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+    "date": "2026-06-17",
+    "summary": [
+      "프로그래밍 모델 변경",
+      "게임 간 상호 운용성 도구 도입",
+      "생성형 AI 파이프라인 기능 강화"
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
+    "translated_title": "아더사이드 엔터테인먼트, 프로젝트 '아르고스' 취소 후 17명 해고",
+    "link": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
+    "date": "2026-06-17",
+    "summary": [
+      "아더사이드 엔터테인먼트가 프로젝트 '아르고스'를 취소했습니다.",
+      "이번 결정은 게임 산업의 어려운 환경 때문입니다.",
+      "이에 따라 17명의 직원이 해고되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
+    "translated_title": "보도: 닌자 시어리 '신규 프로젝트' 공개 당시 엑스박스, 결별 계획 세웠다",
+    "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
+    "date": "2026-06-17",
+    "summary": [
+      "엑스박스가 닌자 시어리와 결별을 계획 중이었다는 보도입니다.",
+      "이는 닌자 시어리의 신규 프로젝트 공개 시점과 맞물려 나왔습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
+    "translated_title": "Returnal 디렉터, 신생 스튜디오 성공 위해 '책임감 있게 야심 찬' 계획 공개",
+    "link": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
+    "date": "2026-06-17",
+    "summary": [
+      "Housemarque 베테랑이 새로운 도전을 위한 '간결하고 효율적인' 운영 방침 설명",
+      "신생 스튜디오의 성공을 위해 생성형 AI 활용 가능성 시사"
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "translated_title": "MolmoMotion: 언어 기반 3D 모션 예측",
+    "link": "https://huggingface.co/blog/allenai/molmomotion",
+    "date": "2026-06-17",
+    "summary": [
+      "MolmoMotion은 텍스트 설명을 통해 3D 캐릭터의 미래 움직임을 예측하는 AI 모델입니다.",
+      "이를 통해 사용자는 자연어 명령으로 3D 애니메이션을 쉽게 생성할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "translated_title": "허깅페이스 허브에서 Strands Agents와 LeRobot을 이용한 로봇 하드웨어 제어",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "date": "2026-06-17",
+    "summary": [
+      "허깅페이스 허브의 모델을 Strands Agents 및 LeRobot과 연동하여 실제 로봇 하드웨어를 제어합니다.",
+      "이 기술은 AI 모델을 물리적 로봇 환경에 적용하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "translated_title": "GLM-5.2: 장기 과제를 위해 구축되었습니다",
+    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "date": "2026-06-17",
+    "summary": [
+      "GLM-5.2는 특히 장기적인 작업에 최적화된 모델입니다.",
+      "이 모델은 장거리 작업에서 뛰어난 성능을 발휘하도록 설계되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Agentic Resource Discovery: Let agents search",
+    "translated_title": "에이전트 기반 자원 탐색: 에이전트에게 탐색을 맡기세요",
+    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "date": "2026-06-17",
+    "summary": [
+      "에이전트에게 자원 탐색 기능을 부여합니다.",
+      "에이전트가 능동적으로 필요한 자원을 찾아 활용하도록 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "translated_title": "준자율 AI 화학자가 난해한 의약화학 반응을 개선하다",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "date": "2026-06-17",
+    "summary": [
+      "OpenAI와 Molecule.one이 GPT-5.4 기반 준자율 AI 화학자를 개발했습니다.",
+      "이 AI는 중요한 신약 개발 반응을 개선하여 의약화학 연구 발전에 기여했습니다."
+    ],
+    "tags": [
+      "AI",
       "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Analyzing Mouse: P.I. For Hire's audacious worldbuilding - Narrative Notebook #4",
-    "translated_title": "마우스: P.I. For Hire의 대담한 세계관 분석 - 내러티브 노트 #4",
-    "link": "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audacious-worldbuilding-narrative-notebook",
-    "date": "2026-06-16",
-    "summary": [
-      "'마우스: P.I. For Hire'는 단순한 스팀보트 윌리 패러디 이상입니다.",
-      "게임의 세계관 구축이 항상 성공적이었는지 분석합니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
-    "source": "gamedeveloper"
+    "source": "OpenAI News"
   },
   {
-    "title": "Treyarch studio head steps down after 22 years",
-    "translated_title": "트레이아크 스튜디오 책임자, 22년 만에 퇴임",
-    "link": "https://www.gamedeveloper.com/business/treyarch-studio-head-steps-down-after-22-years",
-    "date": "2026-06-16",
+    "title": "Introducing LifeSciBench",
+    "translated_title": "LifeSciBench 소개",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "date": "2026-06-17",
     "summary": [
-      "트레이아크 스튜디오 책임자 마크 고든이 22년 만에 자리에서 물러납니다.",
-      "새로운 공동 스튜디오 책임자 두 명이 그의 뒤를 이어 업무를 맡게 됩니다."
+      "AI 시스템의 생명 과학 연구 능력 평가를 위한 전문가 작성/검토 벤치마크입니다.",
+      "실제 생명 과학 연구 과제 및 의사 결정 처리 능력을 평가합니다."
     ],
     "tags": [
-      "GameDev",
-      "News"
+      "AI",
+      "Research"
     ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Banned horror title Horses begins recouping development costs after selling 30,000 copies",
-    "translated_title": "금지되었던 공포 게임 'Horses', 3만 장 판매 후 개발비 회수 시작",
-    "link": "https://www.gamedeveloper.com/business/horses-begins-recouping-development-costs-after-selling-30-000-copies",
-    "date": "2026-06-16",
-    "summary": [
-      "'Horses' 게임이 3만 장 판매고를 올렸습니다.",
-      "이를 통해 개발비 회수를 시작했으며, 수익은 투자자 및 디렉터에게 분배되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "UK social media ban will restrict 'high-risk' features on game platforms",
-    "translated_title": "영국, 게임 플랫폼 '고위험' 기능 제한 소셜 미디어 금지법 시행",
-    "link": "https://www.gamedeveloper.com/business/uk-social-media-ban-will-restrict-high-risk-features-on-game-platforms",
-    "date": "2026-06-16",
-    "summary": [
-      "영국에서 게임 플랫폼의 '고위험' 기능에 대한 소셜 미디어 금지법이 시행됩니다.",
-      "특히 통신 및 라이브스트리밍 기능을 제공하는 플랫폼이 영향을 받을 것입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
+    "source": "OpenAI News"
   },
   {
     "title": "Predicting model behavior before release by simulating deployment",
@@ -142,37 +237,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Report: Multiple Xbox game studio heads negotiating with Xbox to avoid closure",
-    "translated_title": "보도: Xbox 게임 스튜디오 책임자 다수, 폐쇄 막기 위해 Xbox와 협상 중",
-    "link": "https://www.gamedeveloper.com/business/report-compulsion-games-leadership-in-negotiations-with-xbox-potential-studio-closure",
-    "date": "2026-06-15",
-    "summary": [
-      "Xbox의 전략 재편이 수익성이 낮은 스튜디오의 폐쇄 또는 매각을 포함하는 것으로 보입니다.",
-      "다수의 Xbox 게임 스튜디오 책임자들이 폐쇄를 피하기 위해 Xbox와 협상 중이라는 보도가 나왔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA's New Free AI - A Gift To Humanity",
-    "translated_title": "NVIDIA의 새로운 무료 AI, 인류를 위한 선물",
-    "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-    "date": "2026-06-14",
-    "summary": [
-      "NVIDIA에서 Nemotron 3 Ultra 모델을 무료로 공개했습니다.",
-      "이 모델은 연구 및 개발에 활용될 수 있으며, GPU 클라우드 서비스도 함께 소개되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Introducing the OpenAI Partner Network",
     "translated_title": "OpenAI 파트너 네트워크 출시",
     "link": "https://openai.com/index/introducing-openai-partner-network",
@@ -186,21 +250,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "translated_title": "olmo-eval: 모델 개발 루프를 위한 평가 워크벤치",
-    "link": "https://huggingface.co/blog/allenai/olmo-eval",
-    "date": "2026-06-12",
-    "summary": [
-      "olmo-eval은 모델 개발 루프를 위한 평가 워크벤치입니다.",
-      "모델 개발 및 평가 프로세스를 효율화합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "New OpenAI Academy courses for the next era of work",
@@ -218,98 +267,5 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "translated_title": "프레플리, AI와 인간 튜터를 결합한 개인 맞춤형 학습 방법",
-    "link": "https://openai.com/index/preply",
-    "date": "2026-06-12",
-    "summary": [
-      "프레플리는 OpenAI의 AI를 활용해 맞춤형 피드백 및 언어 학습 연습을 제공합니다.",
-      "AI 기반의 수업 요약 기능을 출시했습니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A day in the life of a training designer building interactive 3D — without waiting on specialized simulation teams",
-    "translated_title": "전문 시뮬레이션 팀 없이도 가능한 인터랙티브 3D 교육 콘텐츠 개발자의 하루",
-    "link": "https://unity.com/blog/interactive-3d-training-unity-studio-without-simulation-teams",
-    "date": "2026-06-11",
-    "summary": [
-      "기존 교육 방식의 한계를 극복하고 실제 경험을 제공하는 인터랙티브 3D 교육의 필요성을 인지했습니다.",
-      "전문 개발팀이나 외부 업체 의존 없이 Unity Studio를 활용하여 신속하고 효율적으로 3D 교육 콘텐츠를 제작하게 되었습니다.",
-      "새로운 설비 도입에 따른 신속한 교육 필요성에 기존 3D 에셋을 활용하여 교육 개발을 시작합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "translated_title": "PyTorch 프로파일링 (2부): nn.Linear에서 융합 MLP까지",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "date": "2026-06-11",
-    "summary": [
-      "PyTorch에서 nn.Linear 레이어의 성능을 프로파일링하는 방법을 설명합니다.",
-      "더 나아가, 여러 레이어를 융합하여 MLP의 성능을 최적화하는 기법을 소개합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "translated_title": "천체 물리학자가 코덱스를 활용하여 블랙홀 시뮬레이션을 돕는 방법",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "date": "2026-06-11",
-    "summary": [
-      "천체 물리학자 찬치콴이 코덱스를 이용해 블랙홀 시뮬레이션을 구축합니다.",
-      "이를 통해 과학자들은 극한 물리학을 연구하고 일반 상대성 이론을 검증할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DiffusionGemma: 4x faster text generation",
-    "translated_title": "DiffusionGemma: 텍스트 생성 속도 4배 향상",
-    "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "date": "2026-06-10",
-    "summary": [
-      "DiffusionGemma 모델이 텍스트 생성 속도를 4배 높였습니다.",
-      "주요 특징은 토큰/시간 절약을 위한 길이 제한 기능입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "translated_title": "다중 에이전트 AI 안전 연구 투자",
-    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "date": "2026-06-10",
-    "summary": [
-      "구글 딥마인드와 파트너들이 1천만 달러 규모의 펀딩 콜을 발표했습니다.",
-      "주요 초점은 다중 에이전트 AI 안전 연구입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   }
 ];
