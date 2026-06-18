@@ -236,7 +236,15 @@ def collect_news():
             if not failed:
                 time.sleep(12)  # 성공 호출 사이 간격 → 무료 RPM 한도 회피(여유 있게)
 
+    # 과거 기사들을 지우지 않고 계속 누적시키기 (단, 중복 방지)
+    for link, prev in existing.items():
+        if link not in seen:
+            articles.append(prev)
+
     articles.sort(key=lambda x: x["date"], reverse=True)
+    
+    # 너무 파일이 커지는 것을 방지하기 위해 최신 300개까지만 보관
+    articles = articles[:300]
 
     # 안전장치: 한 건도 못 모았으면 기존 데이터를 절대 덮어쓰지 않음
     if not articles:
