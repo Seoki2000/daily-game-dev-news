@@ -1,5 +1,122 @@
 const allArticlesData = [
   {
+    "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+    "translated_title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+    "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pocketpair lead on generative AI: Gamers don't want it",
+    "translated_title": "Pocketpair lead on generative AI: Gamers don't want it",
+    "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
+    "translated_title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
+    "link": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "translated_title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "translated_title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "translated_title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "translated_title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "translated_title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "translated_title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "date": "2026-06-18",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
     "translated_title": "텐센트의 단기 투자 미결정에 따른 Don't Nod, 재정적 미래 확보 위한 '다양한 방안' 모색",
     "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
@@ -31,6 +148,67 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "translated_title": "MolmoMotion: 언어 기반 3D 모션 예측",
+    "link": "https://huggingface.co/blog/allenai/molmomotion",
+    "date": "2026-06-17",
+    "summary": [
+      "MolmoMotion은 텍스트 설명을 통해 3D 캐릭터의 미래 움직임을 예측하는 AI 모델입니다.",
+      "이를 통해 사용자는 자연어 명령으로 3D 애니메이션을 쉽게 생성할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "translated_title": "허깅페이스 허브에서 Strands Agents와 LeRobot을 이용한 로봇 하드웨어 제어",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "date": "2026-06-17",
+    "summary": [
+      "허깅페이스 허브의 모델을 Strands Agents 및 LeRobot과 연동하여 실제 로봇 하드웨어를 제어합니다.",
+      "이 기술은 AI 모델을 물리적 로봇 환경에 적용하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "translated_title": "준자율 AI 화학자가 난해한 의약화학 반응을 개선하다",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "date": "2026-06-17",
+    "summary": [
+      "OpenAI와 Molecule.one이 GPT-5.4 기반 준자율 AI 화학자를 개발했습니다.",
+      "이 AI는 중요한 신약 개발 반응을 개선하여 의약화학 연구 발전에 기여했습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing LifeSciBench",
+    "translated_title": "LifeSciBench 소개",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "date": "2026-06-17",
+    "summary": [
+      "AI 시스템의 생명 과학 연구 능력 평가를 위한 전문가 작성/검토 벤치마크입니다.",
+      "실제 생명 과학 연구 과제 및 의사 결정 처리 능력을 평가합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
@@ -79,36 +257,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "translated_title": "MolmoMotion: 언어 기반 3D 모션 예측",
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
-    "date": "2026-06-17",
-    "summary": [
-      "MolmoMotion은 텍스트 설명을 통해 3D 캐릭터의 미래 움직임을 예측하는 AI 모델입니다.",
-      "이를 통해 사용자는 자연어 명령으로 3D 애니메이션을 쉽게 생성할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "translated_title": "허깅페이스 허브에서 Strands Agents와 LeRobot을 이용한 로봇 하드웨어 제어",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "date": "2026-06-17",
-    "summary": [
-      "허깅페이스 허브의 모델을 Strands Agents 및 LeRobot과 연동하여 실제 로봇 하드웨어를 제어합니다.",
-      "이 기술은 AI 모델을 물리적 로봇 환경에 적용하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "GLM-5.2: Built for Long-Horizon Tasks",
     "translated_title": "GLM-5.2: 장기 과제를 위해 구축되었습니다",
     "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
@@ -139,35 +287,46 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "translated_title": "준자율 AI 화학자가 난해한 의약화학 반응을 개선하다",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "date": "2026-06-17",
+    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+    "translated_title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+    "date": "2026-06-16",
     "summary": [
-      "OpenAI와 Molecule.one이 GPT-5.4 기반 준자율 AI 화학자를 개발했습니다.",
-      "이 AI는 중요한 신약 개발 반응을 개선하여 의약화학 연구 발전에 기여했습니다."
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
     ],
     "tags": [
-      "AI",
-      "Research",
-      "News"
+      "AI"
     ],
-    "source": "OpenAI News"
+    "source": "Two Minute Papers"
   },
   {
-    "title": "Introducing LifeSciBench",
-    "translated_title": "LifeSciBench 소개",
-    "link": "https://openai.com/index/introducing-life-sci-bench",
-    "date": "2026-06-17",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "translated_title": "AI 가속화된 계획으로 영국 주택 건설 잠금 해제",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-16",
     "summary": [
-      "AI 시스템의 생명 과학 연구 능력 평가를 위한 전문가 작성/검토 벤치마크입니다.",
-      "실제 생명 과학 연구 과제 및 의사 결정 처리 능력을 평가합니다."
+      "영국 정부, 구글 딥마인드와 협력하여 AI 기반 주택 건설 계획 프로토타입 개발",
+      "목표는 주택 건설 관련 의사 결정 속도 향상"
     ],
     "tags": [
-      "AI",
-      "Research"
+      "Research",
+      "News",
+      "AI"
     ],
-    "source": "OpenAI News"
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Securing the future of AI agents",
+    "translated_title": "Securing the future of AI agents",
+    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "date": "2026-06-16",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Predicting model behavior before release by simulating deployment",
@@ -185,22 +344,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "translated_title": "AI 가속화된 계획으로 영국 주택 건설 잠금 해제",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "date": "2026-06-16",
-    "summary": [
-      "영국 정부, 구글 딥마인드와 협력하여 AI 기반 주택 건설 계획 프로토타입 개발",
-      "목표는 주택 건설 관련 의사 결정 속도 향상"
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How Playrix is growing Township with Unity Ads’ D28 IAP ROAS optimizer",
@@ -235,6 +378,19 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "NVIDIA's New Free AI - A Gift To Humanity",
+    "translated_title": "NVIDIA's New Free AI - A Gift To Humanity",
+    "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+    "date": "2026-06-14",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Introducing the OpenAI Partner Network",
