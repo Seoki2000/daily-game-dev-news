@@ -1,78 +1,138 @@
 const allArticlesData = [
   {
+    "title": "Scientists Found A Better Language For AI Agents",
+    "translated_title": "AI 에이전트를 위한 더 나은 언어를 과학자들이 발견했습니다",
+    "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+    "date": "2026-06-19",
+    "summary": [
+      "AI 에이전트의 의사소통 및 협업 능력을 향상시키는 새로운 언어 모델을 소개합니다.",
+      "이 새로운 언어는 에이전트들이 더 복잡한 작업을 수행하고 서로 효율적으로 상호작용할 수 있도록 돕습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Kabam consolidating LA office and making layoffs",
+    "translated_title": "카밤, LA 사무실 통합 및 직원 감축 단행",
+    "link": "https://www.gamedeveloper.com/business/kabam-making-layoffs-after-choosing-to-consolidate-la-office",
+    "date": "2026-06-19",
+    "summary": [
+      "카밤이 LA 사무실을 통합합니다.",
+      "이번 통합으로 직원 감축이 이루어졌습니다.",
+      "정확한 해고 규모는 아직 불확실합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
+    "translated_title": "보도: 전 엑스박스 사장 사라 본드와 테이크투 CEO 스트라우스 젤닉, 피터 틸의 비밀 조직과 연관",
+    "link": "https://www.gamedeveloper.com/business/report-former-xbox-president-sarah-bond-and-take-two-ceo-strauss-zelnick-involved-in-peter-thiel-backed-secret-society",
+    "date": "2026-06-19",
+    "summary": [
+      "다수의 유출 정보가 비디오 게임 업계 임원들을 논란의 억만장자 피터 틸의 비밀 컨퍼런스 'Dialog'와 연결시켰습니다.",
+      "전 엑스박스 사장 사라 본드와 테이크투 CEO 스트라우스 젤닉이 해당 조직과 관련이 있다는 보도가 나왔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57",
+    "translated_title": "락스타 법적 난관, 파이널 판타지 세금 혜택, 플레이스테이션 'PC' 대신 'AI' - 패치 노트 #57",
+    "link": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
+    "date": "2026-06-19",
+    "summary": [
+      "락스타 게임즈가 법적 어려움에 직면했습니다.",
+      "파이널 판타지는 세금 혜택을 받게 되었습니다.",
+      "플레이스테이션은 'PC'를 'AI'로 변경했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
-    "translated_title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+    "translated_title": "새로운 정체성을 가진 신산업: 2026년 캐나다 개발자들의 현황",
     "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "격변하는 시기 속에서 캐나다 개발자들이 어떻게 적응하고 있는지 토론토 XP 게임 서밋에서 인터뷰했습니다.",
+      "북미 지역의 게임 개발 환경에 대한 현황을 엿볼 수 있습니다."
     ],
     "tags": [
-      "News"
+      "News",
+      "GameDev"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "Pocketpair lead on generative AI: Gamers don't want it",
-    "translated_title": "Pocketpair lead on generative AI: Gamers don't want it",
+    "translated_title": "Pocketpair 대표, 생성형 AI에 대해: 게이머들은 원하지 않는다",
     "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "Pocketpair의 커뮤니케이션 디렉터인 John Buckley는 생성형 AI가 크게 대중화될 가능성이 낮다고 본다.",
+      "그는 게이머들이 생성형 AI를 게임에서 크게 원하지 않을 것이라고 전망한다."
     ],
     "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
-    "translated_title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
-    "link": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
-    "date": "2026-06-18",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "News"
+      "News",
+      "GameDev",
+      "AI"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "translated_title": "MosaicLeaks: Can your research agent keep a secret?",
+    "translated_title": "모자이크누출: 당신의 연구 에이전트는 비밀을 지킬 수 있을까요?",
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "연구 에이전트의 보안 취약점인 '모자이크누출'에 대해 다룹니다.",
+      "정보 유출 위험성과 연구 에이전트의 비밀 유지 능력에 대한 질문을 제기합니다."
     ],
     "tags": [
+      "Research",
       "AI"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "translated_title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "translated_title": "LoRA를 넘어서: 가장 인기 있는 파인튜닝 기법을 능가할 수 있을까?",
     "link": "https://huggingface.co/blog/peft-beyond-lora",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "LoRA는 가장 인기 있는 파인튜닝 기법입니다.",
+      "이 기법을 능가하는 더 나은 방법이 있는지 탐구합니다."
     ],
     "tags": [
+      "Research",
       "AI"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "translated_title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "translated_title": "자체 도구로 오픈 모델의 에이전트성을 벤치마킹할 수 있을까?",
     "link": "https://huggingface.co/blog/is-it-agentic-enough",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "자체 도구를 사용하여 오픈 소스 모델의 에이전트 성능을 측정하는 방법을 다룹니다.",
+      "모델의 에이전트 능력을 평가하는 벤치마킹 기준을 제시합니다."
     ],
     "tags": [
+      "Research",
       "AI"
     ],
     "source": "Hugging Face - Blog"
@@ -105,46 +165,29 @@ const allArticlesData = [
   },
   {
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "translated_title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "translated_title": "AI를 활용하여 어린이에게 영향을 미치는 희귀 유전 질환 진단 지원",
     "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "OpenAI 추론 모델을 사용하여 희귀 질환 진단",
+      "해결되지 않았던 18건의 새로운 진단 사례 확인"
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "OpenAI News"
   },
   {
-    "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
-    "translated_title": "텐센트의 단기 투자 미결정에 따른 Don't Nod, 재정적 미래 확보 위한 '다양한 방안' 모색",
-    "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
-    "date": "2026-06-17",
+    "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
+    "translated_title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
+    "link": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
+    "date": "2026-06-18",
     "summary": [
-      "텐센트는 Don't Nod에 단기 추가 투자를 하지 않기로 결정했습니다.",
-      "텐센트는 여전히 Don't Nod의 장기 주주로 남아있습니다.",
-      "Don't Nod는 재정적 미래를 위해 여러 가지 방안을 추진하고 있습니다."
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
     ],
     "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
-    "translated_title": "언리얼 엔진 6, UE5와 UEFN을 '하나의 통합된 엔진'으로 합친다",
-    "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
-    "date": "2026-06-17",
-    "summary": [
-      "프로그래밍 모델 변경",
-      "게임 간 상호 운용성 도구 도입",
-      "생성형 AI 파이프라인 기능 강화"
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -209,6 +252,39 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
+    "translated_title": "텐센트의 단기 투자 미결정에 따른 Don't Nod, 재정적 미래 확보 위한 '다양한 방안' 모색",
+    "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
+    "date": "2026-06-17",
+    "summary": [
+      "텐센트는 Don't Nod에 단기 추가 투자를 하지 않기로 결정했습니다.",
+      "텐센트는 여전히 Don't Nod의 장기 주주로 남아있습니다.",
+      "Don't Nod는 재정적 미래를 위해 여러 가지 방안을 추진하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
+    "translated_title": "언리얼 엔진 6, UE5와 UEFN을 '하나의 통합된 엔진'으로 합친다",
+    "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+    "date": "2026-06-17",
+    "summary": [
+      "프로그래밍 모델 변경",
+      "게임 간 상호 운용성 도구 도입",
+      "생성형 AI 파이프라인 기능 강화"
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
@@ -288,13 +364,16 @@ const allArticlesData = [
   },
   {
     "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-    "translated_title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+    "translated_title": "클로드 AI의 내면을 들여다보다: 기묘한 경험",
     "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "클로드 AI의 작동 방식을 파악하기 위해 내부를 분석했습니다.",
+      "분석 결과, AI의 내부 작동 방식이 예상치 못하게 기묘하고 복잡하다는 것을 발견했습니다."
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "Two Minute Papers"
@@ -381,13 +460,16 @@ const allArticlesData = [
   },
   {
     "title": "NVIDIA's New Free AI - A Gift To Humanity",
-    "translated_title": "NVIDIA's New Free AI - A Gift To Humanity",
+    "translated_title": "NVIDIA의 새로운 무료 AI: 인류를 위한 선물",
     "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
     "date": "2026-06-14",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "NVIDIA가 'Nemotron 3 Ultra'라는 새로운 무료 AI 모델을 공개했습니다.",
+      "이 AI는 람다 GPU 클라우드 및 렌더링 코스와 함께 제공될 예정입니다."
     ],
     "tags": [
+      "Research",
+      "News",
       "AI"
     ],
     "source": "Two Minute Papers"
