@@ -139,27 +139,32 @@ const allArticlesData = [
   },
   {
     "title": "New usage analytics and updated spend controls for enterprises",
-    "translated_title": "New usage analytics and updated spend controls for enterprises",
+    "translated_title": "기업용 새로운 사용량 분석 및 업데이트된 지출 관리 기능",
     "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "ChatGPT Enterprise에 새로운 지출 관리 기능이 추가되었습니다.",
+      "조직은 비용을 효율적으로 관리하고 AI를 안정적으로 확장할 수 있습니다.",
+      "사용량 분석 기능을 통해 AI 사용 현황을 파악할 수 있습니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "News"
     ],
     "source": "OpenAI News"
   },
   {
     "title": "Improving health intelligence in ChatGPT",
-    "translated_title": "Improving health intelligence in ChatGPT",
+    "translated_title": "ChatGPT의 건강 정보 이해 능력 향상",
     "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
     "date": "2026-06-18",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "GPT-5.5 Instant가 ChatGPT의 건강 및 웰빙 답변을 개선합니다.",
+      "더 강력한 추론, 향상된 맥락 이해, 명확한 소통, 의사 기반 평가가 특징입니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Research"
     ],
     "source": "OpenAI News"
   },
@@ -396,14 +401,16 @@ const allArticlesData = [
   },
   {
     "title": "Securing the future of AI agents",
-    "translated_title": "Securing the future of AI agents",
+    "translated_title": "AI 에이전트의 미래 보안",
     "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "date": "2026-06-16",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "AI 에이전트 보안을 위한 로드맵을 제시합니다.",
+      "전통적인 보안 조치와 실시간 모니터링을 결합합니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Research"
     ],
     "source": "Google DeepMind News"
   },
