@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "translated_title": "삼성전자, 직원들에게 ChatGPT 및 Codex 도입",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "date": "2026-06-21",
+    "summary": [
+      "삼성전자가 전 세계 직원들에게 ChatGPT Enterprise 및 Codex를 도입했습니다.",
+      "이는 OpenAI의 가장 큰 기업용 AI 출시 중 하나입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Scientists Found A Better Language For AI Agents",
     "translated_title": "AI 에이전트를 위한 더 나은 언어를 과학자들이 발견했습니다",
     "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
