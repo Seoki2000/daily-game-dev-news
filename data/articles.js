@@ -1,5 +1,145 @@
 const allArticlesData = [
   {
+    "title": "Steam Machine pricing starts at $1,049 for 512GB model",
+    "translated_title": "Steam Machine, 512GB 모델 1,049달러부터 시작",
+    "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
+    "date": "2026-06-22",
+    "summary": [
+      "Steam Machine의 가격이 1,000달러를 넘어섰습니다.",
+      "512GB 모델의 시작 가격은 1,049달러입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: EA conducts layoffs in Hyderabad, India and the US",
+    "translated_title": "EA, 인도 하이데라바드 및 미국에서 감원 단행 보도",
+    "link": "https://www.gamedeveloper.com/business/report-ea-conducts-layoffs-in-hyderabad-india-and-the-us",
+    "date": "2026-06-22",
+    "summary": [
+      "EA가 인도 하이데라바드와 미국에서 감원을 실시했습니다.",
+      "이번 감원은 채용, 고객 지원, 신뢰 및 안전, IT 팀에 영향을 미친 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft eliminates 93 roles in San Francisco",
+    "translated_title": "유비소프트, 샌프란시스코 지사 93명 감원",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
+    "date": "2026-06-22",
+    "summary": [
+      "유비소프트 샌프란시스코 지사에서 93명의 직원이 해고되었습니다.",
+      "캘리포니아 WARN 통지서에 따라 해당 인원 감축이 확인되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
+    "translated_title": "Godot, '어느 정도의 AI 도움'은 허용하지만 '바이브 코드' 태그는 거부",
+    "link": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
+    "date": "2026-06-22",
+    "summary": [
+      "Godot은 코드 생성에 AI 도움을 받는 것을 일부 허용합니다.",
+      "단, 'slop PR(성의 없거나 품질이 낮은 PR)'은 자동 거부됩니다.",
+      "AI 생성 코드가 '바이브 코드'로 불리는 것을 거부하는 입장입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "French union STJV to commence national strike outside Quantic Dream",
+    "translated_title": "프랑스 STJV 노조, 퀀틱 드림 앞에서 전국 파업 돌입",
+    "link": "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-national-strike-outside-quantic-dream",
+    "date": "2026-06-22",
+    "summary": [
+      "프랑스 STJV 노조가 퀀틱 드림 앞에서 전국 파업에 돌입합니다.",
+      "이번 파업은 파리에서 시작될 예정입니다.",
+      "주요 시위 이유는 계속되는 정리해고와 고용 불안정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "translated_title": "허깅페이스의 PP-OCRv6: 150만~3450만 매개변수로 50개 언어 OCR 지원",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "date": "2026-06-22",
+    "summary": [
+      "PP-OCRv6 모델이 허깅페이스에 공개되었습니다.",
+      "150만 개에서 3450만 개까지 다양한 매개변수 범위를 가집니다.",
+      "50개 언어에 대한 OCR 기능을 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "translated_title": "Patch the Planet: 오픈소스 유지보수자를 지원하는 Daybreak 이니셔티브",
+    "link": "https://openai.com/index/patch-the-planet",
+    "date": "2026-06-22",
+    "summary": [
+      "OpenAI가 'Patch the Planet' 이니셔티브를 공개했습니다.",
+      "AI와 전문가 검토를 통해 취약점을 찾고 수정하는 것을 지원합니다.",
+      "오픈소스 유지보수자들의 부담을 덜어주는 데 목적이 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "date": "2026-06-22",
+    "summary": [
+      "OpenAI가 Daybreak 도구를 출시했습니다.",
+      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
+      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Codex-maxxing for long-running work",
+    "translated_title": "장기 업무를 위한 Codex 활용법",
+    "link": "https://openai.com/index/codex-maxxing-long-running-work",
+    "date": "2026-06-22",
+    "summary": [
+      "Codex를 사용하여 컨텍스트를 유지하고 복잡한 프로젝트를 관리하는 방법을 배웁니다.",
+      "단일 프롬프트를 넘어선 지속적인 업무 진행을 돕는 Codex의 활용법을 알아봅니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "translated_title": "삼성전자, 직원들에게 ChatGPT 및 Codex 도입",
     "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -77,37 +217,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
-    "translated_title": "새로운 정체성을 가진 신산업: 2026년 캐나다 개발자들의 현황",
-    "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
-    "date": "2026-06-18",
-    "summary": [
-      "격변하는 시기 속에서 캐나다 개발자들이 어떻게 적응하고 있는지 토론토 XP 게임 서밋에서 인터뷰했습니다.",
-      "북미 지역의 게임 개발 환경에 대한 현황을 엿볼 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pocketpair lead on generative AI: Gamers don't want it",
-    "translated_title": "Pocketpair 대표, 생성형 AI에 대해: 게이머들은 원하지 않는다",
-    "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
-    "date": "2026-06-18",
-    "summary": [
-      "Pocketpair의 커뮤니케이션 디렉터인 John Buckley는 생성형 AI가 크게 대중화될 가능성이 낮다고 본다.",
-      "그는 게이머들이 생성형 AI를 게임에서 크게 원하지 않을 것이라고 전망한다."
-    ],
-    "tags": [
-      "News",
-      "GameDev",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
     "translated_title": "모자이크누출: 당신의 연구 에이전트는 비밀을 지킬 수 있을까요?",
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -167,6 +276,37 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
+    "translated_title": "새로운 정체성을 가진 신산업: 2026년 캐나다 개발자들의 현황",
+    "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
+    "date": "2026-06-18",
+    "summary": [
+      "격변하는 시기 속에서 캐나다 개발자들이 어떻게 적응하고 있는지 토론토 XP 게임 서밋에서 인터뷰했습니다.",
+      "북미 지역의 게임 개발 환경에 대한 현황을 엿볼 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pocketpair lead on generative AI: Gamers don't want it",
+    "translated_title": "Pocketpair 대표, 생성형 AI에 대해: 게이머들은 원하지 않는다",
+    "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
+    "date": "2026-06-18",
+    "summary": [
+      "Pocketpair의 커뮤니케이션 디렉터인 John Buckley는 생성형 AI가 크게 대중화될 가능성이 낮다고 본다.",
+      "그는 게이머들이 생성형 AI를 게임에서 크게 원하지 않을 것이라고 전망한다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "AI"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Improving health intelligence in ChatGPT",
@@ -383,22 +523,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-    "translated_title": "클로드 AI의 내면을 들여다보다: 기묘한 경험",
-    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-    "date": "2026-06-16",
-    "summary": [
-      "클로드 AI의 작동 방식을 파악하기 위해 내부를 분석했습니다.",
-      "분석 결과, AI의 내부 작동 방식이 예상치 못하게 기묘하고 복잡하다는 것을 발견했습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "translated_title": "AI 가속화된 계획으로 영국 주택 건설 잠금 해제",
     "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
@@ -428,6 +552,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+    "translated_title": "클로드 AI의 내면을 들여다보다: 기묘한 경험",
+    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+    "date": "2026-06-16",
+    "summary": [
+      "클로드 AI의 작동 방식을 파악하기 위해 내부를 분석했습니다.",
+      "분석 결과, AI의 내부 작동 방식이 예상치 못하게 기묘하고 복잡하다는 것을 발견했습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Predicting model behavior before release by simulating deployment",
