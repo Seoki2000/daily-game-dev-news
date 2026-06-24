@@ -1,5 +1,144 @@
 const allArticlesData = [
   {
+    "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
+    "translated_title": "12년의 기다림이 '에이리언: 아이솔레이션 2'를 더 나은 속편으로 만든 방법",
+    "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
+    "date": "2026-06-23",
+    "summary": [
+      "크리에이티브 어셈블리의 서바이벌 호러 복귀와 에이리언 프랜차이즈에 대한 심층 인터뷰.",
+      "12년의 기다림이 '에이리언: 아이솔레이션 2'의 완성도를 높였다는 내용."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Tencent mulling exits from multiple Japanese studios",
+    "translated_title": "보도: 텐센트, 일본 내 다수 게임 스튜디오 매각 검토 중",
+    "link": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
+    "date": "2026-06-23",
+    "summary": [
+      "텐센트가 일본 게임 스튜디오 매각을 검토하고 있습니다.",
+      "과거 일본 투자 확대를 진행했으나, 현재는 UGC 플랫폼 중심으로 포트폴리오 재편을 모색 중입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Valve is making it easier to build your own Steam Machine",
+    "translated_title": "Valve, 직접 Steam Machine을 더 쉽게 만들 수 있도록 지원",
+    "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
+    "date": "2026-06-23",
+    "summary": [
+      "Valve가 자체 Steam Machine 제작을 간소화하고 있습니다.",
+      "예약 없이도 Steam Machine 제작이 가능해질 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "translated_title": "CUGA를 이용한 실제 에이전트 앱 구축: 경량 프레임워크의 24가지 작동 예제",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "date": "2026-06-23",
+    "summary": [
+      "CUGA 프레임워크를 사용하여 실제 에이전트 기반 애플리케이션을 구축하는 방법을 설명합니다.",
+      "24개의 실제 작동 예제를 통해 CUGA의 활용 방안을 제시합니다.",
+      "경량화된 프레임워크를 통해 효율적인 개발이 가능함을 강조합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "translated_title": "AI, 오픈소스 도구, 그리고 휴먼 인 더 루프를 활용한 Hugging Face Hub 매주 배포",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "date": "2026-06-23",
+    "summary": [
+      "Hugging Face Hub는 AI, 오픈소스 도구, 그리고 사람의 검토를 통해 매주 업데이트됩니다.",
+      "이러한 협력적 접근 방식은 Hub의 지속적인 개선과 발전을 이끌고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "translated_title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "date": "2026-06-23",
+    "summary": [
+      "Transformers.js에서 Cross-Origin Storage API 실험에 대한 내용을 다룹니다.",
+      "API의 기능 및 활용 가능성을 탐색하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "translated_title": "고도화된 AI를 위한 공유 표준 구축 지원",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-23",
+    "summary": [
+      "OpenAI는 Appia Foundation을 통해 고급 AI 표준 구축을 지원합니다.",
+      "평가 프레임워크, 안전 관행, 글로벌 협력을 촉진합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "translated_title": "GPT-5, 면역학자 데리아 우누트마즈의 3년 묵은 미스터리 해결에 기여하다",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "date": "2026-06-23",
+    "summary": [
+      "GPT-5 Pro가 3년 된 면역학 미스터리 해결을 도왔습니다.",
+      "T세포 행동에 대한 새로운 통찰력을 제공했으며, 이는 암 및 자가면역 질환 연구에 기여할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "translated_title": "Omio, 대화형 여행의 미래를 구축하는 방법",
+    "link": "https://openai.com/index/omio",
+    "date": "2026-06-23",
+    "summary": [
+      "Omio가 OpenAI를 활용하여 대화형 여행 경험을 구현합니다.",
+      "제품 개발을 가속화하고 AI 네이티브 기업으로 전환합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Steam Machine pricing starts at $1,049 for 512GB model",
     "translated_title": "Steam Machine, 512GB 모델 1,049달러부터 시작",
     "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
@@ -27,6 +166,69 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "translated_title": "허깅페이스의 PP-OCRv6: 150만~3450만 매개변수로 50개 언어 OCR 지원",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "date": "2026-06-22",
+    "summary": [
+      "PP-OCRv6 모델이 허깅페이스에 공개되었습니다.",
+      "150만 개에서 3450만 개까지 다양한 매개변수 범위를 가집니다.",
+      "50개 언어에 대한 OCR 기능을 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "translated_title": "로컬 AI 모델로 OpenClaw 리포지토리를 무료로 분류했습니다!",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "date": "2026-06-22",
+    "summary": [
+      "로컬 AI 모델을 사용하여 OpenClaw 리포지토리를 무료로 분류했습니다.",
+      "이 작업은 별도의 비용 없이 AI의 도움을 받아 진행되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "date": "2026-06-22",
+    "summary": [
+      "OpenAI가 Daybreak 도구를 출시했습니다.",
+      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
+      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "translated_title": "Patch the Planet: 오픈소스 유지보수자를 지원하는 Daybreak 이니셔티브",
+    "link": "https://openai.com/index/patch-the-planet",
+    "date": "2026-06-22",
+    "summary": [
+      "OpenAI가 'Patch the Planet' 이니셔티브를 공개했습니다.",
+      "AI와 전문가 검토를 통해 취약점을 찾고 수정하는 것을 지원합니다.",
+      "오픈소스 유지보수자들의 부담을 덜어주는 데 목적이 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Ubisoft eliminates 93 roles in San Francisco",
@@ -75,54 +277,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "translated_title": "허깅페이스의 PP-OCRv6: 150만~3450만 매개변수로 50개 언어 OCR 지원",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "date": "2026-06-22",
-    "summary": [
-      "PP-OCRv6 모델이 허깅페이스에 공개되었습니다.",
-      "150만 개에서 3450만 개까지 다양한 매개변수 범위를 가집니다.",
-      "50개 언어에 대한 OCR 기능을 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "translated_title": "Patch the Planet: 오픈소스 유지보수자를 지원하는 Daybreak 이니셔티브",
-    "link": "https://openai.com/index/patch-the-planet",
-    "date": "2026-06-22",
-    "summary": [
-      "OpenAI가 'Patch the Planet' 이니셔티브를 공개했습니다.",
-      "AI와 전문가 검토를 통해 취약점을 찾고 수정하는 것을 지원합니다.",
-      "오픈소스 유지보수자들의 부담을 덜어주는 데 목적이 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "date": "2026-06-22",
-    "summary": [
-      "OpenAI가 Daybreak 도구를 출시했습니다.",
-      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
-      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Codex-maxxing for long-running work",
