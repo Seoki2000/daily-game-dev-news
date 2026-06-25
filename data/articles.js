@@ -1,48 +1,139 @@
 const allArticlesData = [
   {
-    "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
-    "translated_title": "12년의 기다림이 '에이리언: 아이솔레이션 2'를 더 나은 속편으로 만든 방법",
-    "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
-    "date": "2026-06-23",
+    "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
+    "translated_title": "팀 스위니, 신규 게임의 유일한 희망은 '다른 게임 경제와 연결하는 것'",
+    "link": "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new-games-is-to-connect-to-economies-of-other-games-",
+    "date": "2026-06-24",
     "summary": [
-      "크리에이티브 어셈블리의 서바이벌 호러 복귀와 에이리언 프랜차이즈에 대한 심층 인터뷰.",
-      "12년의 기다림이 '에이리언: 아이솔레이션 2'의 완성도를 높였다는 내용."
+      "에픽게임즈 CEO 팀 스위니는 성공을 위해 게임 경제를 연결해야 한다고 주장합니다.",
+      "다른 게임과의 경제적 연결이 신규 게임의 성공 열쇠라고 강조합니다."
     ],
     "tags": [
-      "News",
-      "GameDev"
+      "GameDev",
+      "News"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Report: Tencent mulling exits from multiple Japanese studios",
-    "translated_title": "보도: 텐센트, 일본 내 다수 게임 스튜디오 매각 검토 중",
-    "link": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
-    "date": "2026-06-23",
+    "title": "Former Xbox employees warn of potential for retaliation in rumored impending layoffs",
+    "translated_title": "전직 Xbox 직원, 임박한 것으로 알려진 해고에 대한 보복 가능성 경고",
+    "link": "https://www.gamedeveloper.com/business/former-xbox-employees-warn-of-potential-for-retaliation-in-rumored-impending-layoffs",
+    "date": "2026-06-24",
     "summary": [
-      "텐센트가 일본 게임 스튜디오 매각을 검토하고 있습니다.",
-      "과거 일본 투자 확대를 진행했으나, 현재는 UGC 플랫폼 중심으로 포트폴리오 재편을 모색 중입니다."
+      "전직 직원들은 과거 해고가 보복성이라고 믿고 있습니다.",
+      "개발자들에게 자신을 보호하라고 경고합니다.",
+      "대규모 해고가 임박했습니다."
     ],
     "tags": [
-      "News",
-      "GameDev"
+      "GameDev",
+      "News"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Valve is making it easier to build your own Steam Machine",
-    "translated_title": "Valve, 직접 Steam Machine을 더 쉽게 만들 수 있도록 지원",
-    "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
-    "date": "2026-06-23",
+    "title": "Investment house Denmu announces 'auteur-first' $50 million fund for game devs",
+    "translated_title": "투자사 뎀무, 게임 개발자 위한 5천만 달러 '작가 우선' 펀드 발표",
+    "link": "https://www.gamedeveloper.com/business/investment-house-denmu-announces-auteur-first-50-million-fund-for-game-devs",
+    "date": "2026-06-24",
     "summary": [
-      "Valve가 자체 Steam Machine 제작을 간소화하고 있습니다.",
-      "예약 없이도 Steam Machine 제작이 가능해질 예정입니다."
+      "투자사 뎀무가 게임 개발자를 위한 5천만 달러 규모의 펀드를 조성했습니다.",
+      "이 펀드는 '작가 우선' 전략을 표방하며, '작가'의 범위를 개인 창작자 이상으로 확장합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "New publisher Trailmark Games promises 'new path forward' for licensed games",
+    "translated_title": "신규 퍼블리셔 트레일마크 게임즈, 라이선스 게임의 '새로운 길' 제시 약속",
+    "link": "https://www.gamedeveloper.com/business/new-publisher-trailmark-games-promises-new-path-forward-for-licensed-games",
+    "date": "2026-06-24",
+    "summary": [
+      "니켈로디언 올스타 브롤 제작사가 새로운 라이선스 게임 퍼블리셔 설립.",
+      "트레일마크 게임즈는 라이선스 게임 분야에 새로운 방향을 제시할 것을 약속했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Grand Theft Auto 6's $80 price settles the $100 question",
+    "translated_title": "GTA 6, 80달러 가격으로 100달러 논쟁 종결",
+    "link": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
+    "date": "2026-06-24",
+    "summary": [
+      "GTA 6의 가격이 80달러로 확정되었습니다.",
+      "이는 출시 전 100달러 논쟁에 대한 답을 제시합니다.",
+      "게임 예약 판매는 목요일에 시작됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "translated_title": "NVIDIA NeMo AutoModel로 트랜스포머 미세 조정 가속화",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "date": "2026-06-24",
+    "summary": [
+      "NVIDIA NeMo AutoModel을 사용하여 트랜스포머 모델의 미세 조정 속도를 높입니다.",
+      "AutoModel은 미세 조정 프로세스를 간소화하고 성능을 향상시키는 데 도움이 됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "translated_title": "FFASR 리더보드 소개: 실제 환경에서의 ASR 벤치마킹",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "date": "2026-06-24",
+    "summary": [
+      "FFASR 리더보드를 통해 실제 환경에서의 ASR 성능을 측정합니다.",
+      "이 리더보드는 ASR 기술의 실질적인 효용성을 평가하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "translated_title": "OpenAI와 Broadcom, LLM 최적화 추론 칩 공개",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-24",
+    "summary": [
+      "OpenAI와 Broadcom이 LLM 추론을 위한 맞춤형 AI 칩 'Jalapeño'를 공개했습니다.",
+      "이 칩은 AI 시스템의 성능, 효율성, 확장성을 향상시키는 데 중점을 둡니다."
     ],
     "tags": [
       "News",
-      "GameDev"
+      "AI"
     ],
-    "source": "gamedeveloper"
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
+    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-24",
+    "summary": [
+      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
+      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
@@ -139,6 +230,67 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
+    "translated_title": "12년의 기다림이 '에이리언: 아이솔레이션 2'를 더 나은 속편으로 만든 방법",
+    "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
+    "date": "2026-06-23",
+    "summary": [
+      "크리에이티브 어셈블리의 서바이벌 호러 복귀와 에이리언 프랜차이즈에 대한 심층 인터뷰.",
+      "12년의 기다림이 '에이리언: 아이솔레이션 2'의 완성도를 높였다는 내용."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Tencent mulling exits from multiple Japanese studios",
+    "translated_title": "보도: 텐센트, 일본 내 다수 게임 스튜디오 매각 검토 중",
+    "link": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
+    "date": "2026-06-23",
+    "summary": [
+      "텐센트가 일본 게임 스튜디오 매각을 검토하고 있습니다.",
+      "과거 일본 투자 확대를 진행했으나, 현재는 UGC 플랫폼 중심으로 포트폴리오 재편을 모색 중입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Valve is making it easier to build your own Steam Machine",
+    "translated_title": "Valve, 직접 Steam Machine을 더 쉽게 만들 수 있도록 지원",
+    "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
+    "date": "2026-06-23",
+    "summary": [
+      "Valve가 자체 Steam Machine 제작을 간소화하고 있습니다.",
+      "예약 없이도 Steam Machine 제작이 가능해질 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "date": "2026-06-22",
+    "summary": [
+      "OpenAI가 Daybreak 도구를 출시했습니다.",
+      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
+      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Steam Machine pricing starts at $1,049 for 512GB model",
     "translated_title": "Steam Machine, 512GB 모델 1,049달러부터 시작",
     "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
@@ -197,22 +349,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "date": "2026-06-22",
-    "summary": [
-      "OpenAI가 Daybreak 도구를 출시했습니다.",
-      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
-      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
