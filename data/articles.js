@@ -1,5 +1,194 @@
 const allArticlesData = [
   {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "translated_title": "Run a vLLM Server on HF Jobs in One Command",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "date": "2026-06-26",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
+    "translated_title": "D7 또는 D28 IAP ROAS 캠페인? 답은 둘 다입니다.",
+    "link": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
+    "date": "2026-06-25",
+    "summary": [
+      "D7 캠페인은 빠른 성과 검증과 초기 수익 신호를 제공합니다.",
+      "D28 캠페인은 장기적인 수익을 창출하는 플레이어를 확보하며, 고가치 지출의 60% 이상을 차지합니다.",
+      "Unity Vector는 두 캠페인을 동시에 최적화하여 자체 경쟁을 피하면서 상호 보완적으로 활용합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Meccha Chameleon sells 7M copies in first two weeks",
+    "translated_title": "메차 카멜레온, 출시 2주 만에 700만 부 판매",
+    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-sells-7m-copies-in-first-two-weeks",
+    "date": "2026-06-25",
+    "summary": [
+      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2주 만에 700만 부를 판매하며 화제를 모으고 있습니다.",
+      "이 게임은 최신 멀티플레이어 게임 트렌드를 이끌고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "VR dev Combat Waffle Studios lays off staff",
+    "translated_title": "VR 개발사 Combat Waffle Studios, 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/vr-dev-combat-waffle-studios-lays-off-staff",
+    "date": "2026-06-25",
+    "summary": [
+      "VR 게임 'Ghosts of Tabor' 개발사인 Combat Waffle Studios가 직원들을 해고했습니다.",
+      "그럼에도 불구하고 회사는 VR 산업의 미래에 대해 여전히 낙관적인 입장을 유지하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Microsoft raises price of Xbox consoles once again, sunsets 2TB model",
+    "translated_title": "Microsoft, Xbox 콘솔 가격 또 인상... 2TB 모델 단종",
+    "link": "https://www.gamedeveloper.com/console/microsoft-raises-price-of-xbox-consoles-once-again-sunsets-2tb-model",
+    "date": "2026-06-25",
+    "summary": [
+      "Xbox 콘솔의 최저 가격이 499.99달러로 인상되었습니다.",
+      "Microsoft가 2TB Xbox 콘솔 모델을 단종합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Sony is laying off 'most' of the Destiny team and 'some' Marathon devs",
+    "translated_title": "소니, 데스티니 팀 '대부분' 및 마라톤 개발자 '일부' 해고",
+    "link": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+    "date": "2026-06-25",
+    "summary": [
+      "소니가 번지(Bungie) 지원 인력 포함 SIE 팀 전반에 걸쳐 인력 감축을 진행하고 있습니다.",
+      "이는 데스티니 팀의 대부분과 마라톤 개발자 일부에게 영향을 미칠 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Italian studio 34BigThings regains independence from Embracer",
+    "translated_title": "이탈리아 스튜디오 34BigThings, 엠브레이서로부터 독립 되찾아",
+    "link": "https://www.gamedeveloper.com/business/italian-studio-34bigthings-regains-independence-from-embracer",
+    "date": "2026-06-25",
+    "summary": [
+      "34BigThings가 엠브레이서 그룹으로부터 독립을 완료했습니다.",
+      "완전한 독립으로 절대적인 자율성을 확보하게 되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Which tokens does a hybrid model predict better?",
+    "translated_title": "Which tokens does a hybrid model predict better?",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "date": "2026-06-25",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How agents are transforming work",
+    "translated_title": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-25",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "translated_title": "NVIDIA NeMo AutoModel로 트랜스포머 미세 조정 가속화",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "date": "2026-06-24",
+    "summary": [
+      "NVIDIA NeMo AutoModel을 사용하여 트랜스포머 모델의 미세 조정 속도를 높입니다.",
+      "AutoModel은 미세 조정 프로세스를 간소화하고 성능을 향상시키는 데 도움이 됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "translated_title": "FFASR 리더보드 소개: 실제 환경에서의 ASR 벤치마킹",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "date": "2026-06-24",
+    "summary": [
+      "FFASR 리더보드를 통해 실제 환경에서의 ASR 성능을 측정합니다.",
+      "이 리더보드는 ASR 기술의 실질적인 효용성을 평가하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "translated_title": "OpenAI와 Broadcom, LLM 최적화 추론 칩 공개",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-24",
+    "summary": [
+      "OpenAI와 Broadcom이 LLM 추론을 위한 맞춤형 AI 칩 'Jalapeño'를 공개했습니다.",
+      "이 칩은 AI 시스템의 성능, 효율성, 확장성을 향상시키는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
+    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-24",
+    "summary": [
+      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
+      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
     "translated_title": "팀 스위니, 신규 게임의 유일한 희망은 '다른 게임 경제와 연결하는 것'",
     "link": "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new-games-is-to-connect-to-economies-of-other-games-",
@@ -76,66 +265,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "translated_title": "NVIDIA NeMo AutoModel로 트랜스포머 미세 조정 가속화",
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "date": "2026-06-24",
-    "summary": [
-      "NVIDIA NeMo AutoModel을 사용하여 트랜스포머 모델의 미세 조정 속도를 높입니다.",
-      "AutoModel은 미세 조정 프로세스를 간소화하고 성능을 향상시키는 데 도움이 됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "translated_title": "FFASR 리더보드 소개: 실제 환경에서의 ASR 벤치마킹",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "date": "2026-06-24",
-    "summary": [
-      "FFASR 리더보드를 통해 실제 환경에서의 ASR 성능을 측정합니다.",
-      "이 리더보드는 ASR 기술의 실질적인 효용성을 평가하는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "translated_title": "OpenAI와 Broadcom, LLM 최적화 추론 칩 공개",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "date": "2026-06-24",
-    "summary": [
-      "OpenAI와 Broadcom이 LLM 추론을 위한 맞춤형 AI 칩 'Jalapeño'를 공개했습니다.",
-      "이 칩은 AI 시스템의 성능, 효율성, 확장성을 향상시키는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "date": "2026-06-24",
-    "summary": [
-      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
-      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "translated_title": "CUGA를 이용한 실제 에이전트 앱 구축: 경량 프레임워크의 24가지 작동 예제",
     "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
@@ -148,36 +277,6 @@ const allArticlesData = [
     "tags": [
       "AI",
       "Tutorial",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "translated_title": "AI, 오픈소스 도구, 그리고 휴먼 인 더 루프를 활용한 Hugging Face Hub 매주 배포",
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "date": "2026-06-23",
-    "summary": [
-      "Hugging Face Hub는 AI, 오픈소스 도구, 그리고 사람의 검토를 통해 매주 업데이트됩니다.",
-      "이러한 협력적 접근 방식은 Hub의 지속적인 개선과 발전을 이끌고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "translated_title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "date": "2026-06-23",
-    "summary": [
-      "Transformers.js에서 Cross-Origin Storage API 실험에 대한 내용을 다룹니다.",
-      "API의 기능 및 활용 가능성을 탐색하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
       "Research"
     ],
     "source": "Hugging Face - Blog"
@@ -230,6 +329,36 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "translated_title": "AI, 오픈소스 도구, 그리고 휴먼 인 더 루프를 활용한 Hugging Face Hub 매주 배포",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "date": "2026-06-23",
+    "summary": [
+      "Hugging Face Hub는 AI, 오픈소스 도구, 그리고 사람의 검토를 통해 매주 업데이트됩니다.",
+      "이러한 협력적 접근 방식은 Hub의 지속적인 개선과 발전을 이끌고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "translated_title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "date": "2026-06-23",
+    "summary": [
+      "Transformers.js에서 Cross-Origin Storage API 실험에 대한 내용을 다룹니다.",
+      "API의 기능 및 활용 가능성을 탐색하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
     "translated_title": "12년의 기다림이 '에이리언: 아이솔레이션 2'를 더 나은 속편으로 만든 방법",
     "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
@@ -273,6 +402,21 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+    "translated_title": "DeepSeek, AI의 수십억 달러 문제 해결하다",
+    "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+    "date": "2026-06-22",
+    "summary": [
+      "DeepSeek가 AI 분야의 난제인 '수십억 달러 문제'를 해결했다고 주장합니다.",
+      "이 내용은 Lambda의 GPU 클라우드를 소개하는 내용과 관련 논문 링크를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Daybreak: Tools for securing every organization in the world",
