@@ -1,16 +1,79 @@
 const allArticlesData = [
   {
+    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트, 존 골드먼 인터뷰",
+    "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+    "date": "2026-06-26",
+    "summary": [
+      "스카이바운드 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
+      "성공적인 'Invisible VS.' 출시 이후의 미래 계획을 다룹니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Keywords has laid off 128 employees in San Francisco",
+    "translated_title": "Keywords, 샌프란시스코에서 128명 해고",
+    "link": "https://www.gamedeveloper.com/business/keywords-has-laid-off-128-employees-in-san-francisco",
+    "date": "2026-06-26",
+    "summary": [
+      "Keywords가 샌프란시스코에서 128명의 직원을 해고했습니다.",
+      "어떤 직무나 부서가 영향을 받았는지는 아직 불분명합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Steam Machine sticker shock, even more Ubisoft layoffs, and another Xbox price hike - Patch Notes #58",
+    "translated_title": "스팀 머신 가격 쇼크, 유비소프트 추가 감원, 엑스박스 또 가격 인상 - 패치 노트 #58",
+    "link": "https://www.gamedeveloper.com/business/steam-machine-sticker-shock-even-more-ubisoft-layoffs-and-another-xbox-price-hike-patch-notes-58",
+    "date": "2026-06-26",
+    "summary": [
+      "스팀 머신 출시 관련 가격 부담.",
+      "유비소프트 추가 인력 감축 소식.",
+      "엑스박스 콘솔 가격 인상 예고."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Run a vLLM Server on HF Jobs in One Command",
-    "translated_title": "Run a vLLM Server on HF Jobs in One Command",
+    "translated_title": "원커맨드로 Hugging Face Jobs에서 vLLM 서버 실행하기",
     "link": "https://huggingface.co/blog/vllm-jobs",
     "date": "2026-06-26",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "Hugging Face Jobs를 사용하여 vLLM 서버를 원커맨드로 실행할 수 있습니다.",
+      "토큰/시간 절약을 위해 실행 길이를 제한하는 방법을 보여줍니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Tutorial"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "translated_title": "차세대 모델 GPT-5.6 Sol 미리보기",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "date": "2026-06-26",
+    "summary": [
+      "OpenAI, 차세대 모델 GPT-5.6 Sol 공개",
+      "코딩, 과학, 사이버 보안 기능 강화",
+      "가장 진보된 안전 기술 탑재"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
@@ -59,6 +122,38 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Which tokens does a hybrid model predict better?",
+    "translated_title": "하이브리드 모델은 어떤 토큰을 더 잘 예측할까요?",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "date": "2026-06-25",
+    "summary": [
+      "하이브리드 모델의 토큰 예측 성능을 비교합니다.",
+      "어떤 종류의 토큰에서 더 나은 예측 결과를 보이는지 분석합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How agents are transforming work",
+    "translated_title": "AI 에이전트가 업무를 혁신하는 방법",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-25",
+    "summary": [
+      "OpenAI 연구에 따르면 AI 에이전트가 업무 방식을 변화시키고 있습니다.",
+      "AI 에이전트는 더 길고 복잡한 작업을 수행하며 생산성을 향상시킵니다.",
+      "다양한 직무에서 생산성 확장을 가능하게 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Microsoft raises price of Xbox consoles once again, sunsets 2TB model",
     "translated_title": "Microsoft, Xbox 콘솔 가격 또 인상... 2TB 모델 단종",
     "link": "https://www.gamedeveloper.com/console/microsoft-raises-price-of-xbox-consoles-once-again-sunsets-2tb-model",
@@ -101,32 +196,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Which tokens does a hybrid model predict better?",
-    "translated_title": "Which tokens does a hybrid model predict better?",
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "date": "2026-06-25",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How agents are transforming work",
-    "translated_title": "How agents are transforming work",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "date": "2026-06-25",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
