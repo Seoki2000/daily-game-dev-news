@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "translated_title": "HP, OpenAI와 '프론티어' 전략적 파트너십 체결",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "date": "2026-06-28",
+    "summary": [
+      "HP가 OpenAI와의 '프론티어' 파트너십을 확장합니다.",
+      "AI를 고객 경험, 소프트웨어 개발, 기업 운영 전반에 적용할 계획입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
     "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트, 존 골드먼 인터뷰",
     "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
