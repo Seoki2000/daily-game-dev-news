@@ -1,5 +1,65 @@
 const allArticlesData = [
   {
+    "title": "Supermassive Games CEO steps down following launch of Directive 8020",
+    "translated_title": "Supermassive Games CEO, 'Directive 8020' 출시 후 사임",
+    "link": "https://www.gamedeveloper.com/business/supermassive-games-ceo-steps-down-following-launch-of-directive-8020",
+    "date": "2026-06-29",
+    "summary": [
+      "Supermassive Games CEO가 'Directive 8020' 출시 후 직책에서 물러났습니다.",
+      "그는 격변하는 업계 환경 속에서 스튜디오를 이끌었던 것에 영광을 느낀다고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Nintendo is increasing the price of the Switch 2 in South Korea",
+    "translated_title": "닌텐도, 한국 시장에서 스위치 2 가격 인상",
+    "link": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
+    "date": "2026-06-29",
+    "summary": [
+      "닌텐도가 한국 시장에서 스위치 2의 가격을 인상합니다.",
+      "이는 최근 원유 가격 상승과 부품 비용 증가에 따른 결정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "translated_title": "DiScoFormer: 밀도와 점수 추정을 위한 하나의 트랜스포머, 여러 분포에 걸쳐 적용 가능",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "date": "2026-06-29",
+    "summary": [
+      "DiScoFormer는 하나의 트랜스포머 모델로 밀도 추정 및 점수 함수 추정을 동시에 수행합니다.",
+      "이 모델은 다양한 데이터 분포에 걸쳐 일반화할 수 있는 능력을 가지고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "translated_title": "유럽 AI 인력 기회 지도",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "date": "2026-06-29",
+    "summary": [
+      "OpenAI 보고서가 EU 내 AI의 직업 변화 가능성을 분석했습니다.",
+      "자동화, 성장, 업무 방식 변화 가능성이 있는 직업군을 조명합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "translated_title": "HP, OpenAI와 '프론티어' 전략적 파트너십 체결",
     "link": "https://openai.com/index/hp-frontier-partnership",
@@ -16,12 +76,12 @@ const allArticlesData = [
   },
   {
     "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
-    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트, 존 골드먼 인터뷰",
-    "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트와 존 골드먼",
+    "link": "https://www.gamedeveloper.com/business/inside-skybound-s-video-game-strategy-ft-david-da-alpert-and-jon-goldman",
     "date": "2026-06-26",
     "summary": [
-      "스카이바운드 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
-      "성공적인 'Invisible VS.' 출시 이후의 미래 계획을 다룹니다."
+      "스카이바운드 엔터테인먼트의 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
+      "성공적인 'Invisible VS.' 출시 이후의 회사 미래를 조망합니다."
     ],
     "tags": [
       "News",
@@ -91,6 +151,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트, 존 골드먼 인터뷰",
+    "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+    "date": "2026-06-26",
+    "summary": [
+      "스카이바운드 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
+      "성공적인 'Invisible VS.' 출시 이후의 미래 계획을 다룹니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
     "translated_title": "D7 또는 D28 IAP ROAS 캠페인? 답은 둘 다입니다.",
     "link": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
@@ -105,6 +180,23 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How agents are transforming work",
+    "translated_title": "AI 에이전트가 업무를 혁신하는 방법",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-25",
+    "summary": [
+      "OpenAI 연구에 따르면 AI 에이전트가 업무 방식을 변화시키고 있습니다.",
+      "AI 에이전트는 더 길고 복잡한 작업을 수행하며 생산성을 향상시킵니다.",
+      "다양한 직무에서 생산성 확장을 가능하게 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Meccha Chameleon sells 7M copies in first two weeks",
@@ -150,23 +242,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How agents are transforming work",
-    "translated_title": "AI 에이전트가 업무를 혁신하는 방법",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "date": "2026-06-25",
-    "summary": [
-      "OpenAI 연구에 따르면 AI 에이전트가 업무 방식을 변화시키고 있습니다.",
-      "AI 에이전트는 더 길고 복잡한 작업을 수행하며 생산성을 향상시킵니다.",
-      "다양한 직무에서 생산성 확장을 가능하게 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Microsoft raises price of Xbox consoles once again, sunsets 2TB model",
