@@ -1,12 +1,12 @@
 const allArticlesData = [
   {
-    "title": "Supermassive Games CEO steps down following launch of Directive 8020",
-    "translated_title": "Supermassive Games CEO, 'Directive 8020' 출시 후 사임",
-    "link": "https://www.gamedeveloper.com/business/supermassive-games-ceo-steps-down-following-launch-of-directive-8020",
-    "date": "2026-06-29",
+    "title": "IO Interactive to lay off employees after Xbox pulls support for untitled fantasy game",
+    "translated_title": "IO 인터랙티브, Xbox가 미공개 판타지 게임 지원 중단 후 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/io-interactive-to-lay-off-employees-after-xbox-pulls-support-for-untitled-fantasy-game",
+    "date": "2026-06-30",
     "summary": [
-      "Supermassive Games CEO가 'Directive 8020' 출시 후 직책에서 물러났습니다.",
-      "그는 격변하는 업계 환경 속에서 스튜디오를 이끌었던 것에 영광을 느낀다고 밝혔습니다."
+      "Xbox의 사업 재편으로 마이크로소프트 외부에서도 해고 발생.",
+      "IO 인터랙티브가 Xbox의 지원 중단으로 인해 직원 해고를 진행."
     ],
     "tags": [
       "News",
@@ -15,18 +15,183 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Nintendo is increasing the price of the Switch 2 in South Korea",
-    "translated_title": "닌텐도, 한국 시장에서 스위치 2 가격 인상",
-    "link": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
-    "date": "2026-06-29",
+    "title": "Memory manufacturers sued in class action suit alleging price and supply fixing",
+    "translated_title": "메모리 제조사, 가격 및 공급 담합 혐의로 집단 소송 제기",
+    "link": "https://www.gamedeveloper.com/business/memory-manufacturers-sued-in-class-action-suit-alleging-price-and-supply-fixing",
+    "date": "2026-06-30",
     "summary": [
-      "닌텐도가 한국 시장에서 스위치 2의 가격을 인상합니다.",
-      "이는 최근 원유 가격 상승과 부품 비용 증가에 따른 결정입니다."
+      "삼성, SK하이닉스, 마이크론 등 주요 메모리 제조사들이 피고가 되었습니다.",
+      "이들은 메모리 제품의 가격과 공급을 의도적으로 조작했다는 혐의를 받고 있습니다.",
+      "현재 관련 집단 소송이 진행 중입니다."
     ],
     "tags": [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Xbox considering sale or closure of Arkane, other studios, as layoffs loom",
+    "translated_title": "보도: 엑스박스, 희망퇴직 임박 속 아케인 등 스튜디오 매각 또는 폐쇄 고려",
+    "link": "https://www.gamedeveloper.com/business/report-xbox-considering-sales-or-closures-at-arkane-and-at-least-4-other-studios",
+    "date": "2026-06-30",
+    "summary": [
+      "마이크로소프트의 '리셋' 계획의 일환으로 아케인 스튜디오의 '블레이드'가 폐쇄 대상에 오를 수 있습니다.",
+      "아케인 스튜디오가 잠재적인 매각 또는 폐쇄 위기에 처했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Opinion: Everything hurts and no one knows when the pain will end",
+    "translated_title": "의견: 모든 것이 아프고, 언제 끝날지 아무도 모릅니다",
+    "link": "https://www.gamedeveloper.com/business/opinion-everything-hurts-and-no-one-knows-when-the-pain-will-end",
+    "date": "2026-06-30",
+    "summary": [
+      "업계의 대규모 해고로 인한 고통이 예상보다 깊습니다.",
+      "이 고통이 언제 끝날지 알 수 없는 불확실성이 존재합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Grand Theft Auto developers seek union recognition at Rockstar",
+    "translated_title": "락스타 게임즈 개발자들, 노동조합 인정 요구",
+    "link": "https://www.gamedeveloper.com/production/grand-theft-auto-developers-seek-union-recognition-at-rockstar",
+    "date": "2026-06-30",
+    "summary": [
+      "락스타 게임즈는 업계 최고의 게임을 제작합니다.",
+      "개발자들은 회사가 직원 처우에서도 업계를 선도하길 바랍니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "translated_title": "ScarfBench: 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트 벤치마킹",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "date": "2026-06-30",
+    "summary": [
+      "ScarfBench는 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트의 성능을 평가하는 벤치마킹 도구입니다.",
+      "이 도구는 AI 에이전트가 Java 프레임워크를 얼마나 효율적으로 이전할 수 있는지 측정하고 비교하는 데 사용됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "translated_title": "전문화를 피할 수 없는 이유",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "date": "2026-06-30",
+    "summary": [
+      "기술 발전과 복잡성 증가로 전문화는 필연적입니다.",
+      "각 분야의 깊이 있는 지식과 기술이 요구됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "translated_title": "Hugging Face 모델 페이지의 모든 Eval 결과 살펴보기",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "date": "2026-06-30",
+    "summary": [
+      "Hugging Face 모델 페이지에서 모든 Eval 결과를 확인할 수 있게 되었습니다.",
+      "이를 통해 모델 성능 평가의 투명성과 접근성이 향상됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
+      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "translated_title": "GeneBench-Pro 소개",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-06-30",
+    "summary": [
+      "유전체학, 생물학, 과학 연구 분야 AI 성능 테스트를 위한 새로운 벤치마크입니다.",
+      "복잡하고 실제적인 데이터를 사용하여 AI 성능을 평가합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "translated_title": "코어 덤프 역학 분석: 18년 된 버그 수정",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 엔지니어들이 대규모 코어 덤프 분석을 활용했습니다.",
+      "희귀한 인프라 충돌 디버깅 과정에서 하드웨어 결함과 오래된 소프트웨어 버그를 발견했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "translated_title": "Genebench-Pro 내부 소개",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "date": "2026-06-30",
+    "summary": [
+      "Genebench-Pro의 기능 및 작동 방식 소개",
+      "Genebench-Pro 활용법 및 장점 설명"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "translated_title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-06-30",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "DiScoFormer: One transformer for density and score, across distributions",
@@ -60,6 +225,35 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Supermassive Games CEO steps down following launch of Directive 8020",
+    "translated_title": "Supermassive Games CEO, 'Directive 8020' 출시 후 사임",
+    "link": "https://www.gamedeveloper.com/business/supermassive-games-ceo-steps-down-following-launch-of-directive-8020",
+    "date": "2026-06-29",
+    "summary": [
+      "Supermassive Games CEO가 'Directive 8020' 출시 후 직책에서 물러났습니다.",
+      "그는 격변하는 업계 환경 속에서 스튜디오를 이끌었던 것에 영광을 느낀다고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Nintendo is increasing the price of the Switch 2 in South Korea",
+    "translated_title": "닌텐도, 한국 시장에서 스위치 2 가격 인상",
+    "link": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
+    "date": "2026-06-29",
+    "summary": [
+      "닌텐도가 한국 시장에서 스위치 2의 가격을 인상합니다.",
+      "이는 최근 원유 가격 상승과 부품 비용 증가에 따른 결정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "translated_title": "HP, OpenAI와 '프론티어' 전략적 파트너십 체결",
     "link": "https://openai.com/index/hp-frontier-partnership",
@@ -73,6 +267,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "translated_title": "원커맨드로 Hugging Face Jobs에서 vLLM 서버 실행하기",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "date": "2026-06-26",
+    "summary": [
+      "Hugging Face Jobs를 사용하여 vLLM 서버를 원커맨드로 실행할 수 있습니다.",
+      "토큰/시간 절약을 위해 실행 길이를 제한하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
@@ -117,21 +326,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "translated_title": "원커맨드로 Hugging Face Jobs에서 vLLM 서버 실행하기",
-    "link": "https://huggingface.co/blog/vllm-jobs",
-    "date": "2026-06-26",
-    "summary": [
-      "Hugging Face Jobs를 사용하여 vLLM 서버를 원커맨드로 실행할 수 있습니다.",
-      "토큰/시간 절약을 위해 실행 길이를 제한하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -288,6 +482,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
+    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-24",
+    "summary": [
+      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
+      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
     "translated_title": "NVIDIA NeMo AutoModel로 트랜스포머 미세 조정 가속화",
     "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
@@ -331,21 +540,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "date": "2026-06-24",
-    "summary": [
-      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
-      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
