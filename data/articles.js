@@ -1,5 +1,217 @@
 const allArticlesData = [
   {
+    "title": "Godot to ban (almost all) AI coding contributions",
+    "translated_title": "Godot, AI 코드 기여(거의 전부) 금지 예정",
+    "link": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+    "date": "2026-07-01",
+    "summary": [
+      "Godot 엔진이 AI 기반 코드 기여를 거의 전면 금지합니다.",
+      "코드 자동 완성, 정규 표현식, 찾기/바꾸기 등 일부 AI 기능은 허용됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Krafton and Unknown Worlds founders settle Subnautica 2 legal dispute",
+    "translated_title": "크래프톤-언노운 월즈, 서브노티카 2 법적 분쟁 해결",
+    "link": "https://www.gamedeveloper.com/business/krafton-agrees-to-pay-bonuses-to-subnautica-2-studio-as-ceo-resigns",
+    "date": "2026-07-01",
+    "summary": [
+      "크래프톤, 언노운 월즈와의 모든 법적 절차 취하 합의",
+      "언노운 월즈 CEO 테드 길, 회사 퇴사"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "OtherSide Entertainment lays off 18 from Thick as Thieves team",
+    "translated_title": "어더사이드 엔터테인먼트, 'Thick as Thieves' 팀 18명 해고",
+    "link": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-18-from-thick-as-thieves-team",
+    "date": "2026-07-01",
+    "summary": [
+      "어더사이드 엔터테인먼트가 'Thick as Thieves' 개발팀에서 18명을 해고했습니다.",
+      "이는 한 달 동안 발생한 총 36건의 해고 중 일부입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PS3 and PS Vita digital stores are closing starting August 2026",
+    "translated_title": "PS3 및 PS Vita 디지털 스토어, 2026년 8월부터 순차 종료",
+    "link": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
+    "date": "2026-07-01",
+    "summary": [
+      "PS3와 PS Vita의 디지털 스토어가 2026년 8월부터 단계적으로 폐쇄됩니다.",
+      "스토어 폐쇄 절차는 2027년 7월에 최종 완료됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft Barcelona strikes over proposed layoffs",
+    "translated_title": "유비소프트 바르셀로나, 해고안 반대 파업 돌입",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-barcelona-to-go-on-strike-over-proposed-layoffs",
+    "date": "2026-07-01",
+    "summary": [
+      "유비소프트 바르셀로나 직원들이 해고안에 반대하며 파업에 나섭니다.",
+      "파업은 향후 몇 주간 화요일과 목요일 오후에 진행될 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "date": "2026-07-01",
+    "summary": [
+      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
+      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "translated_title": "ScarfBench: 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트 벤치마킹",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "date": "2026-06-30",
+    "summary": [
+      "ScarfBench는 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트의 성능을 평가하는 벤치마킹 도구입니다.",
+      "이 도구는 AI 에이전트가 Java 프레임워크를 얼마나 효율적으로 이전할 수 있는지 측정하고 비교하는 데 사용됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "translated_title": "전문화를 피할 수 없는 이유",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "date": "2026-06-30",
+    "summary": [
+      "기술 발전과 복잡성 증가로 전문화는 필연적입니다.",
+      "각 분야의 깊이 있는 지식과 기술이 요구됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "translated_title": "Hugging Face 모델 페이지의 모든 Eval 결과 살펴보기",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "date": "2026-06-30",
+    "summary": [
+      "Hugging Face 모델 페이지에서 모든 Eval 결과를 확인할 수 있게 되었습니다.",
+      "이를 통해 모델 성능 평가의 투명성과 접근성이 향상됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
+      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "translated_title": "Genebench-Pro 내부 소개",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "date": "2026-06-30",
+    "summary": [
+      "Genebench-Pro의 기능 및 작동 방식 소개",
+      "Genebench-Pro 활용법 및 장점 설명"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "translated_title": "GeneBench-Pro 소개",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-06-30",
+    "summary": [
+      "유전체학, 생물학, 과학 연구 분야 AI 성능 테스트를 위한 새로운 벤치마크입니다.",
+      "복잡하고 실제적인 데이터를 사용하여 AI 성능을 평가합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "translated_title": "코어 덤프 역학 분석: 18년 된 버그 수정",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 엔지니어들이 대규모 코어 덤프 분석을 활용했습니다.",
+      "희귀한 인프라 충돌 디버깅 과정에서 하드웨어 결함과 오래된 소프트웨어 버그를 발견했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "translated_title": "Nano Banana 2 Lite와 Gemini Omni Flash로 개발 시작하기",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-06-30",
+    "summary": [
+      "Nano Banana 2 Lite 및 Gemini Omni Flash를 사용하여 개발을 시작하는 방법을 안내합니다.",
+      "하드웨어 및 소프트웨어 통합에 대한 간략한 소개를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "IO Interactive to lay off employees after Xbox pulls support for untitled fantasy game",
     "translated_title": "IO 인터랙티브, Xbox가 미공개 판타지 게임 지원 중단 후 직원 해고",
     "link": "https://www.gamedeveloper.com/business/io-interactive-to-lay-off-employees-after-xbox-pulls-support-for-untitled-fantasy-game",
@@ -73,125 +285,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "translated_title": "ScarfBench: 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트 벤치마킹",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "date": "2026-06-30",
-    "summary": [
-      "ScarfBench는 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트의 성능을 평가하는 벤치마킹 도구입니다.",
-      "이 도구는 AI 에이전트가 Java 프레임워크를 얼마나 효율적으로 이전할 수 있는지 측정하고 비교하는 데 사용됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "translated_title": "전문화를 피할 수 없는 이유",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "date": "2026-06-30",
-    "summary": [
-      "기술 발전과 복잡성 증가로 전문화는 필연적입니다.",
-      "각 분야의 깊이 있는 지식과 기술이 요구됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "translated_title": "Hugging Face 모델 페이지의 모든 Eval 결과 살펴보기",
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "date": "2026-06-30",
-    "summary": [
-      "Hugging Face 모델 페이지에서 모든 Eval 결과를 확인할 수 있게 되었습니다.",
-      "이를 통해 모델 성능 평가의 투명성과 접근성이 향상됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
-      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "translated_title": "GeneBench-Pro 소개",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "date": "2026-06-30",
-    "summary": [
-      "유전체학, 생물학, 과학 연구 분야 AI 성능 테스트를 위한 새로운 벤치마크입니다.",
-      "복잡하고 실제적인 데이터를 사용하여 AI 성능을 평가합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "translated_title": "코어 덤프 역학 분석: 18년 된 버그 수정",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 엔지니어들이 대규모 코어 덤프 분석을 활용했습니다.",
-      "희귀한 인프라 충돌 디버깅 과정에서 하드웨어 결함과 오래된 소프트웨어 버그를 발견했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "translated_title": "Genebench-Pro 내부 소개",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "date": "2026-06-30",
-    "summary": [
-      "Genebench-Pro의 기능 및 작동 방식 소개",
-      "Genebench-Pro 활용법 및 장점 설명"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "translated_title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "date": "2026-06-30",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "DiScoFormer: One transformer for density and score, across distributions",
