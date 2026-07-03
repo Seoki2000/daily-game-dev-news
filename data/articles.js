@@ -1,5 +1,50 @@
 const allArticlesData = [
   {
+    "title": "Union workers establish hardship fund to support devs impacted by layoffs",
+    "translated_title": "노조, 해고된 게임 개발자 지원을 위한 기금 마련",
+    "link": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
+    "date": "2026-07-02",
+    "summary": [
+      "미국과 캐나다의 게임 개발자들을 위한 기금이 조성되었습니다.",
+      "해고된 개발자들은 최대 5,000달러까지 지원받을 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft taps former 2K president Christoph Hartmann to oversee Tom Clancy franchise",
+    "translated_title": "유비소프트, 톰 클랜시 프랜차이즈 총괄에 전 2K 사장 크리스토프 하트만 영입",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-taps-former-2k-president-christoph-hartmann-to-oversee-shooter-franchises",
+    "date": "2026-07-02",
+    "summary": [
+      "유비소프트가 톰 클랜시 프랜차이즈 총괄 책임자로 전 2K 사장 크리스토프 하트만을 임명했습니다.",
+      "하트만은 '더 디비전', '고스트 리콘', '스플린터 셀' 등 주요 톰 클랜시 게임을 책임지게 됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "AI Just Entered A New Era",
+    "translated_title": "AI, 새로운 시대를 열다",
+    "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+    "date": "2026-07-01",
+    "summary": [
+      "GLM 5.2 모델 출시 소식",
+      "GPU 클라우드 서비스 Lambda 소개"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Godot to ban (almost all) AI coding contributions",
     "translated_title": "Godot, AI 코드 기여(거의 전부) 금지 예정",
     "link": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
@@ -46,6 +91,22 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "date": "2026-07-01",
+    "summary": [
+      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
+      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "PS3 and PS Vita digital stores are closing starting August 2026",
     "translated_title": "PS3 및 PS Vita 디지털 스토어, 2026년 8월부터 순차 종료",
     "link": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
@@ -73,22 +134,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "date": "2026-07-01",
-    "summary": [
-      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
-      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
