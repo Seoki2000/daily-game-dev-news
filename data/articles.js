@@ -1,5 +1,97 @@
 const allArticlesData = [
   {
+    "title": "Games made with Unity: June 2026 in review",
+    "translated_title": "2026년 6월, 유니티로 제작된 게임 리뷰",
+    "link": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
+    "date": "2026-07-03",
+    "summary": [
+      "2026년 6월, '33 Immortals'와 'Zenless Zone Zero'가 정식 출시되었습니다.",
+      "유니티는 Summer Game Fest의 Day of the Devs를 후원했으며, Steam Next Fest와 Wholesome Direct에서도 많은 유니티 게임들이 주목받았습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "They Said This Will Never Run In Real Time",
+    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
+    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+    "date": "2026-07-03",
+    "summary": [
+      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
+      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Enginefall developer Red Rover Interactive is making layoffs",
+    "translated_title": "Enginefall 개발사 Red Rover Interactive, 인력 감축 단행",
+    "link": "https://www.gamedeveloper.com/business/enginefall-developer-red-rover-interactive-is-making-layoffs",
+    "date": "2026-07-03",
+    "summary": [
+      "Enginefall 개발사인 Red Rover Interactive가 인력 감축을 실시했습니다.",
+      "이 스튜디오는 3년 동안 2천만 달러를 투자받았습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Cyberpunk 2077 has sold 40 million copies worldwide",
+    "translated_title": "사이버펑크 2077, 전 세계 4천만 장 판매 돌파",
+    "link": "https://www.gamedeveloper.com/business/cyberpunk-2077-has-sold-40-million-copies-worldwide",
+    "date": "2026-07-03",
+    "summary": [
+      "사이버펑크 2077이 4천만 장 판매고를 올렸습니다.",
+      "출시 이후 큰 성장을 이루었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar workers hit back, PlayStation ditches physical discs, and chipmakers accused of price fixing -  Patch Notes #59",
+    "translated_title": "락스타 직원 반발, 플레이스테이션 물리 디스크 포기, 칩 제조사 가격 담합 의혹 - 패치 노트 #59",
+    "link": "https://www.gamedeveloper.com/business/rockstar-workers-hit-back-playstation-ditches-physical-discs-and-chipmakers-accused-of-price-fixing-patch-notes-58",
+    "date": "2026-07-03",
+    "summary": [
+      "락스타 직원들이 어려움에 처한 동료 개발자를 위한 지원 기금을 마련했습니다.",
+      "플레이스테이션은 물리 디스크를 점차 줄여나갈 것으로 보이며, 엑스박스는 디스크-디지털 전환 기능을 테스트 중입니다.",
+      "칩 제조사들이 가격 담합 혐의로 조사를 받고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-03",
+    "summary": [
+      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
+      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Union workers establish hardship fund to support devs impacted by layoffs",
     "translated_title": "노조, 해고된 게임 개발자 지원을 위한 기금 마련",
     "link": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
@@ -43,6 +135,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "date": "2026-07-01",
+    "summary": [
+      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
+      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Godot to ban (almost all) AI coding contributions",
@@ -89,22 +197,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "date": "2026-07-01",
-    "summary": [
-      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
-      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "PS3 and PS Vita digital stores are closing starting August 2026",
