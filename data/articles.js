@@ -1,5 +1,124 @@
 const allArticlesData = [
   {
+    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
+    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
+    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
+    "date": "2026-07-07",
+    "summary": [
+      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
+      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "translated_title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "date": "2026-07-07",
+    "summary": [
+      "LeRobot v0.6.0 버전이 출시되었습니다.",
+      "이 버전은 로봇 개발을 위한 상상, 평가, 개선의 과정을 지원합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Nintendo is winding down original Switch sales in Europe",
+    "translated_title": "닌텐도, 유럽서 오리지널 스위치 판매 중단",
+    "link": "https://www.gamedeveloper.com/business/nintendo-is-winding-down-switch-1-sales-in-europe",
+    "date": "2026-07-06",
+    "summary": [
+      "닌텐도가 2027년 2월부로 오리지널 스위치 콘솔 판매를 중단합니다.",
+      "이는 유럽 지역에 해당되는 소식입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox cutting 3,200 jobs and parting ways with Double Fine, Compulsion, Ninja Theory, and Undead Labs",
+    "translated_title": "Xbox, 3,200명 감축 및 4개 스튜디오(더블 파인, 컴펄션, 닌자 시어리, 언데드 랩스)와 결별",
+    "link": "https://www.gamedeveloper.com/business/xbox-cutting-3-200-jobs-and-parting-ways-with-double-fine-compulsion-ninja-theory-and-undead-labs",
+    "date": "2026-07-06",
+    "summary": [
+      "Xbox가 3,200명의 직원을 해고합니다.",
+      "더블 파인, 컴펄션, 닌자 시어리, 언데드 랩스가 Xbox에서 제외됩니다.",
+      "모든 훌륭한 인디 스튜디오를 소유하는 것은 불가능하며 바람직하지도 않다는 점을 언급했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ingress developer Niantic Spatial shuttering New Zealand office",
+    "translated_title": "인그레스 개발사 Niantic, 뉴질랜드 지사 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/ingress-developer-niantic-spatial-shuttering-new-zealand-office",
+    "date": "2026-07-06",
+    "summary": [
+      "Niantic이 비디오 게임 및 엔터테인먼트 사업에서 벗어남에 따라 뉴질랜드 지사를 폐쇄합니다.",
+      "이번 결정은 회사의 사업 방향 전환과 관련이 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EVE Online's cross-platform game engine framework is now fully open source",
+    "translated_title": "EVE Online의 크로스 플랫폼 게임 엔진 프레임워크, 완전 오픈 소스로 공개",
+    "link": "https://www.gamedeveloper.com/production/eve-online-s-cross-platform-game-engine-framework-is-now-fully-open-source",
+    "date": "2026-07-06",
+    "summary": [
+      "EVE Online의 기반 기술인 'Carbon' 엔진이 오픈 소스로 전환되었습니다.",
+      "이 엔진은 SF MMO의 거대한 세계를 구현하는 데 사용되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PRX Part 4: Our Data Strategy",
+    "translated_title": "PRX 4부: 우리의 데이터 전략",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "date": "2026-07-06",
+    "summary": [
+      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
+      "효과적인 데이터 활용 방안을 모색합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "🤗 Kernels: Major Updates",
+    "translated_title": "🤗 커널: 주요 업데이트",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "date": "2026-07-06",
+    "summary": [
+      "커널에 대한 중요한 업데이트 소식을 다룹니다.",
+      "업데이트의 주요 내용을 요약하여 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Games made with Unity: June 2026 in review",
     "translated_title": "2026년 6월, 유니티로 제작된 게임 리뷰",
     "link": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
@@ -14,6 +133,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-03",
+    "summary": [
+      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
+      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "They Said This Will Never Run In Real Time",
@@ -76,22 +211,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "date": "2026-07-03",
-    "summary": [
-      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
-      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Union workers establish hardship fund to support devs impacted by layoffs",
     "translated_title": "노조, 해고된 게임 개발자 지원을 위한 기금 마련",
     "link": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
@@ -121,22 +240,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "AI Just Entered A New Era",
-    "translated_title": "AI, 새로운 시대를 열다",
-    "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
-    "date": "2026-07-01",
-    "summary": [
-      "GLM 5.2 모델 출시 소식",
-      "GPU 클라우드 서비스 Lambda 소개"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
     "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -151,6 +254,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "AI Just Entered A New Era",
+    "translated_title": "AI, 새로운 시대를 열다",
+    "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+    "date": "2026-07-01",
+    "summary": [
+      "GLM 5.2 모델 출시 소식",
+      "GPU 클라우드 서비스 Lambda 소개"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Godot to ban (almost all) AI coding contributions",
@@ -243,6 +362,36 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "How ChatGPT adoption has expanded",
+    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
+      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "translated_title": "Nano Banana 2 Lite와 Gemini Omni Flash로 개발 시작하기",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-06-30",
+    "summary": [
+      "Nano Banana 2 Lite 및 Gemini Omni Flash를 사용하여 개발을 시작하는 방법을 안내합니다.",
+      "하드웨어 및 소프트웨어 통합에 대한 간략한 소개를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Why Specialization Is Inevitable",
     "translated_title": "전문화를 피할 수 없는 이유",
     "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
@@ -271,21 +420,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
-      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Inside Genebench-Pro",
@@ -332,21 +466,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "translated_title": "Nano Banana 2 Lite와 Gemini Omni Flash로 개발 시작하기",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "date": "2026-06-30",
-    "summary": [
-      "Nano Banana 2 Lite 및 Gemini Omni Flash를 사용하여 개발을 시작하는 방법을 안내합니다.",
-      "하드웨어 및 소프트웨어 통합에 대한 간략한 소개를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "IO Interactive to lay off employees after Xbox pulls support for untitled fantasy game",
