@@ -4,10 +4,10 @@ import requests
 import feedparser
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
-import anthropic
+import google.generativeai as genai
 
 # 1. 설정
-CLAUDE_API_KEY = os.environ.get("CLAUDE_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 HN_KEYWORDS = ['game', 'unity', 'ai', 'llm', 'mcp']
 
@@ -93,12 +93,15 @@ def get_rss_news():
             
     return articles
 
-def summarize_with_claude(article):
-    """Claude API를 사용하여 한국어로 3줄 요약 및 태그 생성"""
-    if not CLAUDE_API_KEY:
+def summarize_with_gemini(article):
+    """Gemini API를 사용하여 한국어로 3줄 요약 및 태그 생성"""
+    if not GEMINI_API_KEY:
         return "API Key 설정 안됨", ["#Error"]
         
-    client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
+    genai.configure(api_key=GEMINI_API_KEY)
+    
+    # 무료 할당량이 넉넉한 gemini-2.5-flash 모델 사용
+    model = genai.GenerativeModel('gemini-2.5-flash')
     
     prompt = f"""
 다음 기사 제목과 내용을 한국인 게임 프로그래머가 읽기 좋게 딱 3줄로 요약하고, 관련 핵심 기술 태그(예: #AI #Unity 등)를 달아주세요.
@@ -113,17 +116,10 @@ def summarize_with_claude(article):
 내용: {article['content']}
 """
     try:
-        message = client.messages.create(
-            model="claude-3-haiku-20240307",
-            max_tokens=300,
-            temperature=0.3,
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
-        )
-        return message.content[0].text.strip()
+        response = model.generate_content(prompt)
+        return response.text.strip()
     except Exception as e:
-        print(f"Error calling Claude API for {article['title']}: {e}")
+        print(f"Error calling Gemini API for {article['title']}: {e}")
         return "요약 실패", []
 
 def main():
@@ -144,11 +140,11 @@ def main():
     
     for i, article in enumerate(all_articles):
         print(f"[{i+1}/{len(all_articles)}] Summarizing: {article['title']}")
-        if CLAUDE_API_KEY:
-            summary_text = summarize_with_claude(article)
-            time.sleep(1) # API Rate limit 방지
+        if GEMINI_API_KEY:
+            summary_text = summarize_with_gemini(article)
+            time.sleep(4) # Rate limit 방지 (15 RPM 고려)
         else:
-            summary_text = "(CLAUDE_API_KEY가 설정되지 않아 요약을 생성하지 못했습니다.)"
+            summary_text = "(GEMINI_API_KEY가 설정되지 않아 요약을 생성하지 못했습니다.)"
             
         md_content += f"## [{article['source']}] {article['title']}\n"
         md_content += f"[원문 링크]({article['link']})\n\n"

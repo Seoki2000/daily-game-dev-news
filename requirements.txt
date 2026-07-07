@@ -1,5 +1,4 @@
 feedparser
 google-generativeai
 beautifulsoup4
-anthropic
 requests
