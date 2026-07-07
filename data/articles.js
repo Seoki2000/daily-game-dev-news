@@ -1,5 +1,35 @@
 const allArticlesData = [
   {
+    "title": "IO Interactive closing Istanbul studio after regaining control of Project Fantasy",
+    "translated_title": "IO Interactive, 'Project Fantasy' 판권 회수 후 이스탄불 스튜디오 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/io-interactive-closing-istanbul-studio-after-regaining-control-of-project-fantasy",
+    "date": "2026-07-07",
+    "summary": [
+      "IO Interactive는 개발 중이던 RPG 'Project Fantasy'에 대한 Xbox의 자금 지원 철수로 인해 구조 조정을 결정했습니다.",
+      "이에 따라 이스탄불 스튜디오를 폐쇄하게 되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Roughly half of the id Software team have been laid off",
+    "translated_title": "보도: id 소프트웨어 팀의 절반 가량이 해고된 것으로 알려져",
+    "link": "https://www.gamedeveloper.com/business/report-around-half-of-the-id-software-team-have-been-laid-off",
+    "date": "2026-07-07",
+    "summary": [
+      "id 소프트웨어 팀의 약 절반이 해고되었습니다.",
+      "이번 소식은 Xbox가 비디오 게임 부문에서 3,200개의 일자리를 없애며 '재정비'를 준비하는 가운데 나왔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
     "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
     "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
@@ -60,6 +90,35 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "PRX Part 4: Our Data Strategy",
+    "translated_title": "PRX 4부: 우리의 데이터 전략",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "date": "2026-07-06",
+    "summary": [
+      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
+      "효과적인 데이터 활용 방안을 모색합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "🤗 Kernels: Major Updates",
+    "translated_title": "🤗 커널: 주요 업데이트",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "date": "2026-07-06",
+    "summary": [
+      "커널에 대한 중요한 업데이트 소식을 다룹니다.",
+      "업데이트의 주요 내용을 요약하여 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Ingress developer Niantic Spatial shuttering New Zealand office",
     "translated_title": "인그레스 개발사 Niantic, 뉴질랜드 지사 폐쇄",
     "link": "https://www.gamedeveloper.com/business/ingress-developer-niantic-spatial-shuttering-new-zealand-office",
@@ -90,35 +149,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "PRX Part 4: Our Data Strategy",
-    "translated_title": "PRX 4부: 우리의 데이터 전략",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "date": "2026-07-06",
-    "summary": [
-      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
-      "효과적인 데이터 활용 방안을 모색합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "🤗 Kernels: Major Updates",
-    "translated_title": "🤗 커널: 주요 업데이트",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "date": "2026-07-06",
-    "summary": [
-      "커널에 대한 중요한 업데이트 소식을 다룹니다.",
-      "업데이트의 주요 내용을 요약하여 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Games made with Unity: June 2026 in review",
     "translated_title": "2026년 6월, 유니티로 제작된 게임 리뷰",
     "link": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
@@ -135,6 +165,21 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "They Said This Will Never Run In Real Time",
+    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
+    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+    "date": "2026-07-03",
+    "summary": [
+      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
+      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
     "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
     "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -149,21 +194,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "They Said This Will Never Run In Real Time",
-    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
-    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-    "date": "2026-07-03",
-    "summary": [
-      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
-      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Enginefall developer Red Rover Interactive is making layoffs",
@@ -240,22 +270,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "date": "2026-07-01",
-    "summary": [
-      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
-      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "AI Just Entered A New Era",
     "translated_title": "AI, 새로운 시대를 열다",
     "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
@@ -270,6 +284,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "date": "2026-07-01",
+    "summary": [
+      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
+      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Godot to ban (almost all) AI coding contributions",
@@ -362,21 +392,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "How ChatGPT adoption has expanded",
-    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
-      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "translated_title": "Nano Banana 2 Lite와 Gemini Omni Flash로 개발 시작하기",
     "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -390,6 +405,21 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30",
+    "summary": [
+      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
+      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Why Specialization Is Inevitable",
