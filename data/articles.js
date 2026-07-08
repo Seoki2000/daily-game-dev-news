@@ -1,5 +1,35 @@
 const allArticlesData = [
   {
+    "title": "Supercell starts developer grants program for African studios",
+    "translated_title": "슈퍼셀, 아프리카 게임 스튜디오 대상 개발 지원 프로그램 시작",
+    "link": "https://www.gamedeveloper.com/business/supercell-starts-developer-grants-program-for-studios-across-africa",
+    "date": "2026-07-07",
+    "summary": [
+      "슈퍼셀이 아프리카 게임 스튜디오를 위한 개발 지원 프로그램을 발표했습니다.",
+      "이 프로그램은 지분 없는 지원금 형태로 제공됩니다.",
+      "지원금은 $20,000에서 $200,000까지입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO amidst layoffs: 'I think our core has to be healthy'",
+    "translated_title": "Xbox CEO, 인력 감축 속 \"핵심 역량 강화가 우선\"",
+    "link": "https://www.gamedeveloper.com/business/xbox-ceo-amidst-layoffs-i-think-our-core-has-to-be-healthy",
+    "date": "2026-07-07",
+    "summary": [
+      "Xbox CEO는 Xbox 턴어라운드에 시간이 걸릴 것이라고 밝혔다.",
+      "회사의 핵심 역량이 건강해야 한다는 점을 강조했다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "IO Interactive closing Istanbul studio after regaining control of Project Fantasy",
     "translated_title": "IO Interactive, 'Project Fantasy' 판권 회수 후 이스탄불 스튜디오 폐쇄",
     "link": "https://www.gamedeveloper.com/business/io-interactive-closing-istanbul-studio-after-regaining-control-of-project-fantasy",
@@ -45,6 +75,50 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "translated_title": "허깅 페이스에서 아마존 세이지메이커 스튜디오로 원클릭 전환",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "date": "2026-07-07",
+    "summary": [
+      "허깅 페이스에서 모델을 가져와 아마존 세이지메이커 스튜디오로 쉽게 배포할 수 있습니다.",
+      "단 한 번의 클릭으로 이 과정이 가능하여 편리성을 높였습니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "translated_title": "Foundry 관리형 컴퓨팅 환경에서 Hugging Face 모델 사용하기",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "date": "2026-07-07",
+    "summary": [
+      "Foundry의 관리형 컴퓨팅 환경을 통해 Hugging Face 모델을 활용할 수 있습니다.",
+      "Hugging Face의 다양한 AI 모델을 Foundry 인프라에서 효율적으로 배포 및 운영합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "translated_title": "SkyPilot으로 Hugging Face에 제로-아웃바운드 스토리지로 어떤 클라우드에서든 AI 워크로드 실행",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "date": "2026-07-07",
+    "summary": [
+      "SkyPilot을 사용하면 다양한 클라우드에서 AI 워크로드를 실행할 수 있습니다.",
+      "Hugging Face를 제로-아웃바운드 스토리지로 활용하여 데이터 전송 비용을 절감할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "translated_title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
     "link": "https://huggingface.co/blog/lerobot-release-v060",
@@ -55,6 +129,50 @@ const allArticlesData = [
     ],
     "tags": [
       "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "translated_title": "호주 페이먼츠 플러스, ChatGPT와 Codex로 더 빠르게 움직이다",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "date": "2026-07-07",
+    "summary": [
+      "호주 페이먼츠 플러스(AP+)는 ChatGPT Enterprise와 Codex를 활용하여 결제 복잡성을 해결합니다.",
+      "시간 절약, 품질 향상, 인간의 판단력 유지에 중점을 둡니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "translated_title": "MUFG, OpenAI와 협력해 AI 네이티브 조직으로 거듭나다",
+    "link": "https://openai.com/index/mufg",
+    "date": "2026-07-07",
+    "summary": [
+      "MUFG는 ChatGPT Enterprise를 활용해 AI 네이티브 조직 구축을 목표로 합니다.",
+      "업무 효율성을 개선하고 AI 기반의 새로운 금융 서비스를 대규모로 제공할 계획입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "PRX Part 4: Our Data Strategy",
+    "translated_title": "PRX 4부: 우리의 데이터 전략",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "date": "2026-07-06",
+    "summary": [
+      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
+      "효과적인 데이터 활용 방안을 모색합니다."
+    ],
+    "tags": [
       "AI"
     ],
     "source": "Hugging Face - Blog"
@@ -88,20 +206,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "PRX Part 4: Our Data Strategy",
-    "translated_title": "PRX 4부: 우리의 데이터 전략",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "date": "2026-07-06",
-    "summary": [
-      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
-      "효과적인 데이터 활용 방안을 모색합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "🤗 Kernels: Major Updates",
@@ -165,21 +269,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "They Said This Will Never Run In Real Time",
-    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
-    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-    "date": "2026-07-03",
-    "summary": [
-      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
-      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
     "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
     "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -194,6 +283,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "They Said This Will Never Run In Real Time",
+    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
+    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+    "date": "2026-07-03",
+    "summary": [
+      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
+      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Enginefall developer Red Rover Interactive is making layoffs",
