@@ -1,5 +1,245 @@
 const allArticlesData = [
   {
+    "title": "Blizzard eliminates 'small number' of roles in China",
+    "translated_title": "블리자드, 중국 내 '소수' 인력 감축",
+    "link": "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-of-roles-in-china",
+    "date": "2026-07-08",
+    "summary": [
+      "액티비전 블리자드의 모회사에서 전반적인 구조조정을 진행합니다.",
+      "이에 따라 중국 지사에서도 일부 인력이 해고되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Mobile game Mario Kart Tour is winding down",
+    "translated_title": "모바일 게임 마리오 카트 투어 서비스 종료",
+    "link": "https://www.gamedeveloper.com/business/mobile-game-mario-kart-tour-is-winding-down",
+    "date": "2026-07-08",
+    "summary": [
+      "닌텐도는 마리오 카트 투어의 서비스 종료를 발표했습니다.",
+      "오프라인 버전은 출시되지 않을 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Atari appoints Andreas Deptolla as president of Atari Europe",
+    "translated_title": "아타리, 안드레아스 뎁톨라를 아타리 유럽 사장으로 임명",
+    "link": "https://www.gamedeveloper.com/business/atari-appoints-andreas-deptolla-as-president-of-atari-europe",
+    "date": "2026-07-08",
+    "summary": [
+      "아타리가 안드레아스 뎁톨라를 아타리 유럽 신임 사장으로 임명했습니다.",
+      "뎁톨라는 유럽을 아타리에게 '전략적으로 중요한 지역'이라고 강조했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Opinion: Welcome to the house of pain, brought to you by Xbox",
+    "translated_title": "오피니언: 엑스박스가 선사하는 고통의 집으로 오세요",
+    "link": "https://www.gamedeveloper.com/business/opinion-welcome-to-the-house-of-pain-brought-to-you-by-xbox",
+    "date": "2026-07-08",
+    "summary": [
+      "비명 소리는 신경 쓰지 마세요.",
+      "이번 내용은 엑스박스와 관련된 부정적인 경험에 대한 내용일 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Used, abused, and discarded:' CWA Canada slams Microsoft over handling of Bethesda layoffs",
+    "translated_title": "'이용당하고, 학대받고, 버려졌다': CWA 캐나다, 베데스다 해고 관련 마이크로소프트 비판",
+    "link": "https://www.gamedeveloper.com/business/-employers-are-ruthless-cwa-canada-slams-microsoft-over-handling-of-bethesda-layoffs",
+    "date": "2026-07-08",
+    "summary": [
+      "CWA 캐나다가 마이크로소프트의 베데스다 게임 스튜디오 몬트리올 해고 처리 방식에 대해 비판했습니다.",
+      "노조는 약 12개 직책이 축소되었다고 주장합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Data for Agents",
+    "translated_title": "에이전트(Agent)를 위한 데이터",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "date": "2026-07-08",
+    "summary": [
+      "에이전트 개발에 필요한 데이터를 다룹니다.",
+      "데이터 활용 방안에 대한 내용을 포함합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "translated_title": "네이티브 속도의 vLLM 트랜스포머 모델링 백엔드",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "date": "2026-07-08",
+    "summary": [
+      "vLLM을 사용하여 네이티브 속도로 트랜스포머 모델을 처리합니다.",
+      "토큰/시간 절약을 위해 길이를 제한합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "translated_title": "정부 및 국가 안보 파트너십에 대한 OpenAI의 접근 방식",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "date": "2026-07-08",
+    "summary": [
+      "OpenAI의 정부 및 국가 안보 파트너십 접근 방식 소개",
+      "책임감 있는 AI 사용, 민주적 책임, 공공 안전 원칙 강조"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Separating signal from noise in coding evaluations",
+    "translated_title": "코드 평가에서 신호와 노이즈 분리하기",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "date": "2026-07-08",
+    "summary": [
+      "OpenAI의 새로운 분석 결과, 인기 있는 코딩 벤치마크인 SWE-Bench Pro에 문제가 있음을 발견했습니다.",
+      "이는 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 제기합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Helping K–12 educators build practical AI skills",
+    "translated_title": "K-12 교육자를 위한 실용적인 AI 역량 강화 지원",
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "date": "2026-07-08",
+    "summary": [
+      "OpenAI Academy와 Walton Family Foundation이 K-12 교사 대상 AI 기술 워크숍을 제공합니다.",
+      "이 워크숍은 교사들이 교실에서 활용할 수 있는 실용적인 AI 기술을 습득하도록 돕습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing GPT-Live",
+    "translated_title": "GPT-Live 소개",
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "date": "2026-07-08",
+    "summary": [
+      "차세대 음성 모델로 자연스러운 인간-AI 상호작용을 지원합니다.",
+      "이제 ChatGPT Voice에 적용되어 사용 가능합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "DeepSeek's New AI Speed Hack Is Amazing",
+    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
+    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+    "date": "2026-07-07",
+    "summary": [
+      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
+      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "translated_title": "허깅 페이스에서 아마존 세이지메이커 스튜디오로 원클릭 전환",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "date": "2026-07-07",
+    "summary": [
+      "허깅 페이스에서 모델을 가져와 아마존 세이지메이커 스튜디오로 쉽게 배포할 수 있습니다.",
+      "단 한 번의 클릭으로 이 과정이 가능하여 편리성을 높였습니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "translated_title": "Foundry 관리형 컴퓨팅 환경에서 Hugging Face 모델 사용하기",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "date": "2026-07-07",
+    "summary": [
+      "Foundry의 관리형 컴퓨팅 환경을 통해 Hugging Face 모델을 활용할 수 있습니다.",
+      "Hugging Face의 다양한 AI 모델을 Foundry 인프라에서 효율적으로 배포 및 운영합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "translated_title": "SkyPilot으로 Hugging Face에 제로-아웃바운드 스토리지로 어떤 클라우드에서든 AI 워크로드 실행",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "date": "2026-07-07",
+    "summary": [
+      "SkyPilot을 사용하면 다양한 클라우드에서 AI 워크로드를 실행할 수 있습니다.",
+      "Hugging Face를 제로-아웃바운드 스토리지로 활용하여 데이터 전송 비용을 절감할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "translated_title": "호주 페이먼츠 플러스, ChatGPT와 Codex로 더 빠르게 움직이다",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "date": "2026-07-07",
+    "summary": [
+      "호주 페이먼츠 플러스(AP+)는 ChatGPT Enterprise와 Codex를 활용하여 결제 복잡성을 해결합니다.",
+      "시간 절약, 품질 향상, 인간의 판단력 유지에 중점을 둡니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Supercell starts developer grants program for African studios",
     "translated_title": "슈퍼셀, 아프리카 게임 스튜디오 대상 개발 지원 프로그램 시작",
     "link": "https://www.gamedeveloper.com/business/supercell-starts-developer-grants-program-for-studios-across-africa",
@@ -75,50 +315,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "translated_title": "허깅 페이스에서 아마존 세이지메이커 스튜디오로 원클릭 전환",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "date": "2026-07-07",
-    "summary": [
-      "허깅 페이스에서 모델을 가져와 아마존 세이지메이커 스튜디오로 쉽게 배포할 수 있습니다.",
-      "단 한 번의 클릭으로 이 과정이 가능하여 편리성을 높였습니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "translated_title": "Foundry 관리형 컴퓨팅 환경에서 Hugging Face 모델 사용하기",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "date": "2026-07-07",
-    "summary": [
-      "Foundry의 관리형 컴퓨팅 환경을 통해 Hugging Face 모델을 활용할 수 있습니다.",
-      "Hugging Face의 다양한 AI 모델을 Foundry 인프라에서 효율적으로 배포 및 운영합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "translated_title": "SkyPilot으로 Hugging Face에 제로-아웃바운드 스토리지로 어떤 클라우드에서든 AI 워크로드 실행",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "date": "2026-07-07",
-    "summary": [
-      "SkyPilot을 사용하면 다양한 클라우드에서 AI 워크로드를 실행할 수 있습니다.",
-      "Hugging Face를 제로-아웃바운드 스토리지로 활용하여 데이터 전송 비용을 절감할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "translated_title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
     "link": "https://huggingface.co/blog/lerobot-release-v060",
@@ -132,21 +328,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "translated_title": "호주 페이먼츠 플러스, ChatGPT와 Codex로 더 빠르게 움직이다",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "date": "2026-07-07",
-    "summary": [
-      "호주 페이먼츠 플러스(AP+)는 ChatGPT Enterprise와 Codex를 활용하여 결제 복잡성을 해결합니다.",
-      "시간 절약, 품질 향상, 인간의 판단력 유지에 중점을 둡니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "MUFG aims to become AI-native with OpenAI",
@@ -269,6 +450,21 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "They Said This Will Never Run In Real Time",
+    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
+    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+    "date": "2026-07-03",
+    "summary": [
+      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
+      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
     "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
     "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -283,21 +479,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "They Said This Will Never Run In Real Time",
-    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
-    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-    "date": "2026-07-03",
-    "summary": [
-      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
-      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Enginefall developer Red Rover Interactive is making layoffs",
