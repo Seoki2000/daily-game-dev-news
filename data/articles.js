@@ -1,5 +1,174 @@
 const allArticlesData = [
   {
+    "title": "Asha Sharma joins Federal Reserve advisory task force days after laying off thousands at Xbox",
+    "translated_title": "애나 숄즈, 엑스박스 수천 명 해고 후 연방준비제도 자문단 합류",
+    "link": "https://www.gamedeveloper.com/business/asha-sharma-joins-federal-reserve-task-force-days-after-laying-off-thousands-at-xbox",
+    "date": "2026-07-09",
+    "summary": [
+      "애나 숄즈가 엑스박스에서 수천 명을 해고한 직후 연방준비제도의 자문 태스크포스에 합류했습니다.",
+      "그녀는 '신규 범용 기술의 경제적 영향'에 대해 잘 알고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Eurogamer and VG247 veterans launch new independent site",
+    "translated_title": "유로게이머, VG247 출신 베테랑들이 새 독립 게임 매체 론칭",
+    "link": "https://www.gamedeveloper.com/business/eurogamer-and-vg247-veterans-launch-new-independent-site",
+    "date": "2026-07-09",
+    "summary": [
+      "유로게이머와 VG247 출신 기자들이 새로운 독립 게임 매체를 설립했습니다.",
+      "이 매체는 독립적인 운영을 통해 잡지 스타일의 게임 전문 보도를 제공할 계획입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Fired Marathon director says he's settled lawsuit with Sony",
+    "translated_title": "마라톤 감독 해고 후 소니와 합의",
+    "link": "https://www.gamedeveloper.com/business/fired-marathon-director-says-he-s-settled-misconduct-lawsuit-with-sony",
+    "date": "2026-07-09",
+    "summary": [
+      "해고되었던 마라톤 감독 크리스토퍼 바렛이 소니와 소송을 합의했습니다.",
+      "바렛은 과거 비위 혐의로 소니에 의해 해고되었으나, 이제 마라톤 게임 크레딧에 이름을 올렸습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "A risk-averse video game industry is failing marginalized developers",
+    "translated_title": "위험 회피적인 게임 산업, 소외된 개발자들을 외면하다",
+    "link": "https://www.gamedeveloper.com/production/the-game-industry-is-failing-marginalized-developers",
+    "date": "2026-07-09",
+    "summary": [
+      "'The Arab League of Misfits' 개발자는 호평에도 불구하고 자금 확보에 어려움을 겪고 있습니다.",
+      "게임 산업의 보수적인 투자 성향이 소외된 개발자들의 성장을 저해하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "translated_title": "GPT-5.6, Microsoft 365 Copilot의 주요 모델로 채택",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "date": "2026-07-09",
+    "summary": [
+      "GPT-5.6 모델이 Microsoft 365 Copilot에 통합되었습니다.",
+      "향상된 AI 기능으로 Word, Excel, PowerPoint 등에서 더 빠르고 품질 높은 작업이 가능해졌습니다.",
+      "Chat 및 Cowork 기능 또한 GPT-5.6의 지원을 받습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "translated_title": "ChatGPT, 당신의 가장 야심 찬 작업을 위한 파트너가 되다",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "date": "2026-07-09",
+    "summary": [
+      "ChatGPT Work는 앱과 파일을 넘나들며 작업을 수행하는 에이전트입니다.",
+      "필요에 따라 몇 시간 동안 프로젝트에 머무르며 목표를 완성된 결과물로 전환합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "translated_title": "GPT-5.5 바이오 버그 바운티",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "date": "2026-07-09",
+    "summary": [
+      "OpenAI에서 진행하는 바이오 버그 바운티 프로그램에 대한 정보입니다.",
+      "GPT-5.5와 관련된 내용입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
+    "link": "https://openai.com/index/gpt-5-6",
+    "date": "2026-07-09",
+    "summary": [
+      "토큰당 향상된 지능으로 더 나은 결과 제공",
+      "달러당 강화된 성능으로 비용 효율성 증대",
+      "온디맨드 기능으로 어려운 업무 지원 강화"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Data for Agents",
+    "translated_title": "에이전트(Agent)를 위한 데이터",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "date": "2026-07-08",
+    "summary": [
+      "에이전트 개발에 필요한 데이터를 다룹니다.",
+      "데이터 활용 방안에 대한 내용을 포함합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "translated_title": "네이티브 속도의 vLLM 트랜스포머 모델링 백엔드",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "date": "2026-07-08",
+    "summary": [
+      "vLLM을 사용하여 네이티브 속도로 트랜스포머 모델을 처리합니다.",
+      "토큰/시간 절약을 위해 길이를 제한합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "translated_title": "정부 및 국가 안보 파트너십에 대한 OpenAI의 접근 방식",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "date": "2026-07-08",
+    "summary": [
+      "OpenAI의 정부 및 국가 안보 파트너십 접근 방식 소개",
+      "책임감 있는 AI 사용, 민주적 책임, 공공 안전 원칙 강조"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Blizzard eliminates 'small number' of roles in China",
     "translated_title": "블리자드, 중국 내 '소수' 인력 감축",
     "link": "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-of-roles-in-china",
@@ -73,52 +242,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Data for Agents",
-    "translated_title": "에이전트(Agent)를 위한 데이터",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "date": "2026-07-08",
-    "summary": [
-      "에이전트 개발에 필요한 데이터를 다룹니다.",
-      "데이터 활용 방안에 대한 내용을 포함합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "translated_title": "네이티브 속도의 vLLM 트랜스포머 모델링 백엔드",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "date": "2026-07-08",
-    "summary": [
-      "vLLM을 사용하여 네이티브 속도로 트랜스포머 모델을 처리합니다.",
-      "토큰/시간 절약을 위해 길이를 제한합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "translated_title": "정부 및 국가 안보 파트너십에 대한 OpenAI의 접근 방식",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "date": "2026-07-08",
-    "summary": [
-      "OpenAI의 정부 및 국가 안보 파트너십 접근 방식 소개",
-      "책임감 있는 AI 사용, 민주적 책임, 공공 안전 원칙 강조"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Separating signal from noise in coding evaluations",
     "translated_title": "코드 평가에서 신호와 노이즈 분리하기",
     "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
@@ -165,20 +288,19 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "DeepSeek's New AI Speed Hack Is Amazing",
-    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
-    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
+    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
+    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
     "date": "2026-07-07",
     "summary": [
-      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
-      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
+      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
+      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
     ],
     "tags": [
-      "AI",
-      "News",
-      "Research"
+      "GameDev",
+      "News"
     ],
-    "source": "Two Minute Papers"
+    "source": "gamedeveloper"
   },
   {
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -223,6 +345,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "DeepSeek's New AI Speed Hack Is Amazing",
+    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
+    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+    "date": "2026-07-07",
+    "summary": [
+      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
+      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
@@ -292,21 +430,6 @@ const allArticlesData = [
     "summary": [
       "id 소프트웨어 팀의 약 절반이 해고되었습니다.",
       "이번 소식은 Xbox가 비디오 게임 부문에서 3,200개의 일자리를 없애며 '재정비'를 준비하는 가운데 나왔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
-    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
-    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
-    "date": "2026-07-07",
-    "summary": [
-      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
-      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
     ],
     "tags": [
       "GameDev",
@@ -434,6 +557,22 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-03",
+    "summary": [
+      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
+      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Games made with Unity: June 2026 in review",
     "translated_title": "2026년 6월, 유니티로 제작된 게임 리뷰",
     "link": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
@@ -463,22 +602,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "date": "2026-07-03",
-    "summary": [
-      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
-      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Enginefall developer Red Rover Interactive is making layoffs",
