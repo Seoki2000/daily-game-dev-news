@@ -1,5 +1,78 @@
 const allArticlesData = [
   {
+    "title": "NexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann",
+    "translated_title": "넥서스모드 CEO, 게임 모딩의 역동성 분석 (빅터 폴만)",
+    "link": "https://www.gamedeveloper.com/pc/nexusmods-ceo-digs-into-the-dynamics-of-video-game-modding-ft-victor-folmann",
+    "date": "2026-07-10",
+    "summary": [
+      "넥서스모드는 단순 파일 호스팅에서 벗어나 UGC 플랫폼으로 성장할 잠재력이 있다고 CEO는 믿습니다.",
+      "회사의 미래는 사용자 제작 콘텐츠(UGC)에 달려 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
+    "translated_title": "자책골 전문가 Xbox, 또 한 골을 천장으로 - 패치 노트 #60",
+    "link": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
+    "date": "2026-07-10",
+    "summary": [
+      "Xbox 역사상 중요한 한 주를 되돌아봅니다.",
+      "최근 Xbox의 주요 사건들을 분석합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
+    "translated_title": "'진심으로 합니다': 엑스박스 노조원들, 7월 15일 '개발자 보호' 집회로 맞선다",
+    "link": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
+    "date": "2026-07-10",
+    "summary": [
+      "베데스다 게임 스튜디오 노조원들이 집회를 주최합니다.",
+      "집회는 '개발자 보호'를 목표로 합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "translated_title": "PyTorch 프로파일링 (3부): Attention은 모든 것을 프로파일합니다",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
+    "date": "2026-07-10",
+    "summary": [
+      "PyTorch에서 Attention 메커니즘의 성능을 프로파일링하는 방법을 다룹니다.",
+      "Attention 연산의 병목 현상을 식별하고 최적화하는 기법을 소개합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "translated_title": "Deutsche Telekom, AI로 통신 산업을 재편하는 방법",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "date": "2026-07-10",
+    "summary": [
+      "Deutsche Telekom은 OpenAI와의 협력을 통해 AI 네이티브 통신사로 변모하고 있습니다.",
+      "AI는 고객 서비스, 직원 업무 효율성, 네트워크 운영 및 음성 통신 미래에 혁신을 가져올 것입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Asha Sharma joins Federal Reserve advisory task force days after laying off thousands at Xbox",
     "translated_title": "애나 숄즈, 엑스박스 수천 명 해고 후 연방준비제도 자문단 합류",
     "link": "https://www.gamedeveloper.com/business/asha-sharma-joins-federal-reserve-task-force-days-after-laying-off-thousands-at-xbox",
@@ -29,36 +102,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Fired Marathon director says he's settled lawsuit with Sony",
-    "translated_title": "마라톤 감독 해고 후 소니와 합의",
-    "link": "https://www.gamedeveloper.com/business/fired-marathon-director-says-he-s-settled-misconduct-lawsuit-with-sony",
-    "date": "2026-07-09",
-    "summary": [
-      "해고되었던 마라톤 감독 크리스토퍼 바렛이 소니와 소송을 합의했습니다.",
-      "바렛은 과거 비위 혐의로 소니에 의해 해고되었으나, 이제 마라톤 게임 크레딧에 이름을 올렸습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A risk-averse video game industry is failing marginalized developers",
-    "translated_title": "위험 회피적인 게임 산업, 소외된 개발자들을 외면하다",
-    "link": "https://www.gamedeveloper.com/production/the-game-industry-is-failing-marginalized-developers",
-    "date": "2026-07-09",
-    "summary": [
-      "'The Arab League of Misfits' 개발자는 호평에도 불구하고 자금 확보에 어려움을 겪고 있습니다.",
-      "게임 산업의 보수적인 투자 성향이 소외된 개발자들의 성장을 저해하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "translated_title": "GPT-5.6, Microsoft 365 Copilot의 주요 모델로 채택",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -70,6 +113,23 @@ const allArticlesData = [
     ],
     "tags": [
       "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
+    "link": "https://openai.com/index/gpt-5-6",
+    "date": "2026-07-09",
+    "summary": [
+      "토큰당 향상된 지능으로 더 나은 결과 제공",
+      "달러당 강화된 성능으로 비용 효율성 증대",
+      "온디맨드 기능으로 어려운 업무 지원 강화"
+    ],
+    "tags": [
+      "AI",
+      "Research",
       "News"
     ],
     "source": "OpenAI News"
@@ -106,21 +166,34 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
-    "link": "https://openai.com/index/gpt-5-6",
+    "title": "Fired Marathon director says he's settled lawsuit with Sony",
+    "translated_title": "마라톤 감독 해고 후 소니와 합의",
+    "link": "https://www.gamedeveloper.com/business/fired-marathon-director-says-he-s-settled-misconduct-lawsuit-with-sony",
     "date": "2026-07-09",
     "summary": [
-      "토큰당 향상된 지능으로 더 나은 결과 제공",
-      "달러당 강화된 성능으로 비용 효율성 증대",
-      "온디맨드 기능으로 어려운 업무 지원 강화"
+      "해고되었던 마라톤 감독 크리스토퍼 바렛이 소니와 소송을 합의했습니다.",
+      "바렛은 과거 비위 혐의로 소니에 의해 해고되었으나, 이제 마라톤 게임 크레딧에 이름을 올렸습니다."
     ],
     "tags": [
-      "AI",
-      "Research",
-      "News"
+      "News",
+      "GameDev"
     ],
-    "source": "OpenAI News"
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "A risk-averse video game industry is failing marginalized developers",
+    "translated_title": "위험 회피적인 게임 산업, 소외된 개발자들을 외면하다",
+    "link": "https://www.gamedeveloper.com/production/the-game-industry-is-failing-marginalized-developers",
+    "date": "2026-07-09",
+    "summary": [
+      "'The Arab League of Misfits' 개발자는 호평에도 불구하고 자금 확보에 어려움을 겪고 있습니다.",
+      "게임 산업의 보수적인 투자 성향이 소외된 개발자들의 성장을 저해하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Data for Agents",
@@ -288,19 +361,20 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
-    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
-    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
+    "title": "DeepSeek's New AI Speed Hack Is Amazing",
+    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
+    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
     "date": "2026-07-07",
     "summary": [
-      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
-      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
+      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
+      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
     ],
     "tags": [
-      "GameDev",
-      "News"
+      "AI",
+      "News",
+      "Research"
     ],
-    "source": "gamedeveloper"
+    "source": "Two Minute Papers"
   },
   {
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -332,6 +406,21 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
+    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
+    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
+    "date": "2026-07-07",
+    "summary": [
+      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
+      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "translated_title": "SkyPilot으로 Hugging Face에 제로-아웃바운드 스토리지로 어떤 클라우드에서든 AI 워크로드 실행",
     "link": "https://huggingface.co/blog/skypilot-hf-storage",
@@ -345,22 +434,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "DeepSeek's New AI Speed Hack Is Amazing",
-    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
-    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
-    "date": "2026-07-07",
-    "summary": [
-      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
-      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
