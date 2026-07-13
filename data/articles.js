@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "Minecraft Was Missing One Brilliant Idea",
+    "translated_title": "마인크래프트에 빠져있던 한 가지 기발한 아이디어",
+    "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+    "date": "2026-07-12",
+    "summary": [
+      "Terrain Diffusion은 텍스트 설명으로 현실적인 마인크래프트 지형을 생성하는 AI 모델입니다.",
+      "이 기술은 게임 개발자들에게 새로운 콘텐츠를 만들거나 기존 월드를 개선할 수 있는 흥미로운 가능성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "NexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann",
     "translated_title": "넥서스모드 CEO, 게임 모딩의 역동성 분석 (빅터 폴만)",
     "link": "https://www.gamedeveloper.com/pc/nexusmods-ceo-digs-into-the-dynamics-of-video-game-modding-ft-victor-folmann",
