@@ -3,32 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily Game Dev & AI Insights</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <title>Weekend Game Dev & AI Insights</title>
+    <!-- Modern Toss-like font (Pretendard & Inter) -->
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="background-blobs">
         <div class="blob blob-1"></div>
         <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
     </div>
     
     <div class="container">
-        <header>
-            <h1><span class="gradient-text">Daily Insights</span></h1>
-            <p>Game Development, Unity & Artificial Intelligence</p>
-            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 10px; margin-bottom: 20px;">
-                ※ 쾌적한 환경을 위해 최신 기사는 최대 300개까지만 누적 보관됩니다.
+        <header class="main-header">
+            <h1 class="title">
+                <span class="gradient-text">Weekend Insights</span>
+            </h1>
+            <p class="subtitle">Game Development, Unity & Artificial Intelligence</p>
+            <p class="notice-text">
+                주말(토, 일)에 업데이트되는 핵심 인사이트. 최신 기사는 최대 300개까지만 쾌적하게 보관됩니다.
             </p>
             
-            <div style="margin-bottom: 30px;">
-                <a href="https://github.com/Seoki2000/daily-game-dev-news/issues/new" target="_blank" rel="noopener noreferrer" style="color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; border: 1px solid var(--card-border); padding: 8px 16px; border-radius: 20px; background: rgba(255,255,255,0.05); transition: all 0.2s ease; display: inline-block;">
+            <div class="action-container">
+                <a href="https://github.com/Seoki2000/daily-game-dev-news/issues/new" target="_blank" rel="noopener noreferrer" class="glass-btn action-btn">
                     💡 새로운 구독처/소스 추가 요청하기
                 </a>
             </div>
             
-            <div class="controls">
+            <div class="controls-glass">
                 <div class="search-bar">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
                     <input type="text" id="searchInput" placeholder="키워드 검색 (예: Unity, LLM, Shader...)">
                 </div>
                 <div class="filters" id="tagFilters">
@@ -39,7 +48,7 @@
         </header>
 
         <main>
-            <div class="stats" id="statsDisplay">데이터를 불러오는 중...</div>
+            <div class="stats-glass" id="statsDisplay">데이터를 불러오는 중...</div>
             <div class="grid" id="articlesGrid">
                 <!-- Cards will go here -->
             </div>
