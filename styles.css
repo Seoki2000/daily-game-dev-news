@@ -319,6 +319,44 @@ main {
     width: 100%;
 }
 
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.page-btn {
+    background: var(--card-bg);
+    border: none;
+    color: var(--text-secondary);
+    min-width: 40px;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-btn:active {
+    transform: scale(0.96);
+}
+
+.page-btn.active {
+    background: var(--accent-color);
+    color: #FFFFFF;
+    box-shadow: 0 4px 12px rgba(49, 130, 246, 0.3);
+}
+
 /* Responsive adjustments */
 @media (max-width: 480px) {
     .container {
