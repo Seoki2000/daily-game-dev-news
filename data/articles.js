@@ -1,5 +1,49 @@
 const allArticlesData = [
   {
+    "title": "The Alters and Frostpunk developer 11 Bit Studios is laying off 20 employees",
+    "translated_title": "‘디 아터스’, ‘프로스트펑크’ 개발사 11 비트 스튜디오, 20명 감원",
+    "link": "https://www.gamedeveloper.com/business/the-alters-and-frostpunk-developer-11-bit-studios-is-laying-off-20-employees-",
+    "date": "2026-07-13",
+    "summary": [
+      "‘디 아터스’와 ‘프로스트펑크’ 개발사인 11 비트 스튜디오가 20명의 직원을 해고했습니다.",
+      "내부 팀으로 직원을 재배치하여 해고 규모를 최소화했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Games Done Quick apologizes for partnering with Saudi-owned studio SNK",
+    "translated_title": "Games Done Quick, 사우디 국영 기업 SNK와의 파트너십에 대해 사과",
+    "link": "https://www.gamedeveloper.com/business/games-done-quick-apologizes-for-partnering-with-saudi-owned-studio-snk",
+    "date": "2026-07-13",
+    "summary": [
+      "Games Done Quick가 사우디 국영 기업 SNK와의 스폰서십을 취소했습니다.",
+      "커뮤니티의 우려 제기 후 파트너십이 무산되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'A kick in the teeth:' Game workers protest alleged misconduct at MindsEye developer Build A Rocket Boy",
+    "translated_title": "'치욕스러운 일': MindsEye 개발사 Build A Rocket Boy의 의혹 제기에 게임 노동자들 시위",
+    "link": "https://www.gamedeveloper.com/business/-a-kick-in-the-teeth-game-workers-protest-alleged-misconduct-at-mindseye-developer-build-a-rocket-boy",
+    "date": "2026-07-13",
+    "summary": [
+      "Build A Rocket Boy 개발사에서 발생한 의혹에 대해 게임 노동자들이 시위를 벌이고 있습니다.",
+      "게임 노동자들은 이러한 충격적인 대우가 업계 전반에 만연하다고 지적합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Minecraft Was Missing One Brilliant Idea",
     "translated_title": "마인크래프트에 빠져있던 한 가지 기발한 아이디어",
     "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
@@ -43,21 +87,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
-    "translated_title": "'진심으로 합니다': 엑스박스 노조원들, 7월 15일 '개발자 보호' 집회로 맞선다",
-    "link": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
-    "date": "2026-07-10",
-    "summary": [
-      "베데스다 게임 스튜디오 노조원들이 집회를 주최합니다.",
-      "집회는 '개발자 보호'를 목표로 합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "translated_title": "PyTorch 프로파일링 (3부): Attention은 모든 것을 프로파일합니다",
     "link": "https://huggingface.co/blog/torch-attention-profile",
@@ -84,6 +113,85 @@ const allArticlesData = [
     "tags": [
       "News",
       "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "translated_title": "ChatGPT 시작하기",
+    "link": "https://openai.com/academy/getting-started",
+    "date": "2026-07-10",
+    "summary": [
+      "ChatGPT 사용법을 배웁니다.",
+      "AI를 활용하여 글쓰기, 아이디어 구상, 문제 해결 방법을 알아봅니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
+    "translated_title": "'진심으로 합니다': 엑스박스 노조원들, 7월 15일 '개발자 보호' 집회로 맞선다",
+    "link": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
+    "date": "2026-07-10",
+    "summary": [
+      "베데스다 게임 스튜디오 노조원들이 집회를 주최합니다.",
+      "집회는 '개발자 보호'를 목표로 합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "translated_title": "GPT-5.6, Microsoft 365 Copilot의 주요 모델로 채택",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "date": "2026-07-09",
+    "summary": [
+      "GPT-5.6 모델이 Microsoft 365 Copilot에 통합되었습니다.",
+      "향상된 AI 기능으로 Word, Excel, PowerPoint 등에서 더 빠르고 품질 높은 작업이 가능해졌습니다.",
+      "Chat 및 Cowork 기능 또한 GPT-5.6의 지원을 받습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "translated_title": "GPT-5.5 바이오 버그 바운티",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "date": "2026-07-09",
+    "summary": [
+      "OpenAI에서 진행하는 바이오 버그 바운티 프로그램에 대한 정보입니다.",
+      "GPT-5.5와 관련된 내용입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
+    "link": "https://openai.com/index/gpt-5-6",
+    "date": "2026-07-09",
+    "summary": [
+      "토큰당 향상된 지능으로 더 나은 결과 제공",
+      "달러당 강화된 성능으로 비용 효율성 증대",
+      "온디맨드 기능으로 어려운 업무 지원 강화"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
     ],
     "source": "OpenAI News"
   },
@@ -117,39 +225,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "translated_title": "GPT-5.6, Microsoft 365 Copilot의 주요 모델로 채택",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "date": "2026-07-09",
-    "summary": [
-      "GPT-5.6 모델이 Microsoft 365 Copilot에 통합되었습니다.",
-      "향상된 AI 기능으로 Word, Excel, PowerPoint 등에서 더 빠르고 품질 높은 작업이 가능해졌습니다.",
-      "Chat 및 Cowork 기능 또한 GPT-5.6의 지원을 받습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
-    "link": "https://openai.com/index/gpt-5-6",
-    "date": "2026-07-09",
-    "summary": [
-      "토큰당 향상된 지능으로 더 나은 결과 제공",
-      "달러당 강화된 성능으로 비용 효율성 증대",
-      "온디맨드 기능으로 어려운 업무 지원 강화"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "ChatGPT is now a partner for your most ambitious work",
     "translated_title": "ChatGPT, 당신의 가장 야심 찬 작업을 위한 파트너가 되다",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
@@ -160,22 +235,6 @@ const allArticlesData = [
     ],
     "tags": [
       "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "translated_title": "GPT-5.5 바이오 버그 바운티",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "date": "2026-07-09",
-    "summary": [
-      "OpenAI에서 진행하는 바이오 버그 바운티 프로그램에 대한 정보입니다.",
-      "GPT-5.5와 관련된 내용입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
       "News"
     ],
     "source": "OpenAI News"
