@@ -1,5 +1,140 @@
 const allArticlesData = [
   {
+    "title": "Assassin's Creed Black Flag Resynced crosses 2 million in sales as studio strikes over proposed layoffs",
+    "translated_title": "어쌔신 크리드 블랙 플래그 리싱크드, 200만 장 판매 돌파… 스튜디오는 감원 반대 파업",
+    "link": "https://www.gamedeveloper.com/business/assassin-s-creed-black-flag-topped-2m-sales-on-its-first-day",
+    "date": "2026-07-14",
+    "summary": [
+      "어쌔신 크리드 블랙 플래그 리싱크드가 24시간 만에 200만 장 이상 판매되었습니다.",
+      "동시에 바르셀로나 스튜디오 직원 51명에 대한 해고 계획에 반대하며 파업에 나섰습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Paramount confirms Mike Zaimont is employed by Avatar Legends dev",
+    "translated_title": "파라마운트, '아바타 레전드' 개발진에 마이크 자이몬트 고용 확인",
+    "link": "https://www.gamedeveloper.com/business/paramount-confirms-mike-zaimont-previously-accused-of-sexual-harassment-is-employed-by-avatar-legends-dev",
+    "date": "2026-07-14",
+    "summary": [
+      "마이크 자이몬트가 게임플레이 그룹 인터내셔널의 개인 개발자로 재직 중임이 확인되었습니다.",
+      "그는 이전 랩 제로 게임즈 CEO 재직 시 성희롱 혐의를 받은 바 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Compulsion Games posts call for business partners after Xbox spinoff",
+    "translated_title": "Compulsion Games, Xbox 스핀오프 후 비즈니스 파트너 모집",
+    "link": "https://www.gamedeveloper.com/business/compulsion-games-is-seeking-partners-after-xbox-spin-off",
+    "date": "2026-07-14",
+    "summary": [
+      "Compulsion Games가 비즈니스 파트너를 모집하고 있습니다.",
+      "Xbox로부터 독립한 후 파트너십을 모색 중입니다.",
+      "'South of Midnight' 개발팀의 재능과 창의성을 활용하도록 초대합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Studio founded by former Star Wars: Galaxy of Heroes GM lays off staff",
+    "translated_title": "전 스타워즈: 갤럭시 히어로즈 GM이 설립한 스튜디오, 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/ex-star-wars-galaxy-of-heroes-gm-studio-lays-off-staff",
+    "date": "2026-07-14",
+    "summary": [
+      "Azra Games, 2년 만에 4,200만 달러 펀딩 후 팀 규모 축소",
+      "데뷔작 'UnGodly' 출시 전 직원 감축 진행"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Spin Master lays off Paw Patrol: The Game devs two days after launch",
+    "translated_title": "스핀 마스터, 'PAW Patrol: The Game' 출시 이틀 만에 개발팀 해고",
+    "link": "https://www.gamedeveloper.com/mobile/spin-master-lays-off-paw-patrol-the-game-devs-two-days-after-launch",
+    "date": "2026-07-14",
+    "summary": [
+      "스핀 마스터가 'PAW Patrol: The Game' 개발팀을 해고했습니다.",
+      "출시 이틀 만에 발생한 이번 해고는 Sago Mini Team이 개발 업무를 맡게 되면서 이루어졌습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "translated_title": "에이전트 시대의 AI 투자 관리 방법",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "date": "2026-07-14",
+    "summary": [
+      "달러당 유용한 작업량 측정",
+      "효율성 개선 및 고가치 워크플로우 확장"
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "translated_title": "데이터 과학팀, ChatGPT Work 활용법",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-14",
+    "summary": [
+      "데이터 과학팀이 ChatGPT Work를 활용하여 근본 원인 분석 보고서, 영향력 분석, KPI 보고서 등을 작성하는 방법을 소개합니다.",
+      "실제 업무 데이터를 기반으로 분석 및 보고서 작성을 효율화합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "translated_title": "ChatGPT Work, 영업팀 활용법",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-07-14",
+    "summary": [
+      "영업팀이 ChatGPT Work를 사용하여 파이프라인 브리핑, 회의 준비 자료, 예측 검토, 계정 계획, 교착 상태 거래 진단 등을 생성할 수 있습니다.",
+      "실제 업무 입력을 기반으로 다양한 영업 문서를 효율적으로 작성하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "translated_title": "ATL Saathi로 인도의 차세대 혁신가들에게 힘을 실어주다",
+    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "date": "2026-07-13",
+    "summary": [
+      "구글과 AIM이 Gemini 기반 AI 도구인 ATL Saathi를 출시했습니다.",
+      "이 도구는 인도의 로봇 공학 실험실 교육자들에게 AI 역량을 강화해 줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "The Alters and Frostpunk developer 11 Bit Studios is laying off 20 employees",
     "translated_title": "‘디 아터스’, ‘프로스트펑크’ 개발사 11 비트 스튜디오, 20명 감원",
     "link": "https://www.gamedeveloper.com/business/the-alters-and-frostpunk-developer-11-bit-studios-is-laying-off-20-employees-",
@@ -59,34 +194,6 @@ const allArticlesData = [
     "source": "Two Minute Papers"
   },
   {
-    "title": "NexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann",
-    "translated_title": "넥서스모드 CEO, 게임 모딩의 역동성 분석 (빅터 폴만)",
-    "link": "https://www.gamedeveloper.com/pc/nexusmods-ceo-digs-into-the-dynamics-of-video-game-modding-ft-victor-folmann",
-    "date": "2026-07-10",
-    "summary": [
-      "넥서스모드는 단순 파일 호스팅에서 벗어나 UGC 플랫폼으로 성장할 잠재력이 있다고 CEO는 믿습니다.",
-      "회사의 미래는 사용자 제작 콘텐츠(UGC)에 달려 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
-    "translated_title": "자책골 전문가 Xbox, 또 한 골을 천장으로 - 패치 노트 #60",
-    "link": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
-    "date": "2026-07-10",
-    "summary": [
-      "Xbox 역사상 중요한 한 주를 되돌아봅니다.",
-      "최근 Xbox의 주요 사건들을 분석합니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "translated_title": "PyTorch 프로파일링 (3부): Attention은 모든 것을 프로파일합니다",
     "link": "https://huggingface.co/blog/torch-attention-profile",
@@ -130,6 +237,34 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "NexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann",
+    "translated_title": "넥서스모드 CEO, 게임 모딩의 역동성 분석 (빅터 폴만)",
+    "link": "https://www.gamedeveloper.com/pc/nexusmods-ceo-digs-into-the-dynamics-of-video-game-modding-ft-victor-folmann",
+    "date": "2026-07-10",
+    "summary": [
+      "넥서스모드는 단순 파일 호스팅에서 벗어나 UGC 플랫폼으로 성장할 잠재력이 있다고 CEO는 믿습니다.",
+      "회사의 미래는 사용자 제작 콘텐츠(UGC)에 달려 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
+    "translated_title": "자책골 전문가 Xbox, 또 한 골을 천장으로 - 패치 노트 #60",
+    "link": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
+    "date": "2026-07-10",
+    "summary": [
+      "Xbox 역사상 중요한 한 주를 되돌아봅니다.",
+      "최근 Xbox의 주요 사건들을 분석합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
