@@ -1,5 +1,229 @@
 const allArticlesData = [
   {
+    "title": "Claude's Brain Has A Secret... And Scientists Found It",
+    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
+    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+    "date": "2026-07-15",
+    "summary": [
+      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
+      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Former Epic Games VP appointed Saber Interactive's chief business officer",
+    "translated_title": "에픽게임즈 전 부사장, 세이버 인터랙티브 최고 사업 책임자로 임명",
+    "link": "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-saber-interactive-s-chief-business-officer",
+    "date": "2026-07-15",
+    "summary": [
+      "에픽게임즈 전 부사장 스티브 앨리슨이 세이버 인터랙티브 최고 사업 책임자(CBO)로 합류했습니다.",
+      "그는 퍼블리싱, 마케팅, 수익화 기회를 총괄하며 CEO 매튜 카치에게 직속 보고할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Dead Space co-creator Glen Schofield retires",
+    "translated_title": "데드 스페이스 공동 창작자 글렌 쇼필드, 은퇴",
+    "link": "https://www.gamedeveloper.com/business/call-of-duty-co-director-glen-schofield-retires",
+    "date": "2026-07-15",
+    "summary": [
+      "글렌 쇼필드는 데드 스페이스 제작사 비서럴 게임즈를 이끌었습니다.",
+      "콜 오브 듀티 개발사 슬렛지해머 게임즈에서도 오랜 기간 근무했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NYU opens incubator applications for New York City-area devs",
+    "translated_title": "NYU, 뉴욕 지역 개발자 대상 인큐베이터 신청 개시",
+    "link": "https://www.gamedeveloper.com/business/nyu-opens-incubator-applications-for-new-york-city-area-devs",
+    "date": "2026-07-15",
+    "summary": [
+      "NYU, 뉴욕 게임 디자인 퓨처 랩 인큐베이터 운영",
+      "개발자에게 멘토링, 워크숍, 투자 기회 제공"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "UK union launches free resource to decode video game writing contracts",
+    "translated_title": "영국 작가조합, 게임 작가 계약서 해독 위한 무료 자료 공개",
+    "link": "https://www.gamedeveloper.com/production/uk-union-launches-free-resource-to-decode-video-game-writing-contracts",
+    "date": "2026-07-15",
+    "summary": [
+      "영국 작가조합(Writers' Guild of Great Britain)이 게임 작가 계약서 해독을 위한 무료 자료를 출시했습니다.",
+      "최근 몇 년간 게임 작가 계약과 관련한 불량 관행이 증가한 것을 목격했기 때문입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "IWGB Game Workers union forms 'redundancy taskforce' to defend workers' rights",
+    "translated_title": "IWGB 게임 노동자 노조, '정리해고 태스크포스' 결성하여 노동자 권리 옹호",
+    "link": "https://www.gamedeveloper.com/business/iwgb-game-workers-union-forms-redundancy-taskforce-to-defend-workers-rights",
+    "date": "2026-07-15",
+    "summary": [
+      "IWGB 게임 노동자 노조가 정리해고 태스크포스를 결성했습니다.",
+      "이들은 노동자의 권리를 보호하고 잘못된 경영과 탐욕으로 인한 정리해고에 맞서 싸울 것입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "What building Shippy taught us about building agents",
+    "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "date": "2026-07-15",
+    "summary": [
+      "샤피 프로젝트 개발 경험을 바탕으로 에이전트 구축에 대한 교훈을 공유합니다.",
+      "효과적인 에이전트 설계를 위한 실질적인 인사이트를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "translated_title": "모델 라우팅은 간단하다. 복잡해지기 전까지는.",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "date": "2026-07-15",
+    "summary": [
+      "모델 라우팅은 초기에는 단순하지만, 특정 상황에서 복잡성이 증가합니다.",
+      "이 글/영상은 모델 라우팅의 복잡한 측면을 다룰 예정입니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Welcome Inkling by Thinking Machines",
+    "translated_title": "Thinking Machines의 잉클링을 환영합니다",
+    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "date": "2026-07-15",
+    "summary": [
+      "Thinking Machines에서 새로운 프로젝트 '잉클링'을 소개합니다.",
+      "이 영상/글은 잉클링에 대한 간략한 소개를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "translated_title": "실제 세계 보이스EQ 소개: 음성 AI의 인간적인 품질 측정",
+    "link": "https://huggingface.co/blog/real-world-voiceeq",
+    "date": "2026-07-15",
+    "summary": [
+      "음성 AI의 인간적인 품질을 측정하는 '보이스EQ'를 소개합니다.",
+      "실제 환경에서의 음성 AI 성능 평가 및 개선에 초점을 맞춥니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "translated_title": "미국, 주 및 연방 차원의 조치로 AI 안전 발전시켜",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "date": "2026-07-15",
+    "summary": [
+      "OpenAI는 \"역연방주의\" 접근 방식을 제안합니다.",
+      "주 법이 안전하고 민주적인 AI를 위한 국가 프레임워크 구축에 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "translated_title": "GPT-Red: 견고성을 위한 AI 자체 개선 기능 해제",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "date": "2026-07-15",
+    "summary": [
+      "GPT-Red는 OpenAI의 자동 레드팀 시스템입니다.",
+      "셀프 플레이를 통해 AI 안전성, 정렬, 프롬프트 주입 견고성을 개선합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "translated_title": "에이전트 시대의 AI 투자 관리 방법",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "date": "2026-07-14",
+    "summary": [
+      "달러당 유용한 작업량 측정",
+      "효율성 개선 및 고가치 워크플로우 확장"
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "translated_title": "ChatGPT Work, 영업팀 활용법",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-07-14",
+    "summary": [
+      "영업팀이 ChatGPT Work를 사용하여 파이프라인 브리핑, 회의 준비 자료, 예측 검토, 계정 계획, 교착 상태 거래 진단 등을 생성할 수 있습니다.",
+      "실제 업무 입력을 기반으로 다양한 영업 문서를 효율적으로 작성하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "translated_title": "데이터 과학팀, ChatGPT Work 활용법",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-14",
+    "summary": [
+      "데이터 과학팀이 ChatGPT Work를 활용하여 근본 원인 분석 보고서, 영향력 분석, KPI 보고서 등을 작성하는 방법을 소개합니다.",
+      "실제 업무 데이터를 기반으로 분석 및 보고서 작성을 효율화합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Assassin's Creed Black Flag Resynced crosses 2 million in sales as studio strikes over proposed layoffs",
     "translated_title": "어쌔신 크리드 블랙 플래그 리싱크드, 200만 장 판매 돌파… 스튜디오는 감원 반대 파업",
     "link": "https://www.gamedeveloper.com/business/assassin-s-creed-black-flag-topped-2m-sales-on-its-first-day",
@@ -74,50 +298,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "translated_title": "에이전트 시대의 AI 투자 관리 방법",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "date": "2026-07-14",
-    "summary": [
-      "달러당 유용한 작업량 측정",
-      "효율성 개선 및 고가치 워크플로우 확장"
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "translated_title": "데이터 과학팀, ChatGPT Work 활용법",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "date": "2026-07-14",
-    "summary": [
-      "데이터 과학팀이 ChatGPT Work를 활용하여 근본 원인 분석 보고서, 영향력 분석, KPI 보고서 등을 작성하는 방법을 소개합니다.",
-      "실제 업무 데이터를 기반으로 분석 및 보고서 작성을 효율화합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "translated_title": "ChatGPT Work, 영업팀 활용법",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "date": "2026-07-14",
-    "summary": [
-      "영업팀이 ChatGPT Work를 사용하여 파이프라인 브리핑, 회의 준비 자료, 예측 검토, 계정 계획, 교착 상태 거래 진단 등을 생성할 수 있습니다.",
-      "실제 업무 입력을 기반으로 다양한 영업 문서를 효율적으로 작성하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
