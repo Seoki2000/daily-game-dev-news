@@ -1,5 +1,172 @@
 const allArticlesData = [
   {
+    "title": "Claude Just Revealed AI's Biggest Problem",
+    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
+    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+    "date": "2026-07-16",
+    "summary": [
+      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
+      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
+      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs",
+    "translated_title": "마이크로소프트, 엑스박스 구조조정 부당 처리 의혹에 노조 법적 대응",
+    "link": "https://www.gamedeveloper.com/production/unions-take-legal-action-against-microsoft-for-allegedly-mishandling-xbox-layoffs",
+    "date": "2026-07-16",
+    "summary": [
+      "CWA 캐나다 회장, 마이크로소프트가 노조와 사전 협의 없이 불법 해고를 단행했다고 주장.",
+      "노조는 마이크로소프트가 해고 통보 및 논의 없이 근로자들을 해고했다고 비난."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'The goal of design is to efficiently communicate ideas'",
+    "translated_title": "디자인의 목표는 아이디어를 효율적으로 전달하는 것이다",
+    "link": "https://www.gamedeveloper.com/design/-the-goal-of-design-is-to-efficiently-communicate-ideas-",
+    "date": "2026-07-16",
+    "summary": [
+      "Stone Librande의 GDC 강연 'One Page Designs'를 다시 살펴봅니다.",
+      "디자인의 본질적인 가치와 효과적인 아이디어 전달에 대한 통찰을 얻을 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "ZeniMax Online Studios leadership included in Xbox mass layoffs",
+    "translated_title": "ZeniMax Online Studios 리더십, Xbox 대규모 감원 포함",
+    "link": "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-is-part-of-the-379-laid-off-workers",
+    "date": "2026-07-16",
+    "summary": [
+      "Xbox에서 ZeniMax Online Studios의 스튜디오 책임자, 운영 이사, 게임 디렉터 등이 감원 대상에 포함되었습니다.",
+      "이번 감원은 수십 명의 고위 및 리드 직책을 포함하는 Xbox의 대규모 정리 해고의 일환입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pokemon Go owner Scopely 'reorganizes' Stumble Guys team",
+    "translated_title": "포켓몬 GO 개발사 Scopely, 'Stumble Guys' 팀 '개편'",
+    "link": "https://www.gamedeveloper.com/business/pokemon-go-owner-scopely-reorganizes-stumble-guys-team",
+    "date": "2026-07-16",
+    "summary": [
+      "Scopely가 Stumble Guys 팀을 개편했습니다.",
+      "이번 개편으로 소수의 직원에게 영향을 미쳤습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "translated_title": "NVIDIA Nemotron 3 임베드, RTEB 전체 1위 달성 및 에이전트 검색 성능 향상",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "date": "2026-07-16",
+    "summary": [
+      "NVIDIA Nemotron 3 임베드가 RTEB 벤치마크에서 종합 1위를 차지했습니다.",
+      "이는 에이전트 기반 검색(Agentic Retrieval) 성능을 크게 향상시켰음을 의미합니다.",
+      "Nemotron 3는 대규모 언어 모델(LLM)의 검색 능력을 강화하는 데 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "translated_title": "새로운 모델, 변함없는 이점",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "date": "2026-07-16",
+    "summary": [
+      "새로운 모델이 출시되었습니다.",
+      "기존의 이점은 그대로 유지됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "translated_title": "보안 사고 공개 - 2026년 7월",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "date": "2026-07-16",
+    "summary": [
+      "2026년 7월에 발생한 보안 사고에 대한 정보 공개.",
+      "사고의 세부 내용 및 영향에 대한 설명 포함."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "translated_title": "청소년에게 안전한 AI 접근권이 필요한 이유",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "date": "2026-07-16",
+    "summary": [
+      "OpenAI는 연령에 적합한 보호 기능으로 ChatGPT를 청소년에게 더 안전하게 만들고 있습니다.",
+      "학습 도구, 자녀 보호 기능, 전문가 협력을 통해 안전성을 강화합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "translated_title": "Cars24, OpenAI로 대화를 확장하고 더 빠르게 구축하는 방법",
+    "link": "https://openai.com/index/cars24",
+    "date": "2026-07-16",
+    "summary": [
+      "OpenAI 기반 음성 및 채팅 에이전트로 월 100만 분 이상 대화 처리",
+      "잠재 고객 중 12%를 다시 확보",
+      "전사적으로 에이전트 워크플로우 도입"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Our approach to bioresilience",
+    "translated_title": "바이오 회복탄력성에 대한 우리의 접근 방식",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-16",
+    "summary": [
+      "Google DeepMind와 Isomorphic Labs가 공동 접근 방식을 공유합니다.",
+      "AI 모델을 활용한 바이오 회복탄력성 연구를 소개합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Claude's Brain Has A Secret... And Scientists Found It",
     "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
     "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
@@ -28,6 +195,65 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "What building Shippy taught us about building agents",
+    "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "date": "2026-07-15",
+    "summary": [
+      "샤피 프로젝트 개발 경험을 바탕으로 에이전트 구축에 대한 교훈을 공유합니다.",
+      "효과적인 에이전트 설계를 위한 실질적인 인사이트를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "translated_title": "모델 라우팅은 간단하다. 복잡해지기 전까지는.",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "date": "2026-07-15",
+    "summary": [
+      "모델 라우팅은 초기에는 단순하지만, 특정 상황에서 복잡성이 증가합니다.",
+      "이 글/영상은 모델 라우팅의 복잡한 측면을 다룰 예정입니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "translated_title": "미국, 주 및 연방 차원의 조치로 AI 안전 발전시켜",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "date": "2026-07-15",
+    "summary": [
+      "OpenAI는 \"역연방주의\" 접근 방식을 제안합니다.",
+      "주 법이 안전하고 민주적인 AI를 위한 국가 프레임워크 구축에 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "translated_title": "GPT-Red: 견고성을 위한 AI 자체 개선 기능 해제",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "date": "2026-07-15",
+    "summary": [
+      "GPT-Red는 OpenAI의 자동 레드팀 시스템입니다.",
+      "셀프 플레이를 통해 AI 안전성, 정렬, 프롬프트 주입 견고성을 개선합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Dead Space co-creator Glen Schofield retires",
@@ -91,35 +317,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "What building Shippy taught us about building agents",
-    "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "date": "2026-07-15",
-    "summary": [
-      "샤피 프로젝트 개발 경험을 바탕으로 에이전트 구축에 대한 교훈을 공유합니다.",
-      "효과적인 에이전트 설계를 위한 실질적인 인사이트를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "translated_title": "모델 라우팅은 간단하다. 복잡해지기 전까지는.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "date": "2026-07-15",
-    "summary": [
-      "모델 라우팅은 초기에는 단순하지만, 특정 상황에서 복잡성이 증가합니다.",
-      "이 글/영상은 모델 라우팅의 복잡한 측면을 다룰 예정입니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Welcome Inkling by Thinking Machines",
     "translated_title": "Thinking Machines의 잉클링을 환영합니다",
     "link": "https://huggingface.co/blog/thinkingmachines-inkling",
@@ -148,36 +345,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "The US is advancing AI safety through state and federal action",
-    "translated_title": "미국, 주 및 연방 차원의 조치로 AI 안전 발전시켜",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "date": "2026-07-15",
-    "summary": [
-      "OpenAI는 \"역연방주의\" 접근 방식을 제안합니다.",
-      "주 법이 안전하고 민주적인 AI를 위한 국가 프레임워크 구축에 기여합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "translated_title": "GPT-Red: 견고성을 위한 AI 자체 개선 기능 해제",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "date": "2026-07-15",
-    "summary": [
-      "GPT-Red는 OpenAI의 자동 레드팀 시스템입니다.",
-      "셀프 플레이를 통해 AI 안전성, 정렬, 프롬프트 주입 견고성을 개선합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "How to manage AI investments in the agentic era",
