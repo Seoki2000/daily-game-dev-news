@@ -1,5 +1,81 @@
 const allArticlesData = [
   {
+    "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
+    "translated_title": "ZA/UM, '디스코 엘리시움' 개발사, '라스트 카지노' 출시 두 달 만에 최대 32명 감원",
+    "link": "https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-workers-two-months-after-releasing-zero-parades-for-dead-spies",
+    "date": "2026-07-17",
+    "summary": [
+      "ZA/UM 스튜디오가 신작 '라스트 카지노' 출시 두 달 만에 최대 32명의 직원을 해고합니다.",
+      "이번 감원은 회사의 구조 변화를 가져오지만, 예술적 기준과 목적은 유지될 것이라고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Todd Howard says 'the timing is right' for a collaboration with Obsidian",
+    "translated_title": "토드 하워드, 옵시디언과의 협업 '지금이 적기'",
+    "link": "https://www.gamedeveloper.com/business/todd-howard-says-the-timing-is-right-for-a-collaboration-with-obsidian",
+    "date": "2026-07-17",
+    "summary": [
+      "폴아웃 신작, 옵시디언 엔터테인먼트와 함께 개발 중.",
+      "폴아웃 프랜차이즈 디렉터 토드 하워드가 공식 발표.",
+      "두 스튜디오 간의 협업 시기가 적절하다고 언급."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Labor unions challenge Xbox, GameStop CEO says physical game sales are 'irrelevant,' and Glen Schofield retires - Patch Notes #61",
+    "translated_title": "노조, Xbox에 도전… 게임스톱 CEO “패키지 게임 판매는 무의미” 발언, 글렌 쇼필드 은퇴 - 패치 노트 #61",
+    "link": "https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamestop-ceo-says-physical-game-sales-are-irrelevant-and-glen-schofield-retires-patch-notes-61",
+    "date": "2026-07-17",
+    "summary": [
+      "Xbox에 대한 노조의 도전이 시작되었습니다.",
+      "게임스톱 CEO가 물리적 게임 판매는 '무의미하다'고 발언했습니다.",
+      "글렌 쇼필드 디렉터가 은퇴했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "translated_title": "NVIDIA NeMo Automodel과 🤗 Diffusers를 사용하여 대규모 비디오 및 이미지 모델 미세 조정하기",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "date": "2026-07-17",
+    "summary": [
+      "NVIDIA NeMo Automodel과 Hugging Face Diffusers를 활용한 대규모 모델 미세 조정 방법을 소개합니다.",
+      "이미지 및 비디오 모델을 효율적으로 튜닝하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "translated_title": "AI 시대의 성과 측정 지표",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
+    "summary": [
+      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
+      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Claude Just Revealed AI's Biggest Problem",
     "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
     "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
@@ -43,52 +119,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "ZeniMax Online Studios leadership included in Xbox mass layoffs",
-    "translated_title": "ZeniMax Online Studios 리더십, Xbox 대규모 감원 포함",
-    "link": "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-is-part-of-the-379-laid-off-workers",
-    "date": "2026-07-16",
-    "summary": [
-      "Xbox에서 ZeniMax Online Studios의 스튜디오 책임자, 운영 이사, 게임 디렉터 등이 감원 대상에 포함되었습니다.",
-      "이번 감원은 수십 명의 고위 및 리드 직책을 포함하는 Xbox의 대규모 정리 해고의 일환입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pokemon Go owner Scopely 'reorganizes' Stumble Guys team",
-    "translated_title": "포켓몬 GO 개발사 Scopely, 'Stumble Guys' 팀 '개편'",
-    "link": "https://www.gamedeveloper.com/business/pokemon-go-owner-scopely-reorganizes-stumble-guys-team",
-    "date": "2026-07-16",
-    "summary": [
-      "Scopely가 Stumble Guys 팀을 개편했습니다.",
-      "이번 개편으로 소수의 직원에게 영향을 미쳤습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "translated_title": "NVIDIA Nemotron 3 임베드, RTEB 전체 1위 달성 및 에이전트 검색 성능 향상",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "date": "2026-07-16",
-    "summary": [
-      "NVIDIA Nemotron 3 임베드가 RTEB 벤치마크에서 종합 1위를 차지했습니다.",
-      "이는 에이전트 기반 검색(Agentic Retrieval) 성능을 크게 향상시켰음을 의미합니다.",
-      "Nemotron 3는 대규모 언어 모델(LLM)의 검색 능력을 강화하는 데 기여합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Newer Models, Same Advantage",
@@ -167,6 +197,52 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "ZeniMax Online Studios leadership included in Xbox mass layoffs",
+    "translated_title": "ZeniMax Online Studios 리더십, Xbox 대규모 감원 포함",
+    "link": "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-is-part-of-the-379-laid-off-workers",
+    "date": "2026-07-16",
+    "summary": [
+      "Xbox에서 ZeniMax Online Studios의 스튜디오 책임자, 운영 이사, 게임 디렉터 등이 감원 대상에 포함되었습니다.",
+      "이번 감원은 수십 명의 고위 및 리드 직책을 포함하는 Xbox의 대규모 정리 해고의 일환입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pokemon Go owner Scopely 'reorganizes' Stumble Guys team",
+    "translated_title": "포켓몬 GO 개발사 Scopely, 'Stumble Guys' 팀 '개편'",
+    "link": "https://www.gamedeveloper.com/business/pokemon-go-owner-scopely-reorganizes-stumble-guys-team",
+    "date": "2026-07-16",
+    "summary": [
+      "Scopely가 Stumble Guys 팀을 개편했습니다.",
+      "이번 개편으로 소수의 직원에게 영향을 미쳤습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "translated_title": "NVIDIA Nemotron 3 임베드, RTEB 전체 1위 달성 및 에이전트 검색 성능 향상",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "date": "2026-07-16",
+    "summary": [
+      "NVIDIA Nemotron 3 임베드가 RTEB 벤치마크에서 종합 1위를 차지했습니다.",
+      "이는 에이전트 기반 검색(Agentic Retrieval) 성능을 크게 향상시켰음을 의미합니다.",
+      "Nemotron 3는 대규모 언어 모델(LLM)의 검색 능력을 강화하는 데 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Claude's Brain Has A Secret... And Scientists Found It",
     "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
     "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
@@ -181,20 +257,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "Former Epic Games VP appointed Saber Interactive's chief business officer",
-    "translated_title": "에픽게임즈 전 부사장, 세이버 인터랙티브 최고 사업 책임자로 임명",
-    "link": "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-saber-interactive-s-chief-business-officer",
-    "date": "2026-07-15",
-    "summary": [
-      "에픽게임즈 전 부사장 스티브 앨리슨이 세이버 인터랙티브 최고 사업 책임자(CBO)로 합류했습니다.",
-      "그는 퍼블리싱, 마케팅, 수익화 기회를 총괄하며 CEO 매튜 카치에게 직속 보고할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "What building Shippy taught us about building agents",
@@ -254,6 +316,20 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Former Epic Games VP appointed Saber Interactive's chief business officer",
+    "translated_title": "에픽게임즈 전 부사장, 세이버 인터랙티브 최고 사업 책임자로 임명",
+    "link": "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-saber-interactive-s-chief-business-officer",
+    "date": "2026-07-15",
+    "summary": [
+      "에픽게임즈 전 부사장 스티브 앨리슨이 세이버 인터랙티브 최고 사업 책임자(CBO)로 합류했습니다.",
+      "그는 퍼블리싱, 마케팅, 수익화 기회를 총괄하며 CEO 매튜 카치에게 직속 보고할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Dead Space co-creator Glen Schofield retires",
