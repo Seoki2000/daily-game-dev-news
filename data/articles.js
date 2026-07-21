@@ -1,5 +1,99 @@
 const allArticlesData = [
   {
+    "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
+    "translated_title": "Unity, 빌드를 깨뜨리지 않는 업데이트 경로를 포함한 Unity 7 로드맵 공개",
+    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+    "date": "2026-07-21",
+    "summary": [
+      "Unity 7은 Unity 6과 동일한 아키텍처 위에서 작동합니다.",
+      "개선 사항과 새로운 개발자 도구를 제공합니다.",
+      "빌드를 깨뜨리지 않는 업데이트 경로를 제공합니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Meet the Unity CLI: manage Unity from your terminal",
+    "translated_title": "Unity CLI 만나보기: 터미널에서 Unity 관리하기",
+    "link": "https://unity.com/blog/meet-the-unity-cli",
+    "date": "2026-07-20",
+    "summary": [
+      "터미널에서 Unity 에디터 설치 및 CI 자동화가 가능합니다.",
+      "스크립트와 AI 에이전트가 Unity를 효율적으로 제어할 수 있습니다.",
+      "실행 중인 에디터나 개발 빌드를 터미널에서 제어할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
+    "translated_title": "넷플릭스, 비평가 혹평 FIFA 월드컵 게임 '최고 수준' 성과 거뒀다고 밝혀",
+    "link": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
+    "date": "2026-07-20",
+    "summary": [
+      "넷플릭스는 비평가들의 혹평에도 불구하고 FIFA 월드컵 비디오 게임이 '최고 수준'의 성과를 거뒀다고 발표했습니다.",
+      "이 축구 시뮬레이션 게임은 6월 11일 출시 이후 '가장 성공적인 클라우드 게임 데뷔' 중 하나를 기록했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
+    "translated_title": "Xbox의 최신 해고로 둠(2016) 남은 개발진의 2/3가 해고됨",
+    "link": "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-development-team-laid-off-during-latest-round-of-xbox-cuts",
+    "date": "2026-07-20",
+    "summary": [
+      "Xbox의 최신 해고에서 둠(2016) 개발팀의 2/3가 감축되었습니다.",
+      "이번 해고는 Xbox의 광범위한 구조조정의 일부입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "translated_title": "코스모스 3 엣지 소개",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "date": "2026-07-20",
+    "summary": [
+      "코스모스 3 엣지 출시",
+      "주요 기능 및 특징 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "translated_title": "장기 실행 모델 시대의 안전 및 정렬",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-20",
+    "summary": [
+      "OpenAI는 장기 실행 AI 모델 배포 경험을 공유합니다.",
+      "새로운 안전 위험, 관찰된 실패 사례, 반복적 배포를 통한 안전 장치 개선을 강조합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
     "translated_title": "ZA/UM, '디스코 엘리시움' 개발사, '라스트 카지노' 출시 두 달 만에 최대 32명 감원",
     "link": "https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-workers-two-months-after-releasing-zero-parades-for-dead-spies",
@@ -31,6 +125,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "A scorecard for the AI age",
+    "translated_title": "AI 시대의 성과 측정 지표",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
+    "summary": [
+      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
+      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Labor unions challenge Xbox, GameStop CEO says physical game sales are 'irrelevant,' and Glen Schofield retires - Patch Notes #61",
     "translated_title": "노조, Xbox에 도전… 게임스톱 CEO “패키지 게임 판매는 무의미” 발언, 글렌 쇼필드 은퇴 - 패치 노트 #61",
     "link": "https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamestop-ceo-says-physical-game-sales-are-irrelevant-and-glen-schofield-retires-patch-notes-61",
@@ -59,66 +168,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "translated_title": "AI 시대의 성과 측정 지표",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-17",
-    "summary": [
-      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
-      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Claude Just Revealed AI's Biggest Problem",
-    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
-    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-    "date": "2026-07-16",
-    "summary": [
-      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
-      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
-      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs",
-    "translated_title": "마이크로소프트, 엑스박스 구조조정 부당 처리 의혹에 노조 법적 대응",
-    "link": "https://www.gamedeveloper.com/production/unions-take-legal-action-against-microsoft-for-allegedly-mishandling-xbox-layoffs",
-    "date": "2026-07-16",
-    "summary": [
-      "CWA 캐나다 회장, 마이크로소프트가 노조와 사전 협의 없이 불법 해고를 단행했다고 주장.",
-      "노조는 마이크로소프트가 해고 통보 및 논의 없이 근로자들을 해고했다고 비난."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'The goal of design is to efficiently communicate ideas'",
-    "translated_title": "디자인의 목표는 아이디어를 효율적으로 전달하는 것이다",
-    "link": "https://www.gamedeveloper.com/design/-the-goal-of-design-is-to-efficiently-communicate-ideas-",
-    "date": "2026-07-16",
-    "summary": [
-      "Stone Librande의 GDC 강연 'One Page Designs'를 다시 살펴봅니다.",
-      "디자인의 본질적인 가치와 효과적인 아이디어 전달에 대한 통찰을 얻을 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "Newer Models, Same Advantage",
@@ -197,6 +246,51 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Claude Just Revealed AI's Biggest Problem",
+    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
+    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+    "date": "2026-07-16",
+    "summary": [
+      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
+      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
+      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs",
+    "translated_title": "마이크로소프트, 엑스박스 구조조정 부당 처리 의혹에 노조 법적 대응",
+    "link": "https://www.gamedeveloper.com/production/unions-take-legal-action-against-microsoft-for-allegedly-mishandling-xbox-layoffs",
+    "date": "2026-07-16",
+    "summary": [
+      "CWA 캐나다 회장, 마이크로소프트가 노조와 사전 협의 없이 불법 해고를 단행했다고 주장.",
+      "노조는 마이크로소프트가 해고 통보 및 논의 없이 근로자들을 해고했다고 비난."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'The goal of design is to efficiently communicate ideas'",
+    "translated_title": "디자인의 목표는 아이디어를 효율적으로 전달하는 것이다",
+    "link": "https://www.gamedeveloper.com/design/-the-goal-of-design-is-to-efficiently-communicate-ideas-",
+    "date": "2026-07-16",
+    "summary": [
+      "Stone Librande의 GDC 강연 'One Page Designs'를 다시 살펴봅니다.",
+      "디자인의 본질적인 가치와 효과적인 아이디어 전달에 대한 통찰을 얻을 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "ZeniMax Online Studios leadership included in Xbox mass layoffs",
     "translated_title": "ZeniMax Online Studios 리더십, Xbox 대규모 감원 포함",
     "link": "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-is-part-of-the-379-laid-off-workers",
@@ -243,22 +337,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Claude's Brain Has A Secret... And Scientists Found It",
-    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
-    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-    "date": "2026-07-15",
-    "summary": [
-      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
-      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "What building Shippy taught us about building agents",
     "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
     "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
@@ -301,6 +379,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Claude's Brain Has A Secret... And Scientists Found It",
+    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
+    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+    "date": "2026-07-15",
+    "summary": [
+      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
+      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
