@@ -1,5 +1,172 @@
 const allArticlesData = [
   {
+    "title": "Former Wreckreation team starts up new studio working on sequel",
+    "translated_title": "전 Wreckreation 팀, 신규 스튜디오 설립 후 속편 개발 중",
+    "link": "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up-new-studio-working-on-sequel",
+    "date": "2026-07-21",
+    "summary": [
+      "전 Wreckreation 팀이 새로운 스튜디오를 설립했습니다.",
+      "이들은 현재 개발 중인 게임의 속편에 집중하고 있습니다.",
+      "개발자는 플레이어의 피드백을 통해 게임을 개선한다고 믿습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pentiment director emphasizes the importance of RPG players not controlling everything",
+    "translated_title": "펜티먼트 디렉터, RPG 플레이어의 '모든 것을 통제하려는' 욕구에 제동을 걸어야 한다 강조",
+    "link": "https://www.gamedeveloper.com/design/pentiment-director-emphasizes-the-importance-of-rpg-players-not-controlling-everything",
+    "date": "2026-07-21",
+    "summary": [
+      "RPG에서 플레이어가 주인공으로서 모든 것을 할 수 있다는 생각에 반대합니다.",
+      "주인공이라도 할 수 있는 일에는 한계가 있어야 한다고 주장합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "What developers can learn from this generation of game criticism",
+    "translated_title": "이 시대 게임 비평에서 개발자가 배울 점",
+    "link": "https://www.gamedeveloper.com/design/what-developers-can-learn-from-this-generation-of-games-criticism",
+    "date": "2026-07-21",
+    "summary": [
+      "게임 디자인 분석 영상 에세이가 수백만 뷰를 기록하고 있습니다.",
+      "이러한 형식에서 개발자가 배울 수 있는 점과 활용 방안을 모색합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Splitgate dev 1047 games lays off staff",
+    "translated_title": "스플릿게이트 개발사 1047 게임즈, 직원 해고 보도",
+    "link": "https://www.gamedeveloper.com/business/report-splitgate-dev-1047-games-lays-off-staff",
+    "date": "2026-07-21",
+    "summary": [
+      "스플릿게이트 개발사인 1047 게임즈의 직원 해고 소식이 전해졌습니다.",
+      "이는 타이탄폴 스타일의 슈팅 게임 '엠펄스(Empulse)' 출시 약 한 달 만에 일어난 일입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Nintendo says consumers are not legally entitled to tariff refunds",
+    "translated_title": "닌텐도, 소비자 관세 환급 청구는 법적 권리 아냐",
+    "link": "https://www.gamedeveloper.com/business/nintendo-says-consumers-are-not-legally-entitled-to-tariff-rebate",
+    "date": "2026-07-21",
+    "summary": [
+      "닌텐도 및 판매점은 제품 가격을 책정했습니다.",
+      "소비자는 해당 가격을 지불할 가치가 있는지 스스로 판단했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "translated_title": "물리 AI 시뮬레이션의 현황: 개요",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "date": "2026-07-21",
+    "summary": [
+      "물리 AI 시뮬레이션의 현재 발전 단계를 조망합니다.",
+      "AI가 물리적 환경에서 어떻게 학습하고 작동하는지에 대한 개요를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "translated_title": "Grabette: 로봇 조작 데이터 기록을 위한 오픈 시스템",
+    "link": "https://huggingface.co/blog/grabette",
+    "date": "2026-07-21",
+    "summary": [
+      "Grabette는 로봇 조작 데이터를 기록하기 위한 오픈 시스템입니다.",
+      "이 시스템은 연구 및 개발에 유용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "translated_title": "소상공인을 위한 ChatGPT 프로그램 출시",
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "date": "2026-07-21",
+    "summary": [
+      "OpenAI, 소상공인 대상 ChatGPT 프로그램 출시",
+      "AI 기술 습득, 업무 자동화, ChatGPT Work를 통한 성장 지원"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "translated_title": "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 대한 초기 조사 결과 공유",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "date": "2026-07-21",
+    "summary": [
+      "OpenAI와 Hugging Face가 AI 모델 평가 과정에서 발생한 보안 사고의 초기 조사 결과를 발표했습니다.",
+      "사고는 고도화된 사이버 공격 능력과 관련이 있으며, 방어자들에게 교훈을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "translated_title": "데이비드 벨레스와 로빈 빈스가 OpenAI 재단 및 OpenAI 그룹 PBC 이사회에 합류",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "date": "2026-07-21",
+    "summary": [
+      "데이비드 벨레스와 로빈 빈스가 OpenAI 이사회에 합류했습니다.",
+      "이들은 금융, 기술, 거버넌스 분야의 글로벌 리더십을 더할 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "translated_title": "새로운 Gemini 모델: 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 출시",
+    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "date": "2026-07-21",
+    "summary": [
+      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 등 새로운 Gemini 모델을 출시합니다.",
+      "토큰/시간 절약을 위해 길이를 제한합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
     "translated_title": "Unity, 빌드를 깨뜨리지 않는 업데이트 경로를 포함한 Unity 7 로드맵 공개",
     "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
@@ -31,6 +198,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "translated_title": "장기 실행 모델 시대의 안전 및 정렬",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-20",
+    "summary": [
+      "OpenAI는 장기 실행 AI 모델 배포 경험을 공유합니다.",
+      "새로운 안전 위험, 관찰된 실패 사례, 반복적 배포를 통한 안전 장치 개선을 강조합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
@@ -78,20 +261,35 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "translated_title": "장기 실행 모델 시대의 안전 및 정렬",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "date": "2026-07-20",
+    "title": "A scorecard for the AI age",
+    "translated_title": "AI 시대의 성과 측정 지표",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
     "summary": [
-      "OpenAI는 장기 실행 AI 모델 배포 경험을 공유합니다.",
-      "새로운 안전 위험, 관찰된 실패 사례, 반복적 배포를 통한 안전 장치 개선을 강조합니다."
+      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
+      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
     ],
     "tags": [
-      "Research",
-      "AI",
-      "News"
+      "News",
+      "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "translated_title": "Gemini 3.5 Flash Cyber 출시: 경량화된 사이버 보안 모델",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "date": "2026-07-17",
+    "summary": [
+      "Google이 Gemini 3.5 Flash Cyber를 공개했습니다.",
+      "이 모델은 취약점을 찾고 패치하는 데 특화된 경량 사이버 보안 솔루션입니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
@@ -125,21 +323,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "A scorecard for the AI age",
-    "translated_title": "AI 시대의 성과 측정 지표",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-17",
-    "summary": [
-      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
-      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Labor unions challenge Xbox, GameStop CEO says physical game sales are 'irrelevant,' and Glen Schofield retires - Patch Notes #61",
     "translated_title": "노조, Xbox에 도전… 게임스톱 CEO “패키지 게임 판매는 무의미” 발언, 글렌 쇼필드 은퇴 - 패치 노트 #61",
     "link": "https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamestop-ceo-says-physical-game-sales-are-irrelevant-and-glen-schofield-retires-patch-notes-61",
@@ -168,6 +351,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Claude Just Revealed AI's Biggest Problem",
+    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
+    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+    "date": "2026-07-16",
+    "summary": [
+      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
+      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
+      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Newer Models, Same Advantage",
@@ -200,6 +399,21 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Our approach to bioresilience",
+    "translated_title": "바이오 회복탄력성에 대한 우리의 접근 방식",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-16",
+    "summary": [
+      "Google DeepMind와 Isomorphic Labs가 공동 접근 방식을 공유합니다.",
+      "AI 모델을 활용한 바이오 회복탄력성 연구를 소개합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Why teens deserve access to safe AI",
     "translated_title": "청소년에게 안전한 AI 접근권이 필요한 이유",
     "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
@@ -229,37 +443,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Our approach to bioresilience",
-    "translated_title": "바이오 회복탄력성에 대한 우리의 접근 방식",
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "date": "2026-07-16",
-    "summary": [
-      "Google DeepMind와 Isomorphic Labs가 공동 접근 방식을 공유합니다.",
-      "AI 모델을 활용한 바이오 회복탄력성 연구를 소개합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Claude Just Revealed AI's Biggest Problem",
-    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
-    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-    "date": "2026-07-16",
-    "summary": [
-      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
-      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
-      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs",
@@ -337,6 +520,22 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Claude's Brain Has A Secret... And Scientists Found It",
+    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
+    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+    "date": "2026-07-15",
+    "summary": [
+      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
+      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "What building Shippy taught us about building agents",
     "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
     "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
@@ -379,22 +578,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Claude's Brain Has A Secret... And Scientists Found It",
-    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
-    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-    "date": "2026-07-15",
-    "summary": [
-      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
-      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
