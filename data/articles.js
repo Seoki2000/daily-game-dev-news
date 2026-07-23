@@ -1,5 +1,219 @@
 const allArticlesData = [
   {
+    "title": "Microsoft launches Xbox backward compatibility for PC",
+    "translated_title": "마이크로소프트, PC용 엑스박스 호환성 기능 출시",
+    "link": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
+    "date": "2026-07-22",
+    "summary": [
+      "마이크로소프트가 PC에서 엑스박스 호환성 기능을 출시합니다.",
+      "이는 어려운 소식이 이어진 한 달 만에 발표되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
+    "translated_title": "2013년 출시된 Kinect 게임, 2026년에 부활하다",
+    "link": "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013-has-been-revived-in-the-year-of-our-lord-2026",
+    "date": "2026-07-22",
+    "summary": [
+      "13년 만에 'Freefall Racers'가 다시 출시됩니다.",
+      "Nex Playground를 통해 플레이할 수 있게 됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Splatoon Raiders started off as a tower defense game",
+    "translated_title": "스플래툰 레이더스, 원래는 타워 디펜스 게임으로 시작했다",
+    "link": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
+    "date": "2026-07-22",
+    "summary": [
+      "개발 초기 스플래툰 레이더스는 타워 디펜스 장르를 고려했습니다.",
+      "디렉터는 새로운 아이디어를 프로토타이핑할 때 시리즈 핵심 강점을 유지하는 것이 중요하다고 언급했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Human Fall Flat 2 is cancelled. We are making Human Fall Flat 3:' No Brakes Games founder looks back on a defining decade",
+    "translated_title": "'Human Fall Flat 2' 취소, 'Human Fall Flat 3' 개발: No Brakes Games 대표 10년 회고",
+    "link": "https://www.gamedeveloper.com/production/-human-fall-flat-2-is-cancelled-we-are-making-human-fall-flat-3-no-brakes-games-founder-looks-back-on-a-defining-decade",
+    "date": "2026-07-22",
+    "summary": [
+      "No Brakes Games의 대표가 'Human Fall Flat 2' 취소와 'Human Fall Flat 3' 개발을 발표했습니다.",
+      "이 회사는 10년 동안 'Human Fall Flat'을 6천만 명 이상이 즐기는 글로벌 프랜차이즈로 성장시켰습니다.",
+      "대표는 그동안의 경험과 교훈을 공유했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Hasbro records $56M write down after scrapping 'several' video games",
+    "translated_title": "하스브로, '여러' 비디오 게임 프로젝트 취소 후 5,600만 달러 손실 기록",
+    "link": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
+    "date": "2026-07-22",
+    "summary": [
+      "하스브로가 여러 비디오 게임 프로젝트를 취소했습니다.",
+      "이로 인해 5,600만 달러의 손실이 발생했습니다.",
+      "회사는 '프랜차이즈 잠재력과 초기 게임을 넘어선 의미 있는 기회'가 있는 프로젝트에 집중할 계획입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "translated_title": "이핑엄 카운티 지역사회와 함께하는 AI 인프라 구축",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "date": "2026-07-22",
+    "summary": [
+      "OpenAI, 조지아주 이핑엄 카운티에 '프로젝트 카멜리아' 발표",
+      "책임감 있는 에너지, 지역사회 투자, 일자리 창출, Codex 접근성 약속"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "translated_title": "뉴스 조직, AI로 핵심 사명 강화하는 방법",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "date": "2026-07-22",
+    "summary": [
+      "AI를 활용해 보도 강화, 독자층 확대, 사업 운영 개선",
+      "OpenAI 도구가 전 세계 기자 및 발행인 지원"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "translated_title": "국가 과학의 차세대 발전을 선도하다",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "date": "2026-07-22",
+    "summary": [
+      "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 최첨단 AI를 활용한 과학적 발견 가속화를 약속합니다.",
+      "이는 미국 과학 발전의 새로운 시대를 열기 위한 노력의 일환입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "translated_title": "OpenAI Presence 소개",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "date": "2026-07-22",
+    "summary": [
+      "OpenAI Presence는 엔터프라이즈 AI 에이전트 플랫폼입니다.",
+      "고객 및 내부 워크플로우를 위한 음성 및 채팅 에이전트 배포를 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "translated_title": "NTT 데이터 그룹, Codex로 사고 분석 시간 30분 단축",
+    "link": "https://openai.com/index/ntt-data",
+    "date": "2026-07-22",
+    "summary": [
+      "NTT 데이터 그룹은 ChatGPT Enterprise와 Codex를 활용하여 9,000명의 직원이 업무를 자동화하도록 지원합니다.",
+      "이 기술 도입으로 사고 분석 시간을 30분으로 단축했습니다.",
+      "안전한 AI 도입 확대를 목표로 하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "translated_title": "과학적 발견의 최전선 가속화: 구글, 제네시스 미션에 4천만 달러 지원 약속",
+    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-22",
+    "summary": [
+      "구글은 제네시스 미션에 AI 토큰 및 크레딧 형태로 4천만 달러를 지원합니다.",
+      "이번 투자는 과학적 발견의 속도를 높이는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "translated_title": "물리 AI 시뮬레이션의 현황: 개요",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "date": "2026-07-21",
+    "summary": [
+      "물리 AI 시뮬레이션의 현재 발전 단계를 조망합니다.",
+      "AI가 물리적 환경에서 어떻게 학습하고 작동하는지에 대한 개요를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "translated_title": "Grabette: 로봇 조작 데이터 기록을 위한 오픈 시스템",
+    "link": "https://huggingface.co/blog/grabette",
+    "date": "2026-07-21",
+    "summary": [
+      "Grabette는 로봇 조작 데이터를 기록하기 위한 오픈 시스템입니다.",
+      "이 시스템은 연구 및 개발에 유용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "translated_title": "새로운 Gemini 모델: 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 출시",
+    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "date": "2026-07-21",
+    "summary": [
+      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 등 새로운 Gemini 모델을 출시합니다.",
+      "토큰/시간 절약을 위해 길이를 제한합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Former Wreckreation team starts up new studio working on sequel",
     "translated_title": "전 Wreckreation 팀, 신규 스튜디오 설립 후 속편 개발 중",
     "link": "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up-new-studio-working-on-sequel",
@@ -76,36 +290,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "translated_title": "물리 AI 시뮬레이션의 현황: 개요",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "date": "2026-07-21",
-    "summary": [
-      "물리 AI 시뮬레이션의 현재 발전 단계를 조망합니다.",
-      "AI가 물리적 환경에서 어떻게 학습하고 작동하는지에 대한 개요를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "translated_title": "Grabette: 로봇 조작 데이터 기록을 위한 오픈 시스템",
-    "link": "https://huggingface.co/blog/grabette",
-    "date": "2026-07-21",
-    "summary": [
-      "Grabette는 로봇 조작 데이터를 기록하기 위한 오픈 시스템입니다.",
-      "이 시스템은 연구 및 개발에 유용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Introducing the ChatGPT for small business program",
     "translated_title": "소상공인을 위한 ChatGPT 프로그램 출시",
     "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -150,21 +334,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "translated_title": "새로운 Gemini 모델: 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 출시",
-    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-    "date": "2026-07-21",
-    "summary": [
-      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 등 새로운 Gemini 모델을 출시합니다.",
-      "토큰/시간 절약을 위해 길이를 제한합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
@@ -261,21 +430,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "A scorecard for the AI age",
-    "translated_title": "AI 시대의 성과 측정 지표",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-17",
-    "summary": [
-      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
-      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "translated_title": "Gemini 3.5 Flash Cyber 출시: 경량화된 사이버 보안 모델",
     "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
@@ -290,6 +444,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "translated_title": "AI 시대의 성과 측정 지표",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
+    "summary": [
+      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
+      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
@@ -384,21 +553,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Security incident disclosure — July 2026",
-    "translated_title": "보안 사고 공개 - 2026년 7월",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "date": "2026-07-16",
-    "summary": [
-      "2026년 7월에 발생한 보안 사고에 대한 정보 공개.",
-      "사고의 세부 내용 및 영향에 대한 설명 포함."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Our approach to bioresilience",
     "translated_title": "바이오 회복탄력성에 대한 우리의 접근 방식",
     "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
@@ -412,6 +566,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "translated_title": "보안 사고 공개 - 2026년 7월",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "date": "2026-07-16",
+    "summary": [
+      "2026년 7월에 발생한 보안 사고에 대한 정보 공개.",
+      "사고의 세부 내용 및 영향에 대한 설명 포함."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Why teens deserve access to safe AI",
