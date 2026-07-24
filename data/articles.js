@@ -1,5 +1,95 @@
 const allArticlesData = [
   {
+    "title": "Steam adds wishlist categories and cross-region gifting",
+    "translated_title": "Steam, 위시리스트 카테고리 및 지역 간 선물 기능 추가",
+    "link": "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross-region-gifting",
+    "date": "2026-07-23",
+    "summary": [
+      "Steam이 위시리스트 관리 기능을 개선했습니다.",
+      "이제 위시리스트를 카테고리별로 분류할 수 있습니다.",
+      "지역 제한 없이 게임 선물이 가능해졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Vermila Studios lays off its staff, studio closure a 'feasible possibility' in coming months",
+    "translated_title": "베르밀라 스튜디오, 직원 해고 및 향후 몇 달 내 스튜디오 폐쇄 가능성 시사",
+    "link": "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-studio-closure-a-feasible-possibility-in-coming-months",
+    "date": "2026-07-23",
+    "summary": [
+      "베르밀라 스튜디오가 직원을 해고했습니다.",
+      "CEO는 현재 상황에서 폐쇄 없이 운영을 이어가기 위해 노력할 것이라고 밝혔습니다.",
+      "향후 몇 달 내 스튜디오 폐쇄 가능성이 제기되고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Saudi Arabia's divisive EA buyout approved under EU merger rules",
+    "translated_title": "사우디아라비아의 EA 인수, EU 경쟁 규정 하에 승인",
+    "link": "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyout-approved-under-eu-merger-rules",
+    "date": "2026-07-23",
+    "summary": [
+      "EU 집행위원회는 사우디아라비아의 EA 인수 거래에 경쟁 우려가 없다고 결론 내렸습니다.",
+      "이는 EU의 인수 합병 규칙에 따라 승인되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Bethesda union slams Xbox for offering the 'bare legal minimum in terms of severance'",
+    "translated_title": "베데스다 노조, 엑스박스의 '최소 법적 수준의 퇴직금' 제안 비난",
+    "link": "https://www.gamedeveloper.com/production/canadian-union-workers-slam-xbox-for-offering-the-bare-legal-minimum-in-terms-of-severance-",
+    "date": "2026-07-23",
+    "summary": [
+      "베데스다 노조가 엑스박스의 퇴직금 수준이 법적 최소한에 불과하다고 비난했습니다.",
+      "베데스다 몬트리올 직원들은 마이크로소프트가 건강 보험 등 그룹 혜택을 즉시 중단했다고 주장했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "translated_title": "Diffusers 라이브러리로 Nunchaku 4비트 확산 모델 추론하기",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
+    "date": "2026-07-23",
+    "summary": [
+      "Diffusers 라이브러리에 Nunchaku 4비트 확산 모델 추론 기능이 추가되었습니다.",
+      "이를 통해 더욱 효율적이고 빠른 확산 모델 추론이 가능해집니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "translated_title": "ChatGPT, 건강 정보 연동 기능 출시",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-23",
+    "summary": [
+      "미국 eligible 사용자는 의료 기록과 Apple Health를 ChatGPT에 안전하게 연결할 수 있습니다.",
+      "개인 맞춤형 건강 인사이트를 얻고 건강 상태를 더 잘 이해할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Microsoft launches Xbox backward compatibility for PC",
     "translated_title": "마이크로소프트, PC용 엑스박스 호환성 기능 출시",
     "link": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
@@ -9,68 +99,6 @@ const allArticlesData = [
       "이는 어려운 소식이 이어진 한 달 만에 발표되었습니다."
     ],
     "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
-    "translated_title": "2013년 출시된 Kinect 게임, 2026년에 부활하다",
-    "link": "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013-has-been-revived-in-the-year-of-our-lord-2026",
-    "date": "2026-07-22",
-    "summary": [
-      "13년 만에 'Freefall Racers'가 다시 출시됩니다.",
-      "Nex Playground를 통해 플레이할 수 있게 됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Splatoon Raiders started off as a tower defense game",
-    "translated_title": "스플래툰 레이더스, 원래는 타워 디펜스 게임으로 시작했다",
-    "link": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
-    "date": "2026-07-22",
-    "summary": [
-      "개발 초기 스플래툰 레이더스는 타워 디펜스 장르를 고려했습니다.",
-      "디렉터는 새로운 아이디어를 프로토타이핑할 때 시리즈 핵심 강점을 유지하는 것이 중요하다고 언급했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Human Fall Flat 2 is cancelled. We are making Human Fall Flat 3:' No Brakes Games founder looks back on a defining decade",
-    "translated_title": "'Human Fall Flat 2' 취소, 'Human Fall Flat 3' 개발: No Brakes Games 대표 10년 회고",
-    "link": "https://www.gamedeveloper.com/production/-human-fall-flat-2-is-cancelled-we-are-making-human-fall-flat-3-no-brakes-games-founder-looks-back-on-a-defining-decade",
-    "date": "2026-07-22",
-    "summary": [
-      "No Brakes Games의 대표가 'Human Fall Flat 2' 취소와 'Human Fall Flat 3' 개발을 발표했습니다.",
-      "이 회사는 10년 동안 'Human Fall Flat'을 6천만 명 이상이 즐기는 글로벌 프랜차이즈로 성장시켰습니다.",
-      "대표는 그동안의 경험과 교훈을 공유했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Hasbro records $56M write down after scrapping 'several' video games",
-    "translated_title": "하스브로, '여러' 비디오 게임 프로젝트 취소 후 5,600만 달러 손실 기록",
-    "link": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
-    "date": "2026-07-22",
-    "summary": [
-      "하스브로가 여러 비디오 게임 프로젝트를 취소했습니다.",
-      "이로 인해 5,600만 달러의 손실이 발생했습니다.",
-      "회사는 '프랜차이즈 잠재력과 초기 게임을 넘어선 의미 있는 기회'가 있는 프로젝트에 집중할 계획입니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -137,22 +165,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "translated_title": "NTT 데이터 그룹, Codex로 사고 분석 시간 30분 단축",
-    "link": "https://openai.com/index/ntt-data",
-    "date": "2026-07-22",
-    "summary": [
-      "NTT 데이터 그룹은 ChatGPT Enterprise와 Codex를 활용하여 9,000명의 직원이 업무를 자동화하도록 지원합니다.",
-      "이 기술 도입으로 사고 분석 시간을 30분으로 단축했습니다.",
-      "안전한 AI 도입 확대를 목표로 하고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "translated_title": "과학적 발견의 최전선 가속화: 구글, 제네시스 미션에 4천만 달러 지원 약속",
     "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -167,6 +179,84 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
+    "translated_title": "2013년 출시된 Kinect 게임, 2026년에 부활하다",
+    "link": "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013-has-been-revived-in-the-year-of-our-lord-2026",
+    "date": "2026-07-22",
+    "summary": [
+      "13년 만에 'Freefall Racers'가 다시 출시됩니다.",
+      "Nex Playground를 통해 플레이할 수 있게 됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Splatoon Raiders started off as a tower defense game",
+    "translated_title": "스플래툰 레이더스, 원래는 타워 디펜스 게임으로 시작했다",
+    "link": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
+    "date": "2026-07-22",
+    "summary": [
+      "개발 초기 스플래툰 레이더스는 타워 디펜스 장르를 고려했습니다.",
+      "디렉터는 새로운 아이디어를 프로토타이핑할 때 시리즈 핵심 강점을 유지하는 것이 중요하다고 언급했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Human Fall Flat 2 is cancelled. We are making Human Fall Flat 3:' No Brakes Games founder looks back on a defining decade",
+    "translated_title": "'Human Fall Flat 2' 취소, 'Human Fall Flat 3' 개발: No Brakes Games 대표 10년 회고",
+    "link": "https://www.gamedeveloper.com/production/-human-fall-flat-2-is-cancelled-we-are-making-human-fall-flat-3-no-brakes-games-founder-looks-back-on-a-defining-decade",
+    "date": "2026-07-22",
+    "summary": [
+      "No Brakes Games의 대표가 'Human Fall Flat 2' 취소와 'Human Fall Flat 3' 개발을 발표했습니다.",
+      "이 회사는 10년 동안 'Human Fall Flat'을 6천만 명 이상이 즐기는 글로벌 프랜차이즈로 성장시켰습니다.",
+      "대표는 그동안의 경험과 교훈을 공유했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Hasbro records $56M write down after scrapping 'several' video games",
+    "translated_title": "하스브로, '여러' 비디오 게임 프로젝트 취소 후 5,600만 달러 손실 기록",
+    "link": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
+    "date": "2026-07-22",
+    "summary": [
+      "하스브로가 여러 비디오 게임 프로젝트를 취소했습니다.",
+      "이로 인해 5,600만 달러의 손실이 발생했습니다.",
+      "회사는 '프랜차이즈 잠재력과 초기 게임을 넘어선 의미 있는 기회'가 있는 프로젝트에 집중할 계획입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "translated_title": "NTT 데이터 그룹, Codex로 사고 분석 시간 30분 단축",
+    "link": "https://openai.com/index/ntt-data",
+    "date": "2026-07-22",
+    "summary": [
+      "NTT 데이터 그룹은 ChatGPT Enterprise와 Codex를 활용하여 9,000명의 직원이 업무를 자동화하도록 지원합니다.",
+      "이 기술 도입으로 사고 분석 시간을 30분으로 단축했습니다.",
+      "안전한 AI 도입 확대를 목표로 하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "The State of Simulation for Physical AI: An Overview",
