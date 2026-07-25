@@ -1,5 +1,51 @@
 const allArticlesData = [
   {
+    "title": "Black Flag Resynced beats annual sales expectations in two weeks",
+    "translated_title": "어쌔신 크리드: 블랙 플래그 리싱크, 출시 2주 만에 연간 판매량 예상치 초과 달성",
+    "link": "https://www.gamedeveloper.com/business/black-flag-resynced-beats-annual-sales-expectations-in-two-weeks",
+    "date": "2026-07-24",
+    "summary": [
+      "Ubisoft가 '어쌔신 크리드: 블랙 플래그 리싱크'의 판매량 소식을 전했습니다.",
+      "리메이크 버전은 전 세계적으로 350만 장 이상 판매되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder",
+    "translated_title": "팬데믹 이후 판매 부진을 극복한 잭박스 게임즈 (마이크 빌더 인터뷰)",
+    "link": "https://www.gamedeveloper.com/business/how-jackbox-games-navigated-the-post-pandemic-sales-slump-ft-mike-bilder",
+    "date": "2026-07-24",
+    "summary": [
+      "잭박스 게임즈 CEO 마이크 빌더가 출연합니다.",
+      "팬데믹 종료 후 판매 감소 상황에 대한 논의가 이루어집니다.",
+      "잭박스 파티 팩 개발사들의 생존 전략을 다룹니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Saudi-led EA buyout receives EU approval, Xbox trials ad-supported game streaming, and Poinpy is eternal - Patch Notes #62",
+    "translated_title": "사우디 주도 EA 인수 EU 승인, Xbox 광고 지원 게임 스트리밍 테스트, Poinpy 영원하라 - 패치 노트 #62",
+    "link": "https://www.gamedeveloper.com/business/saudi-led-ea-buyout-receives-eu-approval-xbox-trials-ad-supported-game-streaming-and-poinpy-is-eternal-patch-notes-62",
+    "date": "2026-07-24",
+    "summary": [
+      "사우디 주도의 EA 인수 건이 EU 승인을 받았습니다.",
+      "Xbox가 광고 지원 게임 스트리밍 테스트를 진행합니다.",
+      "베데스다 노조원들이 Xbox에 반발하고 미공개 포켓몬 디자인도 공개됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Steam adds wishlist categories and cross-region gifting",
     "translated_title": "Steam, 위시리스트 카테고리 및 지역 간 선물 기능 추가",
     "link": "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross-region-gifting",
@@ -23,35 +69,6 @@ const allArticlesData = [
       "베르밀라 스튜디오가 직원을 해고했습니다.",
       "CEO는 현재 상황에서 폐쇄 없이 운영을 이어가기 위해 노력할 것이라고 밝혔습니다.",
       "향후 몇 달 내 스튜디오 폐쇄 가능성이 제기되고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saudi Arabia's divisive EA buyout approved under EU merger rules",
-    "translated_title": "사우디아라비아의 EA 인수, EU 경쟁 규정 하에 승인",
-    "link": "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyout-approved-under-eu-merger-rules",
-    "date": "2026-07-23",
-    "summary": [
-      "EU 집행위원회는 사우디아라비아의 EA 인수 거래에 경쟁 우려가 없다고 결론 내렸습니다.",
-      "이는 EU의 인수 합병 규칙에 따라 승인되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Bethesda union slams Xbox for offering the 'bare legal minimum in terms of severance'",
-    "translated_title": "베데스다 노조, 엑스박스의 '최소 법적 수준의 퇴직금' 제안 비난",
-    "link": "https://www.gamedeveloper.com/production/canadian-union-workers-slam-xbox-for-offering-the-bare-legal-minimum-in-terms-of-severance-",
-    "date": "2026-07-23",
-    "summary": [
-      "베데스다 노조가 엑스박스의 퇴직금 수준이 법적 최소한에 불과하다고 비난했습니다.",
-      "베데스다 몬트리올 직원들은 마이크로소프트가 건강 보험 등 그룹 혜택을 즉시 중단했다고 주장했습니다."
     ],
     "tags": [
       "GameDev",
@@ -90,15 +107,30 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Microsoft launches Xbox backward compatibility for PC",
-    "translated_title": "마이크로소프트, PC용 엑스박스 호환성 기능 출시",
-    "link": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
-    "date": "2026-07-22",
+    "title": "Saudi Arabia's divisive EA buyout approved under EU merger rules",
+    "translated_title": "사우디아라비아의 EA 인수, EU 경쟁 규정 하에 승인",
+    "link": "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyout-approved-under-eu-merger-rules",
+    "date": "2026-07-23",
     "summary": [
-      "마이크로소프트가 PC에서 엑스박스 호환성 기능을 출시합니다.",
-      "이는 어려운 소식이 이어진 한 달 만에 발표되었습니다."
+      "EU 집행위원회는 사우디아라비아의 EA 인수 거래에 경쟁 우려가 없다고 결론 내렸습니다.",
+      "이는 EU의 인수 합병 규칙에 따라 승인되었습니다."
     ],
     "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Bethesda union slams Xbox for offering the 'bare legal minimum in terms of severance'",
+    "translated_title": "베데스다 노조, 엑스박스의 '최소 법적 수준의 퇴직금' 제안 비난",
+    "link": "https://www.gamedeveloper.com/production/canadian-union-workers-slam-xbox-for-offering-the-bare-legal-minimum-in-terms-of-severance-",
+    "date": "2026-07-23",
+    "summary": [
+      "베데스다 노조가 엑스박스의 퇴직금 수준이 법적 최소한에 불과하다고 비난했습니다.",
+      "베데스다 몬트리올 직원들은 마이크로소프트가 건강 보험 등 그룹 혜택을 즉시 중단했다고 주장했습니다."
+    ],
+    "tags": [
+      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -179,6 +211,20 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Microsoft launches Xbox backward compatibility for PC",
+    "translated_title": "마이크로소프트, PC용 엑스박스 호환성 기능 출시",
+    "link": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
+    "date": "2026-07-22",
+    "summary": [
+      "마이크로소프트가 PC에서 엑스박스 호환성 기능을 출시합니다.",
+      "이는 어려운 소식이 이어진 한 달 만에 발표되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
