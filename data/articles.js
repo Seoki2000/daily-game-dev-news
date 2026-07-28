@@ -1,5 +1,52 @@
 const allArticlesData = [
   {
+    "title": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
+    "translated_title": "아타리와 유니버설, '아스테로이드', '미사일 커맨드' 등 고전 게임 기반 영화 제작",
+    "link": "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movies-based-on-classic-properties-including-asteroids-and-missile-command",
+    "date": "2026-07-27",
+    "summary": [
+      "아타리와 유니버설이 협력하여 '아스테로이드', '미사일 커맨드' 등 인기 고전 게임을 영화로 제작합니다.",
+      "아타리 CEO는 게임의 상징적인 정신을 새로운 매체인 영화로 옮기는 것을 목표로 한다고 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "translated_title": "NVIDIA Cosmos-H-Dreams: 수술 로봇을 위한 실시간 생성 시뮬레이션 구현",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "date": "2026-07-27",
+    "summary": [
+      "NVIDIA Cosmos-H-Dreams는 수술 로봇에 실시간 생성 시뮬레이션 기능을 도입합니다.",
+      "이를 통해 현실적인 수술 환경을 가상으로 구현할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "translated_title": "AI가 업무 범위를 어떻게 확장하는가",
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "date": "2026-07-27",
+    "summary": [
+      "OpenAI 연구에 따르면 AI는 근로자의 업무 범위를 확장하고 있습니다.",
+      "ChatGPT 사용자는 다양한 역할을 수행하며 직무 경계를 재정의하고 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Black Flag Resynced beats annual sales expectations in two weeks",
     "translated_title": "어쌔신 크리드: 블랙 플래그 리싱크, 출시 2주 만에 연간 판매량 예상치 초과 달성",
     "link": "https://www.gamedeveloper.com/business/black-flag-resynced-beats-annual-sales-expectations-in-two-weeks",
@@ -61,22 +108,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Vermila Studios lays off its staff, studio closure a 'feasible possibility' in coming months",
-    "translated_title": "베르밀라 스튜디오, 직원 해고 및 향후 몇 달 내 스튜디오 폐쇄 가능성 시사",
-    "link": "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-studio-closure-a-feasible-possibility-in-coming-months",
-    "date": "2026-07-23",
-    "summary": [
-      "베르밀라 스튜디오가 직원을 해고했습니다.",
-      "CEO는 현재 상황에서 폐쇄 없이 운영을 이어가기 위해 노력할 것이라고 밝혔습니다.",
-      "향후 몇 달 내 스튜디오 폐쇄 가능성이 제기되고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "translated_title": "Diffusers 라이브러리로 Nunchaku 4비트 확산 모델 추론하기",
     "link": "https://huggingface.co/blog/nunchaku-diffusers",
@@ -105,6 +136,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Vermila Studios lays off its staff, studio closure a 'feasible possibility' in coming months",
+    "translated_title": "베르밀라 스튜디오, 직원 해고 및 향후 몇 달 내 스튜디오 폐쇄 가능성 시사",
+    "link": "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-studio-closure-a-feasible-possibility-in-coming-months",
+    "date": "2026-07-23",
+    "summary": [
+      "베르밀라 스튜디오가 직원을 해고했습니다.",
+      "CEO는 현재 상황에서 폐쇄 없이 운영을 이어가기 위해 노력할 것이라고 밝혔습니다.",
+      "향후 몇 달 내 스튜디오 폐쇄 가능성이 제기되고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Saudi Arabia's divisive EA buyout approved under EU merger rules",
@@ -182,21 +229,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Introducing OpenAI Presence",
-    "translated_title": "OpenAI Presence 소개",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "date": "2026-07-22",
-    "summary": [
-      "OpenAI Presence는 엔터프라이즈 AI 에이전트 플랫폼입니다.",
-      "고객 및 내부 워크플로우를 위한 음성 및 채팅 에이전트 배포를 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "translated_title": "과학적 발견의 최전선 가속화: 구글, 제네시스 미션에 4천만 달러 지원 약속",
     "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -211,6 +243,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "translated_title": "OpenAI Presence 소개",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "date": "2026-07-22",
+    "summary": [
+      "OpenAI Presence는 엔터프라이즈 AI 에이전트 플랫폼입니다.",
+      "고객 및 내부 워크플로우를 위한 음성 및 채팅 에이전트 배포를 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Microsoft launches Xbox backward compatibility for PC",
@@ -303,6 +350,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "translated_title": "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 모델 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "date": "2026-07-21",
+    "summary": [
+      "새로운 Gemini 모델 출시",
+      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 포함",
+      "토큰/시간 절약을 위한 모델 길이 제한"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "The State of Simulation for Physical AI: An Overview",
