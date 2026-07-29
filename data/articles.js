@@ -1,18 +1,122 @@
 const allArticlesData = [
   {
-    "title": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
-    "translated_title": "아타리와 유니버설, '아스테로이드', '미사일 커맨드' 등 고전 게임 기반 영화 제작",
-    "link": "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movies-based-on-classic-properties-including-asteroids-and-missile-command",
-    "date": "2026-07-27",
+    "title": "Resident Evil Requiem has sold over 8M units",
+    "translated_title": "바이오하자드 빌리지, 800만 장 이상 판매 돌파",
+    "link": "https://www.gamedeveloper.com/business/resident-evil-requiem-has-sold-over-8m-units",
+    "date": "2026-07-28",
     "summary": [
-      "아타리와 유니버설이 협력하여 '아스테로이드', '미사일 커맨드' 등 인기 고전 게임을 영화로 제작합니다.",
-      "아타리 CEO는 게임의 상징적인 정신을 새로운 매체인 영화로 옮기는 것을 목표로 한다고 밝혔습니다."
+      "바이오하자드 빌리지(Resident Evil Requiem)가 800만 장 이상 판매되었습니다.",
+      "바이오하자드 시리즈의 누적 판매량은 현재 2억 1,300만 장입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Obituary: TaleWorlds Entertainment co-founder İpek Yavuz has passed away",
+    "translated_title": "타이월드 엔터테인먼트 공동 창립자 이펙 야부즈 별세",
+    "link": "https://www.gamedeveloper.com/business/obituary-taleworlds-co-founder-i-pek-yavuz-has-passed-away",
+    "date": "2026-07-28",
+    "summary": [
+      "마운트 앤 블레이드 개발사 타이월드 엔터테인먼트 공동 창립자인 이펙 야부즈가 사망했습니다.",
+      "그녀는 2005년 남편 아르마간 야부즈와 함께 회사를 설립했습니다."
     ],
     "tags": [
       "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Wizards of the Coast president John Hight is stepping down",
+    "translated_title": "매직: 더 개더링 개발사 Wizards of the Coast 사장 존 하이트, 자리에서 물러난다",
+    "link": "https://www.gamedeveloper.com/business/wizards-of-the-coast-president-john-hight-to-step-down",
+    "date": "2026-07-28",
+    "summary": [
+      "Wizards of the Coast 사장 존 하이트가 사임합니다.",
+      "새로운 자문 역할에서도 연봉 80만 달러와 현금 보너스를 계속 받습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Quest maker Meta is having its cake and eating it",
+    "translated_title": "퀘스트 제작사 메타, 누이 좋고 매부 좋은 격",
+    "link": "https://www.gamedeveloper.com/business/quest-maker-meta-spending-billions-on-ai-data-centre-while-lamenting-the-ai-driven-component-shortage",
+    "date": "2026-07-28",
+    "summary": [
+      "메타, 텍사스에 수십억 달러 규모의 AI 데이터 센터 건설 예정",
+      "AI 기반 메모리 부족으로 최근 Quest 가격 인상",
+      "AI 투자는 늘리고 가격은 올리는 메타의 행보"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses",
+    "translated_title": "'HR, 변호사, 홍보팀까지 저를 사냥해왔습니다': 개발자들은 사이드 워크 조항의 고통과 만연함에 대해 이야기합니다",
+    "link": "https://www.gamedeveloper.com/production/-i-have-been-hunted-down-by-hr-reps-lawyers-and-comms-people-developers-discuss-the-pain-and-prevalence-of-side-work-clauses",
+    "date": "2026-07-28",
+    "summary": [
+      "창의성으로 유명한 업계가 이를 어떻게 억누르고 있는지 논의합니다.",
+      "개발자들은 '사이드 워크' 조항으로 인해 HR, 변호사, 홍보팀으로부터 겪는 어려움을 토로합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "translated_title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "date": "2026-07-28",
+    "summary": [
+      "올모어스 플랫폼은 행성 규모의 지리공간 데이터를 활용합니다.",
+      "이를 통해 정교한 추론 및 분석 기능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "translated_title": "CPU에서 빠른 긴 컨텍스트 추론을 위한 LFM2.5 인코더",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "date": "2026-07-28",
+    "summary": [
+      "LFM2.5 인코더를 사용하여 CPU에서 긴 컨텍스트 추론 속도를 향상합니다.",
+      "토큰/시간 절약을 위해 컨텍스트 길이를 제한합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "translated_title": "에이전트 AI 시대의 과학 컴퓨팅",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-28",
+    "summary": [
+      "과학자들이 AI 코딩 에이전트를 활용하여 과학 컴퓨팅을 현대화하고 있습니다.",
+      "이를 통해 유전체학 등 다양한 분야에서 소프트웨어 개발 및 과학적 발견 속도가 가속화됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
@@ -31,6 +135,22 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "translated_title": "프론티어랩 에이전트 침투 분석: 2026년 7월 사건의 기술적 타임라인",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "date": "2026-07-27",
+    "summary": [
+      "2026년 7월 발생한 프론티어랩 에이전트 침투 사건의 기술적 분석을 담았습니다.",
+      "사건 발생부터 종료까지 상세한 기술적 타임라인을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "How AI is expanding what people do at work",
     "translated_title": "AI가 업무 범위를 어떻게 확장하는가",
     "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -45,6 +165,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
+    "translated_title": "아타리와 유니버설, '아스테로이드', '미사일 커맨드' 등 고전 게임 기반 영화 제작",
+    "link": "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movies-based-on-classic-properties-including-asteroids-and-missile-command",
+    "date": "2026-07-27",
+    "summary": [
+      "아타리와 유니버설이 협력하여 '아스테로이드', '미사일 커맨드' 등 인기 고전 게임을 영화로 제작합니다.",
+      "아타리 CEO는 게임의 상징적인 정신을 새로운 매체인 영화로 옮기는 것을 목표로 한다고 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Black Flag Resynced beats annual sales expectations in two weeks",
@@ -93,21 +228,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Steam adds wishlist categories and cross-region gifting",
-    "translated_title": "Steam, 위시리스트 카테고리 및 지역 간 선물 기능 추가",
-    "link": "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross-region-gifting",
-    "date": "2026-07-23",
-    "summary": [
-      "Steam이 위시리스트 관리 기능을 개선했습니다.",
-      "이제 위시리스트를 카테고리별로 분류할 수 있습니다.",
-      "지역 제한 없이 게임 선물이 가능해졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "translated_title": "Diffusers 라이브러리로 Nunchaku 4비트 확산 모델 추론하기",
     "link": "https://huggingface.co/blog/nunchaku-diffusers",
@@ -136,6 +256,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Steam adds wishlist categories and cross-region gifting",
+    "translated_title": "Steam, 위시리스트 카테고리 및 지역 간 선물 기능 추가",
+    "link": "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross-region-gifting",
+    "date": "2026-07-23",
+    "summary": [
+      "Steam이 위시리스트 관리 기능을 개선했습니다.",
+      "이제 위시리스트를 카테고리별로 분류할 수 있습니다.",
+      "지역 제한 없이 게임 선물이 가능해졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Vermila Studios lays off its staff, studio closure a 'feasible possibility' in coming months",
@@ -213,22 +348,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Advancing the next era of national science",
-    "translated_title": "국가 과학의 차세대 발전을 선도하다",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "date": "2026-07-22",
-    "summary": [
-      "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 최첨단 AI를 활용한 과학적 발견 가속화를 약속합니다.",
-      "이는 미국 과학 발전의 새로운 시대를 열기 위한 노력의 일환입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "translated_title": "과학적 발견의 최전선 가속화: 구글, 제네시스 미션에 4천만 달러 지원 약속",
     "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -243,6 +362,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "translated_title": "국가 과학의 차세대 발전을 선도하다",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "date": "2026-07-22",
+    "summary": [
+      "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 최첨단 AI를 활용한 과학적 발견 가속화를 약속합니다.",
+      "이는 미국 과학 발전의 새로운 시대를 열기 위한 노력의 일환입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Introducing OpenAI Presence",
