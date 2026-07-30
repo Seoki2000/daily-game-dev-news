@@ -1,5 +1,206 @@
 const allArticlesData = [
   {
+    "title": "Kimi K3 Just Broke The Economics Of AI",
+    "translated_title": "Kimi K3, AI 경제학의 판도를 바꾸다",
+    "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+    "date": "2026-07-29",
+    "summary": [
+      "Kimi K3는 AI 모델의 경제적 효율성을 획기적으로 개선한 것으로 보입니다.",
+      "Lambda GPU Cloud 및 Kimi K3 서비스 이용 링크가 제공됩니다.",
+      "관련 논문(arXiv:2607.24653)과 트위터 반응 링크가 공유되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Subnautica 2 and PUBG bolster Krafton's Q2 revenue",
+    "translated_title": "서브노티카 2와 배틀그라운드가 크래프톤 2분기 매출 견인",
+    "link": "https://www.gamedeveloper.com/business/subnautica-2-and-pubg-bolster-krafton-s-q2-revenue",
+    "date": "2026-07-29",
+    "summary": [
+      "크래프톤의 2분기 매출이 94.9% 상승하여 8억 8,910만 달러를 기록했습니다.",
+      "이는 서브노티카 2와 배틀그라운드의 성공적인 성과 덕분입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Tencent-owned Lightspeed LA is laying off staff",
+    "translated_title": "텐센트 산하 라이트스피드 LA, 인력 감축 단행",
+    "link": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
+    "date": "2026-07-29",
+    "summary": [
+      "더 라스트 센티넬 개발사인 라이트스피드 LA에서 직원 감축이 이루어졌습니다.",
+      "이번 감축은 프로젝트의 창의적 및 개발 방향 전환에 따른 것이라고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic Games hires former head of Blizzard's Battle.net",
+    "translated_title": "에픽게임즈, 블리자드 배틀넷 전 총괄 영입",
+    "link": "https://www.gamedeveloper.com/business/epic-games-hires-former-head-of-blizzard-s-battle-net",
+    "date": "2026-07-29",
+    "summary": [
+      "마틴 킬리, 에픽게임즈 스토어 및 온라인 서비스 총괄 부사장으로 합류",
+      "전 블리자드 배틀넷 책임자였던 인물"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EA boss awarded $38.6M after year of franchise success, studio layoffs, and GenAI adoption",
+    "translated_title": "EA CEO, 프랜차이즈 성공과 인력 감축, AI 도입 속 3,860만 달러 보상 받아",
+    "link": "https://www.gamedeveloper.com/business/ea-boss-awarded-38-6m-after-year-of-franchise-success-studio-layoffs-and-genai-adoption",
+    "date": "2026-07-29",
+    "summary": [
+      "EA CEO 앤드류 윌슨, 2013년부터 재임 중",
+      "프랜차이즈 성공, 스튜디오 직원 감축, 생성형 AI 도입 등 복합적인 상황 속 보상",
+      "총 보상액 3,860만 달러"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Double Fine making layoffs after being jettisoned by Xbox",
+    "translated_title": "Xbox로부터 결별 후 더블 파인, 인력 감축 단행",
+    "link": "https://www.gamedeveloper.com/business/double-fine-making-layoffs-after-being-jettisoned-by-xbox",
+    "date": "2026-07-29",
+    "summary": [
+      "더블 파인이 Xbox로부터 분리되었습니다.",
+      "이로 인해 스튜디오 생존을 위해 인력 감축이라는 고통스러운 결정을 내렸습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "translated_title": "설정 두 개 활성화로 ARC-AGI-3 벤치마크 점수 3배 향상시킨 방법",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-29",
+    "summary": [
+      "API 설정 두 가지를 통해 GPT-5.6의 ARC-AGI-3 벤치마크 성능을 개선했습니다.",
+      "추론 능력 유지 및 압축 기능 활성화를 통해 점수와 효율성을 높였습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "translated_title": "ChatGPT로 학술 연구 가속화: OpenAI, 10만 명의 연구자에게 무료 지원",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "date": "2026-07-29",
+    "summary": [
+      "OpenAI가 10만 명의 학술 연구자에게 최신 ChatGPT AI 모델을 무료 제공합니다.",
+      "이를 통해 과학 연구, 협업 및 발견을 가속화하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "translated_title": "GPT-5.6, 최첨단 지능과 효율성의 융합",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "date": "2026-07-29",
+    "summary": [
+      "GPT-5.6은 모델, 추론, 에이전트 워크플로우 전반에 걸쳐 AI 효율성을 향상시킵니다.",
+      "이를 통해 더 적은 비용으로 더 유용한 인텔리전스를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "translated_title": "Google Flow Music에서 Lyria 3.5 출시: 음악성, 가사, 보컬, 창의적 제어 기능 대폭 향상",
+    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "date": "2026-07-29",
+    "summary": [
+      "Google Flow Music에 Lyria 3.5 출시.",
+      "음악성, 가사, 보컬, 창의적 제어 기능 등 전반적인 성능 향상."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "translated_title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "date": "2026-07-28",
+    "summary": [
+      "올모어스 플랫폼은 행성 규모의 지리공간 데이터를 활용합니다.",
+      "이를 통해 정교한 추론 및 분석 기능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "translated_title": "CPU에서 빠른 긴 컨텍스트 추론을 위한 LFM2.5 인코더",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "date": "2026-07-28",
+    "summary": [
+      "LFM2.5 인코더를 사용하여 CPU에서 긴 컨텍스트 추론 속도를 향상합니다.",
+      "토큰/시간 절약을 위해 컨텍스트 길이를 제한합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "translated_title": "에이전트 AI 시대의 과학 컴퓨팅",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-28",
+    "summary": [
+      "과학자들이 AI 코딩 에이전트를 활용하여 과학 컴퓨팅을 현대화하고 있습니다.",
+      "이를 통해 유전체학 등 다양한 분야에서 소프트웨어 개발 및 과학적 발견 속도가 가속화됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Resident Evil Requiem has sold over 8M units",
     "translated_title": "바이오하자드 빌리지, 800만 장 이상 판매 돌파",
     "link": "https://www.gamedeveloper.com/business/resident-evil-requiem-has-sold-over-8m-units",
@@ -74,49 +275,20 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "translated_title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "date": "2026-07-28",
+    "title": "Why go D2C now: The mobile game webshop business case",
+    "translated_title": "지금 D2C(Direct-to-Consumer)를 해야 하는 이유: 모바일 게임 웹샵 사업 사례",
+    "link": "https://unity.com/blog/mobile-game-webshop-business-case",
+    "date": "2026-07-27",
     "summary": [
-      "올모어스 플랫폼은 행성 규모의 지리공간 데이터를 활용합니다.",
-      "이를 통해 정교한 추론 및 분석 기능을 제공합니다."
+      "2025년 모바일 최고 매출 게임들의 D2C 수익 38% 성장",
+      "플랫폼 정책 변화, 수수료 구조, 도구들이 모바일 게임 웹샵을 주도"
     ],
     "tags": [
-      "AI",
-      "Research"
+      "Unity",
+      "News",
+      "GameDev"
     ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "translated_title": "CPU에서 빠른 긴 컨텍스트 추론을 위한 LFM2.5 인코더",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "date": "2026-07-28",
-    "summary": [
-      "LFM2.5 인코더를 사용하여 CPU에서 긴 컨텍스트 추론 속도를 향상합니다.",
-      "토큰/시간 절약을 위해 컨텍스트 길이를 제한합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "translated_title": "에이전트 AI 시대의 과학 컴퓨팅",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "date": "2026-07-28",
-    "summary": [
-      "과학자들이 AI 코딩 에이전트를 활용하여 과학 컴퓨팅을 현대화하고 있습니다.",
-      "이를 통해 유전체학 등 다양한 분야에서 소프트웨어 개발 및 과학적 발견 속도가 가속화됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
