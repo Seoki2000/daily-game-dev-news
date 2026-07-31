@@ -1,5 +1,140 @@
 const allArticlesData = [
   {
+    "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
+    "translated_title": "내러티브 노트 #5: UNBEATABLE 뮤직비디오의 분위기는 최고야",
+    "link": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
+    "date": "2026-07-30",
+    "summary": [
+      "음악은 감정을 불러일으키는 것이 아니라, 그 자체가 감정이다.",
+      "예술 또한 감정 그 자체이다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The truth behind the resurrection of Poinpy",
+    "translated_title": "다시 살아난 'Poinpy'의 숨겨진 진실",
+    "link": "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-of-poinpy",
+    "date": "2026-07-30",
+    "summary": [
+      "'Poinpy'가 다시 부활했습니다.",
+      "이전보다 더욱 발전된 모습으로 돌아왔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity brings dedicated engine support to Netflix Games",
+    "translated_title": "유니티, 넷플릭스 게임 위한 전용 엔진 지원 제공",
+    "link": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games",
+    "date": "2026-07-30",
+    "summary": [
+      "유니티가 넷플릭스 게임 개발자를 위한 전용 엔진 지원을 발표했습니다.",
+      "이를 통해 넷플릭스의 멀티플랫폼 생태계 내 게임 제작을 지원할 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "If knowledge is power, why are game companies setting it alight?",
+    "translated_title": "지식이 힘이라면, 게임 회사들은 왜 그것을 불태우는 걸까요?",
+    "link": "https://www.gamedeveloper.com/production/if-knowledge-if-power-why-are-game-companies-choosing-impotence-",
+    "date": "2026-07-30",
+    "summary": [
+      "까다로운 생산 관련 질문에 누가 답을 알고 있을까요?",
+      "부디 그 답을 아는 사람이 해고되지 않았기를 바랍니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox revenue fell by $1.7 billion during fiscal 2026",
+    "translated_title": "Xbox, 2026 회계연도에 17억 달러의 수익 감소",
+    "link": "https://www.gamedeveloper.com/business/xbox-hardware-revenue-fell-by-1-7-billion-during-fiscal-2026",
+    "date": "2026-07-30",
+    "summary": [
+      "Xbox 판매 부진이 마이크로소프트에 새로운 일상이 되었습니다.",
+      "2026 회계연도에 Xbox 매출이 17억 달러 감소했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "translated_title": "GPU 관리: 유휴 GPU는 이제 비행 금지된 항공기만큼 아깝다",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "date": "2026-07-30",
+    "summary": [
+      "유휴 GPU는 귀중한 리소스 낭비입니다.",
+      "GPU 활용도를 높여 비용 효율성을 개선해야 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "translated_title": "GPT-5.6으로 가격 대비 성능 한계를 뛰어넘다",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-30",
+    "summary": [
+      "GPT-5.6의 루나 및 테라 가격 인하 소식을 전합니다.",
+      "OpenAI의 효율적인 모델을 통해 기업이 AI 워크플로우를 대규모로 배포하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "translated_title": "avatarin, GPT-Realtime으로 24/7 쇼핑 상담원 구축",
+    "link": "https://openai.com/index/avatarin",
+    "date": "2026-07-30",
+    "summary": [
+      "avatarin은 GPT-Realtime을 활용해 야마다덴키 쇼핑객에게 24시간 다국어 지원 제공",
+      "2주 만에 3만 명 이용, 설문 응답 92% 긍정적"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "translated_title": "Gemini Robotics ER 2: 비디오 이해, 작업 조율, 다중 로봇 협업으로 로봇에 동력 부여",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-07-30",
+    "summary": [
+      "Gemini Robotics ER 2는 로봇이 추론, 협업, 실제 작업 해결을 돕습니다.",
+      "비디오 이해, 도구 조율, 다중 로봇 협업 분야에서 혁신을 가져옵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Kimi K3 Just Broke The Economics Of AI",
     "translated_title": "Kimi K3, AI 경제학의 판도를 바꾸다",
     "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
@@ -15,6 +150,68 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "translated_title": "설정 두 개 활성화로 ARC-AGI-3 벤치마크 점수 3배 향상시킨 방법",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-29",
+    "summary": [
+      "API 설정 두 가지를 통해 GPT-5.6의 ARC-AGI-3 벤치마크 성능을 개선했습니다.",
+      "추론 능력 유지 및 압축 기능 활성화를 통해 점수와 효율성을 높였습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "translated_title": "ChatGPT로 학술 연구 가속화: OpenAI, 10만 명의 연구자에게 무료 지원",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "date": "2026-07-29",
+    "summary": [
+      "OpenAI가 10만 명의 학술 연구자에게 최신 ChatGPT AI 모델을 무료 제공합니다.",
+      "이를 통해 과학 연구, 협업 및 발견을 가속화하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "translated_title": "GPT-5.6, 최첨단 지능과 효율성의 융합",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "date": "2026-07-29",
+    "summary": [
+      "GPT-5.6은 모델, 추론, 에이전트 워크플로우 전반에 걸쳐 AI 효율성을 향상시킵니다.",
+      "이를 통해 더 적은 비용으로 더 유용한 인텔리전스를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "translated_title": "Google Flow Music에서 Lyria 3.5 출시: 음악성, 가사, 보컬, 창의적 제어 기능 대폭 향상",
+    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "date": "2026-07-29",
+    "summary": [
+      "Google Flow Music에 Lyria 3.5 출시.",
+      "음악성, 가사, 보컬, 창의적 제어 기능 등 전반적인 성능 향상."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Subnautica 2 and PUBG bolster Krafton's Q2 revenue",
@@ -94,68 +291,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "translated_title": "설정 두 개 활성화로 ARC-AGI-3 벤치마크 점수 3배 향상시킨 방법",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "date": "2026-07-29",
-    "summary": [
-      "API 설정 두 가지를 통해 GPT-5.6의 ARC-AGI-3 벤치마크 성능을 개선했습니다.",
-      "추론 능력 유지 및 압축 기능 활성화를 통해 점수와 효율성을 높였습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "translated_title": "ChatGPT로 학술 연구 가속화: OpenAI, 10만 명의 연구자에게 무료 지원",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "date": "2026-07-29",
-    "summary": [
-      "OpenAI가 10만 명의 학술 연구자에게 최신 ChatGPT AI 모델을 무료 제공합니다.",
-      "이를 통해 과학 연구, 협업 및 발견을 가속화하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "translated_title": "GPT-5.6, 최첨단 지능과 효율성의 융합",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "date": "2026-07-29",
-    "summary": [
-      "GPT-5.6은 모델, 추론, 에이전트 워크플로우 전반에 걸쳐 AI 효율성을 향상시킵니다.",
-      "이를 통해 더 적은 비용으로 더 유용한 인텔리전스를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "translated_title": "Google Flow Music에서 Lyria 3.5 출시: 음악성, 가사, 보컬, 창의적 제어 기능 대폭 향상",
-    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "date": "2026-07-29",
-    "summary": [
-      "Google Flow Music에 Lyria 3.5 출시.",
-      "음악성, 가사, 보컬, 창의적 제어 기능 등 전반적인 성능 향상."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "translated_title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -184,6 +319,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "translated_title": "Gemini Robotics 2, 로봇에 전신 지능을 구현하다",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "date": "2026-07-28",
+    "summary": [
+      "Gemini Robotics 2는 로봇의 전반적인 지능 향상에 초점.",
+      "로봇의 통합적인 움직임과 인지 능력 강화."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Scientific computing in the age of agentic AI",
