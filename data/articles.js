@@ -1,5 +1,21 @@
 const allArticlesData = [
   {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "translated_title": "수학 및 이론 컴퓨터 과학 분야의 10가지 최신 연구 성과",
+    "link": "https://openai.com/index/ten-advances-in-mathematics",
+    "date": "2026-08-01",
+    "summary": [
+      "OpenAI가 수학 및 이론 컴퓨터 과학의 난제 해결에 기여했습니다.",
+      "기하학, 암호학, 복잡성 이론 등 다양한 분야에서 성과를 발표했습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "EA clears US regulatory approvals in take-private deal",
     "translated_title": "EA, '투트레이크 딜' 미국 규제 승인 획득",
     "link": "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-have-been-cleared-for-its-take-private-deal",
@@ -150,21 +166,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "translated_title": "GPT-5.6으로 가격 대비 성능 한계를 뛰어넘다",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "date": "2026-07-30",
-    "summary": [
-      "GPT-5.6의 루나 및 테라 가격 인하 소식을 전합니다.",
-      "OpenAI의 효율적인 모델을 통해 기업이 AI 워크플로우를 대규모로 배포하는 방법을 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
     "translated_title": "Gemini Robotics ER 2: 비디오 이해, 작업 조율, 다중 로봇 협업으로 로봇에 동력 부여",
     "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -178,6 +179,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "translated_title": "GPT-5.6으로 가격 대비 성능 한계를 뛰어넘다",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-30",
+    "summary": [
+      "GPT-5.6의 루나 및 테라 가격 인하 소식을 전합니다.",
+      "OpenAI의 효율적인 모델을 통해 기업이 AI 워크플로우를 대규모로 배포하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "The truth behind the resurrection of Poinpy",
