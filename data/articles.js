@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+    "translated_title": "NVIDIA의 AI, 인간 모방만으로는 부족한 이유를 배우다",
+    "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+    "date": "2026-08-02",
+    "summary": [
+      "NVIDIA의 AI는 인간의 행동을 단순히 모방하는 것을 넘어, 더 나은 성능을 위해 새로운 학습 방식을 개발하고 있습니다.",
+      "이 연구는 AI가 더 복잡하고 창의적인 작업을 수행할 수 있도록 하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Ten advances in mathematics and theoretical computer science",
     "translated_title": "수학 및 이론 컴퓨터 과학 분야의 10가지 최신 연구 성과",
     "link": "https://openai.com/index/ten-advances-in-mathematics",
@@ -561,22 +576,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Why go D2C now: The mobile game webshop business case",
-    "translated_title": "지금 D2C(Direct-to-Consumer)를 해야 하는 이유: 모바일 게임 웹샵 사업 사례",
-    "link": "https://unity.com/blog/mobile-game-webshop-business-case",
-    "date": "2026-07-27",
-    "summary": [
-      "2025년 모바일 최고 매출 게임들의 D2C 수익 38% 성장",
-      "플랫폼 정책 변화, 수수료 구조, 도구들이 모바일 게임 웹샵을 주도"
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "translated_title": "NVIDIA Cosmos-H-Dreams: 수술 로봇을 위한 실시간 생성 시뮬레이션 구현",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -591,6 +590,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Why go D2C now: The mobile game webshop business case",
+    "translated_title": "지금 D2C(Direct-to-Consumer)를 해야 하는 이유: 모바일 게임 웹샵 사업 사례",
+    "link": "https://unity.com/blog/mobile-game-webshop-business-case",
+    "date": "2026-07-27",
+    "summary": [
+      "2025년 모바일 최고 매출 게임들의 D2C 수익 38% 성장",
+      "플랫폼 정책 변화, 수수료 구조, 도구들이 모바일 게임 웹샵을 주도"
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
