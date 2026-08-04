@@ -1,5 +1,126 @@
 const allArticlesData = [
   {
+    "title": "Games made with Unity: July 2026 in review",
+    "translated_title": "2026년 7월 Unity 게임 리뷰",
+    "link": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
+    "date": "2026-08-03",
+    "summary": [
+      "2026년 7월에 출시된 Unity 기반 게임들을 소개합니다.",
+      "Unity 커뮤니티의 최신 창작물을 확인해보세요."
+    ],
+    "tags": [
+      "News",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Another DeepSeek Moment Has Arrived",
+    "translated_title": "딥시크의 또 다른 순간이 찾아왔습니다",
+    "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+    "date": "2026-08-03",
+    "summary": [
+      "딥시크 v4 Flash 0731 모델 공개",
+      "Lambda GPU 클라우드 및 딥시크 API 소개"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "How Silent Hill: Townfall gets deep into its protagonist's headspace",
+    "translated_title": "사일런트 힐: 타운폴, 주인공의 정신세계를 깊이 파고드는 방법",
+    "link": "https://www.gamedeveloper.com/design/how-silent-hill-townfall-gets-deep-into-its-protagonist-s-headspace",
+    "date": "2026-08-03",
+    "summary": [
+      "아날로그 호러를 채택하고 플레이어 몰입도를 높이는 새로운 시점에 대해 이야기합니다.",
+      "사일런트 힐 시리즈 프로듀서와 게임 디렉터가 참여했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: FIFA World Cup developer Refactor Games shuttered by Delphi Interactive",
+    "translated_title": "보도: FIFA 월드컵 개발사 Refactor Games, Delphi Interactive에 의해 폐업",
+    "link": "https://www.gamedeveloper.com/production/report-refactor-games-shuttered-by-delphi-interactive",
+    "date": "2026-08-03",
+    "summary": [
+      "FIFA 월드컵 시뮬레이터 게임 개발사 Refactor Games가 Delphi Interactive에 의해 문을 닫았습니다.",
+      "해당 게임은 지난 6월 넷플릭스로 출시되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox hardware now costs a lot more in the UK and Europe",
+    "translated_title": "영국 및 유럽에서 Xbox 하드웨어 가격 대폭 인상",
+    "link": "https://www.gamedeveloper.com/business/xbox-hardware-now-costs-a-lot-more-in-the-uk-and-europe",
+    "date": "2026-08-03",
+    "summary": [
+      "영국 및 유럽에서 Xbox 하드웨어 가격이 인상되었습니다.",
+      "일부 콘솔 하드웨어 가격은 최대 50%까지 오를 것으로 예상됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PlayStation 5 sales have topped 95 million units worldwide",
+    "translated_title": "플레이스테이션 5, 전 세계 판매량 9,500만 대 돌파",
+    "link": "https://www.gamedeveloper.com/business/playstation-5-sales-have-topped-95-million-units-worldwide",
+    "date": "2026-08-03",
+    "summary": [
+      "플레이스테이션 5(PS5) 누적 판매량 9,500만 대를 돌파했습니다.",
+      "소니는 미국 관세 환급으로 5억 1,000만 달러 이상을 확보했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "translated_title": "6개월 만에 반응성 있는 음성 AI를 위한 실시간 시스템 구축 방법",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-03",
+    "summary": [
+      "GPT-Live는 턴리스(turnless) 음성 모델과 저지연 아키텍처를 활용합니다.",
+      "이를 통해 AI와 끊김 없이 자연스러운 음성 상호작용이 가능해집니다.",
+      "더 빠르고 자연스러운 대화를 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "translated_title": "Circles, OpenAI 기술로 통신사 개인화 강화",
+    "link": "https://openai.com/index/circles",
+    "date": "2026-08-03",
+    "summary": [
+      "Circles는 OpenAI API와 Codex를 활용하여 AI 기반 통신 경험을 제공합니다.",
+      "이를 통해 ARPU 22% 증가, 이탈률 9% 감소, 개발 효율성 향상을 달성했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
     "translated_title": "NVIDIA의 AI, 인간 모방만으로는 부족한 이유를 배우다",
     "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
@@ -43,6 +164,36 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "translated_title": "유럽 전역의 책임감 있는 AI 발전",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "date": "2026-07-31",
+    "summary": [
+      "OpenAI는 안전, 보안, 투명성, 출처 추적 관행을 통해 유럽의 책임감 있는 AI 거버넌스를 지원합니다.",
+      "EU AI 법안이 진전됨에 따라 이러한 노력은 계속될 것입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building abundant intelligence",
+    "translated_title": "풍부한 지능 구축하기",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "date": "2026-07-31",
+    "summary": [
+      "AI의 능력을 향상시키는 풀스택 접근 방식.",
+      "AI를 더 저렴하고 널리 사용할 수 있게 만듭니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Xbox CEO declares priorities after 'reset'",
@@ -90,36 +241,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Advancing responsible AI across Europe",
-    "translated_title": "유럽 전역의 책임감 있는 AI 발전",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "date": "2026-07-31",
-    "summary": [
-      "OpenAI는 안전, 보안, 투명성, 출처 추적 관행을 통해 유럽의 책임감 있는 AI 거버넌스를 지원합니다.",
-      "EU AI 법안이 진전됨에 따라 이러한 노력은 계속될 것입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Building abundant intelligence",
-    "translated_title": "풍부한 지능 구축하기",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "date": "2026-07-31",
-    "summary": [
-      "AI의 능력을 향상시키는 풀스택 접근 방식.",
-      "AI를 더 저렴하고 널리 사용할 수 있게 만듭니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Univé builds an AI-ready workforce",
     "translated_title": "Univé, AI 준비된 인력 구축",
     "link": "https://openai.com/index/unive",
@@ -151,21 +272,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
-    "translated_title": "내러티브 노트 #5: UNBEATABLE 뮤직비디오의 분위기는 최고야",
-    "link": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
-    "date": "2026-07-30",
-    "summary": [
-      "음악은 감정을 불러일으키는 것이 아니라, 그 자체가 감정이다.",
-      "예술 또한 감정 그 자체이다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "translated_title": "GPU 관리: 유휴 GPU는 이제 비행 금지된 항공기만큼 아깝다",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
@@ -194,6 +300,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
+    "translated_title": "내러티브 노트 #5: UNBEATABLE 뮤직비디오의 분위기는 최고야",
+    "link": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
+    "date": "2026-07-30",
+    "summary": [
+      "음악은 감정을 불러일으키는 것이 아니라, 그 자체가 감정이다.",
+      "예술 또한 감정 그 자체이다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Advancing the price-performance frontier with GPT-5.6",
