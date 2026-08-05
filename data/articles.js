@@ -1,5 +1,108 @@
 const allArticlesData = [
   {
+    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
+    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
+    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
+    "date": "2026-08-04",
+    "summary": [
+      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
+      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Devs raise $130,000 in just five days to support laid-off peers",
+    "translated_title": "개발자들, 해고된 동료 지원 위해 5일 만에 13만 달러 모금",
+    "link": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
+    "date": "2026-08-04",
+    "summary": [
+      "게임 업계 대규모 해고 사태 속에서 해고된 게임 노동자 지원을 위한 펀드 번들이 목표 금액의 절반 이상을 달성했습니다.",
+      "5일 만에 13만 달러(약 1억 7천만 원)가 모였으며, 현재 목표 금액은 20만 달러입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
+    "translated_title": "아동 안전 소송 속 로블록스, 디지털 안전 기준 마련 '지속 추진' 강조",
+    "link": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
+    "date": "2026-08-04",
+    "summary": [
+      "로블록스가 아동 안전 관련 소송에 직면한 가운데, 건강하고 안전하며 연령에 적합한 디지털 참여의 '글로벌 표준'을 설정하고 있다고 주장합니다.",
+      "회사는 이러한 노력이 지속적으로 이루어지고 있음을 강조하고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
+    "translated_title": "EA, 사우디 딜 앞두고 지난 회계연도 실적 보고서에서 라이브 서비스 매출이 압도적",
+    "link": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
+    "date": "2026-08-04",
+    "summary": [
+      "EA의 지난 회계연도 실적에서 라이브 서비스 매출이 가장 큰 비중을 차지했습니다.",
+      "사우디 국부펀드 컨소시엄과의 인수 계약이 오늘 마무리될 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "translated_title": "LFM2.5-2.6B로 로컬 에이전트를 어디든 배포하세요",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "date": "2026-08-04",
+    "summary": [
+      "LFM2.5-2.6B 모델을 사용하여 로컬 환경에 에이전트를 손쉽게 배포할 수 있습니다.",
+      "이 기술은 다양한 장소에서 에이전트를 유연하게 활용할 수 있도록 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "translated_title": "OpenAI 모델 관련 제3자 사이버 평가",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "date": "2026-08-04",
+    "summary": [
+      "OpenAI가 최근 제3자 사이버 보안 평가 중 발생한 사건들을 설명합니다.",
+      "AI 모델 테스트 및 평가 강화를 위한 새로운 안전 장치를 마련했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "translated_title": "ChatGPT Work 및 Codex를 활용한 새로운 학습 및 교육 방법",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "date": "2026-08-04",
+    "summary": [
+      "ChatGPT Work 및 Codex용 교육 플러그인을 소개합니다.",
+      "K-12 교사, 대학 교육자, 학생들의 학습, 교육, 연구, 개발을 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Games made with Unity: July 2026 in review",
     "translated_title": "2026년 7월 Unity 게임 리뷰",
     "link": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
@@ -14,6 +117,52 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "translated_title": "애플, 이번엔 잘못 짚었다",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "date": "2026-08-03",
+    "summary": [
+      "OpenAI, 애플의 근거 없는 소송에 반박.",
+      "직원 관련 허위 주장 정정 및 사건 경위 문서 공개."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "translated_title": "6개월 만에 반응성 있는 음성 AI를 위한 실시간 시스템 구축 방법",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-03",
+    "summary": [
+      "GPT-Live는 턴리스(turnless) 음성 모델과 저지연 아키텍처를 활용합니다.",
+      "이를 통해 AI와 끊김 없이 자연스러운 음성 상호작용이 가능해집니다.",
+      "더 빠르고 자연스러운 대화를 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "translated_title": "Circles, OpenAI 기술로 통신사 개인화 강화",
+    "link": "https://openai.com/index/circles",
+    "date": "2026-08-03",
+    "summary": [
+      "Circles는 OpenAI API와 Codex를 활용하여 AI 기반 통신 경험을 제공합니다.",
+      "이를 통해 ARPU 22% 증가, 이탈률 9% 감소, 개발 효율성 향상을 달성했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Another DeepSeek Moment Has Arrived",
@@ -88,37 +237,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "translated_title": "6개월 만에 반응성 있는 음성 AI를 위한 실시간 시스템 구축 방법",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "date": "2026-08-03",
-    "summary": [
-      "GPT-Live는 턴리스(turnless) 음성 모델과 저지연 아키텍처를 활용합니다.",
-      "이를 통해 AI와 끊김 없이 자연스러운 음성 상호작용이 가능해집니다.",
-      "더 빠르고 자연스러운 대화를 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "translated_title": "Circles, OpenAI 기술로 통신사 개인화 강화",
-    "link": "https://openai.com/index/circles",
-    "date": "2026-08-03",
-    "summary": [
-      "Circles는 OpenAI API와 Codex를 활용하여 AI 기반 통신 경험을 제공합니다.",
-      "이를 통해 ARPU 22% 증가, 이탈률 9% 감소, 개발 효율성 향상을 달성했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
@@ -407,21 +525,19 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Kimi K3 Just Broke The Economics Of AI",
-    "translated_title": "Kimi K3, AI 경제학의 판도를 바꾸다",
-    "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+    "title": "Tencent-owned Lightspeed LA is laying off staff",
+    "translated_title": "텐센트 산하 라이트스피드 LA, 인력 감축 단행",
+    "link": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
     "date": "2026-07-29",
     "summary": [
-      "Kimi K3는 AI 모델의 경제적 효율성을 획기적으로 개선한 것으로 보입니다.",
-      "Lambda GPU Cloud 및 Kimi K3 서비스 이용 링크가 제공됩니다.",
-      "관련 논문(arXiv:2607.24653)과 트위터 반응 링크가 공유되었습니다."
+      "더 라스트 센티넬 개발사인 라이트스피드 LA에서 직원 감축이 이루어졌습니다.",
+      "이번 감축은 프로젝트의 창의적 및 개발 방향 전환에 따른 것이라고 밝혔습니다."
     ],
     "tags": [
-      "AI",
       "News",
-      "Research"
+      "GameDev"
     ],
-    "source": "Two Minute Papers"
+    "source": "gamedeveloper"
   },
   {
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -437,6 +553,23 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Kimi K3 Just Broke The Economics Of AI",
+    "translated_title": "Kimi K3, AI 경제학의 판도를 바꾸다",
+    "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+    "date": "2026-07-29",
+    "summary": [
+      "Kimi K3는 AI 모델의 경제적 효율성을 획기적으로 개선한 것으로 보입니다.",
+      "Lambda GPU Cloud 및 Kimi K3 서비스 이용 링크가 제공됩니다.",
+      "관련 논문(arXiv:2607.24653)과 트위터 반응 링크가 공유되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -493,21 +626,6 @@ const allArticlesData = [
     "summary": [
       "크래프톤의 2분기 매출이 94.9% 상승하여 8억 8,910만 달러를 기록했습니다.",
       "이는 서브노티카 2와 배틀그라운드의 성공적인 성과 덕분입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Tencent-owned Lightspeed LA is laying off staff",
-    "translated_title": "텐센트 산하 라이트스피드 LA, 인력 감축 단행",
-    "link": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
-    "date": "2026-07-29",
-    "summary": [
-      "더 라스트 센티넬 개발사인 라이트스피드 LA에서 직원 감축이 이루어졌습니다.",
-      "이번 감축은 프로젝트의 창의적 및 개발 방향 전환에 따른 것이라고 밝혔습니다."
     ],
     "tags": [
       "News",
