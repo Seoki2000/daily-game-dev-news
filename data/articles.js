@@ -1,26 +1,27 @@
 const allArticlesData = [
   {
-    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
-    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
-    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
-    "date": "2026-08-04",
+    "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
+    "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
+    "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
+    "date": "2026-08-05",
     "summary": [
-      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
-      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
+      "3D 그래픽을 2D처럼 보이게 하는 샘플 프로젝트 'Bunny Blitz'가 출시되었습니다.",
+      "이 프로젝트를 통해 3D 환경에서 2D 게임 플레이를 구현하는 방법을 배울 수 있습니다."
     ],
     "tags": [
-      "News"
+      "GameDev",
+      "Unity"
     ],
-    "source": "gamedeveloper"
+    "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Devs raise $130,000 in just five days to support laid-off peers",
-    "translated_title": "개발자들, 해고된 동료 지원 위해 5일 만에 13만 달러 모금",
-    "link": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
-    "date": "2026-08-04",
+    "title": "Publisher Secret Mode opens development studio to support internal projects",
+    "translated_title": "퍼블리셔 시크릿 모드, 자체 프로젝트 지원 위한 개발 스튜디오 설립",
+    "link": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
+    "date": "2026-08-05",
     "summary": [
-      "게임 업계 대규모 해고 사태 속에서 해고된 게임 노동자 지원을 위한 펀드 번들이 목표 금액의 절반 이상을 달성했습니다.",
-      "5일 만에 13만 달러(약 1억 7천만 원)가 모였으며, 현재 목표 금액은 20만 달러입니다."
+      "퍼블리셔 시크릿 모드가 자체 프로젝트 지원을 위해 개발 스튜디오를 설립했습니다.",
+      "이는 시크릿 모드가 독립 후 소수 직원을 해고한 지 1년 만에 나온 소식입니다."
     ],
     "tags": [
       "News",
@@ -29,27 +30,58 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
-    "translated_title": "아동 안전 소송 속 로블록스, 디지털 안전 기준 마련 '지속 추진' 강조",
-    "link": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
-    "date": "2026-08-04",
+    "title": "Candy Crush maker King has declined staff's collective bargaining agreement",
+    "translated_title": "캔디 크러쉬 개발사 킹, 직원 단체협약 제안 거부",
+    "link": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
+    "date": "2026-08-05",
     "summary": [
-      "로블록스가 아동 안전 관련 소송에 직면한 가운데, 건강하고 안전하며 연령에 적합한 디지털 참여의 '글로벌 표준'을 설정하고 있다고 주장합니다.",
-      "회사는 이러한 노력이 지속적으로 이루어지고 있음을 강조하고 있습니다."
+      "마이크로소프트 소유의 킹(King) 스튜디오가 직원들의 단체협약 제안을 거절했습니다.",
+      "회사는 현재 복지 제도가 단체협약에서 제시될 내용과 같거나 그 이상이라고 밝혔습니다."
     ],
     "tags": [
-      "News"
+      "News",
+      "GameDev"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
-    "translated_title": "EA, 사우디 딜 앞두고 지난 회계연도 실적 보고서에서 라이브 서비스 매출이 압도적",
-    "link": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
+    "title": "Policymakers across Europe told to do more to support local game industry",
+    "translated_title": "유럽 정책 입안자들, 지역 게임 산업 지원 강화 필요",
+    "link": "https://www.gamedeveloper.com/production/policymakers-across-europe-told-to-do-more-to-support-game-industry",
+    "date": "2026-08-05",
+    "summary": [
+      "게임 산업의 생산 능력과 역동성이 필수적이며, 더 큰 활용이 필요합니다.",
+      "정부의 지원을 통해 게임 산업의 잠재력을 활용해야 합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Coffee Stain bullish despite underperformance of Deep Rock Galactic spinoff",
+    "translated_title": "커피스테인, 딥 락 갤럭틱 스핀오프 부진에도 불구하고 강세 전망",
+    "link": "https://www.gamedeveloper.com/business/coffee-stain-bullish-despite-underperformance-of-deep-rock-galactic-spinoff",
+    "date": "2026-08-05",
+    "summary": [
+      "커피스테인, 딥 락 갤럭틱 스핀오프의 저조한 성과에도 불구하고 긍정적인 전망을 유지하고 있습니다.",
+      "회사의 인기 로블록스 타이틀인 '웰컴 투 블록스버그'는 1분기에 210만 달러를 벌어들였습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
+    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
+    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
     "date": "2026-08-04",
     "summary": [
-      "EA의 지난 회계연도 실적에서 라이브 서비스 매출이 가장 큰 비중을 차지했습니다.",
-      "사우디 국부펀드 컨소시엄과의 인수 계약이 오늘 마무리될 예정입니다."
+      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
+      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
     ],
     "tags": [
       "News"
@@ -101,6 +133,49 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Devs raise $130,000 in just five days to support laid-off peers",
+    "translated_title": "개발자들, 해고된 동료 지원 위해 5일 만에 13만 달러 모금",
+    "link": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
+    "date": "2026-08-04",
+    "summary": [
+      "게임 업계 대규모 해고 사태 속에서 해고된 게임 노동자 지원을 위한 펀드 번들이 목표 금액의 절반 이상을 달성했습니다.",
+      "5일 만에 13만 달러(약 1억 7천만 원)가 모였으며, 현재 목표 금액은 20만 달러입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
+    "translated_title": "아동 안전 소송 속 로블록스, 디지털 안전 기준 마련 '지속 추진' 강조",
+    "link": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
+    "date": "2026-08-04",
+    "summary": [
+      "로블록스가 아동 안전 관련 소송에 직면한 가운데, 건강하고 안전하며 연령에 적합한 디지털 참여의 '글로벌 표준'을 설정하고 있다고 주장합니다.",
+      "회사는 이러한 노력이 지속적으로 이루어지고 있음을 강조하고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
+    "translated_title": "EA, 사우디 딜 앞두고 지난 회계연도 실적 보고서에서 라이브 서비스 매출이 압도적",
+    "link": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
+    "date": "2026-08-04",
+    "summary": [
+      "EA의 지난 회계연도 실적에서 라이브 서비스 매출이 가장 큰 비중을 차지했습니다.",
+      "사우디 국부펀드 컨소시엄과의 인수 계약이 오늘 마무리될 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Games made with Unity: July 2026 in review",
