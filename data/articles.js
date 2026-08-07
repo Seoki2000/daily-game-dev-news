@@ -1,5 +1,156 @@
 const allArticlesData = [
   {
+    "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
+    "translated_title": "닌텐도 스위치 2 하드웨어 판매량 전년 대비 34.4% 감소",
+    "link": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
+    "date": "2026-08-06",
+    "summary": [
+      "닌텐도 스위치 2 하드웨어 판매량이 전년 동기 대비 34.4% 하락했습니다.",
+      "이러한 판매량 감소에도 불구하고 닌텐도는 연간 하드웨어 판매량 전망을 그대로 유지했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity sells Supersonic publishing business to Tripledot for $40M",
+    "translated_title": "유니티, 슈퍼소닉 퍼블리싱 사업 4천만 달러에 트리플닷에 매각",
+    "link": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
+    "date": "2026-08-06",
+    "summary": [
+      "트리플닷이 유니티의 슈퍼소닉 퍼블리싱 사업부를 4천만 달러에 인수했습니다.",
+      "이번 인수로 트리플닷은 AI 시대 게임 산업에서의 입지를 강화하고 이스라엘의 인재를 확보할 계획입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Halo Studios jettisons long-serving contractors after launch of Halo: Campaign Evolved",
+    "translated_title": "헤일로 스튜디오, '헤일로: 캠페인 에볼브드' 출시 후 장기 계약직원 대거 해고",
+    "link": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
+    "date": "2026-08-06",
+    "summary": [
+      "헤일로 스튜디오가 '헤일로: 캠페인 에볼브드' 출시 후 계약직원들을 해고했습니다.",
+      "해고된 인원 중 일부는 워싱턴 스튜디오에서 수년간 근무해왔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar wants you to pay Netflix to watch the next GTA VI trailer before it's released to the masses",
+    "translated_title": "락스타, GTA VI 트레일러 사전 공개를 위해 넷플릭스 유료 시청 요구",
+    "link": "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix-to-watch-the-next-gta-vi-trailer",
+    "date": "2026-08-06",
+    "summary": [
+      "GTA VI의 '확장 미리보기' 트레일러가 넷플릭스에서 6시간 독점 공개됩니다.",
+      "이후 유튜브 등 다른 플랫폼에도 공개될 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Devolver wants to delist because indie publishing is not 'compatible' with public trading",
+    "translated_title": "인디 게임 퍼블리셔 Devolver, 상장 폐지 고려… \"상장 기업으로서의 사업 운영과 맞지 않다\"",
+    "link": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
+    "date": "2026-08-06",
+    "summary": [
+      "Devolver는 인디 게임 사업의 장기적이고 지속적인 수익 흐름이 현재 주식 시장의 평가 방식과 맞지 않는다고 주장합니다.",
+      "이러한 '가치 평가 괴리' 때문에 회사는 상장 폐지를 고려하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "translated_title": "Hugging Face 추론 제공자에서의 Baseten",
+    "link": "https://huggingface.co/blog/baseten",
+    "date": "2026-08-06",
+    "summary": [
+      "Baseten은 Hugging Face의 추론 제공자 중 하나입니다.",
+      "이 기능은 모델 배포 및 추론을 더욱 간소화합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "translated_title": "ChatGPT의 GPT-5.6 Sol 개선 및 무료 사용자 대상 GPT-5.6 Luna 접근성 확대",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date": "2026-08-06",
+    "summary": [
+      "ChatGPT, GPT-5.6 Sol 정확도 및 일관성 향상",
+      "무료 사용자 대상 GPT-5.6 Luna 접근성 확대 및 무제한 일상 대화 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "translated_title": "청소년 정신 건강 및 AI 관련 미국 심리학회와의 협력",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "date": "2026-08-06",
+    "summary": [
+      "OpenAI와 미국 심리학회가 협력하여 청소년 정신 건강과 AI의 책임감 있는 사용을 위한 증거 기반 지침 및 자료를 개발합니다.",
+      "양측은 AI 사용에 대한 안전 조치를 강화하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "translated_title": "질문에서 실행으로: 전 세계가 ChatGPT를 어떻게 활용하고 있는가",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "date": "2026-08-06",
+    "summary": [
+      "OpenAI의 새로운 데이터는 ChatGPT의 전 세계적 활용 현황을 보여줍니다.",
+      "국가별 도입률, 사용 추세, 변화하는 행동 양식에 대한 인사이트를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "translated_title": "WeatherNext: AI 모델, 사이클론 예측 분야 획기적 성과 달성",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-06",
+    "summary": [
+      "AI 모델 WeatherNext가 사이클론 예측 정확도를 크게 향상시켰습니다.",
+      "이 모델은 기존 예측 방식의 한계를 극복하는 획기적인 기술을 선보입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
     "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
     "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
@@ -75,20 +226,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
-    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
-    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
-    "date": "2026-08-04",
-    "summary": [
-      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
-      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "translated_title": "LFM2.5-2.6B로 로컬 에이전트를 어디든 배포하세요",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -133,6 +270,20 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
+    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
+    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
+    "date": "2026-08-04",
+    "summary": [
+      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
+      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Devs raise $130,000 in just five days to support laid-off peers",
@@ -4398,120 +4549,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-    "translated_title": "클로드 AI의 내면을 들여다보다: 기묘한 경험",
-    "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-    "date": "2026-06-16",
-    "summary": [
-      "클로드 AI의 작동 방식을 파악하기 위해 내부를 분석했습니다.",
-      "분석 결과, AI의 내부 작동 방식이 예상치 못하게 기묘하고 복잡하다는 것을 발견했습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "translated_title": "배포 전 모델 동작 예측을 위한 시뮬레이션",
-    "link": "https://openai.com/index/deployment-simulation",
-    "date": "2026-06-16",
-    "summary": [
-      "OpenAI가 '배포 시뮬레이션' 도입",
-      "실제 대화 데이터를 활용하여 모델 배포 전 동작 예측",
-      "안전성 및 평가 정확도 향상 목표"
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Playrix is growing Township with Unity Ads’ D28 IAP ROAS optimizer",
-    "translated_title": "플레이릭스, Unity Ads의 D28 IAP ROAS 최적화 도구로 '타운쉽' 성장시키는 방법",
-    "link": "https://unity.com/blog/playrix-township-roas-optimization-vector",
-    "date": "2026-06-15",
-    "summary": [
-      "Playrix는 Unity Ads의 D28 IAP ROAS 최적화 도구를 활용하여 모바일 게임 'Township'의 성장을 가속화하고 있습니다.",
-      "Unity Vector 도입 후 특히 Google Play(Android) 캠페인의 성과가 크게 개선되어, 해당 채널이 주요 성장 동력으로 자리 잡았습니다.",
-      "Playrix는 Unity의 다양한 성장 서비스가 'Township'의 매출 증대와 규모 확장에 긍정적인 영향을 미쳤다고 평가합니다."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "From digital twins to industrial AI: Building the machine information system",
-    "translated_title": "디지털 트윈부터 산업 AI까지: 머신 정보 시스템 구축",
-    "link": "https://unity.com/blog/digital-twin-building-machine-information-system",
-    "date": "2026-06-15",
-    "summary": [
-      "산업 디지털 트윈은 단순한 시각화를 넘어, 실제 기계 상태, 기업 데이터, 운영 지식을 통합하여 활용 가능한 시스템으로 발전하고 있습니다.",
-      "AI 도구의 부상과 산업 시스템의 연결성 증가는 구조화된 데이터와 문서화의 중요성을 강조하며, 이는 산업 AI의 기반을 마련합니다.",
-      "이러한 변화는 신속한 오류 진단, 향상된 운영자 지원, 전문가 의존도 감소 등 실질적인 운영 개선 기회를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "NVIDIA's New Free AI - A Gift To Humanity",
-    "translated_title": "NVIDIA의 새로운 무료 AI: 인류를 위한 선물",
-    "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-    "date": "2026-06-14",
-    "summary": [
-      "NVIDIA가 'Nemotron 3 Ultra'라는 새로운 무료 AI 모델을 공개했습니다.",
-      "이 AI는 람다 GPU 클라우드 및 렌더링 코스와 함께 제공될 예정입니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "translated_title": "OpenAI 파트너 네트워크 출시",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "date": "2026-06-14",
-    "summary": [
-      "OpenAI가 1억 5천만 달러를 투자하여 파트너 네트워크를 출범했습니다.",
-      "전 세계 파트너들의 엔터프라이즈 AI 도입, 배포 및 전환을 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "translated_title": "새로운 시대의 업무를 위한 OpenAI 아카데미 강좌 출시",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "date": "2026-06-12",
-    "summary": [
-      "실용적인 AI 기술 구축 지원",
-      "반복 가능한 워크플로우 생성",
-      "일상 업무에 에이전트 적용"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
   }
 ];
