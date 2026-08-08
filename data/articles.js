@@ -1,5 +1,127 @@
 const allArticlesData = [
   {
+    "title": "DeepMind Just Changed How AI Sees The World",
+    "translated_title": "DeepMind, AI가 세상을 보는 방식을 바꾸다",
+    "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+    "date": "2026-08-07",
+    "summary": [
+      "DeepMind가 AI의 시각 인지 방식을 혁신하는 연구를 발표했습니다.",
+      "Gemma4 논문 및 관련 정보를 소개합니다.",
+      "Lambda GPU 클라우드를 홍보하며, Patreon 후원자들에게 감사를 표합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Pushing the limits in Simulating a City, One Page at a Time",
+    "translated_title": "도시 시뮬레이션의 한계를 넘어서: 단 한 페이지의 디자인으로",
+    "link": "https://www.gamedeveloper.com/design/pushing-the-limits-in-simulating-a-city-one-page-at-a-time",
+    "date": "2026-08-07",
+    "summary": [
+      "SimCity (2013)의 디자인 과정을 다룹니다.",
+      "유명 디자이너 Stone Librande의 경험을 공유합니다.",
+      "한 페이지 디자인 패러다임을 탐구합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GTA V surpasses 230 million sales months before GTA VI touches down",
+    "translated_title": "GTA V, GTA VI 출시 몇 달 앞두고 2억 3천만 장 판매 돌파",
+    "link": "https://www.gamedeveloper.com/business/gta-v-surpasses-230-million-sales-months-before-gta-vi-touches-down",
+    "date": "2026-08-07",
+    "summary": [
+      "GTA V가 2억 3천만 장 이상 판매되었습니다.",
+      "이는 세 세대에 걸친 콘솔 판매량입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "What devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo",
+    "translated_title": "개발자가 로컬라이제이션에 대해 알아야 할 모든 것 (Concha Fernandez Alvarez, Aurelie Perrin, Guido Di Carlo 참여)",
+    "link": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
+    "date": "2026-08-07",
+    "summary": [
+      "게임 로컬라이제이션 시 로컬라이저와 협업하는 방법",
+      "개발자를 위한 언어 현지화의 핵심 정보"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EA taken private by Saudi Arabia, GTA marketing jumps the shark, and Devolver's huge mistake - Patch Notes #64",
+    "translated_title": "EA, 사우디아라비아에 인수? GTA 마케팅 과장, 데볼버의 큰 실수 - 패치 노트 #64",
+    "link": "https://www.gamedeveloper.com/business/ea-taken-private-by-saudi-arabia-gta-marketing-jumps-the-shark-and-devolver-s-huge-mistake-patch-notes-64",
+    "date": "2026-08-07",
+    "summary": [
+      "EA가 사우디아라비아에 인수될 가능성에 대한 내용.",
+      "GTA 마케팅이 과도하게 느껴진다는 분석.",
+      "데볼버 디지털의 중대한 실책에 대한 언급."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "date": "2026-08-07",
+    "summary": [
+      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
+      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "translated_title": "차세대 핵심 사이버 역량에 대한 대응",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-07",
+    "summary": [
+      "OpenAI는 Astra의 초기 사이버 보안 평가 결과를 공유합니다.",
+      "보안 조치 및 통제 강화를 위한 진행 상황을 설명합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "translated_title": "HSP GRUPPE, 세무 자문에 AI 역량을 구축하는 방법",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "date": "2026-08-07",
+    "summary": [
+      "HSP GRUPPE는 ChatGPT Enterprise를 활용합니다.",
+      "이를 통해 생산성 향상, 업무 품질 개선, 세무 자문 및 고객 서비스 역량 강화에 기여합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
     "translated_title": "닌텐도 스위치 2 하드웨어 판매량 전년 대비 34.4% 감소",
     "link": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
@@ -9,66 +131,6 @@ const allArticlesData = [
       "이러한 판매량 감소에도 불구하고 닌텐도는 연간 하드웨어 판매량 전망을 그대로 유지했습니다."
     ],
     "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unity sells Supersonic publishing business to Tripledot for $40M",
-    "translated_title": "유니티, 슈퍼소닉 퍼블리싱 사업 4천만 달러에 트리플닷에 매각",
-    "link": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
-    "date": "2026-08-06",
-    "summary": [
-      "트리플닷이 유니티의 슈퍼소닉 퍼블리싱 사업부를 4천만 달러에 인수했습니다.",
-      "이번 인수로 트리플닷은 AI 시대 게임 산업에서의 입지를 강화하고 이스라엘의 인재를 확보할 계획입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Halo Studios jettisons long-serving contractors after launch of Halo: Campaign Evolved",
-    "translated_title": "헤일로 스튜디오, '헤일로: 캠페인 에볼브드' 출시 후 장기 계약직원 대거 해고",
-    "link": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
-    "date": "2026-08-06",
-    "summary": [
-      "헤일로 스튜디오가 '헤일로: 캠페인 에볼브드' 출시 후 계약직원들을 해고했습니다.",
-      "해고된 인원 중 일부는 워싱턴 스튜디오에서 수년간 근무해왔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar wants you to pay Netflix to watch the next GTA VI trailer before it's released to the masses",
-    "translated_title": "락스타, GTA VI 트레일러 사전 공개를 위해 넷플릭스 유료 시청 요구",
-    "link": "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix-to-watch-the-next-gta-vi-trailer",
-    "date": "2026-08-06",
-    "summary": [
-      "GTA VI의 '확장 미리보기' 트레일러가 넷플릭스에서 6시간 독점 공개됩니다.",
-      "이후 유튜브 등 다른 플랫폼에도 공개될 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Devolver wants to delist because indie publishing is not 'compatible' with public trading",
-    "translated_title": "인디 게임 퍼블리셔 Devolver, 상장 폐지 고려… \"상장 기업으로서의 사업 운영과 맞지 않다\"",
-    "link": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
-    "date": "2026-08-06",
-    "summary": [
-      "Devolver는 인디 게임 사업의 장기적이고 지속적인 수익 흐름이 현재 주식 시장의 평가 방식과 맞지 않는다고 주장합니다.",
-      "이러한 '가치 평가 괴리' 때문에 회사는 상장 폐지를 고려하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -151,6 +213,66 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Unity sells Supersonic publishing business to Tripledot for $40M",
+    "translated_title": "유니티, 슈퍼소닉 퍼블리싱 사업 4천만 달러에 트리플닷에 매각",
+    "link": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
+    "date": "2026-08-06",
+    "summary": [
+      "트리플닷이 유니티의 슈퍼소닉 퍼블리싱 사업부를 4천만 달러에 인수했습니다.",
+      "이번 인수로 트리플닷은 AI 시대 게임 산업에서의 입지를 강화하고 이스라엘의 인재를 확보할 계획입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Halo Studios jettisons long-serving contractors after launch of Halo: Campaign Evolved",
+    "translated_title": "헤일로 스튜디오, '헤일로: 캠페인 에볼브드' 출시 후 장기 계약직원 대거 해고",
+    "link": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
+    "date": "2026-08-06",
+    "summary": [
+      "헤일로 스튜디오가 '헤일로: 캠페인 에볼브드' 출시 후 계약직원들을 해고했습니다.",
+      "해고된 인원 중 일부는 워싱턴 스튜디오에서 수년간 근무해왔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar wants you to pay Netflix to watch the next GTA VI trailer before it's released to the masses",
+    "translated_title": "락스타, GTA VI 트레일러 사전 공개를 위해 넷플릭스 유료 시청 요구",
+    "link": "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix-to-watch-the-next-gta-vi-trailer",
+    "date": "2026-08-06",
+    "summary": [
+      "GTA VI의 '확장 미리보기' 트레일러가 넷플릭스에서 6시간 독점 공개됩니다.",
+      "이후 유튜브 등 다른 플랫폼에도 공개될 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Devolver wants to delist because indie publishing is not 'compatible' with public trading",
+    "translated_title": "인디 게임 퍼블리셔 Devolver, 상장 폐지 고려… \"상장 기업으로서의 사업 운영과 맞지 않다\"",
+    "link": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
+    "date": "2026-08-06",
+    "summary": [
+      "Devolver는 인디 게임 사업의 장기적이고 지속적인 수익 흐름이 현재 주식 시장의 평가 방식과 맞지 않는다고 주장합니다.",
+      "이러한 '가치 평가 괴리' 때문에 회사는 상장 폐지를 고려하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
     "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
     "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
@@ -164,6 +286,22 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "The Billion Dollar AI Race Just Broke",
+    "translated_title": "수십억 달러 규모의 AI 경쟁이 깨졌다",
+    "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+    "date": "2026-08-05",
+    "summary": [
+      "Qwen 3.8 Max 모델이 공개되었습니다.",
+      "Lambda GPU 클라우드 서비스가 소개되었습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Publisher Secret Mode opens development studio to support internal projects",
@@ -345,6 +483,22 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Another DeepSeek Moment Has Arrived",
+    "translated_title": "딥시크의 또 다른 순간이 찾아왔습니다",
+    "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+    "date": "2026-08-03",
+    "summary": [
+      "딥시크 v4 Flash 0731 모델 공개",
+      "Lambda GPU 클라우드 및 딥시크 API 소개"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Apple is getting this wrong",
     "translated_title": "애플, 이번엔 잘못 짚었다",
     "link": "https://openai.com/index/apple-is-getting-this-wrong",
@@ -389,22 +543,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Another DeepSeek Moment Has Arrived",
-    "translated_title": "딥시크의 또 다른 순간이 찾아왔습니다",
-    "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-    "date": "2026-08-03",
-    "summary": [
-      "딥시크 v4 Flash 0731 모델 공개",
-      "Lambda GPU 클라우드 및 딥시크 API 소개"
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "How Silent Hill: Townfall gets deep into its protagonist's headspace",
@@ -4409,145 +4547,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Don't Nod pursuing 'several levers' to secure financial future after Tencent decides against short-term investment",
-    "translated_title": "텐센트의 단기 투자 미결정에 따른 Don't Nod, 재정적 미래 확보 위한 '다양한 방안' 모색",
-    "link": "https://www.gamedeveloper.com/business/don-t-nod-pursuing-several-levers-to-secure-financial-future-after-tencent-decides-against-short-term-investment",
-    "date": "2026-06-17",
-    "summary": [
-      "텐센트는 Don't Nod에 단기 추가 투자를 하지 않기로 결정했습니다.",
-      "텐센트는 여전히 Don't Nod의 장기 주주로 남아있습니다.",
-      "Don't Nod는 재정적 미래를 위해 여러 가지 방안을 추진하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unreal Engine 6 will merge UE5 and UEFN into 'a single, unified engine'",
-    "translated_title": "언리얼 엔진 6, UE5와 UEFN을 '하나의 통합된 엔진'으로 합친다",
-    "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
-    "date": "2026-06-17",
-    "summary": [
-      "프로그래밍 모델 변경",
-      "게임 간 상호 운용성 도구 도입",
-      "생성형 AI 파이프라인 기능 강화"
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "OtherSide Entertainment lays off 17 staff following game cancellation",
-    "translated_title": "아더사이드 엔터테인먼트, 프로젝트 '아르고스' 취소 후 17명 해고",
-    "link": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
-    "date": "2026-06-17",
-    "summary": [
-      "아더사이드 엔터테인먼트가 프로젝트 '아르고스'를 취소했습니다.",
-      "이번 결정은 게임 산업의 어려운 환경 때문입니다.",
-      "이에 따라 17명의 직원이 해고되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
-    "translated_title": "보도: 닌자 시어리 '신규 프로젝트' 공개 당시 엑스박스, 결별 계획 세웠다",
-    "link": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
-    "date": "2026-06-17",
-    "summary": [
-      "엑스박스가 닌자 시어리와 결별을 계획 중이었다는 보도입니다.",
-      "이는 닌자 시어리의 신규 프로젝트 공개 시점과 맞물려 나왔습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
-    "translated_title": "Returnal 디렉터, 신생 스튜디오 성공 위해 '책임감 있게 야심 찬' 계획 공개",
-    "link": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
-    "date": "2026-06-17",
-    "summary": [
-      "Housemarque 베테랑이 새로운 도전을 위한 '간결하고 효율적인' 운영 방침 설명",
-      "신생 스튜디오의 성공을 위해 생성형 AI 활용 가능성 시사"
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "translated_title": "GLM-5.2: 장기 과제를 위해 구축되었습니다",
-    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "date": "2026-06-17",
-    "summary": [
-      "GLM-5.2는 특히 장기적인 작업에 최적화된 모델입니다.",
-      "이 모델은 장거리 작업에서 뛰어난 성능을 발휘하도록 설계되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Agentic Resource Discovery: Let agents search",
-    "translated_title": "에이전트 기반 자원 탐색: 에이전트에게 탐색을 맡기세요",
-    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "date": "2026-06-17",
-    "summary": [
-      "에이전트에게 자원 탐색 기능을 부여합니다.",
-      "에이전트가 능동적으로 필요한 자원을 찾아 활용하도록 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "translated_title": "AI 가속화된 계획으로 영국 주택 건설 잠금 해제",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "date": "2026-06-16",
-    "summary": [
-      "영국 정부, 구글 딥마인드와 협력하여 AI 기반 주택 건설 계획 프로토타입 개발",
-      "목표는 주택 건설 관련 의사 결정 속도 향상"
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Securing the future of AI agents",
-    "translated_title": "AI 에이전트의 미래 보안",
-    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "date": "2026-06-16",
-    "summary": [
-      "AI 에이전트 보안을 위한 로드맵을 제시합니다.",
-      "전통적인 보안 조치와 실시간 모니터링을 결합합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   }
 ];
