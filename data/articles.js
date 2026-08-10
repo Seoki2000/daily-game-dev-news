@@ -467,22 +467,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Games made with Unity: July 2026 in review",
-    "translated_title": "2026년 7월 Unity 게임 리뷰",
-    "link": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
-    "date": "2026-08-03",
-    "summary": [
-      "2026년 7월에 출시된 Unity 기반 게임들을 소개합니다.",
-      "Unity 커뮤니티의 최신 창작물을 확인해보세요."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Another DeepSeek Moment Has Arrived",
     "translated_title": "딥시크의 또 다른 순간이 찾아왔습니다",
     "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
@@ -497,6 +481,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Games made with Unity: July 2026 in review",
+    "translated_title": "2026년 7월 Unity 게임 리뷰",
+    "link": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
+    "date": "2026-08-03",
+    "summary": [
+      "2026년 7월에 출시된 Unity 기반 게임들을 소개합니다.",
+      "Unity 커뮤니티의 최신 창작물을 확인해보세요."
+    ],
+    "tags": [
+      "News",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Apple is getting this wrong",
