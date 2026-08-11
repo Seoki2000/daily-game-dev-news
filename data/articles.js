@@ -1,5 +1,172 @@
 const allArticlesData = [
   {
+    "title": "The video game site backed by Walmart has laid off its editorial team",
+    "translated_title": "월마트의 지원을 받는 게임 웹사이트, 편집팀 해고",
+    "link": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
+    "date": "2026-08-10",
+    "summary": [
+      "월마트 지원 게임 웹사이트 Restart, 5명 규모 편집팀 해고.",
+      "Restart는 2024년 12월에 출시되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EVE Online studio hires former Icelandic minister to lead autonomous AI efforts",
+    "translated_title": "EVE Online 개발사, 자율 AI 부문 이끌 전 아이슬란드 장관 영입",
+    "link": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+    "date": "2026-08-10",
+    "summary": [
+      "EVE Online 개발사 Fenris Creations가 자율 AI 부문을 이끌기 위해 전 아이슬란드 장관을 영입했습니다.",
+      "Fenris Creations는 올해 초 독립했으며, 구글로부터 소수 지분 투자를 유치했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
+    "translated_title": "유니티, AI 광고 플랫폼으로 '역대 최고 분기' 달성",
+    "link": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
+    "date": "2026-08-10",
+    "summary": [
+      "유니티의 수익이 Unity Vector AI의 수익 덕분에 전년 대비 24% 성장했습니다.",
+      "Unity Vector AI가 유니티 실적 호조의 핵심 요인으로 작용했습니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "translated_title": "NVIDIA Magpie TTS로 구축하는 저지연 다국어 음성 에이전트: 오픈 웨이트 및 완전한 배포 제어",
+    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "date": "2026-08-10",
+    "summary": [
+      "NVIDIA Magpie TTS를 사용하여 저지연 다국어 음성 에이전트를 구축합니다.",
+      "오픈 웨이트와 완전한 배포 제어를 통해 유연성을 확보합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "translated_title": "대규모 적용을 위한 저렴한 지식 증류 방법",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "date": "2026-08-10",
+    "summary": [
+      "지식 증류를 대규모로 실행 가능하도록 비용 효율성을 높이는 방법을 설명합니다.",
+      "저렴한 지식 증류를 통해 AI 모델을 더 넓은 범위에 적용할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "translated_title": "메타, 로컬, 에이전트, 멀티모달, 오픈소스 AI 'Muse Glimmer' 재출시",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "date": "2026-08-10",
+    "summary": [
+      "메타가 'Muse Glimmer'라는 AI 모델을 재출시했습니다.",
+      "Muse Glimmer는 로컬 환경에서 구동되며, 에이전트 기능, 멀티모달 지원, 오픈소스 특징을 갖췄습니다.",
+      "새로운 버전은 이전 모델보다 개선된 기능을 제공할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "translated_title": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 구축에 관한 서한 전달",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "date": "2026-08-10",
+    "summary": [
+      "OpenAI는 텍사스 내 책임 있는 AI 인프라 구축에 대한 의지를 담은 서한을 주지사에게 보냈습니다.",
+      "서한은 텍사스 주민들에게 이익이 되는 신뢰할 수 있고 투명한 성장을 지지합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "translated_title": "GPT-5.6 Sol 기반 ML 모델, 금융 업무 효율성 증대",
+    "link": "https://openai.com/index/model-ml",
+    "date": "2026-08-10",
+    "summary": [
+      "ML 모델이 GPT-5.6 Sol을 활용하여 금융 업무를 수행합니다.",
+      "연구, 분석부터 편집 가능한 PowerPoint 및 Excel 작업물까지 전 과정에 적용됩니다.",
+      "업무 효율성 향상에 기여합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "What building an AI-native finance function taught me",
+    "translated_title": "AI 네이티브 금융 기능을 구축하며 배운 점",
+    "link": "https://openai.com/index/building-an-ai-native-finance-function",
+    "date": "2026-08-10",
+    "summary": [
+      "OpenAI CFO 사라 프라이어가 AI 네이티브 금융 기능 구축에 대한 5가지 교훈 공유",
+      "자동화된 예측, 강화된 통제, AI ROI 등 주요 내용 포함"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "translated_title": "사이버 방어 시간이 좁혀짐에 따라 Daybreak 확장",
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "date": "2026-08-10",
+    "summary": [
+      "OpenAI는 사이버 보안 전문 모델인 GPT-5.6-Cyber를 출시했습니다.",
+      "이 모델은 Daybreak Red를 통해 인증된 취약점 연구, 익스플로잇 검증 및 보안 테스트에 사용 가능합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Putting frontier cyber models in more trusted hands",
+    "translated_title": "최첨단 사이버 모델을 더욱 신뢰할 수 있는 파트너에게 제공",
+    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "date": "2026-08-10",
+    "summary": [
+      "승인된 Daybreak 파트너가 OpenAI의 최첨단 사이버 모델을 활용할 수 있습니다.",
+      "이를 통해 고객에게 승인되고 관리되는 사이버 보안 서비스를 제공할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "DeepMind Just Changed How AI Sees The World",
     "translated_title": "DeepMind, AI가 세상을 보는 방식을 바꾸다",
     "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
@@ -47,6 +214,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "date": "2026-08-07",
+    "summary": [
+      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
+      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "What devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo",
     "translated_title": "개발자가 로컬라이제이션에 대해 알아야 할 모든 것 (Concha Fernandez Alvarez, Aurelie Perrin, Guido Di Carlo 참여)",
     "link": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
@@ -75,21 +257,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "date": "2026-08-07",
-    "summary": [
-      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
-      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Responding to the next frontier of critical cyber capabilities",
@@ -122,20 +289,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
-    "translated_title": "닌텐도 스위치 2 하드웨어 판매량 전년 대비 34.4% 감소",
-    "link": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
-    "date": "2026-08-06",
-    "summary": [
-      "닌텐도 스위치 2 하드웨어 판매량이 전년 동기 대비 34.4% 하락했습니다.",
-      "이러한 판매량 감소에도 불구하고 닌텐도는 연간 하드웨어 판매량 전망을 그대로 유지했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "translated_title": "Hugging Face 추론 제공자에서의 Baseten",
     "link": "https://huggingface.co/blog/baseten",
@@ -149,6 +302,36 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "translated_title": "WeatherNext: AI 모델, 사이클론 예측 분야 획기적 성과 달성",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-06",
+    "summary": [
+      "AI 모델 WeatherNext가 사이클론 예측 정확도를 크게 향상시켰습니다.",
+      "이 모델은 기존 예측 방식의 한계를 극복하는 획기적인 기술을 선보입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
+    "translated_title": "닌텐도 스위치 2 하드웨어 판매량 전년 대비 34.4% 감소",
+    "link": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
+    "date": "2026-08-06",
+    "summary": [
+      "닌텐도 스위치 2 하드웨어 판매량이 전년 동기 대비 34.4% 하락했습니다.",
+      "이러한 판매량 감소에도 불구하고 닌텐도는 연간 하드웨어 판매량 전망을 그대로 유지했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
@@ -195,22 +378,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "translated_title": "WeatherNext: AI 모델, 사이클론 예측 분야 획기적 성과 달성",
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "date": "2026-08-06",
-    "summary": [
-      "AI 모델 WeatherNext가 사이클론 예측 정확도를 크게 향상시켰습니다.",
-      "이 모델은 기존 예측 방식의 한계를 극복하는 획기적인 기술을 선보입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Unity sells Supersonic publishing business to Tripledot for $40M",
@@ -4380,172 +4547,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "translated_title": "자체 도구로 오픈 모델의 에이전트성을 벤치마킹할 수 있을까?",
-    "link": "https://huggingface.co/blog/is-it-agentic-enough",
-    "date": "2026-06-18",
-    "summary": [
-      "자체 도구를 사용하여 오픈 소스 모델의 에이전트 성능을 측정하는 방법을 다룹니다.",
-      "모델의 에이전트 능력을 평가하는 벤치마킹 기준을 제시합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "translated_title": "기업용 새로운 사용량 분석 및 업데이트된 지출 관리 기능",
-    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "date": "2026-06-18",
-    "summary": [
-      "ChatGPT Enterprise에 새로운 지출 관리 기능이 추가되었습니다.",
-      "조직은 비용을 효율적으로 관리하고 AI를 안정적으로 확장할 수 있습니다.",
-      "사용량 분석 기능을 통해 AI 사용 현황을 파악할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "'A new industry with a new identity:' How Canadian devs are faring in 2026",
-    "translated_title": "새로운 정체성을 가진 신산업: 2026년 캐나다 개발자들의 현황",
-    "link": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
-    "date": "2026-06-18",
-    "summary": [
-      "격변하는 시기 속에서 캐나다 개발자들이 어떻게 적응하고 있는지 토론토 XP 게임 서밋에서 인터뷰했습니다.",
-      "북미 지역의 게임 개발 환경에 대한 현황을 엿볼 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pocketpair lead on generative AI: Gamers don't want it",
-    "translated_title": "Pocketpair 대표, 생성형 AI에 대해: 게이머들은 원하지 않는다",
-    "link": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
-    "date": "2026-06-18",
-    "summary": [
-      "Pocketpair의 커뮤니케이션 디렉터인 John Buckley는 생성형 AI가 크게 대중화될 가능성이 낮다고 본다.",
-      "그는 게이머들이 생성형 AI를 게임에서 크게 원하지 않을 것이라고 전망한다."
-    ],
-    "tags": [
-      "News",
-      "GameDev",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Improving health intelligence in ChatGPT",
-    "translated_title": "ChatGPT의 건강 정보 이해 능력 향상",
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "date": "2026-06-18",
-    "summary": [
-      "GPT-5.5 Instant가 ChatGPT의 건강 및 웰빙 답변을 개선합니다.",
-      "더 강력한 추론, 향상된 맥락 이해, 명확한 소통, 의사 기반 평가가 특징입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "translated_title": "AI를 활용하여 어린이에게 영향을 미치는 희귀 유전 질환 진단 지원",
-    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "date": "2026-06-18",
-    "summary": [
-      "OpenAI 추론 모델을 사용하여 희귀 질환 진단",
-      "해결되지 않았던 18건의 새로운 진단 사례 확인"
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
-    "translated_title": "Vampire Survivors dev 'reviewing' Fortnite collab after Epic's AI announcement",
-    "link": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
-    "date": "2026-06-18",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "translated_title": "MolmoMotion: 언어 기반 3D 모션 예측",
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
-    "date": "2026-06-17",
-    "summary": [
-      "MolmoMotion은 텍스트 설명을 통해 3D 캐릭터의 미래 움직임을 예측하는 AI 모델입니다.",
-      "이를 통해 사용자는 자연어 명령으로 3D 애니메이션을 쉽게 생성할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "translated_title": "허깅페이스 허브에서 Strands Agents와 LeRobot을 이용한 로봇 하드웨어 제어",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "date": "2026-06-17",
-    "summary": [
-      "허깅페이스 허브의 모델을 Strands Agents 및 LeRobot과 연동하여 실제 로봇 하드웨어를 제어합니다.",
-      "이 기술은 AI 모델을 물리적 로봇 환경에 적용하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "translated_title": "준자율 AI 화학자가 난해한 의약화학 반응을 개선하다",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "date": "2026-06-17",
-    "summary": [
-      "OpenAI와 Molecule.one이 GPT-5.4 기반 준자율 AI 화학자를 개발했습니다.",
-      "이 AI는 중요한 신약 개발 반응을 개선하여 의약화학 연구 발전에 기여했습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "translated_title": "LifeSciBench 소개",
-    "link": "https://openai.com/index/introducing-life-sci-bench",
-    "date": "2026-06-17",
-    "summary": [
-      "AI 시스템의 생명 과학 연구 능력 평가를 위한 전문가 작성/검토 벤치마크입니다.",
-      "실제 생명 과학 연구 과제 및 의사 결정 처리 능력을 평가합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
