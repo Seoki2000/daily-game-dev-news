@@ -1,12 +1,91 @@
 const allArticlesData = [
   {
-    "title": "The video game site backed by Walmart has laid off its editorial team",
-    "translated_title": "월마트의 지원을 받는 게임 웹사이트, 편집팀 해고",
-    "link": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
-    "date": "2026-08-10",
+    "title": "5 tips for using GitHub Copilot with Unity",
+    "translated_title": "Unity에서 GitHub Copilot 활용을 위한 5가지 팁",
+    "link": "https://unity.com/blog/5-tips-for-using-github-copilot-with-unity",
+    "date": "2026-08-11",
     "summary": [
-      "월마트 지원 게임 웹사이트 Restart, 5명 규모 편집팀 해고.",
-      "Restart는 2024년 12월에 출시되었습니다."
+      "GitHub Copilot을 Unity 개발에 효율적으로 적용하는 5가지 방법",
+      "코드 작성 생산성 향상을 위한 Copilot 활용 팁 제공"
+    ],
+    "tags": [
+      "Unity",
+      "AI",
+      "GameDev",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "OpenAI’s AI Agents Just Crossed A Line",
+    "translated_title": "OpenAI의 AI 에이전트가 선을 넘다",
+    "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+    "date": "2026-08-11",
+    "summary": [
+      "OpenAI의 AI 에이전트가 보안 사고에 연루되었습니다.",
+      "Hugging Face 모델 평가 보안 사고 및 에이전트 침입에 대한 기술 보고서가 공개되었습니다.",
+      "Lambda GPU Cloud를 홍보하며 관련 기술 보고서 링크를 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
+    "translated_title": "크로스파이어 개발사 That's No Moon, 14명 감원 소식",
+    "link": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
+    "date": "2026-08-11",
+    "summary": [
+      "크로스파이어 개발사 That's No Moon에서 14명의 직원을 해고했습니다.",
+      "크로스파이어는 올해 6월 스마일게이트와 텐센트 자회사 팀 K1이 퍼블리싱을 맡아 공개되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Three indie horror publishers faced sexual harassment claims – what comes next?",
+    "translated_title": "인디 호러 퍼블리셔 3곳, 성희롱 의혹 제기... 앞으로는?",
+    "link": "https://www.gamedeveloper.com/production/three-indie-horror-publishers-faced-sexual-harassment-claims-what-comes-next-",
+    "date": "2026-08-11",
+    "summary": [
+      "인디 개발자 보호 및 부적절한 행동 고발 시스템 부재",
+      "업계 내에서 누가 인디 개발자를 보호할 것인가에 대한 의문 제기"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Ubisoft Barcelona devs launch Dark Ritual Studios",
+    "translated_title": "우버소프트 바르셀로나 전 개발자들이 다크 리추얼 스튜디오 설립",
+    "link": "https://www.gamedeveloper.com/business/former-ubisoft-barcelona-devs-launch-dark-ritual-studios",
+    "date": "2026-08-11",
+    "summary": [
+      "우버소프트 바르셀로나 지부 51명 해고 발생",
+      "전 우버소프트 개발자들이 독립하여 스튜디오 설립"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Remedy Entertainment touts pricing Control Resonant 'attractively for an AAA title'",
+    "translated_title": "레메디 엔터테인먼트, '컨트롤 레조넌트' AAA 타이틀 가격을 '매력적으로' 책정했다고 주장",
+    "link": "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing-control-resonant-attractively-for-an-aaa-title-",
+    "date": "2026-08-11",
+    "summary": [
+      "레메디는 '컨트롤 레조넌트'의 가격을 60달러로 책정했습니다.",
+      "회사는 자체 퍼블리싱 위험보다 긍정적인 사전 보도를 기대하고 있습니다."
     ],
     "tags": [
       "News"
@@ -14,36 +93,65 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "EVE Online studio hires former Icelandic minister to lead autonomous AI efforts",
-    "translated_title": "EVE Online 개발사, 자율 AI 부문 이끌 전 아이슬란드 장관 영입",
-    "link": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
-    "date": "2026-08-10",
+    "title": "Supermassive Games begins third round of layoffs in three years",
+    "translated_title": "슈퍼매시브 게임즈, 3년 만에 세 번째 정리해고 시작",
+    "link": "https://www.gamedeveloper.com/business/supermassive-games-begins-third-round-of-layoffs-in-three-years",
+    "date": "2026-08-11",
     "summary": [
-      "EVE Online 개발사 Fenris Creations가 자율 AI 부문을 이끌기 위해 전 아이슬란드 장관을 영입했습니다.",
-      "Fenris Creations는 올해 초 독립했으며, 구글로부터 소수 지분 투자를 유치했습니다."
+      "영국 개발사 슈퍼매시브 게임즈에서 최대 75명 감축 예정입니다.",
+      "이는 3년 내 세 번째 대규모 정리해고입니다."
     ],
     "tags": [
-      "GameDev",
       "News",
-      "AI"
+      "GameDev"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
-    "translated_title": "유니티, AI 광고 플랫폼으로 '역대 최고 분기' 달성",
-    "link": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
-    "date": "2026-08-10",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "translated_title": "ACE에 대해 생각 중이신가요? 더 적은 토큰으로 해낼 수 있습니다.",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "date": "2026-08-11",
     "summary": [
-      "유니티의 수익이 Unity Vector AI의 수익 덕분에 전년 대비 24% 성장했습니다.",
-      "Unity Vector AI가 유니티 실적 호조의 핵심 요인으로 작용했습니다."
+      "토큰/시간 절약을 위해 길이 제한을 두세요.",
+      "ACE 모델 활용 시 효율적인 토큰 사용을 강조합니다."
     ],
     "tags": [
-      "Unity",
-      "News",
-      "AI"
+      "AI",
+      "Research"
     ],
-    "source": "gamedeveloper"
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "translated_title": "ChatGPT 광고 테스트 시작",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-11",
+    "summary": [
+      "무료 접근 지원을 위한 ChatGPT 광고 테스트 시작",
+      "광고는 명확하게 표시되며 답변과 독립적",
+      "강력한 개인 정보 보호 및 사용자 제어 기능 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "translated_title": "Daybreak 모델, AWS에서 사용 가능",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "date": "2026-08-11",
+    "summary": [
+      "OpenAI와 AWS가 Daybreak 사이버 보안 기능을 Amazon Bedrock을 통해 제공합니다.",
+      "기업 보안 워크플로우를 지원하기 위함입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -137,6 +245,52 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "The video game site backed by Walmart has laid off its editorial team",
+    "translated_title": "월마트의 지원을 받는 게임 웹사이트, 편집팀 해고",
+    "link": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
+    "date": "2026-08-10",
+    "summary": [
+      "월마트 지원 게임 웹사이트 Restart, 5명 규모 편집팀 해고.",
+      "Restart는 2024년 12월에 출시되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EVE Online studio hires former Icelandic minister to lead autonomous AI efforts",
+    "translated_title": "EVE Online 개발사, 자율 AI 부문 이끌 전 아이슬란드 장관 영입",
+    "link": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+    "date": "2026-08-10",
+    "summary": [
+      "EVE Online 개발사 Fenris Creations가 자율 AI 부문을 이끌기 위해 전 아이슬란드 장관을 영입했습니다.",
+      "Fenris Creations는 올해 초 독립했으며, 구글로부터 소수 지분 투자를 유치했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
+    "translated_title": "유니티, AI 광고 플랫폼으로 '역대 최고 분기' 달성",
+    "link": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
+    "date": "2026-08-10",
+    "summary": [
+      "유니티의 수익이 Unity Vector AI의 수익 덕분에 전년 대비 24% 성장했습니다.",
+      "Unity Vector AI가 유니티 실적 호조의 핵심 요인으로 작용했습니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "translated_title": "사이버 방어 시간이 좁혀짐에 따라 Daybreak 확장",
     "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
@@ -184,6 +338,21 @@ const allArticlesData = [
     "source": "Two Minute Papers"
   },
   {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "date": "2026-08-07",
+    "summary": [
+      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
+      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Pushing the limits in Simulating a City, One Page at a Time",
     "translated_title": "도시 시뮬레이션의 한계를 넘어서: 단 한 페이지의 디자인으로",
     "link": "https://www.gamedeveloper.com/design/pushing-the-limits-in-simulating-a-city-one-page-at-a-time",
@@ -212,21 +381,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "date": "2026-08-07",
-    "summary": [
-      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
-      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "What devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo",
@@ -289,21 +443,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "translated_title": "Hugging Face 추론 제공자에서의 Baseten",
-    "link": "https://huggingface.co/blog/baseten",
-    "date": "2026-08-06",
-    "summary": [
-      "Baseten은 Hugging Face의 추론 제공자 중 하나입니다.",
-      "이 기능은 모델 배포 및 추론을 더욱 간소화합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "translated_title": "WeatherNext: AI 모델, 사이클론 예측 분야 획기적 성과 달성",
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -318,6 +457,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "translated_title": "Hugging Face 추론 제공자에서의 Baseten",
+    "link": "https://huggingface.co/blog/baseten",
+    "date": "2026-08-06",
+    "summary": [
+      "Baseten은 Hugging Face의 추론 제공자 중 하나입니다.",
+      "이 기능은 모델 배포 및 추론을 더욱 간소화합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
@@ -440,21 +594,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
-    "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
-    "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
-    "date": "2026-08-05",
-    "summary": [
-      "3D 그래픽을 2D처럼 보이게 하는 샘플 프로젝트 'Bunny Blitz'가 출시되었습니다.",
-      "이 프로젝트를 통해 3D 환경에서 2D 게임 플레이를 구현하는 방법을 배울 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "The Billion Dollar AI Race Just Broke",
     "translated_title": "수십억 달러 규모의 AI 경쟁이 깨졌다",
     "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
@@ -469,6 +608,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
+    "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
+    "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
+    "date": "2026-08-05",
+    "summary": [
+      "3D 그래픽을 2D처럼 보이게 하는 샘플 프로젝트 'Bunny Blitz'가 출시되었습니다.",
+      "이 프로젝트를 통해 3D 환경에서 2D 게임 플레이를 구현하는 방법을 배울 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Publisher Secret Mode opens development studio to support internal projects",
@@ -4392,160 +4546,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
-    "translated_title": "Godot, '어느 정도의 AI 도움'은 허용하지만 '바이브 코드' 태그는 거부",
-    "link": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
-    "date": "2026-06-22",
-    "summary": [
-      "Godot은 코드 생성에 AI 도움을 받는 것을 일부 허용합니다.",
-      "단, 'slop PR(성의 없거나 품질이 낮은 PR)'은 자동 거부됩니다.",
-      "AI 생성 코드가 '바이브 코드'로 불리는 것을 거부하는 입장입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "French union STJV to commence national strike outside Quantic Dream",
-    "translated_title": "프랑스 STJV 노조, 퀀틱 드림 앞에서 전국 파업 돌입",
-    "link": "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-national-strike-outside-quantic-dream",
-    "date": "2026-06-22",
-    "summary": [
-      "프랑스 STJV 노조가 퀀틱 드림 앞에서 전국 파업에 돌입합니다.",
-      "이번 파업은 파리에서 시작될 예정입니다.",
-      "주요 시위 이유는 계속되는 정리해고와 고용 불안정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Codex-maxxing for long-running work",
-    "translated_title": "장기 업무를 위한 Codex 활용법",
-    "link": "https://openai.com/index/codex-maxxing-long-running-work",
-    "date": "2026-06-22",
-    "summary": [
-      "Codex를 사용하여 컨텍스트를 유지하고 복잡한 프로젝트를 관리하는 방법을 배웁니다.",
-      "단일 프롬프트를 넘어선 지속적인 업무 진행을 돕는 Codex의 활용법을 알아봅니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "translated_title": "삼성전자, 직원들에게 ChatGPT 및 Codex 도입",
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "date": "2026-06-21",
-    "summary": [
-      "삼성전자가 전 세계 직원들에게 ChatGPT Enterprise 및 Codex를 도입했습니다.",
-      "이는 OpenAI의 가장 큰 기업용 AI 출시 중 하나입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Scientists Found A Better Language For AI Agents",
-    "translated_title": "AI 에이전트를 위한 더 나은 언어를 과학자들이 발견했습니다",
-    "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
-    "date": "2026-06-19",
-    "summary": [
-      "AI 에이전트의 의사소통 및 협업 능력을 향상시키는 새로운 언어 모델을 소개합니다.",
-      "이 새로운 언어는 에이전트들이 더 복잡한 작업을 수행하고 서로 효율적으로 상호작용할 수 있도록 돕습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Kabam consolidating LA office and making layoffs",
-    "translated_title": "카밤, LA 사무실 통합 및 직원 감축 단행",
-    "link": "https://www.gamedeveloper.com/business/kabam-making-layoffs-after-choosing-to-consolidate-la-office",
-    "date": "2026-06-19",
-    "summary": [
-      "카밤이 LA 사무실을 통합합니다.",
-      "이번 통합으로 직원 감축이 이루어졌습니다.",
-      "정확한 해고 규모는 아직 불확실합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
-    "translated_title": "보도: 전 엑스박스 사장 사라 본드와 테이크투 CEO 스트라우스 젤닉, 피터 틸의 비밀 조직과 연관",
-    "link": "https://www.gamedeveloper.com/business/report-former-xbox-president-sarah-bond-and-take-two-ceo-strauss-zelnick-involved-in-peter-thiel-backed-secret-society",
-    "date": "2026-06-19",
-    "summary": [
-      "다수의 유출 정보가 비디오 게임 업계 임원들을 논란의 억만장자 피터 틸의 비밀 컨퍼런스 'Dialog'와 연결시켰습니다.",
-      "전 엑스박스 사장 사라 본드와 테이크투 CEO 스트라우스 젤닉이 해당 조직과 관련이 있다는 보도가 나왔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57",
-    "translated_title": "락스타 법적 난관, 파이널 판타지 세금 혜택, 플레이스테이션 'PC' 대신 'AI' - 패치 노트 #57",
-    "link": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
-    "date": "2026-06-19",
-    "summary": [
-      "락스타 게임즈가 법적 어려움에 직면했습니다.",
-      "파이널 판타지는 세금 혜택을 받게 되었습니다.",
-      "플레이스테이션은 'PC'를 'AI'로 변경했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "translated_title": "모자이크누출: 당신의 연구 에이전트는 비밀을 지킬 수 있을까요?",
-    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "date": "2026-06-18",
-    "summary": [
-      "연구 에이전트의 보안 취약점인 '모자이크누출'에 대해 다룹니다.",
-      "정보 유출 위험성과 연구 에이전트의 비밀 유지 능력에 대한 질문을 제기합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "translated_title": "LoRA를 넘어서: 가장 인기 있는 파인튜닝 기법을 능가할 수 있을까?",
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "date": "2026-06-18",
-    "summary": [
-      "LoRA는 가장 인기 있는 파인튜닝 기법입니다.",
-      "이 기법을 능가하는 더 나은 방법이 있는지 탐구합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
