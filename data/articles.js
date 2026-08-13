@@ -1,5 +1,157 @@
 const allArticlesData = [
   {
+    "title": "Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027",
+    "translated_title": "아마존, 2027년 초 로스트아크 및 쓰론 앤 리버티 퍼블리싱 역할 종료",
+    "link": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
+    "date": "2026-08-12",
+    "summary": [
+      "아마존 게임즈, 로스트아크와 쓰론 앤 리버티 퍼블리싱 중단 발표",
+      "MMORPG 장르의 두 게임, 개발사로 운영 복귀 예정",
+      "2027년 초까지 서비스 종료 또는 이관 완료 목표"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Developers expect generative AI to impact roles and team sizes in the next three years",
+    "translated_title": "개발자들은 생성형 AI가 향후 3년간 직무와 팀 규모에 영향을 미칠 것으로 예상",
+    "link": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
+    "date": "2026-08-12",
+    "summary": [
+      "올해 Gamescom Dev Conference 참가자 100명을 대상으로 한 설문조사 결과입니다.",
+      "개발자들은 생성형 AI 사용에 대해 망설임과 복합적인 감정을 보였습니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Meccha Chameleon tops 20M sales in two months",
+    "translated_title": "메차 카멜레온, 출시 두 달 만에 판매량 2000만 돌파",
+    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
+    "date": "2026-08-12",
+    "summary": [
+      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2개월 만에 2000만 건의 판매량을 기록했습니다.",
+      "숨바꼭질 게임으로서 꾸준히 높은 인기를 증명하고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic Games sells ArtStation and Sketchfab to KitBash",
+    "translated_title": "에픽게임즈, 아트스테이션과 스케치팹을 킷배시에 매각",
+    "link": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
+    "date": "2026-08-12",
+    "summary": [
+      "에픽게임즈가 아트스테이션과 스케치팹을 킷배시에 매각했습니다.",
+      "두 플랫폼은 2021년에 에픽게임즈에 인수되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
+    "translated_title": "해고된 개발자마다 깃발 하나씩: Xbox 책임자 아샤 샤르마를 향한 노조원들의 놓칠 수 없는 시위",
+    "link": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
+    "date": "2026-08-12",
+    "summary": [
+      "노조원들이 Xbox 책임자를 향해 시위를 벌였습니다.",
+      "해고된 개발자 각자를 상징하는 깃발이 사용되었습니다.",
+      "거대한 풍선 쥐가 시위의 가시성을 높였습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "translated_title": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위한 OlmoEarth Studio의 맞춤형 임베딩 내보내기",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "date": "2026-08-12",
+    "summary": [
+      "OlmoEarth Studio에서 사용자 지정 임베딩을 내보낼 수 있게 되었습니다.",
+      "이를 통해 다운스트림 분석 작업에 활용할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "translated_title": "LFM2.5-VL-3B: 엣지 디바이스를 위한 더 뛰어나고 빠른 비전 기능",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "date": "2026-08-12",
+    "summary": [
+      "LFM2.5-VL-3B 모델이 엣지 디바이스에서 비전 기능의 성능과 속도를 향상시킵니다.",
+      "더욱 발전된 비전 처리 능력을 제공하여 엣지 컴퓨팅의 효율성을 높입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "translated_title": "지원에서 실행까지: 기업의 AI 활용 방안",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-12",
+    "summary": [
+      "기업들이 에이전트 AI를 도입하며 ChatGPT와 Codex를 활용하는 방식에 대해 OpenAI 연구 결과가 발표되었습니다.",
+      "프론티어 기업들이 AI 채택에서 앞서나가고 있음을 보여줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "translated_title": "RingCentral, AI 네이티브를 위한 엔지니어링부터 운영까지 구축하는 방법",
+    "link": "https://openai.com/index/ringcentral",
+    "date": "2026-08-12",
+    "summary": [
+      "RingCentral은 ChatGPT Work와 Codex를 활용합니다.",
+      "AI 제품 개발을 가속화하고 운영 인텔리전스를 중앙 집중화합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Putting sign language AI into users’ hands",
+    "translated_title": "수어 AI를 사용자에게 직접 제공하다",
+    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12",
+    "summary": [
+      "청각 및 난청 사용자를 위한 새로운 수어 기능 개발",
+      "수어를 텍스트로 변환하는 혁신적인 SL2T 모델 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "5 tips for using GitHub Copilot with Unity",
     "translated_title": "Unity에서 GitHub Copilot 활용을 위한 5가지 팁",
     "link": "https://unity.com/blog/5-tips-for-using-github-copilot-with-unity",
@@ -32,6 +184,52 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "translated_title": "ACE에 대해 생각 중이신가요? 더 적은 토큰으로 해낼 수 있습니다.",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "date": "2026-08-11",
+    "summary": [
+      "토큰/시간 절약을 위해 길이 제한을 두세요.",
+      "ACE 모델 활용 시 효율적인 토큰 사용을 강조합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "translated_title": "ChatGPT 광고 테스트 시작",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-11",
+    "summary": [
+      "무료 접근 지원을 위한 ChatGPT 광고 테스트 시작",
+      "광고는 명확하게 표시되며 답변과 독립적",
+      "강력한 개인 정보 보호 및 사용자 제어 기능 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "translated_title": "Daybreak 모델, AWS에서 사용 가능",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "date": "2026-08-11",
+    "summary": [
+      "OpenAI와 AWS가 Daybreak 사이버 보안 기능을 Amazon Bedrock을 통해 제공합니다.",
+      "기업 보안 워크플로우를 지원하기 위함입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
@@ -108,52 +306,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "translated_title": "ACE에 대해 생각 중이신가요? 더 적은 토큰으로 해낼 수 있습니다.",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "date": "2026-08-11",
-    "summary": [
-      "토큰/시간 절약을 위해 길이 제한을 두세요.",
-      "ACE 모델 활용 시 효율적인 토큰 사용을 강조합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "translated_title": "ChatGPT 광고 테스트 시작",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-08-11",
-    "summary": [
-      "무료 접근 지원을 위한 ChatGPT 광고 테스트 시작",
-      "광고는 명확하게 표시되며 답변과 독립적",
-      "강력한 개인 정보 보호 및 사용자 제어 기능 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "translated_title": "Daybreak 모델, AWS에서 사용 가능",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "date": "2026-08-11",
-    "summary": [
-      "OpenAI와 AWS가 Daybreak 사이버 보안 기능을 Amazon Bedrock을 통해 제공합니다.",
-      "기업 보안 워크플로우를 지원하기 위함입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "translated_title": "NVIDIA Magpie TTS로 구축하는 저지연 다국어 음성 에이전트: 오픈 웨이트 및 완전한 배포 제어",
     "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
@@ -183,6 +335,21 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "translated_title": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 구축에 관한 서한 전달",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "date": "2026-08-10",
+    "summary": [
+      "OpenAI는 텍사스 내 책임 있는 AI 인프라 구축에 대한 의지를 담은 서한을 주지사에게 보냈습니다.",
+      "서한은 텍사스 주민들에게 이익이 되는 신뢰할 수 있고 투명한 성장을 지지합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "translated_title": "메타, 로컬, 에이전트, 멀티모달, 오픈소스 AI 'Muse Glimmer' 재출시",
     "link": "https://huggingface.co/blog/muse-glimmer",
@@ -197,21 +364,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "translated_title": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 구축에 관한 서한 전달",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "date": "2026-08-10",
-    "summary": [
-      "OpenAI는 텍사스 내 책임 있는 AI 인프라 구축에 대한 의지를 담은 서한을 주지사에게 보냈습니다.",
-      "서한은 텍사스 주민들에게 이익이 되는 신뢰할 수 있고 투명한 성장을 지지합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
@@ -4388,158 +4540,6 @@ const allArticlesData = [
     "summary": [
       "크리에이티브 어셈블리의 서바이벌 호러 복귀와 에이리언 프랜차이즈에 대한 심층 인터뷰.",
       "12년의 기다림이 '에이리언: 아이솔레이션 2'의 완성도를 높였다는 내용."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Tencent mulling exits from multiple Japanese studios",
-    "translated_title": "보도: 텐센트, 일본 내 다수 게임 스튜디오 매각 검토 중",
-    "link": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
-    "date": "2026-06-23",
-    "summary": [
-      "텐센트가 일본 게임 스튜디오 매각을 검토하고 있습니다.",
-      "과거 일본 투자 확대를 진행했으나, 현재는 UGC 플랫폼 중심으로 포트폴리오 재편을 모색 중입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Valve is making it easier to build your own Steam Machine",
-    "translated_title": "Valve, 직접 Steam Machine을 더 쉽게 만들 수 있도록 지원",
-    "link": "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build-your-own-steam-machine",
-    "date": "2026-06-23",
-    "summary": [
-      "Valve가 자체 Steam Machine 제작을 간소화하고 있습니다.",
-      "예약 없이도 Steam Machine 제작이 가능해질 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-    "translated_title": "DeepSeek, AI의 수십억 달러 문제 해결하다",
-    "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-    "date": "2026-06-22",
-    "summary": [
-      "DeepSeek가 AI 분야의 난제인 '수십억 달러 문제'를 해결했다고 주장합니다.",
-      "이 내용은 Lambda의 GPU 클라우드를 소개하는 내용과 관련 논문 링크를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "translated_title": "Daybreak: 전 세계 모든 조직을 위한 보안 도구",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "date": "2026-06-22",
-    "summary": [
-      "OpenAI가 Daybreak 도구를 출시했습니다.",
-      "Codex Security 및 GPT-5.5-Cyber를 포함합니다.",
-      "취약점을 찾아내고, 검증하며, 대규모로 패치하는 데 도움을 줍니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Steam Machine pricing starts at $1,049 for 512GB model",
-    "translated_title": "Steam Machine, 512GB 모델 1,049달러부터 시작",
-    "link": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
-    "date": "2026-06-22",
-    "summary": [
-      "Steam Machine의 가격이 1,000달러를 넘어섰습니다.",
-      "512GB 모델의 시작 가격은 1,049달러입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: EA conducts layoffs in Hyderabad, India and the US",
-    "translated_title": "EA, 인도 하이데라바드 및 미국에서 감원 단행 보도",
-    "link": "https://www.gamedeveloper.com/business/report-ea-conducts-layoffs-in-hyderabad-india-and-the-us",
-    "date": "2026-06-22",
-    "summary": [
-      "EA가 인도 하이데라바드와 미국에서 감원을 실시했습니다.",
-      "이번 감원은 채용, 고객 지원, 신뢰 및 안전, IT 팀에 영향을 미친 것으로 알려졌습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "translated_title": "허깅페이스의 PP-OCRv6: 150만~3450만 매개변수로 50개 언어 OCR 지원",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "date": "2026-06-22",
-    "summary": [
-      "PP-OCRv6 모델이 허깅페이스에 공개되었습니다.",
-      "150만 개에서 3450만 개까지 다양한 매개변수 범위를 가집니다.",
-      "50개 언어에 대한 OCR 기능을 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "translated_title": "로컬 AI 모델로 OpenClaw 리포지토리를 무료로 분류했습니다!",
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "date": "2026-06-22",
-    "summary": [
-      "로컬 AI 모델을 사용하여 OpenClaw 리포지토리를 무료로 분류했습니다.",
-      "이 작업은 별도의 비용 없이 AI의 도움을 받아 진행되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "translated_title": "Patch the Planet: 오픈소스 유지보수자를 지원하는 Daybreak 이니셔티브",
-    "link": "https://openai.com/index/patch-the-planet",
-    "date": "2026-06-22",
-    "summary": [
-      "OpenAI가 'Patch the Planet' 이니셔티브를 공개했습니다.",
-      "AI와 전문가 검토를 통해 취약점을 찾고 수정하는 것을 지원합니다.",
-      "오픈소스 유지보수자들의 부담을 덜어주는 데 목적이 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Ubisoft eliminates 93 roles in San Francisco",
-    "translated_title": "유비소프트, 샌프란시스코 지사 93명 감원",
-    "link": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
-    "date": "2026-06-22",
-    "summary": [
-      "유비소프트 샌프란시스코 지사에서 93명의 직원이 해고되었습니다.",
-      "캘리포니아 WARN 통지서에 따라 해당 인원 감축이 확인되었습니다."
     ],
     "tags": [
       "News",
