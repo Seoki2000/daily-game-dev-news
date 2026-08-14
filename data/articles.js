@@ -1,27 +1,58 @@
 const allArticlesData = [
   {
-    "title": "Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027",
-    "translated_title": "아마존, 2027년 초 로스트아크 및 쓰론 앤 리버티 퍼블리싱 역할 종료",
-    "link": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
-    "date": "2026-08-12",
+    "title": "Netflix closing Oxenfree developer Night School Studio and Moonloot Games",
+    "translated_title": "넷플릭스, '옥센프리' 개발사 나이트 스쿨 스튜디오와 문룻 게임즈 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games",
+    "date": "2026-08-13",
     "summary": [
-      "아마존 게임즈, 로스트아크와 쓰론 앤 리버티 퍼블리싱 중단 발표",
-      "MMORPG 장르의 두 게임, 개발사로 운영 복귀 예정",
-      "2027년 초까지 서비스 종료 또는 이관 완료 목표"
+      "넷플릭스가 게임 사업의 전략 및 효율성 증대를 위해 일부 게임 부문 인력을 감축합니다.",
+      "이번 감축은 나이트 스쿨 스튜디오와 문룻 게임즈를 포함한 몇몇 게임 관련 사업에 영향을 미칠 것으로 보입니다."
     ],
     "tags": [
+      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Developers expect generative AI to impact roles and team sizes in the next three years",
-    "translated_title": "개발자들은 생성형 AI가 향후 3년간 직무와 팀 규모에 영향을 미칠 것으로 예상",
-    "link": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
-    "date": "2026-08-12",
+    "title": "2K announces new Vancouver-based AAA studio led by EA veteran",
+    "translated_title": "2K, EA 베테랑 이끄는 새로운 밴쿠버 기반 AAA 스튜디오 발표",
+    "link": "https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran",
+    "date": "2026-08-13",
     "summary": [
-      "올해 Gamescom Dev Conference 참가자 100명을 대상으로 한 설문조사 결과입니다.",
-      "개발자들은 생성형 AI 사용에 대해 망설임과 복합적인 감정을 보였습니다."
+      "2K가 밴쿠버에 새로운 AAA 게임 스튜디오를 설립합니다.",
+      "EA에서 20년 가까이 근무한 Aaron McHardy가 스튜디오를 이끌 예정입니다.",
+      "Aaron McHardy는 부사장, 총괄 프로듀서, Small Axe Studios 대표를 맡습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xsolla rolls out publishing tools to keep players 'engaged' after the first purchase",
+    "translated_title": "Xsolla, 첫 구매 후에도 플레이어 '몰입' 유지 위한 퍼블리싱 툴 출시",
+    "link": "https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase",
+    "date": "2026-08-13",
+    "summary": [
+      "Xsolla가 스튜디오를 위한 새로운 퍼블리싱 툴을 선보입니다.",
+      "이를 통해 첫 구매 이후에도 플레이어의 재구매를 유도하는 데 집중합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Saber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy",
+    "translated_title": "세이버 인터랙티브, 논란 후 '라이드셰어' AI 사용 공개 예정",
+    "link": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
+    "date": "2026-08-13",
+    "summary": [
+      "세이버 인터랙티브는 '라이드셰어' 게임에 AI를 사용하지 않았다고 밝혔습니다.",
+      "이전에는 AI 사용 여부에 대한 논란이 있었습니다."
     ],
     "tags": [
       "AI",
@@ -31,27 +62,13 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Meccha Chameleon tops 20M sales in two months",
-    "translated_title": "메차 카멜레온, 출시 두 달 만에 판매량 2000만 돌파",
-    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
-    "date": "2026-08-12",
+    "title": "Opinion: Deprofessionalization could foster toxic work environments on small teams",
+    "translated_title": "의견: 비전문가화가 소규모 팀 내 독성 업무 환경을 조장할 수 있다",
+    "link": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
+    "date": "2026-08-13",
     "summary": [
-      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2개월 만에 2000만 건의 판매량을 기록했습니다.",
-      "숨바꼭질 게임으로서 꾸준히 높은 인기를 증명하고 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Epic Games sells ArtStation and Sketchfab to KitBash",
-    "translated_title": "에픽게임즈, 아트스테이션과 스케치팹을 킷배시에 매각",
-    "link": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
-    "date": "2026-08-12",
-    "summary": [
-      "에픽게임즈가 아트스테이션과 스케치팹을 킷배시에 매각했습니다.",
-      "두 플랫폼은 2021년에 에픽게임즈에 인수되었습니다."
+      "소규모 팀의 성공이 커지면서 게임 산업은 전문적인 행동 기준을 어떻게 보호할 것인가?",
+      "비전문가화가 팀 내에서 부정적인 업무 환경을 야기할 우려가 있다."
     ],
     "tags": [
       "GameDev",
@@ -60,20 +77,95 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
-    "translated_title": "해고된 개발자마다 깃발 하나씩: Xbox 책임자 아샤 샤르마를 향한 노조원들의 놓칠 수 없는 시위",
-    "link": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
-    "date": "2026-08-12",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "date": "2026-08-13",
     "summary": [
-      "노조원들이 Xbox 책임자를 향해 시위를 벌였습니다.",
-      "해고된 개발자 각자를 상징하는 깃발이 사용되었습니다.",
-      "거대한 풍선 쥐가 시위의 가시성을 높였습니다."
+      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
+      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
+      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
     ],
     "tags": [
-      "GameDev",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "translated_title": "ICML 논문 2,200편 재현 연구에서 얻은 교훈",
+    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "date": "2026-08-13",
+    "summary": [
+      "ICML 학회 논문 2,200편을 재현하는 대규모 연구를 수행했습니다.",
+      "연구를 통해 재현 과정에서의 어려움과 결과에 대한 인사이트를 얻었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "translated_title": "GPT-5.6 빌더를 위한 가이드",
+    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "date": "2026-08-13",
+    "summary": [
+      "스타트업이 GPT-5.6을 활용하여 AI 에이전트 개발 속도를 높이고 비용을 절감하는 방법을 배웁니다.",
+      "더욱 스마트해진 모델 선택과 새로운 Responses API 기능을 통해 효율적인 AI 에이전트 구축이 가능해집니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "translated_title": "초고속 모드 미리보기: GPT-5.6 Sol, 최대 14배 빠른 속도로",
+    "link": "https://openai.com/index/previewing-ultrafast",
+    "date": "2026-08-13",
+    "summary": [
+      "OpenAI, GPT-5.6 Sol을 최대 14배 빠르게 실행하는 새로운 API 서비스 등급 'Ultrafast' 공개",
+      "Cerebras 기반으로 초당 최대 750개의 출력 토큰 제공",
+      "토큰/시간 절약을 위한 길이 제한 기능"
+    ],
+    "tags": [
+      "AI",
       "News"
     ],
-    "source": "gamedeveloper"
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "translated_title": "OpenAI, 신임 최고매출책임자(CRO)에 달리 라직 임명",
+    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "date": "2026-08-13",
+    "summary": [
+      "OpenAI가 달리 라직을 최고매출책임자(CRO)로 임명했습니다.",
+      "그는 글로벌 매출 조직을 이끌고 기업들의 AI 가치 실현을 도울 것입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "translated_title": "Gemini 3.7 Flash 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13",
+    "summary": [
+      "Gemini 3.7 Flash 모델을 소개합니다.",
+      "주요 기능 및 특징을 요약합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -150,6 +242,82 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027",
+    "translated_title": "아마존, 2027년 초 로스트아크 및 쓰론 앤 리버티 퍼블리싱 역할 종료",
+    "link": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
+    "date": "2026-08-12",
+    "summary": [
+      "아마존 게임즈, 로스트아크와 쓰론 앤 리버티 퍼블리싱 중단 발표",
+      "MMORPG 장르의 두 게임, 개발사로 운영 복귀 예정",
+      "2027년 초까지 서비스 종료 또는 이관 완료 목표"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Developers expect generative AI to impact roles and team sizes in the next three years",
+    "translated_title": "개발자들은 생성형 AI가 향후 3년간 직무와 팀 규모에 영향을 미칠 것으로 예상",
+    "link": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
+    "date": "2026-08-12",
+    "summary": [
+      "올해 Gamescom Dev Conference 참가자 100명을 대상으로 한 설문조사 결과입니다.",
+      "개발자들은 생성형 AI 사용에 대해 망설임과 복합적인 감정을 보였습니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Meccha Chameleon tops 20M sales in two months",
+    "translated_title": "메차 카멜레온, 출시 두 달 만에 판매량 2000만 돌파",
+    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
+    "date": "2026-08-12",
+    "summary": [
+      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2개월 만에 2000만 건의 판매량을 기록했습니다.",
+      "숨바꼭질 게임으로서 꾸준히 높은 인기를 증명하고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic Games sells ArtStation and Sketchfab to KitBash",
+    "translated_title": "에픽게임즈, 아트스테이션과 스케치팹을 킷배시에 매각",
+    "link": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
+    "date": "2026-08-12",
+    "summary": [
+      "에픽게임즈가 아트스테이션과 스케치팹을 킷배시에 매각했습니다.",
+      "두 플랫폼은 2021년에 에픽게임즈에 인수되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
+    "translated_title": "해고된 개발자마다 깃발 하나씩: Xbox 책임자 아샤 샤르마를 향한 노조원들의 놓칠 수 없는 시위",
+    "link": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
+    "date": "2026-08-12",
+    "summary": [
+      "노조원들이 Xbox 책임자를 향해 시위를 벌였습니다.",
+      "해고된 개발자 각자를 상징하는 깃발이 사용되었습니다.",
+      "거대한 풍선 쥐가 시위의 가시성을 높였습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "5 tips for using GitHub Copilot with Unity",
@@ -4374,176 +4542,6 @@ const allArticlesData = [
     "tags": [
       "GameDev",
       "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Xbox employees warn of potential for retaliation in rumored impending layoffs",
-    "translated_title": "전직 Xbox 직원, 임박한 것으로 알려진 해고에 대한 보복 가능성 경고",
-    "link": "https://www.gamedeveloper.com/business/former-xbox-employees-warn-of-potential-for-retaliation-in-rumored-impending-layoffs",
-    "date": "2026-06-24",
-    "summary": [
-      "전직 직원들은 과거 해고가 보복성이라고 믿고 있습니다.",
-      "개발자들에게 자신을 보호하라고 경고합니다.",
-      "대규모 해고가 임박했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Investment house Denmu announces 'auteur-first' $50 million fund for game devs",
-    "translated_title": "투자사 뎀무, 게임 개발자 위한 5천만 달러 '작가 우선' 펀드 발표",
-    "link": "https://www.gamedeveloper.com/business/investment-house-denmu-announces-auteur-first-50-million-fund-for-game-devs",
-    "date": "2026-06-24",
-    "summary": [
-      "투자사 뎀무가 게임 개발자를 위한 5천만 달러 규모의 펀드를 조성했습니다.",
-      "이 펀드는 '작가 우선' 전략을 표방하며, '작가'의 범위를 개인 창작자 이상으로 확장합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "New publisher Trailmark Games promises 'new path forward' for licensed games",
-    "translated_title": "신규 퍼블리셔 트레일마크 게임즈, 라이선스 게임의 '새로운 길' 제시 약속",
-    "link": "https://www.gamedeveloper.com/business/new-publisher-trailmark-games-promises-new-path-forward-for-licensed-games",
-    "date": "2026-06-24",
-    "summary": [
-      "니켈로디언 올스타 브롤 제작사가 새로운 라이선스 게임 퍼블리셔 설립.",
-      "트레일마크 게임즈는 라이선스 게임 분야에 새로운 방향을 제시할 것을 약속했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Grand Theft Auto 6's $80 price settles the $100 question",
-    "translated_title": "GTA 6, 80달러 가격으로 100달러 논쟁 종결",
-    "link": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
-    "date": "2026-06-24",
-    "summary": [
-      "GTA 6의 가격이 80달러로 확정되었습니다.",
-      "이는 출시 전 100달러 논쟁에 대한 답을 제시합니다.",
-      "게임 예약 판매는 목요일에 시작됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "translated_title": "CUGA를 이용한 실제 에이전트 앱 구축: 경량 프레임워크의 24가지 작동 예제",
-    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "date": "2026-06-23",
-    "summary": [
-      "CUGA 프레임워크를 사용하여 실제 에이전트 기반 애플리케이션을 구축하는 방법을 설명합니다.",
-      "24개의 실제 작동 예제를 통해 CUGA의 활용 방안을 제시합니다.",
-      "경량화된 프레임워크를 통해 효율적인 개발이 가능함을 강조합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "translated_title": "고도화된 AI를 위한 공유 표준 구축 지원",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "date": "2026-06-23",
-    "summary": [
-      "OpenAI는 Appia Foundation을 통해 고급 AI 표준 구축을 지원합니다.",
-      "평가 프레임워크, 안전 관행, 글로벌 협력을 촉진합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "translated_title": "GPT-5, 면역학자 데리아 우누트마즈의 3년 묵은 미스터리 해결에 기여하다",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "date": "2026-06-23",
-    "summary": [
-      "GPT-5 Pro가 3년 된 면역학 미스터리 해결을 도왔습니다.",
-      "T세포 행동에 대한 새로운 통찰력을 제공했으며, 이는 암 및 자가면역 질환 연구에 기여할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "translated_title": "Omio, 대화형 여행의 미래를 구축하는 방법",
-    "link": "https://openai.com/index/omio",
-    "date": "2026-06-23",
-    "summary": [
-      "Omio가 OpenAI를 활용하여 대화형 여행 경험을 구현합니다.",
-      "제품 개발을 가속화하고 AI 네이티브 기업으로 전환합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "translated_title": "AI, 오픈소스 도구, 그리고 휴먼 인 더 루프를 활용한 Hugging Face Hub 매주 배포",
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "date": "2026-06-23",
-    "summary": [
-      "Hugging Face Hub는 AI, 오픈소스 도구, 그리고 사람의 검토를 통해 매주 업데이트됩니다.",
-      "이러한 협력적 접근 방식은 Hub의 지속적인 개선과 발전을 이끌고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "translated_title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "date": "2026-06-23",
-    "summary": [
-      "Transformers.js에서 Cross-Origin Storage API 실험에 대한 내용을 다룹니다.",
-      "API의 기능 및 활용 가능성을 탐색하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
-    "translated_title": "12년의 기다림이 '에이리언: 아이솔레이션 2'를 더 나은 속편으로 만든 방법",
-    "link": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
-    "date": "2026-06-23",
-    "summary": [
-      "크리에이티브 어셈블리의 서바이벌 호러 복귀와 에이리언 프랜차이즈에 대한 심층 인터뷰.",
-      "12년의 기다림이 '에이리언: 아이솔레이션 2'의 완성도를 높였다는 내용."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
     ],
     "source": "gamedeveloper"
   }
