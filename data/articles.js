@@ -1,5 +1,54 @@
 const allArticlesData = [
   {
+    "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+    "translated_title": "Claude AI 650번 실패 후 인간 기록을 뛰어넘다",
+    "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+    "date": "2026-08-14",
+    "summary": [
+      "Claude AI가 복잡한 수학 문제를 해결하는 데 650번의 시도 끝에 성공했습니다.",
+      "이 성공은 인간 최고 기록을 경신한 것으로, AI의 문제 해결 능력을 보여줍니다.",
+      "이 연구는 Anthropic의 Claude AI 모델을 활용했으며, Weights & Biases의 지원을 받았습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65",
+    "translated_title": "스캐비 대 샤르마, 트위치의 GenAI 인정, 넷플릭스 스튜디오 추가 폐쇄 - 패치 노트 #65",
+    "link": "https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65",
+    "date": "2026-08-14",
+    "summary": [
+      "트위치의 GenAI 관련 입장 발표",
+      "넷플릭스의 스튜디오 추가 폐쇄 소식",
+      "그 외 게임 관련 긍정적 뉴스"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "translated_title": "오픈 모델 현황: 2026년 여름 관찰",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "date": "2026-08-14",
+    "summary": [
+      "2026년 여름, 오픈 모델들의 현황을 다루고 있습니다.",
+      "주요 관찰 내용 및 동향을 요약합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Netflix closing Oxenfree developer Night School Studio and Moonloot Games",
     "translated_title": "넷플릭스, '옥센프리' 개발사 나이트 스쿨 스튜디오와 문룻 게임즈 폐쇄",
     "link": "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games",
@@ -56,21 +105,6 @@ const allArticlesData = [
     ],
     "tags": [
       "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Opinion: Deprofessionalization could foster toxic work environments on small teams",
-    "translated_title": "의견: 비전문가화가 소규모 팀 내 독성 업무 환경을 조장할 수 있다",
-    "link": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
-    "date": "2026-08-13",
-    "summary": [
-      "소규모 팀의 성공이 커지면서 게임 산업은 전문적인 행동 기준을 어떻게 보호할 것인가?",
-      "비전문가화가 팀 내에서 부정적인 업무 환경을 야기할 우려가 있다."
-    ],
-    "tags": [
       "GameDev",
       "News"
     ],
@@ -166,6 +200,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Opinion: Deprofessionalization could foster toxic work environments on small teams",
+    "translated_title": "의견: 비전문가화가 소규모 팀 내 독성 업무 환경을 조장할 수 있다",
+    "link": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
+    "date": "2026-08-13",
+    "summary": [
+      "소규모 팀의 성공이 커지면서 게임 산업은 전문적인 행동 기준을 어떻게 보호할 것인가?",
+      "비전문가화가 팀 내에서 부정적인 업무 환경을 야기할 우려가 있다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -4499,50 +4548,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "translated_title": "FFASR 리더보드 소개: 실제 환경에서의 ASR 벤치마킹",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "date": "2026-06-24",
-    "summary": [
-      "FFASR 리더보드를 통해 실제 환경에서의 ASR 성능을 측정합니다.",
-      "이 리더보드는 ASR 기술의 실질적인 효용성을 평가하는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "translated_title": "OpenAI와 Broadcom, LLM 최적화 추론 칩 공개",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "date": "2026-06-24",
-    "summary": [
-      "OpenAI와 Broadcom이 LLM 추론을 위한 맞춤형 AI 칩 'Jalapeño'를 공개했습니다.",
-      "이 칩은 AI 시스템의 성능, 효율성, 확장성을 향상시키는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Tim Sweeney says only hope for new games is to 'connect to economies of other games'",
-    "translated_title": "팀 스위니, 신규 게임의 유일한 희망은 '다른 게임 경제와 연결하는 것'",
-    "link": "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new-games-is-to-connect-to-economies-of-other-games-",
-    "date": "2026-06-24",
-    "summary": [
-      "에픽게임즈 CEO 팀 스위니는 성공을 위해 게임 경제를 연결해야 한다고 주장합니다.",
-      "다른 게임과의 경제적 연결이 신규 게임의 성공 열쇠라고 강조합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
