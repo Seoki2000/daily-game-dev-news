@@ -1,5 +1,202 @@
 const allArticlesData = [
   {
+    "title": "Memory crisis is driving uncertainty over PlayStation 6's launch date",
+    "translated_title": "메모리 부족, 플레이스테이션 6 출시일 불확실성 키워",
+    "link": "https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6",
+    "date": "2026-08-18",
+    "summary": [
+      "플레이스테이션 6 출시일 아직 미정입니다.",
+      "소니 CEO, 출시일 확정되지 않았다고 밝혔습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Deus Ex director Warren Spector is retiring after nearly 45 years in game dev",
+    "translated_title": "데이어스 엑스 디렉터 워렌 스펙터, 약 45년 게임 개발 커리어 마치고 은퇴",
+    "link": "https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years",
+    "date": "2026-08-18",
+    "summary": [
+      "데이어스 엑스 시리즈의 워렌 스펙터가 45년 가까운 게임 개발 경력을 뒤로하고 은퇴합니다.",
+      "은퇴를 생각하고 있지만, 아직 만들고 싶은 게임 아이디어 3개를 가지고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025",
+    "translated_title": "2025년 아동 학대 의심 65,381건 보고된 로블록스, 미 상원 조사 착수",
+    "link": "https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025",
+    "date": "2026-08-18",
+    "summary": [
+      "로블록스에서 아동 학대 의심 사례 65,381건 보고.",
+      "미국 상원이 로블록스에 대한 조사 시작.",
+      "정치권, 아동 보호 문제에 대한 심각성 강조."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Arco tops 100,000 sales in two years and breaks even",
+    "translated_title": "아르코, 2년 만에 10만 판매 돌파 및 손익분기점 달성",
+    "link": "https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales",
+    "date": "2026-08-18",
+    "summary": [
+      "아르코가 출시 2년 만에 10만 개 이상의 판매량을 기록했습니다.",
+      "동시에 손익분기점을 달성하는 쾌거를 이루었습니다.",
+      "개발팀은 이 성과를 '놀랍다'고 평가했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "WINGS really, really wants to fund your neat indie video game",
+    "translated_title": "WINGS, 당신의 멋진 인디 게임 개발에 적극 지원합니다",
+    "link": "https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game",
+    "date": "2026-08-18",
+    "summary": [
+      "WINGS가 여성 및 성소수자 개발자 지원을 위한 새로운 펀딩 경로를 개설합니다.",
+      "모든 규모의 PC 게임 프로젝트에 대한 투자를 진행합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "translated_title": "에이전트에게 실제로 얼마나 많은 메모리가 필요할까요?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "date": "2026-08-18",
+    "summary": [
+      "에이전트의 메모리 요구량을 평가하는 방법을 설명합니다.",
+      "메모리 사용량을 최적화하여 성능을 향상시키는 팁을 제공합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "translated_title": "Sentence Transformers를 이용한 다중 벡터 (후기 상호작용) 임베딩 모델",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "date": "2026-08-18",
+    "summary": [
+      "Sentence Transformers를 활용하여 후기 상호작용 방식의 다중 벡터 임베딩 모델을 구축하는 방법을 설명합니다.",
+      "이 모델은 문장 간의 관계를 파악하는 데 효과적이며, 다양한 자연어 처리 작업에 적용될 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "translated_title": "국가 안보 분야 민주적 감독 강화",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "date": "2026-08-18",
+    "summary": [
+      "OpenAI, 국가 안보 AI 분야 민주적 감독 강화 이니셔티브 출시",
+      "정부 기관에 도구, 교육, 전문성 지원 예정"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "translated_title": "CodeAI와 협력하여 첫 AI 생성을 준비하다",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "date": "2026-08-18",
+    "summary": [
+      "OpenAI와 CodeAI가 학생들의 AI 리터러시 향상을 위해 협력합니다.",
+      "AI에 대한 비판적 사고와 책임감 있는 AI 사용/개발 역량 함양을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "translated_title": "사이버 중요 역량 시대의 페이싱 모델 개발",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "date": "2026-08-18",
+    "summary": [
+      "OpenAI, 최첨단 AI 모델에 대한 모니터링, 정렬, 보안 강화",
+      "새로운 안전 장치가 모델 개발 속도를 조절하는 방식 설명"
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "translated_title": "10대 맞춤 ChatGPT 출시: 학습을 위한 설계, 보호 기능 강화",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "date": "2026-08-18",
+    "summary": [
+      "10대가 AI를 자신감 있게 배우고 비판적으로 사고하도록 돕습니다.",
+      "강화된 내장 보호 기능, 건강한 사용 습관 기능, 부모님을 위한 추가 제어 기능을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "translated_title": "NVIDIA, ChatGPT Work로 전문성을 확장하는 방법",
+    "link": "https://openai.com/index/nvidia/chatgpt-work",
+    "date": "2026-08-18",
+    "summary": [
+      "NVIDIA 팀은 ChatGPT Work를 활용하여 수동 작업을 줄입니다.",
+      "빠르게 변화하는 신호를 연결하고 성공적인 워크플로를 전 세계적으로 확장합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "translated_title": "동일한 클러스터, 33% 더 높은 활용률: 순서 변경이 불러온 변화",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "date": "2026-08-17",
+    "summary": [
+      "클러스터의 작업 처리 순서를 변경하여 활용률을 33% 향상시켰습니다.",
+      "작업 순서 최적화만으로도 상당한 성능 개선을 달성할 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
     "translated_title": "Claude AI 650번 실패 후 인간 기록을 뛰어넘다",
     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
@@ -15,6 +212,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "translated_title": "오픈 모델 현황: 2026년 여름 관찰",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "date": "2026-08-14",
+    "summary": [
+      "2026년 여름, 오픈 모델들의 현황을 다루고 있습니다.",
+      "주요 관찰 내용 및 동향을 요약합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65",
@@ -33,20 +246,34 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "translated_title": "오픈 모델 현황: 2026년 여름 관찰",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "date": "2026-08-14",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "date": "2026-08-13",
     "summary": [
-      "2026년 여름, 오픈 모델들의 현황을 다루고 있습니다.",
-      "주요 관찰 내용 및 동향을 요약합니다."
+      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
+      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
+      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "translated_title": "Gemini 3.7 Flash 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13",
+    "summary": [
+      "Gemini 3.7 Flash 모델을 소개합니다.",
+      "주요 기능 및 특징을 요약합니다."
     ],
     "tags": [
       "AI",
-      "News",
-      "Research"
+      "News"
     ],
-    "source": "Hugging Face - Blog"
+    "source": "Google DeepMind News"
   },
   {
     "title": "Netflix closing Oxenfree developer Night School Studio and Moonloot Games",
@@ -111,21 +338,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "date": "2026-08-13",
-    "summary": [
-      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
-      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
-      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "translated_title": "ICML 논문 2,200편 재현 연구에서 얻은 교훈",
     "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
@@ -187,21 +399,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Introducing Gemini 3.7 Flash",
-    "translated_title": "Gemini 3.7 Flash 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "date": "2026-08-13",
-    "summary": [
-      "Gemini 3.7 Flash 모델을 소개합니다.",
-      "주요 기능 및 특징을 요약합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Opinion: Deprofessionalization could foster toxic work environments on small teams",
     "translated_title": "의견: 비전문가화가 소규모 팀 내 독성 업무 환경을 조장할 수 있다",
     "link": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
@@ -215,6 +412,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Putting sign language AI into users’ hands",
+    "translated_title": "수어 AI를 사용자에게 직접 제공하다",
+    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12",
+    "summary": [
+      "청각 및 난청 사용자를 위한 새로운 수어 기능 개발",
+      "수어를 텍스트로 변환하는 혁신적인 SL2T 모델 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -276,21 +488,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Putting sign language AI into users’ hands",
-    "translated_title": "수어 AI를 사용자에게 직접 제공하다",
-    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "date": "2026-08-12",
-    "summary": [
-      "청각 및 난청 사용자를 위한 새로운 수어 기능 개발",
-      "수어를 텍스트로 변환하는 혁신적인 SL2T 모델 소개"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027",
@@ -4349,204 +4546,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Steam Machine sticker shock, even more Ubisoft layoffs, and another Xbox price hike - Patch Notes #58",
-    "translated_title": "스팀 머신 가격 쇼크, 유비소프트 추가 감원, 엑스박스 또 가격 인상 - 패치 노트 #58",
-    "link": "https://www.gamedeveloper.com/business/steam-machine-sticker-shock-even-more-ubisoft-layoffs-and-another-xbox-price-hike-patch-notes-58",
-    "date": "2026-06-26",
-    "summary": [
-      "스팀 머신 출시 관련 가격 부담.",
-      "유비소프트 추가 인력 감축 소식.",
-      "엑스박스 콘솔 가격 인상 예고."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "translated_title": "차세대 모델 GPT-5.6 Sol 미리보기",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "date": "2026-06-26",
-    "summary": [
-      "OpenAI, 차세대 모델 GPT-5.6 Sol 공개",
-      "코딩, 과학, 사이버 보안 기능 강화",
-      "가장 진보된 안전 기술 탑재"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
-    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트, 존 골드먼 인터뷰",
-    "link": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
-    "date": "2026-06-26",
-    "summary": [
-      "스카이바운드 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
-      "성공적인 'Invisible VS.' 출시 이후의 미래 계획을 다룹니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
-    "translated_title": "D7 또는 D28 IAP ROAS 캠페인? 답은 둘 다입니다.",
-    "link": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
-    "date": "2026-06-25",
-    "summary": [
-      "D7 캠페인은 빠른 성과 검증과 초기 수익 신호를 제공합니다.",
-      "D28 캠페인은 장기적인 수익을 창출하는 플레이어를 확보하며, 고가치 지출의 60% 이상을 차지합니다.",
-      "Unity Vector는 두 캠페인을 동시에 최적화하여 자체 경쟁을 피하면서 상호 보완적으로 활용합니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "How agents are transforming work",
-    "translated_title": "AI 에이전트가 업무를 혁신하는 방법",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "date": "2026-06-25",
-    "summary": [
-      "OpenAI 연구에 따르면 AI 에이전트가 업무 방식을 변화시키고 있습니다.",
-      "AI 에이전트는 더 길고 복잡한 작업을 수행하며 생산성을 향상시킵니다.",
-      "다양한 직무에서 생산성 확장을 가능하게 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Meccha Chameleon sells 7M copies in first two weeks",
-    "translated_title": "메차 카멜레온, 출시 2주 만에 700만 부 판매",
-    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-sells-7m-copies-in-first-two-weeks",
-    "date": "2026-06-25",
-    "summary": [
-      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2주 만에 700만 부를 판매하며 화제를 모으고 있습니다.",
-      "이 게임은 최신 멀티플레이어 게임 트렌드를 이끌고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "VR dev Combat Waffle Studios lays off staff",
-    "translated_title": "VR 개발사 Combat Waffle Studios, 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/vr-dev-combat-waffle-studios-lays-off-staff",
-    "date": "2026-06-25",
-    "summary": [
-      "VR 게임 'Ghosts of Tabor' 개발사인 Combat Waffle Studios가 직원들을 해고했습니다.",
-      "그럼에도 불구하고 회사는 VR 산업의 미래에 대해 여전히 낙관적인 입장을 유지하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Which tokens does a hybrid model predict better?",
-    "translated_title": "하이브리드 모델은 어떤 토큰을 더 잘 예측할까요?",
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "date": "2026-06-25",
-    "summary": [
-      "하이브리드 모델의 토큰 예측 성능을 비교합니다.",
-      "어떤 종류의 토큰에서 더 나은 예측 결과를 보이는지 분석합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Microsoft raises price of Xbox consoles once again, sunsets 2TB model",
-    "translated_title": "Microsoft, Xbox 콘솔 가격 또 인상... 2TB 모델 단종",
-    "link": "https://www.gamedeveloper.com/console/microsoft-raises-price-of-xbox-consoles-once-again-sunsets-2tb-model",
-    "date": "2026-06-25",
-    "summary": [
-      "Xbox 콘솔의 최저 가격이 499.99달러로 인상되었습니다.",
-      "Microsoft가 2TB Xbox 콘솔 모델을 단종합니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Sony is laying off 'most' of the Destiny team and 'some' Marathon devs",
-    "translated_title": "소니, 데스티니 팀 '대부분' 및 마라톤 개발자 '일부' 해고",
-    "link": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
-    "date": "2026-06-25",
-    "summary": [
-      "소니가 번지(Bungie) 지원 인력 포함 SIE 팀 전반에 걸쳐 인력 감축을 진행하고 있습니다.",
-      "이는 데스티니 팀의 대부분과 마라톤 개발자 일부에게 영향을 미칠 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Italian studio 34BigThings regains independence from Embracer",
-    "translated_title": "이탈리아 스튜디오 34BigThings, 엠브레이서로부터 독립 되찾아",
-    "link": "https://www.gamedeveloper.com/business/italian-studio-34bigthings-regains-independence-from-embracer",
-    "date": "2026-06-25",
-    "summary": [
-      "34BigThings가 엠브레이서 그룹으로부터 독립을 완료했습니다.",
-      "완전한 독립으로 절대적인 자율성을 확보하게 되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "translated_title": "Gemini 3.5 Flash에서 컴퓨터 사용 기능 소개",
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "date": "2026-06-24",
-    "summary": [
-      "Gemini 3.5 Flash에서 컴퓨터 사용 기능이 도입되었습니다.",
-      "이는 Gemini 모델이 더 복잡한 작업을 수행할 수 있도록 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "translated_title": "NVIDIA NeMo AutoModel로 트랜스포머 미세 조정 가속화",
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "date": "2026-06-24",
-    "summary": [
-      "NVIDIA NeMo AutoModel을 사용하여 트랜스포머 모델의 미세 조정 속도를 높입니다.",
-      "AutoModel은 미세 조정 프로세스를 간소화하고 성능을 향상시키는 데 도움이 됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
