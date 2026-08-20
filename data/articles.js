@@ -1,5 +1,217 @@
 const allArticlesData = [
   {
+    "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+    "translated_title": "DeepSeek, 폐쇄형 AI를 우습게 만들다",
+    "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+    "date": "2026-08-19",
+    "summary": [
+      "DeepSeek V4 Pro 0813 모델이 공개되었습니다.",
+      "이 모델은 폐쇄형 AI 모델 대비 경쟁력을 보여주며 큰 주목을 받고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive",
+    "translated_title": "하비 스미스와 아케인 오스틴 출신 베테랑들이 설립한 신규 스튜디오 '블랙 포니 이머시브' 발표",
+    "link": "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio",
+    "date": "2026-08-19",
+    "summary": [
+      "아케인 오스틴 출신 베테랑들이 '블랙 포니 이머시브'라는 새 스튜디오를 설립했습니다.",
+      "이 스튜디오는 1인칭 액션 RPG 디자인 및 개발에 집중할 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio",
+    "translated_title": "AAA 게임 베테랑과 접근성 전문가들이 신규 게임 개발 협동조합 '레이즈 앤 리빌드 스튜디오' 설립",
+    "link": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio",
+    "date": "2026-08-19",
+    "summary": [
+      "AAA 게임 개발 경력자들과 접근성 전문가들이 모여 새로운 게임 개발 협동조합 '레이즈 앤 리빌드 스튜디오'를 설립했습니다.",
+      "이 스튜디오는 협동 구조를 최대한 활용하여 게임을 개발할 계획입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: PlayStation scales back live service ambitions for Horizon Hunters Gathering, reassigns devs",
+    "translated_title": "보도: 플레이스테이션, '호라이즌 헌터스 개더링' 라이브 서비스 계획 축소, 개발자 재배치",
+    "link": "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback",
+    "date": "2026-08-19",
+    "summary": [
+      "게릴라 게임즈, '호라이즌 헌터스 개더링' 라이브 서비스 요소 제거",
+      "부정적 피드백으로 인한 계획 변경"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games",
+    "translated_title": "휴먼: 폴 플랫 베테랑들이 신생 UK 스튜디오 '프리티 쿨 게임즈' 설립",
+    "link": "https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games",
+    "date": "2026-08-19",
+    "summary": [
+      "휴먼: 폴 플랫 개발자들이 새로운 게임 스튜디오 '프리티 쿨 게임즈'를 설립했습니다.",
+      "이 스튜디오는 첫 프로젝트 자금 확보 후 인력을 충원 중입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'I feel dirty:' EA workers trapped in a maelstrom of cynicism and doubt after Saudi buyout",
+    "translated_title": "'더러운 기분': 사우디 인수 후 EA 직원들, 냉소와 의심의 소용돌이에 갇히다",
+    "link": "https://www.gamedeveloper.com/business/-i-feel-dirty-ea-workers-trapped-in-a-maelstrom-of-after-following-saudi-buyout",
+    "date": "2026-08-19",
+    "summary": [
+      "EA 직원 다수가 회사의 550억 달러 규모 인수합병에 대한 우려를 표했습니다.",
+      "이번 인수가 인기 게임 프랜차이즈 개발자들에게 미칠 영향에 대해 걱정하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "translated_title": "양자화 인식 증류를 통한 LFM2.5 Q4_0 체크포인트",
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "date": "2026-08-19",
+    "summary": [
+      "LFM2.5 모델에 대한 Q4_0 양자화 체크포인트를 소개합니다.",
+      "양자화 인식 증류(Quantization-Aware Distillation) 기술을 활용하여 모델을 최적화했습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date": "2026-08-19",
+    "summary": [
+      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
+      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
+    "link": "https://openai.com/index/replit",
+    "date": "2026-08-19",
+    "summary": [
+      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
+      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "translated_title": "에이전트에게 실제로 얼마나 많은 메모리가 필요할까요?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "date": "2026-08-18",
+    "summary": [
+      "에이전트의 메모리 요구량을 평가하는 방법을 설명합니다.",
+      "메모리 사용량을 최적화하여 성능을 향상시키는 팁을 제공합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "translated_title": "Sentence Transformers를 이용한 다중 벡터 (후기 상호작용) 임베딩 모델",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "date": "2026-08-18",
+    "summary": [
+      "Sentence Transformers를 활용하여 후기 상호작용 방식의 다중 벡터 임베딩 모델을 구축하는 방법을 설명합니다.",
+      "이 모델은 문장 간의 관계를 파악하는 데 효과적이며, 다양한 자연어 처리 작업에 적용될 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "translated_title": "ChatGPT 광고, 유럽 전역으로 확장",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "date": "2026-08-18",
+    "summary": [
+      "ChatGPT 광고가 31개 유럽 시장으로 확대됩니다.",
+      "광고주들은 사람들이 탐색, 비교, 의사 결정하는 과정에서 도달할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "translated_title": "국가 안보 분야 민주적 감독 강화",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "date": "2026-08-18",
+    "summary": [
+      "OpenAI, 국가 안보 AI 분야 민주적 감독 강화 이니셔티브 출시",
+      "정부 기관에 도구, 교육, 전문성 지원 예정"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "translated_title": "CodeAI와 협력하여 첫 AI 생성을 준비하다",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "date": "2026-08-18",
+    "summary": [
+      "OpenAI와 CodeAI가 학생들의 AI 리터러시 향상을 위해 협력합니다.",
+      "AI에 대한 비판적 사고와 책임감 있는 AI 사용/개발 역량 함양을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Memory crisis is driving uncertainty over PlayStation 6's launch date",
     "translated_title": "메모리 부족, 플레이스테이션 6 출시일 불확실성 키워",
     "link": "https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6",
@@ -73,66 +285,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "translated_title": "에이전트에게 실제로 얼마나 많은 메모리가 필요할까요?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "date": "2026-08-18",
-    "summary": [
-      "에이전트의 메모리 요구량을 평가하는 방법을 설명합니다.",
-      "메모리 사용량을 최적화하여 성능을 향상시키는 팁을 제공합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "translated_title": "Sentence Transformers를 이용한 다중 벡터 (후기 상호작용) 임베딩 모델",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "date": "2026-08-18",
-    "summary": [
-      "Sentence Transformers를 활용하여 후기 상호작용 방식의 다중 벡터 임베딩 모델을 구축하는 방법을 설명합니다.",
-      "이 모델은 문장 간의 관계를 파악하는 데 효과적이며, 다양한 자연어 처리 작업에 적용될 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "translated_title": "국가 안보 분야 민주적 감독 강화",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "date": "2026-08-18",
-    "summary": [
-      "OpenAI, 국가 안보 AI 분야 민주적 감독 강화 이니셔티브 출시",
-      "정부 기관에 도구, 교육, 전문성 지원 예정"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "translated_title": "CodeAI와 협력하여 첫 AI 생성을 준비하다",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "date": "2026-08-18",
-    "summary": [
-      "OpenAI와 CodeAI가 학생들의 AI 리터러시 향상을 위해 협력합니다.",
-      "AI에 대한 비판적 사고와 책임감 있는 AI 사용/개발 역량 함양을 지원합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Pacing model development in an era of cyber-critical capabilities",
@@ -246,21 +398,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "date": "2026-08-13",
-    "summary": [
-      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
-      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
-      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Introducing Gemini 3.7 Flash",
     "translated_title": "Gemini 3.7 Flash 소개",
     "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -274,6 +411,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "date": "2026-08-13",
+    "summary": [
+      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
+      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
+      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Netflix closing Oxenfree developer Night School Studio and Moonloot Games",
@@ -4395,155 +4547,6 @@ const allArticlesData = [
     "tags": [
       "News",
       "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Opinion: Everything hurts and no one knows when the pain will end",
-    "translated_title": "의견: 모든 것이 아프고, 언제 끝날지 아무도 모릅니다",
-    "link": "https://www.gamedeveloper.com/business/opinion-everything-hurts-and-no-one-knows-when-the-pain-will-end",
-    "date": "2026-06-30",
-    "summary": [
-      "업계의 대규모 해고로 인한 고통이 예상보다 깊습니다.",
-      "이 고통이 언제 끝날지 알 수 없는 불확실성이 존재합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Grand Theft Auto developers seek union recognition at Rockstar",
-    "translated_title": "락스타 게임즈 개발자들, 노동조합 인정 요구",
-    "link": "https://www.gamedeveloper.com/production/grand-theft-auto-developers-seek-union-recognition-at-rockstar",
-    "date": "2026-06-30",
-    "summary": [
-      "락스타 게임즈는 업계 최고의 게임을 제작합니다.",
-      "개발자들은 회사가 직원 처우에서도 업계를 선도하길 바랍니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "translated_title": "DiScoFormer: 밀도와 점수 추정을 위한 하나의 트랜스포머, 여러 분포에 걸쳐 적용 가능",
-    "link": "https://huggingface.co/blog/allenai/discoformer",
-    "date": "2026-06-29",
-    "summary": [
-      "DiScoFormer는 하나의 트랜스포머 모델로 밀도 추정 및 점수 함수 추정을 동시에 수행합니다.",
-      "이 모델은 다양한 데이터 분포에 걸쳐 일반화할 수 있는 능력을 가지고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "translated_title": "유럽 AI 인력 기회 지도",
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "date": "2026-06-29",
-    "summary": [
-      "OpenAI 보고서가 EU 내 AI의 직업 변화 가능성을 분석했습니다.",
-      "자동화, 성장, 업무 방식 변화 가능성이 있는 직업군을 조명합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Supermassive Games CEO steps down following launch of Directive 8020",
-    "translated_title": "Supermassive Games CEO, 'Directive 8020' 출시 후 사임",
-    "link": "https://www.gamedeveloper.com/business/supermassive-games-ceo-steps-down-following-launch-of-directive-8020",
-    "date": "2026-06-29",
-    "summary": [
-      "Supermassive Games CEO가 'Directive 8020' 출시 후 직책에서 물러났습니다.",
-      "그는 격변하는 업계 환경 속에서 스튜디오를 이끌었던 것에 영광을 느낀다고 밝혔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Nintendo is increasing the price of the Switch 2 in South Korea",
-    "translated_title": "닌텐도, 한국 시장에서 스위치 2 가격 인상",
-    "link": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
-    "date": "2026-06-29",
-    "summary": [
-      "닌텐도가 한국 시장에서 스위치 2의 가격을 인상합니다.",
-      "이는 최근 원유 가격 상승과 부품 비용 증가에 따른 결정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "translated_title": "HP, OpenAI와 '프론티어' 전략적 파트너십 체결",
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "date": "2026-06-28",
-    "summary": [
-      "HP가 OpenAI와의 '프론티어' 파트너십을 확장합니다.",
-      "AI를 고객 경험, 소프트웨어 개발, 기업 운영 전반에 적용할 계획입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "translated_title": "원커맨드로 Hugging Face Jobs에서 vLLM 서버 실행하기",
-    "link": "https://huggingface.co/blog/vllm-jobs",
-    "date": "2026-06-26",
-    "summary": [
-      "Hugging Face Jobs를 사용하여 vLLM 서버를 원커맨드로 실행할 수 있습니다.",
-      "토큰/시간 절약을 위해 실행 길이를 제한하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
-    "translated_title": "스카이바운드의 비디오 게임 전략: 데이비드 'DA' 알퍼트와 존 골드먼",
-    "link": "https://www.gamedeveloper.com/business/inside-skybound-s-video-game-strategy-ft-david-da-alpert-and-jon-goldman",
-    "date": "2026-06-26",
-    "summary": [
-      "스카이바운드 엔터테인먼트의 CEO와 공동 회장이 비디오 게임 전략에 대해 논의합니다.",
-      "성공적인 'Invisible VS.' 출시 이후의 회사 미래를 조망합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Keywords has laid off 128 employees in San Francisco",
-    "translated_title": "Keywords, 샌프란시스코에서 128명 해고",
-    "link": "https://www.gamedeveloper.com/business/keywords-has-laid-off-128-employees-in-san-francisco",
-    "date": "2026-06-26",
-    "summary": [
-      "Keywords가 샌프란시스코에서 128명의 직원을 해고했습니다.",
-      "어떤 직무나 부서가 영향을 받았는지는 아직 불분명합니다."
-    ],
-    "tags": [
-      "News"
     ],
     "source": "gamedeveloper"
   }
