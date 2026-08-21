@@ -1,5 +1,81 @@
 const allArticlesData = [
   {
+    "title": "Makers Fund expands game industry footprint through $250 million investment round",
+    "translated_title": "메이커스 펀드, 2억 5천만 달러 투자 유치로 게임 산업 확장",
+    "link": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
+    "date": "2026-08-20",
+    "summary": [
+      "메이커스 펀드가 2억 5천만 달러 규모의 투자 유치를 완료했습니다.",
+      "이번 투자를 통해 게임 산업 내 입지를 더욱 넓힐 계획입니다.",
+      "메이커스 펀드는 창작자를 핵심으로 삼는다는 신념으로 설립되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Hundreds of union workers rally across North America to protest Xbox layoffs",
+    "translated_title": "수백 명의 노조원, 북미 전역에서 Xbox 해고 규탄 시위",
+    "link": "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs",
+    "date": "2026-08-20",
+    "summary": [
+      "CWA 노조원 및 지지자들이 마이크로소프트의 Xbox 부문 3,200명 감축 계획에 반발하여 시위했습니다.",
+      "북미 전역에서 시위가 벌어졌으며, 마이크로소프트에 압력을 가하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "translated_title": "LFM2.5-DSpark로 최대 3.2배 빨라진 추론 속도",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "date": "2026-08-20",
+    "summary": [
+      "LFM2.5-DSpark를 활용하여 추론 속도를 최대 3.2배 향상시켰습니다.",
+      "이는 LFM2.5-DSpark의 성능 개선을 보여주는 연구 결과입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing AI Futures",
+    "translated_title": "AI 미래를 소개합니다",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "date": "2026-08-20",
+    "summary": [
+      "OpenAI의 새로운 블로그 'AI Futures' 출시.",
+      "AI가 권력, 거버넌스, 경제, 개인의 자유에 미칠 혁신적인 변화 탐구."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "translated_title": "Stampli, ChatGPT Work로 출시 시간 68% 단축",
+    "link": "https://openai.com/index/stampli",
+    "date": "2026-08-20",
+    "summary": [
+      "Stampli는 고정된 마감일과 제한된 디자인 리소스로 인해 어려움을 겪었습니다.",
+      "Codex와 ChatGPT Work를 활용하여 출시 준비 시간을 몇 주에서 며칠로 단축했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
     "translated_title": "DeepSeek, 폐쇄형 AI를 우습게 만들다",
     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
@@ -61,6 +137,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date": "2026-08-19",
+    "summary": [
+      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
+      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
+    "link": "https://openai.com/index/replit",
+    "date": "2026-08-19",
+    "summary": [
+      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
+      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games",
     "translated_title": "휴먼: 폴 플랫 베테랑들이 신생 UK 스튜디오 '프리티 쿨 게임즈' 설립",
     "link": "https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games",
@@ -104,37 +211,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date": "2026-08-19",
-    "summary": [
-      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
-      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
-    "link": "https://openai.com/index/replit",
-    "date": "2026-08-19",
-    "summary": [
-      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
-      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "How Much Memory Does Your Agent Actually Need?",
@@ -4473,81 +4549,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "translated_title": "GeneBench-Pro 소개",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "date": "2026-06-30",
-    "summary": [
-      "유전체학, 생물학, 과학 연구 분야 AI 성능 테스트를 위한 새로운 벤치마크입니다.",
-      "복잡하고 실제적인 데이터를 사용하여 AI 성능을 평가합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "translated_title": "코어 덤프 역학 분석: 18년 된 버그 수정",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 엔지니어들이 대규모 코어 덤프 분석을 활용했습니다.",
-      "희귀한 인프라 충돌 디버깅 과정에서 하드웨어 결함과 오래된 소프트웨어 버그를 발견했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "IO Interactive to lay off employees after Xbox pulls support for untitled fantasy game",
-    "translated_title": "IO 인터랙티브, Xbox가 미공개 판타지 게임 지원 중단 후 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/io-interactive-to-lay-off-employees-after-xbox-pulls-support-for-untitled-fantasy-game",
-    "date": "2026-06-30",
-    "summary": [
-      "Xbox의 사업 재편으로 마이크로소프트 외부에서도 해고 발생.",
-      "IO 인터랙티브가 Xbox의 지원 중단으로 인해 직원 해고를 진행."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Memory manufacturers sued in class action suit alleging price and supply fixing",
-    "translated_title": "메모리 제조사, 가격 및 공급 담합 혐의로 집단 소송 제기",
-    "link": "https://www.gamedeveloper.com/business/memory-manufacturers-sued-in-class-action-suit-alleging-price-and-supply-fixing",
-    "date": "2026-06-30",
-    "summary": [
-      "삼성, SK하이닉스, 마이크론 등 주요 메모리 제조사들이 피고가 되었습니다.",
-      "이들은 메모리 제품의 가격과 공급을 의도적으로 조작했다는 혐의를 받고 있습니다.",
-      "현재 관련 집단 소송이 진행 중입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Xbox considering sale or closure of Arkane, other studios, as layoffs loom",
-    "translated_title": "보도: 엑스박스, 희망퇴직 임박 속 아케인 등 스튜디오 매각 또는 폐쇄 고려",
-    "link": "https://www.gamedeveloper.com/business/report-xbox-considering-sales-or-closures-at-arkane-and-at-least-4-other-studios",
-    "date": "2026-06-30",
-    "summary": [
-      "마이크로소프트의 '리셋' 계획의 일환으로 아케인 스튜디오의 '블레이드'가 폐쇄 대상에 오를 수 있습니다.",
-      "아케인 스튜디오가 잠재적인 매각 또는 폐쇄 위기에 처했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
