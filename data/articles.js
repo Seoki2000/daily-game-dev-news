@@ -1,5 +1,83 @@
 const allArticlesData = [
   {
+    "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
+    "translated_title": "보도: 테이크투, GTA VI 대규모 유출 중단 위해 마이크로소프트 및 디스코드에 영장 발부",
+    "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+    "date": "2026-08-21",
+    "summary": [
+      "테이크투가 GTA VI 유출을 막기 위해 움직이고 있습니다.",
+      "\"Cyberleek\"이라는 주체가 게임 플레이 가능 버전에 접근한 것으로 추정됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
+    "translated_title": "드디어 AI에 대해 이야기합니다 - 데이비드 '레즈' 그래함 & 루크 디켄 출연",
+    "link": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+    "date": "2026-08-21",
+    "summary": [
+      "AI와 AI 기법에 대한 대화",
+      "AI가 게임 개발에서 가지는 본질적인 가치 논의",
+      "AI와 일의 본질에 대한 고찰"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
+    "translated_title": "EA 직원, 사우디 인수 우려, GTA 6 유출, 픽의 마지막 대형 업데이트 - 패치 노트 #66",
+    "link": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
+    "date": "2026-08-21",
+    "summary": [
+      "EA 직원들은 사우디아라비아의 잠재적 인수 합병에 대해 우려하고 있습니다.",
+      "Grand Theft Auto 6 게임 관련 정보가 유출되었습니다.",
+      "Peak Games의 마지막 주요 업데이트 소식이 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "translated_title": "음성 인식에서의 벤치마크 최적화 측정",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "date": "2026-08-21",
+    "summary": [
+      "음성 인식 모델의 성능 최적화를 벤치마크를 통해 측정합니다.",
+      "최적화 과정에서 발생할 수 있는 성능 변화를 정량적으로 평가하는 방법을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "translated_title": "아타리부터 이브 온라인까지: 15년간의 게임 AI 연구 성과",
+    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "date": "2026-08-21",
+    "summary": [
+      "구글 딥마인드가 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입 개발 중입니다.",
+      "이는 15년간 축적된 게임 AI 연구에 기반한 성과입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "GameDev"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Makers Fund expands game industry footprint through $250 million investment round",
     "translated_title": "메이커스 펀드, 2억 5천만 달러 투자 유치로 게임 산업 확장",
     "link": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
@@ -92,6 +170,37 @@ const allArticlesData = [
     "source": "Two Minute Papers"
   },
   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date": "2026-08-19",
+    "summary": [
+      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
+      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
+    "link": "https://openai.com/index/replit",
+    "date": "2026-08-19",
+    "summary": [
+      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
+      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive",
     "translated_title": "하비 스미스와 아케인 오스틴 출신 베테랑들이 설립한 신규 스튜디오 '블랙 포니 이머시브' 발표",
     "link": "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio",
@@ -135,37 +244,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date": "2026-08-19",
-    "summary": [
-      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
-      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
-    "link": "https://openai.com/index/replit",
-    "date": "2026-08-19",
-    "summary": [
-      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
-      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games",
@@ -4474,80 +4552,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "translated_title": "Nano Banana 2 Lite와 Gemini Omni Flash로 개발 시작하기",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "date": "2026-06-30",
-    "summary": [
-      "Nano Banana 2 Lite 및 Gemini Omni Flash를 사용하여 개발을 시작하는 방법을 안내합니다.",
-      "하드웨어 및 소프트웨어 통합에 대한 간략한 소개를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "translated_title": "ChatGPT 채택이 어떻게 확대되고 있는가",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-06-30",
-    "summary": [
-      "OpenAI 신규 데이터에 따르면 ChatGPT 채택이 전 세계적으로 증가하고 있습니다.",
-      "사용자들은 사용량 증가, 더 많은 기능 탐색, 지역 및 언어 전반의 성장을 주도하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "translated_title": "전문화를 피할 수 없는 이유",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "date": "2026-06-30",
-    "summary": [
-      "기술 발전과 복잡성 증가로 전문화는 필연적입니다.",
-      "각 분야의 깊이 있는 지식과 기술이 요구됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "translated_title": "Hugging Face 모델 페이지의 모든 Eval 결과 살펴보기",
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "date": "2026-06-30",
-    "summary": [
-      "Hugging Face 모델 페이지에서 모든 Eval 결과를 확인할 수 있게 되었습니다.",
-      "이를 통해 모델 성능 평가의 투명성과 접근성이 향상됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "translated_title": "Genebench-Pro 내부 소개",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "date": "2026-06-30",
-    "summary": [
-      "Genebench-Pro의 기능 및 작동 방식 소개",
-      "Genebench-Pro 활용법 및 장점 설명"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
