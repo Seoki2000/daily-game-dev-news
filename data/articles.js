@@ -1,5 +1,80 @@
 const allArticlesData = [
   {
+    "title": "This Small AI Will Change Everything",
+    "translated_title": "이 작은 AI가 모든 것을 바꿀 것입니다",
+    "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+    "date": "2026-08-24",
+    "summary": [
+      "Qwen3.8-27b라는 새로운 AI 모델이 출시되었습니다.",
+      "이 모델은 GPU 클라우드 서비스인 Lambda와 Hugging Face에서 확인할 수 있습니다.",
+      "다양한 커뮤니티에서 Qwen3.8-27b의 성능에 대한 긍정적인 결과가 공유되고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Creative Artists Agency spins up indie funding venture Frame1Games",
+    "translated_title": "크리에이티브 아티스트 에이전시, 인디 게임 펀딩 벤처 '프레임1게임즈' 출범",
+    "link": "https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games",
+    "date": "2026-08-24",
+    "summary": [
+      "크리에이티브 아티스트 에이전시가 인디 게임 펀딩 벤처 '프레임1게임즈'를 설립했습니다.",
+      "이 벤처는 자금, 인맥, 마케팅 자원이 부족한 신진 팀을 지원하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Mutter and Blue Prince among winners at Gamescom Dev Awards 2026",
+    "translated_title": "발터와 블루 프린스가 2026년 게임스컴 개발자 어워드 수상",
+    "link": "https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026",
+    "date": "2026-08-24",
+    "summary": [
+      "2026년 게임스컴 개발자 어워드에서 6개 부문 수상자 발표",
+      "주요 수상작으로 '발터'와 '블루 프린스' 선정"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Each event has to feel local and relevant to its market:' Gamescom wants responsible expansion after record-breaking year",
+    "translated_title": "'각 행사는 현지 및 시장에 맞춰 관련성을 느껴야 합니다': 기록적인 한 해 이후 게임스컴, 책임감 있는 확장을 원하다",
+    "link": "https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year",
+    "date": "2026-08-24",
+    "summary": [
+      "게임스컴 2026이 역사상 가장 큰 규모의 쇼를 앞두고 있습니다.",
+      "업계 엑스포는 앞으로 어떤 방향으로 나아갈까요?"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "translated_title": "Kiro의 GPT‑5.6으로 개발자를 위한 가격 대비 성능 향상",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "date": "2026-08-24",
+    "summary": [
+      "Kiro에 GPT‑5.6이 출시되었습니다.",
+      "개발자의 소프트웨어 계획, 구축, 검토, 테스트에 더 나은 가격 대비 성능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
     "translated_title": "보도: 테이크투, GTA VI 대규모 유출 중단 위해 마이크로소프트 및 디스코드에 영장 발부",
     "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
@@ -25,22 +100,6 @@ const allArticlesData = [
     ],
     "tags": [
       "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
-    "translated_title": "EA 직원, 사우디 인수 우려, GTA 6 유출, 픽의 마지막 대형 업데이트 - 패치 노트 #66",
-    "link": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
-    "date": "2026-08-21",
-    "summary": [
-      "EA 직원들은 사우디아라비아의 잠재적 인수 합병에 대해 우려하고 있습니다.",
-      "Grand Theft Auto 6 게임 관련 정보가 유출되었습니다.",
-      "Peak Games의 마지막 주요 업데이트 소식이 있습니다."
-    ],
-    "tags": [
       "News",
       "GameDev"
     ],
@@ -78,33 +137,18 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
-    "title": "Makers Fund expands game industry footprint through $250 million investment round",
-    "translated_title": "메이커스 펀드, 2억 5천만 달러 투자 유치로 게임 산업 확장",
-    "link": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
-    "date": "2026-08-20",
+    "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
+    "translated_title": "EA 직원, 사우디 인수 우려, GTA 6 유출, 픽의 마지막 대형 업데이트 - 패치 노트 #66",
+    "link": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
+    "date": "2026-08-21",
     "summary": [
-      "메이커스 펀드가 2억 5천만 달러 규모의 투자 유치를 완료했습니다.",
-      "이번 투자를 통해 게임 산업 내 입지를 더욱 넓힐 계획입니다.",
-      "메이커스 펀드는 창작자를 핵심으로 삼는다는 신념으로 설립되었습니다."
+      "EA 직원들은 사우디아라비아의 잠재적 인수 합병에 대해 우려하고 있습니다.",
+      "Grand Theft Auto 6 게임 관련 정보가 유출되었습니다.",
+      "Peak Games의 마지막 주요 업데이트 소식이 있습니다."
     ],
     "tags": [
       "News",
       "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Hundreds of union workers rally across North America to protest Xbox layoffs",
-    "translated_title": "수백 명의 노조원, 북미 전역에서 Xbox 해고 규탄 시위",
-    "link": "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs",
-    "date": "2026-08-20",
-    "summary": [
-      "CWA 노조원 및 지지자들이 마이크로소프트의 Xbox 부문 3,200명 감축 계획에 반발하여 시위했습니다.",
-      "북미 전역에서 시위가 벌어졌으며, 마이크로소프트에 압력을 가하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "Unity"
     ],
     "source": "gamedeveloper"
   },
@@ -152,6 +196,37 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Makers Fund expands game industry footprint through $250 million investment round",
+    "translated_title": "메이커스 펀드, 2억 5천만 달러 투자 유치로 게임 산업 확장",
+    "link": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
+    "date": "2026-08-20",
+    "summary": [
+      "메이커스 펀드가 2억 5천만 달러 규모의 투자 유치를 완료했습니다.",
+      "이번 투자를 통해 게임 산업 내 입지를 더욱 넓힐 계획입니다.",
+      "메이커스 펀드는 창작자를 핵심으로 삼는다는 신념으로 설립되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Hundreds of union workers rally across North America to protest Xbox layoffs",
+    "translated_title": "수백 명의 노조원, 북미 전역에서 Xbox 해고 규탄 시위",
+    "link": "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs",
+    "date": "2026-08-20",
+    "summary": [
+      "CWA 노조원 및 지지자들이 마이크로소프트의 Xbox 부문 3,200명 감축 계획에 반발하여 시위했습니다.",
+      "북미 전역에서 시위가 벌어졌으며, 마이크로소프트에 압력을 가하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
@@ -4478,79 +4553,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Krafton and Unknown Worlds founders settle Subnautica 2 legal dispute",
-    "translated_title": "크래프톤-언노운 월즈, 서브노티카 2 법적 분쟁 해결",
-    "link": "https://www.gamedeveloper.com/business/krafton-agrees-to-pay-bonuses-to-subnautica-2-studio-as-ceo-resigns",
-    "date": "2026-07-01",
-    "summary": [
-      "크래프톤, 언노운 월즈와의 모든 법적 절차 취하 합의",
-      "언노운 월즈 CEO 테드 길, 회사 퇴사"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "OtherSide Entertainment lays off 18 from Thick as Thieves team",
-    "translated_title": "어더사이드 엔터테인먼트, 'Thick as Thieves' 팀 18명 해고",
-    "link": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-18-from-thick-as-thieves-team",
-    "date": "2026-07-01",
-    "summary": [
-      "어더사이드 엔터테인먼트가 'Thick as Thieves' 개발팀에서 18명을 해고했습니다.",
-      "이는 한 달 동안 발생한 총 36건의 해고 중 일부입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "PS3 and PS Vita digital stores are closing starting August 2026",
-    "translated_title": "PS3 및 PS Vita 디지털 스토어, 2026년 8월부터 순차 종료",
-    "link": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
-    "date": "2026-07-01",
-    "summary": [
-      "PS3와 PS Vita의 디지털 스토어가 2026년 8월부터 단계적으로 폐쇄됩니다.",
-      "스토어 폐쇄 절차는 2027년 7월에 최종 완료됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Ubisoft Barcelona strikes over proposed layoffs",
-    "translated_title": "유비소프트 바르셀로나, 해고안 반대 파업 돌입",
-    "link": "https://www.gamedeveloper.com/business/ubisoft-barcelona-to-go-on-strike-over-proposed-layoffs",
-    "date": "2026-07-01",
-    "summary": [
-      "유비소프트 바르셀로나 직원들이 해고안에 반대하며 파업에 나섭니다.",
-      "파업은 향후 몇 주간 화요일과 목요일 오후에 진행될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "translated_title": "ScarfBench: 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트 벤치마킹",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "date": "2026-06-30",
-    "summary": [
-      "ScarfBench는 엔터프라이즈 Java 프레임워크 마이그레이션을 위한 AI 에이전트의 성능을 평가하는 벤치마킹 도구입니다.",
-      "이 도구는 AI 에이전트가 Java 프레임워크를 얼마나 효율적으로 이전할 수 있는지 측정하고 비교하는 데 사용됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
