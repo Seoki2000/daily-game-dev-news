@@ -1,5 +1,192 @@
 const allArticlesData = [
   {
+    "title": "Riot Games is winding down 2XKO active development in December",
+    "translated_title": "라이엇 게임즈, 12월부터 2XKO 신규 개발 중단",
+    "link": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
+    "date": "2026-08-25",
+    "summary": [
+      "라이엇 게임즈가 2XKO의 신규 개발을 12월부로 중단합니다.",
+      "충분한 플레이어 유지율을 확보하지 못해 지속 가능성이 어렵다고 판단했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Among Us 3D co-dev Schell Games lays off staff",
+    "translated_title": "보도: 어몽 어스 3D 공동 개발사 Schell Games, 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff",
+    "date": "2026-08-25",
+    "summary": [
+      "어몽 어스 3D 공동 개발사인 Schell Games가 직원을 해고했습니다.",
+      "Schell Games는 과거 해고를 피하는 방법에 대해 여러 차례 인터뷰한 바 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'",
+    "translated_title": "아일랜드 브라우저 게임 스타트업 Entity, '새로운 웹' 시대 위한 '콘솔급 게임' 개발 위해 500만 달러 투자 유치",
+    "link": "https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-",
+    "date": "2026-08-25",
+    "summary": [
+      "아일랜드 게임 스타트업 Entity, 500만 달러 투자 유치",
+      "'새로운 웹' 시대 위한 콘솔급 브라우저 게임 개발 계획",
+      "차세대 게이밍 플랫폼 2027년 출시 예정"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Journey maker thatgamecompany announces thatgamepublisher",
+    "translated_title": "Journey 제작사 thatgamecompany, 퍼블리셔 thatgamepublisher 발표",
+    "link": "https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher",
+    "date": "2026-08-25",
+    "summary": [
+      "thatgamecompany가 새로운 퍼블리싱 레이블 thatgamepublisher를 발표했습니다.",
+      "Sky: Children of the Light의 수익이 이 이니셔티브를 지원하는 데 사용될 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "W4 Games raises $18M to expand its international team",
+    "translated_title": "W4 Games, 1,800만 달러 투자 유치하여 글로벌 팀 확장",
+    "link": "https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team",
+    "date": "2026-08-25",
+    "summary": [
+      "W4 Games가 1,800만 달러의 투자를 유치했습니다.",
+      "이를 통해 글로벌 팀을 확장할 예정입니다.",
+      "Tencent와 파트너십을 맺고 아시아 시장 및 Godot 생태계 확장에 나섭니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "translated_title": "Granite 4.2 LLM: 구축 방법",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "date": "2026-08-25",
+    "summary": [
+      "Granite 4.2 LLM의 구축 과정에 대한 설명.",
+      "LLM 구축의 핵심 요소와 기술에 대한 정보 제공."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "translated_title": "양자화 인식 복원: 원본 전체 정밀도 모델을 능가하는 압축된 4비트 모델",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "date": "2026-08-25",
+    "summary": [
+      "4비트 압축 모델이 전체 정밀도 모델보다 성능이 우수합니다.",
+      "양자화 과정 중에도 성능 저하 없이 모델을 복원하는 기술을 사용했습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "translated_title": "Gradio로 AI 워크플로우 구축하기: 연결, 실행, 배포",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "date": "2026-08-25",
+    "summary": [
+      "Gradio를 사용하여 AI 모델을 쉽게 연결하고 실행할 수 있습니다.",
+      "Gradio를 통해 AI 워크플로우를 손쉽게 배포하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "translated_title": "풍부한 지능을 구현하는 풀스택 기술",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "date": "2026-08-25",
+    "summary": [
+      "칩, 컴퓨팅, 모델, 제품 전반의 발전을 설명합니다.",
+      "이러한 요소들이 결합되어 더 유용하고 확장 가능한 지능을 제공합니다.",
+      "더 낮은 비용으로 고성능 AI를 구현하는 방법을 공유합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "translated_title": "Jalapeño, AI 추론에서 업계 최고 속도 및 효율성 첫 결과 발표",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "date": "2026-08-25",
+    "summary": [
+      "OpenAI의 맞춤형 추론 칩 Jalapeño가 AI 추론 속도 및 전력 효율성에서 업계 최고 수준을 달성했습니다.",
+      "이 칩은 최신 AI 모델에 대해 높은 처리량과 낮은 지연 시간을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "translated_title": "러시아의 새로운 은밀한 영향력 캠페인 폭로",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "date": "2026-08-25",
+    "summary": [
+      "OpenAI는 러시아 발 계정이 AI를 이용한 가짜 이스라엘 싱크탱크 홍보 및 러시아를 찬양하고 서방을 비판하는 '주권' 지수 조작 활동을 차단했습니다.",
+      "이 캠페인은 AI를 활용하여 허위 정보를 확산시키고 지정학적 영향력을 행사하려는 시도로 보입니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "translated_title": "ChatGPT Work 및 Codex를 위한 관리자 플러그인 소개",
+    "link": "https://openai.com/index/introducing-admin-plugin",
+    "date": "2026-08-25",
+    "summary": [
+      "워크스페이스 사용량 분석",
+      "멤버 및 권한 관리",
+      "제한 설정 및 관리자 요청 처리"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "This Small AI Will Change Everything",
     "translated_title": "이 작은 AI가 모든 것을 바꿀 것입니다",
     "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
@@ -14,6 +201,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "translated_title": "Kiro의 GPT‑5.6으로 개발자를 위한 가격 대비 성능 향상",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "date": "2026-08-24",
+    "summary": [
+      "Kiro에 GPT‑5.6이 출시되었습니다.",
+      "개발자의 소프트웨어 계획, 구축, 검토, 테스트에 더 나은 가격 대비 성능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Creative Artists Agency spins up indie funding venture Frame1Games",
@@ -60,50 +262,19 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "translated_title": "Kiro의 GPT‑5.6으로 개발자를 위한 가격 대비 성능 향상",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "date": "2026-08-24",
-    "summary": [
-      "Kiro에 GPT‑5.6이 출시되었습니다.",
-      "개발자의 소프트웨어 계획, 구축, 검토, 테스트에 더 나은 가격 대비 성능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
-    "translated_title": "보도: 테이크투, GTA VI 대규모 유출 중단 위해 마이크로소프트 및 디스코드에 영장 발부",
-    "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "translated_title": "Hugging Face 추론 엔드포인트, 작업 및 버킷이 Papers with Code 검색을 지원하는 방법",
+    "link": "https://huggingface.co/blog/pwc-search",
     "date": "2026-08-21",
     "summary": [
-      "테이크투가 GTA VI 유출을 막기 위해 움직이고 있습니다.",
-      "\"Cyberleek\"이라는 주체가 게임 플레이 가능 버전에 접근한 것으로 추정됩니다."
+      "Hugging Face의 추론 엔드포인트, 작업, 버킷 기능이 Papers with Code의 검색 기능을 강화합니다.",
+      "이러한 Hugging Face 서비스는 Papers with Code 플랫폼 내에서 효율적인 검색 및 데이터 관리를 가능하게 합니다."
     ],
     "tags": [
-      "News"
+      "Research",
+      "AI"
     ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
-    "translated_title": "드디어 AI에 대해 이야기합니다 - 데이비드 '레즈' 그래함 & 루크 디켄 출연",
-    "link": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
-    "date": "2026-08-21",
-    "summary": [
-      "AI와 AI 기법에 대한 대화",
-      "AI가 게임 개발에서 가지는 본질적인 가치 논의",
-      "AI와 일의 본질에 대한 고찰"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Measuring benchmark optimization in speech recognition",
@@ -135,6 +306,37 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
+    "translated_title": "보도: 테이크투, GTA VI 대규모 유출 중단 위해 마이크로소프트 및 디스코드에 영장 발부",
+    "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+    "date": "2026-08-21",
+    "summary": [
+      "테이크투가 GTA VI 유출을 막기 위해 움직이고 있습니다.",
+      "\"Cyberleek\"이라는 주체가 게임 플레이 가능 버전에 접근한 것으로 추정됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
+    "translated_title": "드디어 AI에 대해 이야기합니다 - 데이비드 '레즈' 그래함 & 루크 디켄 출연",
+    "link": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+    "date": "2026-08-21",
+    "summary": [
+      "AI와 AI 기법에 대한 대화",
+      "AI가 게임 개발에서 가지는 본질적인 가치 논의",
+      "AI와 일의 본질에 대한 고찰"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
@@ -4354,204 +4556,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Ingress developer Niantic Spatial shuttering New Zealand office",
-    "translated_title": "인그레스 개발사 Niantic, 뉴질랜드 지사 폐쇄",
-    "link": "https://www.gamedeveloper.com/business/ingress-developer-niantic-spatial-shuttering-new-zealand-office",
-    "date": "2026-07-06",
-    "summary": [
-      "Niantic이 비디오 게임 및 엔터테인먼트 사업에서 벗어남에 따라 뉴질랜드 지사를 폐쇄합니다.",
-      "이번 결정은 회사의 사업 방향 전환과 관련이 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EVE Online's cross-platform game engine framework is now fully open source",
-    "translated_title": "EVE Online의 크로스 플랫폼 게임 엔진 프레임워크, 완전 오픈 소스로 공개",
-    "link": "https://www.gamedeveloper.com/production/eve-online-s-cross-platform-game-engine-framework-is-now-fully-open-source",
-    "date": "2026-07-06",
-    "summary": [
-      "EVE Online의 기반 기술인 'Carbon' 엔진이 오픈 소스로 전환되었습니다.",
-      "이 엔진은 SF MMO의 거대한 세계를 구현하는 데 사용되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "translated_title": "구글 딥마인드, A24와 최초의 연구 협력 발표",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "date": "2026-07-03",
-    "summary": [
-      "구글 딥마인드와 A24가 전례 없는 연구 협력을 발표했습니다.",
-      "이 파트너십은 두 기관 간의 혁신적인 공동 연구를 의미합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Games made with Unity: June 2026 in review",
-    "translated_title": "2026년 6월, 유니티로 제작된 게임 리뷰",
-    "link": "https://unity.com/blog/games-made-with-unity-june-2026-releases",
-    "date": "2026-07-03",
-    "summary": [
-      "2026년 6월, '33 Immortals'와 'Zenless Zone Zero'가 정식 출시되었습니다.",
-      "유니티는 Summer Game Fest의 Day of the Devs를 후원했으며, Steam Next Fest와 Wholesome Direct에서도 많은 유니티 게임들이 주목받았습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "They Said This Will Never Run In Real Time",
-    "translated_title": "이것은 실시간으로 절대 실행되지 않을 거라고들 했어요",
-    "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-    "date": "2026-07-03",
-    "summary": [
-      "실시간 실행이 불가능하다고 여겨졌던 기술에 대한 연구를 소개합니다.",
-      "해당 논문은 실시간 실행 가능성을 제시하며, Weights & Biases를 통해 자세한 내용을 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Enginefall developer Red Rover Interactive is making layoffs",
-    "translated_title": "Enginefall 개발사 Red Rover Interactive, 인력 감축 단행",
-    "link": "https://www.gamedeveloper.com/business/enginefall-developer-red-rover-interactive-is-making-layoffs",
-    "date": "2026-07-03",
-    "summary": [
-      "Enginefall 개발사인 Red Rover Interactive가 인력 감축을 실시했습니다.",
-      "이 스튜디오는 3년 동안 2천만 달러를 투자받았습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Cyberpunk 2077 has sold 40 million copies worldwide",
-    "translated_title": "사이버펑크 2077, 전 세계 4천만 장 판매 돌파",
-    "link": "https://www.gamedeveloper.com/business/cyberpunk-2077-has-sold-40-million-copies-worldwide",
-    "date": "2026-07-03",
-    "summary": [
-      "사이버펑크 2077이 4천만 장 판매고를 올렸습니다.",
-      "출시 이후 큰 성장을 이루었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar workers hit back, PlayStation ditches physical discs, and chipmakers accused of price fixing -  Patch Notes #59",
-    "translated_title": "락스타 직원 반발, 플레이스테이션 물리 디스크 포기, 칩 제조사 가격 담합 의혹 - 패치 노트 #59",
-    "link": "https://www.gamedeveloper.com/business/rockstar-workers-hit-back-playstation-ditches-physical-discs-and-chipmakers-accused-of-price-fixing-patch-notes-58",
-    "date": "2026-07-03",
-    "summary": [
-      "락스타 직원들이 어려움에 처한 동료 개발자를 위한 지원 기금을 마련했습니다.",
-      "플레이스테이션은 물리 디스크를 점차 줄여나갈 것으로 보이며, 엑스박스는 디스크-디지털 전환 기능을 테스트 중입니다.",
-      "칩 제조사들이 가격 담합 혐의로 조사를 받고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Union workers establish hardship fund to support devs impacted by layoffs",
-    "translated_title": "노조, 해고된 게임 개발자 지원을 위한 기금 마련",
-    "link": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
-    "date": "2026-07-02",
-    "summary": [
-      "미국과 캐나다의 게임 개발자들을 위한 기금이 조성되었습니다.",
-      "해고된 개발자들은 최대 5,000달러까지 지원받을 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Ubisoft taps former 2K president Christoph Hartmann to oversee Tom Clancy franchise",
-    "translated_title": "유비소프트, 톰 클랜시 프랜차이즈 총괄에 전 2K 사장 크리스토프 하트만 영입",
-    "link": "https://www.gamedeveloper.com/business/ubisoft-taps-former-2k-president-christoph-hartmann-to-oversee-shooter-franchises",
-    "date": "2026-07-02",
-    "summary": [
-      "유비소프트가 톰 클랜시 프랜차이즈 총괄 책임자로 전 2K 사장 크리스토프 하트만을 임명했습니다.",
-      "하트만은 '더 디비전', '고스트 리콘', '스플린터 셀' 등 주요 톰 클랜시 게임을 책임지게 됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "AI Just Entered A New Era",
-    "translated_title": "AI, 새로운 시대를 열다",
-    "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
-    "date": "2026-07-01",
-    "summary": [
-      "GLM 5.2 모델 출시 소식",
-      "GPU 클라우드 서비스 Lambda 소개"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "translated_title": "허깅페이스와 세레브로스, Gemma 4를 실시간 음성 AI에 적용",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "date": "2026-07-01",
-    "summary": [
-      "허깅페이스와 세레브로스가 협력하여 Gemma 4 모델을 개발했습니다.",
-      "이 모델은 실시간 음성 AI 애플리케이션에 활용될 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Godot to ban (almost all) AI coding contributions",
-    "translated_title": "Godot, AI 코드 기여(거의 전부) 금지 예정",
-    "link": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
-    "date": "2026-07-01",
-    "summary": [
-      "Godot 엔진이 AI 기반 코드 기여를 거의 전면 금지합니다.",
-      "코드 자동 완성, 정규 표현식, 찾기/바꾸기 등 일부 AI 기능은 허용됩니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
