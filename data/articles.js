@@ -1,5 +1,247 @@
 const allArticlesData = [
   {
+    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
+    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+    "date": "2026-08-26",
+    "summary": [
+      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
+      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80",
+    "translated_title": "추모: 게임계에서도 명성을 떨친 배우 팀 커리가 80세로 별세하다",
+    "link": "https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80",
+    "date": "2026-08-26",
+    "summary": [
+      "무대와 스크린의 카리스마 넘치는 배우 팀 커리가 80세로 세상을 떠났습니다.",
+      "그는 여러 유명 비디오 게임에도 자신의 모습을 빌려주었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks",
+    "translated_title": "락스타 게임즈, GTA 6 유출에 '가슴 아파'",
+    "link": "https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks",
+    "date": "2026-08-26",
+    "summary": [
+      "GTA 6 제작사가 게임의 대규모 유출에 대한 입장을 밝혔습니다.",
+      "이번 유출로 인해 락스타 게임즈는 안타까움을 표했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Playdate maker Panic is refunding tariff fees to customers",
+    "translated_title": "Playdate 제작사 Panic, 관세 환불 조치",
+    "link": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
+    "date": "2026-08-26",
+    "summary": [
+      "Playdate 제작사인 Panic이 관세 부과액을 전액 환불했습니다.",
+      "Panic은 고객에게 받은 관세는 자신들의 돈이 아니라고 설명했습니다.",
+      "이러한 결정에 대해 '돌려주는 것이 옳은 일'이라는 긍정적인 반응을 보였습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox officially announces disc to digital program",
+    "translated_title": "Xbox, 공식적으로 디스크-투-디지털 프로그램 발표",
+    "link": "https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program",
+    "date": "2026-08-26",
+    "summary": [
+      "Xbox가 디스크를 디지털 버전으로 변환하는 프로그램을 공식 발표했습니다.",
+      "이 프로그램에 대한 소식은 이미 7월에 The Verge를 통해 보도되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "CD Projekt Red to distribute The Witcher 3: The Wild Hunt on Blizzard's Battle.net",
+    "translated_title": "CDPR, '더 위쳐 3: 와일드 헌트' 블리자드 배틀넷 출시",
+    "link": "https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership",
+    "date": "2026-08-26",
+    "summary": [
+      "더 위쳐 3: 와일드 헌트 리마스터 버전이 배틀넷에 출시됩니다.",
+      "새로운 확장팩과 디아블로 4 콜라보도 함께 제공됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "date": "2026-08-26",
+    "summary": [
+      "Sentence Transformers를 활용하여 멀티 벡터 임베딩 모델을 학습하는 방법.",
+      "모델 성능 향상을 위한 파인튜닝 기법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "date": "2026-08-26",
+    "summary": [
+      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
+      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
+    "link": "https://openai.com/index/learning-never-stops",
+    "date": "2026-08-26",
+    "summary": [
+      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
+      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "translated_title": "허깅페이스 사건과 앞으로의 과제",
+    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "date": "2026-08-26",
+    "summary": [
+      "OpenAI는 허깅페이스 보안 사고 조사 결과를 발표했습니다.",
+      "AI 모델 보안, 모니터링, 얼라인먼트 강화를 위한 조치를 설명했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "translated_title": "loveholidays, Codex로 누구나 개발자가 되는 법",
+    "link": "https://openai.com/index/loveholidays",
+    "date": "2026-08-26",
+    "summary": [
+      "loveholidays는 OpenAI Codex를 활용하여 소프트웨어 개발을 비즈니스 전반에 걸쳐 접근 가능하게 만듭니다.",
+      "이를 통해 팀은 아이디어를 더 빠르게 제품으로 전환할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "date": "2026-08-26",
+    "summary": [
+      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
+      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "translated_title": "Granite 4.2 LLM: 구축 방법",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "date": "2026-08-25",
+    "summary": [
+      "Granite 4.2 LLM의 구축 과정에 대한 설명.",
+      "LLM 구축의 핵심 요소와 기술에 대한 정보 제공."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "translated_title": "양자화 인식 복원: 원본 전체 정밀도 모델을 능가하는 압축된 4비트 모델",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "date": "2026-08-25",
+    "summary": [
+      "4비트 압축 모델이 전체 정밀도 모델보다 성능이 우수합니다.",
+      "양자화 과정 중에도 성능 저하 없이 모델을 복원하는 기술을 사용했습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "translated_title": "Gradio로 AI 워크플로우 구축하기: 연결, 실행, 배포",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "date": "2026-08-25",
+    "summary": [
+      "Gradio를 사용하여 AI 모델을 쉽게 연결하고 실행할 수 있습니다.",
+      "Gradio를 통해 AI 워크플로우를 손쉽게 배포하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "translated_title": "풍부한 지능을 구현하는 풀스택 기술",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "date": "2026-08-25",
+    "summary": [
+      "칩, 컴퓨팅, 모델, 제품 전반의 발전을 설명합니다.",
+      "이러한 요소들이 결합되어 더 유용하고 확장 가능한 지능을 제공합니다.",
+      "더 낮은 비용으로 고성능 AI를 구현하는 방법을 공유합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Riot Games is winding down 2XKO active development in December",
     "translated_title": "라이엇 게임즈, 12월부터 2XKO 신규 개발 중단",
     "link": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
@@ -75,68 +317,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "translated_title": "Granite 4.2 LLM: 구축 방법",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "date": "2026-08-25",
-    "summary": [
-      "Granite 4.2 LLM의 구축 과정에 대한 설명.",
-      "LLM 구축의 핵심 요소와 기술에 대한 정보 제공."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "translated_title": "양자화 인식 복원: 원본 전체 정밀도 모델을 능가하는 압축된 4비트 모델",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "date": "2026-08-25",
-    "summary": [
-      "4비트 압축 모델이 전체 정밀도 모델보다 성능이 우수합니다.",
-      "양자화 과정 중에도 성능 저하 없이 모델을 복원하는 기술을 사용했습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "translated_title": "Gradio로 AI 워크플로우 구축하기: 연결, 실행, 배포",
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
-    "date": "2026-08-25",
-    "summary": [
-      "Gradio를 사용하여 AI 모델을 쉽게 연결하고 실행할 수 있습니다.",
-      "Gradio를 통해 AI 워크플로우를 손쉽게 배포하는 방법을 설명합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "translated_title": "풍부한 지능을 구현하는 풀스택 기술",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "date": "2026-08-25",
-    "summary": [
-      "칩, 컴퓨팅, 모델, 제품 전반의 발전을 설명합니다.",
-      "이러한 요소들이 결합되어 더 유용하고 확장 가능한 지능을 제공합니다.",
-      "더 낮은 비용으로 고성능 AI를 구현하는 방법을 공유합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -277,21 +457,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "translated_title": "음성 인식에서의 벤치마크 최적화 측정",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "date": "2026-08-21",
-    "summary": [
-      "음성 인식 모델의 성능 최적화를 벤치마크를 통해 측정합니다.",
-      "최적화 과정에서 발생할 수 있는 성능 변화를 정량적으로 평가하는 방법을 다룹니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "translated_title": "아타리부터 이브 온라인까지: 15년간의 게임 AI 연구 성과",
     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -306,6 +471,21 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "translated_title": "음성 인식에서의 벤치마크 최적화 측정",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "date": "2026-08-21",
+    "summary": [
+      "음성 인식 모델의 성능 최적화를 벤치마크를 통해 측정합니다.",
+      "최적화 과정에서 발생할 수 있는 성능 변화를 정량적으로 평가하는 방법을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
@@ -4377,184 +4557,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "translated_title": "SkyPilot으로 Hugging Face에 제로-아웃바운드 스토리지로 어떤 클라우드에서든 AI 워크로드 실행",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "date": "2026-07-07",
-    "summary": [
-      "SkyPilot을 사용하면 다양한 클라우드에서 AI 워크로드를 실행할 수 있습니다.",
-      "Hugging Face를 제로-아웃바운드 스토리지로 활용하여 데이터 전송 비용을 절감할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "translated_title": "호주 페이먼츠 플러스, ChatGPT와 Codex로 더 빠르게 움직이다",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "date": "2026-07-07",
-    "summary": [
-      "호주 페이먼츠 플러스(AP+)는 ChatGPT Enterprise와 Codex를 활용하여 결제 복잡성을 해결합니다.",
-      "시간 절약, 품질 향상, 인간의 판단력 유지에 중점을 둡니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Supercell starts developer grants program for African studios",
-    "translated_title": "슈퍼셀, 아프리카 게임 스튜디오 대상 개발 지원 프로그램 시작",
-    "link": "https://www.gamedeveloper.com/business/supercell-starts-developer-grants-program-for-studios-across-africa",
-    "date": "2026-07-07",
-    "summary": [
-      "슈퍼셀이 아프리카 게임 스튜디오를 위한 개발 지원 프로그램을 발표했습니다.",
-      "이 프로그램은 지분 없는 지원금 형태로 제공됩니다.",
-      "지원금은 $20,000에서 $200,000까지입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox CEO amidst layoffs: 'I think our core has to be healthy'",
-    "translated_title": "Xbox CEO, 인력 감축 속 \"핵심 역량 강화가 우선\"",
-    "link": "https://www.gamedeveloper.com/business/xbox-ceo-amidst-layoffs-i-think-our-core-has-to-be-healthy",
-    "date": "2026-07-07",
-    "summary": [
-      "Xbox CEO는 Xbox 턴어라운드에 시간이 걸릴 것이라고 밝혔다.",
-      "회사의 핵심 역량이 건강해야 한다는 점을 강조했다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "IO Interactive closing Istanbul studio after regaining control of Project Fantasy",
-    "translated_title": "IO Interactive, 'Project Fantasy' 판권 회수 후 이스탄불 스튜디오 폐쇄",
-    "link": "https://www.gamedeveloper.com/business/io-interactive-closing-istanbul-studio-after-regaining-control-of-project-fantasy",
-    "date": "2026-07-07",
-    "summary": [
-      "IO Interactive는 개발 중이던 RPG 'Project Fantasy'에 대한 Xbox의 자금 지원 철수로 인해 구조 조정을 결정했습니다.",
-      "이에 따라 이스탄불 스튜디오를 폐쇄하게 되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Roughly half of the id Software team have been laid off",
-    "translated_title": "보도: id 소프트웨어 팀의 절반 가량이 해고된 것으로 알려져",
-    "link": "https://www.gamedeveloper.com/business/report-around-half-of-the-id-software-team-have-been-laid-off",
-    "date": "2026-07-07",
-    "summary": [
-      "id 소프트웨어 팀의 약 절반이 해고되었습니다.",
-      "이번 소식은 Xbox가 비디오 게임 부문에서 3,200개의 일자리를 없애며 '재정비'를 준비하는 가운데 나왔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "translated_title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "date": "2026-07-07",
-    "summary": [
-      "LeRobot v0.6.0 버전이 출시되었습니다.",
-      "이 버전은 로봇 개발을 위한 상상, 평가, 개선의 과정을 지원합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "translated_title": "MUFG, OpenAI와 협력해 AI 네이티브 조직으로 거듭나다",
-    "link": "https://openai.com/index/mufg",
-    "date": "2026-07-07",
-    "summary": [
-      "MUFG는 ChatGPT Enterprise를 활용해 AI 네이티브 조직 구축을 목표로 합니다.",
-      "업무 효율성을 개선하고 AI 기반의 새로운 금융 서비스를 대규모로 제공할 계획입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "PRX Part 4: Our Data Strategy",
-    "translated_title": "PRX 4부: 우리의 데이터 전략",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "date": "2026-07-06",
-    "summary": [
-      "PRX 네 번째 파트에서는 데이터 전략에 대해 다룹니다.",
-      "효과적인 데이터 활용 방안을 모색합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Nintendo is winding down original Switch sales in Europe",
-    "translated_title": "닌텐도, 유럽서 오리지널 스위치 판매 중단",
-    "link": "https://www.gamedeveloper.com/business/nintendo-is-winding-down-switch-1-sales-in-europe",
-    "date": "2026-07-06",
-    "summary": [
-      "닌텐도가 2027년 2월부로 오리지널 스위치 콘솔 판매를 중단합니다.",
-      "이는 유럽 지역에 해당되는 소식입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox cutting 3,200 jobs and parting ways with Double Fine, Compulsion, Ninja Theory, and Undead Labs",
-    "translated_title": "Xbox, 3,200명 감축 및 4개 스튜디오(더블 파인, 컴펄션, 닌자 시어리, 언데드 랩스)와 결별",
-    "link": "https://www.gamedeveloper.com/business/xbox-cutting-3-200-jobs-and-parting-ways-with-double-fine-compulsion-ninja-theory-and-undead-labs",
-    "date": "2026-07-06",
-    "summary": [
-      "Xbox가 3,200명의 직원을 해고합니다.",
-      "더블 파인, 컴펄션, 닌자 시어리, 언데드 랩스가 Xbox에서 제외됩니다.",
-      "모든 훌륭한 인디 스튜디오를 소유하는 것은 불가능하며 바람직하지도 않다는 점을 언급했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "🤗 Kernels: Major Updates",
-    "translated_title": "🤗 커널: 주요 업데이트",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "date": "2026-07-06",
-    "summary": [
-      "커널에 대한 중요한 업데이트 소식을 다룹니다.",
-      "업데이트의 주요 내용을 요약하여 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
