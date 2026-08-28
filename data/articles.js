@@ -1,5 +1,174 @@
 const allArticlesData = [
   {
+    "title": "This Free AI Just Caught The Billion Dollar Giants",
+    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
+    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+    "date": "2026-08-28",
+    "summary": [
+      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
+      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
+      "Weights & Biases의 무료 데모가 소개되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona",
+    "translated_title": "유비소프트 모바일 바르셀로나, 스페인 노조의 지속적인 파업 요구",
+    "link": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
+    "date": "2026-08-28",
+    "summary": [
+      "유비소프트 모바일 바르셀로나 노조가 파업을 선언했습니다.",
+      "8월 초 사측에 파업 의사를 전달했으나 아직 답변을 받지 못했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "translated_title": "태국의 차세대 AI 스타트업 지원",
+    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "date": "2026-08-28",
+    "summary": [
+      "OpenAI와 태국 MHESI가 8주간 액셀러레이터를 공동 출범했습니다.",
+      "헬스, 웰니스, 교육 분야의 10개 스타트업이 AI 프로토타입을 신뢰할 수 있는 제품으로 발전시키는 것을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
+    "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
+    "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
+    "date": "2026-08-27",
+    "summary": [
+      "Brian Cronin 디자이너는 2026 GDC Festival of Gaming 발표에서 1:1 플레이테스트를 옹호했습니다.",
+      "이 기법이 개인에게 어떤 이점을 줄 수 있는지 설명합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson",
+    "translated_title": "CDPR, 사이버펑크 2077 교훈 삼아 위쳐 4 주요 플랫폼 모두 개발 중",
+    "link": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
+    "date": "2026-08-27",
+    "summary": [
+      "CDPR 공동 CEO 미하우 노바코프스키와 인터뷰 진행",
+      "사이버펑크 2077 개발 경험을 위쳐 4에 적용",
+      "위쳐 4, 목표 플랫폼 전반에 걸쳐 개발 진행 중"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Saber exec: The game industry must look beyond North America and dilute risk",
+    "translated_title": "세이버 임원: 게임 산업은 북미를 넘어 위험을 분산해야 합니다",
+    "link": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
+    "date": "2026-08-27",
+    "summary": [
+      "게임 스튜디오는 대규모 투자를 지원하기 위해 '안정적인' 수입원을 찾아야 합니다.",
+      "북미 시장에 대한 의존도를 줄여 위험을 분산할 필요가 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
+    "translated_title": "Xbox CEO 아샤 샤르마, 다시 한번 Xbox의 가격 경쟁력 필요성 강조",
+    "link": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
+    "date": "2026-08-27",
+    "summary": [
+      "Xbox CEO 아샤 샤르마가 Xbox의 건강 상태에 대해 다시 언급했습니다.",
+      "그녀는 Xbox의 가격 경쟁력이 필요하다는 점을 재차 강조했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "translated_title": "더 나은 답변, 폭넓은 사고: ChatGPT와 비판적 사고 훈련으로 학생들은 무엇을 얻는가",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-27",
+    "summary": [
+      "1,000명 이상의 학생을 대상으로 한 무작위 연구에서 ChatGPT, 비판적 사고, 독창성, 실제 대학 과제 수행 능력을 조사했습니다.",
+      "ChatGPT 사용과 비판적 사고 훈련이 학생들의 성과에 미치는 영향을 분석합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "translated_title": "OpenAI, 브라질 내 입지 확장",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "date": "2026-08-27",
+    "summary": [
+      "OpenAI가 브라질에서의 활동을 확대합니다.",
+      "개발자, 기업, 지역사회와의 협력을 강화하여 AI 도입을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "translated_title": "Gemini Omni 1.1 Flash로 더욱 정밀하게 빌드하세요",
+    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "date": "2026-08-27",
+    "summary": [
+      "Gemini Omni 1.1 Flash 출시.",
+      "더욱 향상된 제어 기능을 제공하여 빌드 작업 지원.",
+      "개발자가 프로젝트를 더 세밀하게 관리할 수 있도록 설계됨."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "translated_title": "세계 최초 이중 맹검 AI 평가 파일럿 진행",
+    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "date": "2026-08-27",
+    "summary": [
+      "세계 최초로 이중 맹검 AI 평가를 시범 운영합니다.",
+      "AI 평가의 새로운 표준을 제시합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
     "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
     "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
@@ -14,6 +183,67 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "date": "2026-08-26",
+    "summary": [
+      "Sentence Transformers를 활용하여 멀티 벡터 임베딩 모델을 학습하는 방법.",
+      "모델 성능 향상을 위한 파인튜닝 기법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "date": "2026-08-26",
+    "summary": [
+      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
+      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
+    "link": "https://openai.com/index/learning-never-stops",
+    "date": "2026-08-26",
+    "summary": [
+      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
+      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "date": "2026-08-26",
+    "summary": [
+      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
+      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80",
@@ -88,52 +318,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "date": "2026-08-26",
-    "summary": [
-      "Sentence Transformers를 활용하여 멀티 벡터 임베딩 모델을 학습하는 방법.",
-      "모델 성능 향상을 위한 파인튜닝 기법을 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "date": "2026-08-26",
-    "summary": [
-      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
-      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
-    "link": "https://openai.com/index/learning-never-stops",
-    "date": "2026-08-26",
-    "summary": [
-      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
-      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "The Hugging Face incident and the road ahead",
     "translated_title": "허깅페이스 사건과 앞으로의 과제",
     "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
@@ -163,21 +347,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "date": "2026-08-26",
-    "summary": [
-      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
-      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Granite 4.2 LLMs: How They're Built",
@@ -442,21 +611,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "translated_title": "Hugging Face 추론 엔드포인트, 작업 및 버킷이 Papers with Code 검색을 지원하는 방법",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "date": "2026-08-21",
-    "summary": [
-      "Hugging Face의 추론 엔드포인트, 작업, 버킷 기능이 Papers with Code의 검색 기능을 강화합니다.",
-      "이러한 Hugging Face 서비스는 Papers with Code 플랫폼 내에서 효율적인 검색 및 데이터 관리를 가능하게 합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "translated_title": "아타리부터 이브 온라인까지: 15년간의 게임 AI 연구 성과",
     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -471,6 +625,21 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "translated_title": "Hugging Face 추론 엔드포인트, 작업 및 버킷이 Papers with Code 검색을 지원하는 방법",
+    "link": "https://huggingface.co/blog/pwc-search",
+    "date": "2026-08-21",
+    "summary": [
+      "Hugging Face의 추론 엔드포인트, 작업, 버킷 기능이 Papers with Code의 검색 기능을 강화합니다.",
+      "이러한 Hugging Face 서비스는 Papers with Code 플랫폼 내에서 효율적인 검색 및 데이터 관리를 가능하게 합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Measuring benchmark optimization in speech recognition",
@@ -4391,170 +4560,6 @@ const allArticlesData = [
     "tags": [
       "News",
       "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Mobile game Mario Kart Tour is winding down",
-    "translated_title": "모바일 게임 마리오 카트 투어 서비스 종료",
-    "link": "https://www.gamedeveloper.com/business/mobile-game-mario-kart-tour-is-winding-down",
-    "date": "2026-07-08",
-    "summary": [
-      "닌텐도는 마리오 카트 투어의 서비스 종료를 발표했습니다.",
-      "오프라인 버전은 출시되지 않을 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Atari appoints Andreas Deptolla as president of Atari Europe",
-    "translated_title": "아타리, 안드레아스 뎁톨라를 아타리 유럽 사장으로 임명",
-    "link": "https://www.gamedeveloper.com/business/atari-appoints-andreas-deptolla-as-president-of-atari-europe",
-    "date": "2026-07-08",
-    "summary": [
-      "아타리가 안드레아스 뎁톨라를 아타리 유럽 신임 사장으로 임명했습니다.",
-      "뎁톨라는 유럽을 아타리에게 '전략적으로 중요한 지역'이라고 강조했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Opinion: Welcome to the house of pain, brought to you by Xbox",
-    "translated_title": "오피니언: 엑스박스가 선사하는 고통의 집으로 오세요",
-    "link": "https://www.gamedeveloper.com/business/opinion-welcome-to-the-house-of-pain-brought-to-you-by-xbox",
-    "date": "2026-07-08",
-    "summary": [
-      "비명 소리는 신경 쓰지 마세요.",
-      "이번 내용은 엑스박스와 관련된 부정적인 경험에 대한 내용일 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Used, abused, and discarded:' CWA Canada slams Microsoft over handling of Bethesda layoffs",
-    "translated_title": "'이용당하고, 학대받고, 버려졌다': CWA 캐나다, 베데스다 해고 관련 마이크로소프트 비판",
-    "link": "https://www.gamedeveloper.com/business/-employers-are-ruthless-cwa-canada-slams-microsoft-over-handling-of-bethesda-layoffs",
-    "date": "2026-07-08",
-    "summary": [
-      "CWA 캐나다가 마이크로소프트의 베데스다 게임 스튜디오 몬트리올 해고 처리 방식에 대해 비판했습니다.",
-      "노조는 약 12개 직책이 축소되었다고 주장합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "translated_title": "코드 평가에서 신호와 노이즈 분리하기",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "date": "2026-07-08",
-    "summary": [
-      "OpenAI의 새로운 분석 결과, 인기 있는 코딩 벤치마크인 SWE-Bench Pro에 문제가 있음을 발견했습니다.",
-      "이는 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 제기합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Helping K–12 educators build practical AI skills",
-    "translated_title": "K-12 교육자를 위한 실용적인 AI 역량 강화 지원",
-    "link": "https://openai.com/index/k-12-educators-practical-skills",
-    "date": "2026-07-08",
-    "summary": [
-      "OpenAI Academy와 Walton Family Foundation이 K-12 교사 대상 AI 기술 워크숍을 제공합니다.",
-      "이 워크숍은 교사들이 교실에서 활용할 수 있는 실용적인 AI 기술을 습득하도록 돕습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing GPT-Live",
-    "translated_title": "GPT-Live 소개",
-    "link": "https://openai.com/index/introducing-gpt-live",
-    "date": "2026-07-08",
-    "summary": [
-      "차세대 음성 모델로 자연스러운 인간-AI 상호작용을 지원합니다.",
-      "이제 ChatGPT Voice에 적용되어 사용 가능합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DeepSeek's New AI Speed Hack Is Amazing",
-    "translated_title": "DeepSeek의 새로운 AI 속도 향상 해킹은 놀랍습니다",
-    "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
-    "date": "2026-07-07",
-    "summary": [
-      "DeepSeek가 AI 속도 향상을 위한 새로운 방법을 개발했습니다.",
-      "해당 기술은 획기적인 성능 개선을 제공할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "translated_title": "허깅 페이스에서 아마존 세이지메이커 스튜디오로 원클릭 전환",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "date": "2026-07-07",
-    "summary": [
-      "허깅 페이스에서 모델을 가져와 아마존 세이지메이커 스튜디오로 쉽게 배포할 수 있습니다.",
-      "단 한 번의 클릭으로 이 과정이 가능하여 편리성을 높였습니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "translated_title": "Foundry 관리형 컴퓨팅 환경에서 Hugging Face 모델 사용하기",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "date": "2026-07-07",
-    "summary": [
-      "Foundry의 관리형 컴퓨팅 환경을 통해 Hugging Face 모델을 활용할 수 있습니다.",
-      "Hugging Face의 다양한 AI 모델을 Foundry 인프라에서 효율적으로 배포 및 운영합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Report: Obsidian losing around one quarter of its staff to 'Xbox reset'",
-    "translated_title": "보도: Obsidian, 'Xbox 리셋'으로 직원 약 4분의 1 감축",
-    "link": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
-    "date": "2026-07-07",
-    "summary": [
-      "Pentiment 및 The Outer Worlds 개발사인 Obsidian이 60~70명의 직원을 감축할 예정입니다.",
-      "이번 감축은 'Xbox 리셋'과 관련이 있는 것으로 알려졌습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
     ],
     "source": "gamedeveloper"
   }
