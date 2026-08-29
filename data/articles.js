@@ -1,20 +1,49 @@
 const allArticlesData = [
   {
-    "title": "This Free AI Just Caught The Billion Dollar Giants",
-    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
-    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+    "title": "GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process",
+    "translated_title": "GDC 특별 강연 - 오스틴 윈토리의 협업 작곡 과정 엿보기",
+    "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
     "date": "2026-08-28",
     "summary": [
-      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
-      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
-      "Weights & Biases의 무료 데모가 소개되었습니다."
+      "오스틴 윈토리가 콘텐츠 마케팅 매니저와 창작 과정에 대해 대화합니다.",
+      "그의 협업 작곡 과정에 대한 심층적인 탐구가 이루어집니다."
     ],
     "tags": [
-      "Research",
-      "AI",
+      "GameDev",
       "News"
     ],
-    "source": "Two Minute Papers"
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Panic refunds tariff fees, 1047 Games pivots from Splitgate, and Gamescom Dev grows - Patch Notes #67",
+    "translated_title": "패닉, 관세 환불 및 스플릿게이트 개발사 1047게임즈 피벗, Gamescom Dev 성장 - 패치 노트 #67",
+    "link": "https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67",
+    "date": "2026-08-28",
+    "summary": [
+      "1047게임즈가 스플릿게이트 개발에서 피벗합니다.",
+      "Gamescom Dev는 성장을 기록했습니다.",
+      "No More Room in Hell 2가 얼리 액세스 졸업 후 100만 명을 돌파했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Warlock's magic system was built on game-bending player choices",
+    "translated_title": "워락의 마법 시스템은 게임을 뒤흔드는 플레이어의 선택을 기반으로 만들어졌습니다",
+    "link": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
+    "date": "2026-08-28",
+    "summary": [
+      "워락의 마법 시스템은 플레이어의 선택이 핵심입니다.",
+      "이 시스템은 버그가 아닌 의도된 기능입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona",
@@ -32,6 +61,36 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "date": "2026-08-28",
+    "summary": [
+      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
+      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "translated_title": "SpaceX 인수 후 Cursor에 대한 우리의 결정",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "date": "2026-08-28",
+    "summary": [
+      "SpaceX가 Cursor를 인수한 후, Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Supporting Thailand’s next generation of AI startups",
     "translated_title": "태국의 차세대 AI 스타트업 지원",
     "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -47,6 +106,23 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "This Free AI Just Caught The Billion Dollar Giants",
+    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
+    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+    "date": "2026-08-28",
+    "summary": [
+      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
+      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
+      "Weights & Biases의 무료 데모가 소개되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
     "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
     "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
@@ -59,51 +135,6 @@ const allArticlesData = [
       "News",
       "Research",
       "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson",
-    "translated_title": "CDPR, 사이버펑크 2077 교훈 삼아 위쳐 4 주요 플랫폼 모두 개발 중",
-    "link": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
-    "date": "2026-08-27",
-    "summary": [
-      "CDPR 공동 CEO 미하우 노바코프스키와 인터뷰 진행",
-      "사이버펑크 2077 개발 경험을 위쳐 4에 적용",
-      "위쳐 4, 목표 플랫폼 전반에 걸쳐 개발 진행 중"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saber exec: The game industry must look beyond North America and dilute risk",
-    "translated_title": "세이버 임원: 게임 산업은 북미를 넘어 위험을 분산해야 합니다",
-    "link": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
-    "date": "2026-08-27",
-    "summary": [
-      "게임 스튜디오는 대규모 투자를 지원하기 위해 '안정적인' 수입원을 찾아야 합니다.",
-      "북미 시장에 대한 의존도를 줄여 위험을 분산할 필요가 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
-    "translated_title": "Xbox CEO 아샤 샤르마, 다시 한번 Xbox의 가격 경쟁력 필요성 강조",
-    "link": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
-    "date": "2026-08-27",
-    "summary": [
-      "Xbox CEO 아샤 샤르마가 Xbox의 건강 상태에 대해 다시 언급했습니다.",
-      "그녀는 Xbox의 가격 경쟁력이 필요하다는 점을 재차 강조했습니다."
-    ],
-    "tags": [
-      "News"
     ],
     "source": "gamedeveloper"
   },
@@ -169,20 +200,49 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
-    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
-    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-    "date": "2026-08-26",
+    "title": "CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson",
+    "translated_title": "CDPR, 사이버펑크 2077 교훈 삼아 위쳐 4 주요 플랫폼 모두 개발 중",
+    "link": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
+    "date": "2026-08-27",
     "summary": [
-      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
-      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
+      "CDPR 공동 CEO 미하우 노바코프스키와 인터뷰 진행",
+      "사이버펑크 2077 개발 경험을 위쳐 4에 적용",
+      "위쳐 4, 목표 플랫폼 전반에 걸쳐 개발 진행 중"
     ],
     "tags": [
       "News",
-      "AI",
-      "Research"
+      "GameDev"
     ],
-    "source": "Two Minute Papers"
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Saber exec: The game industry must look beyond North America and dilute risk",
+    "translated_title": "세이버 임원: 게임 산업은 북미를 넘어 위험을 분산해야 합니다",
+    "link": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
+    "date": "2026-08-27",
+    "summary": [
+      "게임 스튜디오는 대규모 투자를 지원하기 위해 '안정적인' 수입원을 찾아야 합니다.",
+      "북미 시장에 대한 의존도를 줄여 위험을 분산할 필요가 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
+    "translated_title": "Xbox CEO 아샤 샤르마, 다시 한번 Xbox의 가격 경쟁력 필요성 강조",
+    "link": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
+    "date": "2026-08-27",
+    "summary": [
+      "Xbox CEO 아샤 샤르마가 Xbox의 건강 상태에 대해 다시 언급했습니다.",
+      "그녀는 Xbox의 가격 경쟁력이 필요하다는 점을 재차 강조했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -199,21 +259,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "date": "2026-08-26",
-    "summary": [
-      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
-      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Learning never stops: How AI makes learning continuous",
@@ -244,6 +289,37 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
+    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+    "date": "2026-08-26",
+    "summary": [
+      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
+      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "date": "2026-08-26",
+    "summary": [
+      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
+      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80",
@@ -4480,82 +4556,6 @@ const allArticlesData = [
     "summary": [
       "해고되었던 마라톤 감독 크리스토퍼 바렛이 소니와 소송을 합의했습니다.",
       "바렛은 과거 비위 혐의로 소니에 의해 해고되었으나, 이제 마라톤 게임 크레딧에 이름을 올렸습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A risk-averse video game industry is failing marginalized developers",
-    "translated_title": "위험 회피적인 게임 산업, 소외된 개발자들을 외면하다",
-    "link": "https://www.gamedeveloper.com/production/the-game-industry-is-failing-marginalized-developers",
-    "date": "2026-07-09",
-    "summary": [
-      "'The Arab League of Misfits' 개발자는 호평에도 불구하고 자금 확보에 어려움을 겪고 있습니다.",
-      "게임 산업의 보수적인 투자 성향이 소외된 개발자들의 성장을 저해하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Data for Agents",
-    "translated_title": "에이전트(Agent)를 위한 데이터",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "date": "2026-07-08",
-    "summary": [
-      "에이전트 개발에 필요한 데이터를 다룹니다.",
-      "데이터 활용 방안에 대한 내용을 포함합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "translated_title": "네이티브 속도의 vLLM 트랜스포머 모델링 백엔드",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "date": "2026-07-08",
-    "summary": [
-      "vLLM을 사용하여 네이티브 속도로 트랜스포머 모델을 처리합니다.",
-      "토큰/시간 절약을 위해 길이를 제한합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "translated_title": "정부 및 국가 안보 파트너십에 대한 OpenAI의 접근 방식",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "date": "2026-07-08",
-    "summary": [
-      "OpenAI의 정부 및 국가 안보 파트너십 접근 방식 소개",
-      "책임감 있는 AI 사용, 민주적 책임, 공공 안전 원칙 강조"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Blizzard eliminates 'small number' of roles in China",
-    "translated_title": "블리자드, 중국 내 '소수' 인력 감축",
-    "link": "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-of-roles-in-china",
-    "date": "2026-07-08",
-    "summary": [
-      "액티비전 블리자드의 모회사에서 전반적인 구조조정을 진행합니다.",
-      "이에 따라 중국 지사에서도 일부 인력이 해고되었습니다."
     ],
     "tags": [
       "News",
