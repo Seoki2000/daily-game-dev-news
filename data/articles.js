@@ -1,5 +1,22 @@
 const allArticlesData = [
   {
+    "title": "This Free AI Just Caught The Billion Dollar Giants",
+    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
+    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+    "date": "2026-08-28",
+    "summary": [
+      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
+      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
+      "Weights & Biases의 무료 데모가 소개되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process",
     "translated_title": "GDC 특별 강연 - 오스틴 윈토리의 협업 작곡 과정 엿보기",
     "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
@@ -104,23 +121,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "This Free AI Just Caught The Billion Dollar Giants",
-    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
-    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-    "date": "2026-08-28",
-    "summary": [
-      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
-      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
-      "Weights & Biases의 무료 데모가 소개되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
@@ -245,6 +245,22 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
+    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+    "date": "2026-08-26",
+    "summary": [
+      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
+      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -289,22 +305,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
-    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-    "date": "2026-08-26",
-    "summary": [
-      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
-      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
