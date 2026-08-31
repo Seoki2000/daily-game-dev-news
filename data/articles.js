@@ -123,6 +123,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Three games, 10 years, one Unity project: Piecing together The Immortal John Triptych",
+    "translated_title": "3개의 게임, 10년, 하나의 유니티 프로젝트: 불멸의 존 삼부작을 하나로 엮다",
+    "link": "https://unity.com/blog/immortal-john-triptych-joe-richardson-interview",
+    "date": "2026-08-27",
+    "summary": [
+      "솔로 개발자 Joe Richardson이 10년간 만든 르네상스풍 어드벤처 게임 3개를 유니티의 Adventure Creator를 사용해 하나의 프로젝트로 재구성했습니다.",
+      "Akupara Games의 지원을 받아 콘솔 이식 작업도 진행했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
     "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
     "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
@@ -4547,20 +4562,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Fired Marathon director says he's settled lawsuit with Sony",
-    "translated_title": "마라톤 감독 해고 후 소니와 합의",
-    "link": "https://www.gamedeveloper.com/business/fired-marathon-director-says-he-s-settled-misconduct-lawsuit-with-sony",
-    "date": "2026-07-09",
-    "summary": [
-      "해고되었던 마라톤 감독 크리스토퍼 바렛이 소니와 소송을 합의했습니다.",
-      "바렛은 과거 비위 혐의로 소니에 의해 해고되었으나, 이제 마라톤 게임 크레딧에 이름을 올렸습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
