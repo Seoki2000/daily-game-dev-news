@@ -1,5 +1,82 @@
 const allArticlesData = [
   {
+    "title": "Housemarque co-founder Ilari Kuittinen exits from studio",
+    "translated_title": "하우스마크 공동 창립자 일라리 쿠이티넨, 스튜디오 퇴사",
+    "link": "https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio",
+    "date": "2026-08-31",
+    "summary": [
+      "하우스마크 공동 창립자 일라리 쿠이티넨이 회사를 떠납니다.",
+      "그는 더 나은 전문가와 인간이 되기 위해 노력하겠다는 메시지를 남겼습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: 13TB of Steam data leaked after users access 'publicly accessible endpoint'",
+    "translated_title": "유출 보고: '공개 접근 가능 엔드포인트' 통해 13TB 스팀 데이터 접근",
+    "link": "https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-users-access-publicly-accessible-endpoint-",
+    "date": "2026-08-31",
+    "summary": [
+      "공개 접근 가능한 엔드포인트를 통해 13TB에 달하는 스팀 데이터가 유출되었습니다.",
+      "유출된 데이터에는 밸브의 미출시 게임 베타 빌드, 스크린샷 등이 포함되어 있습니다.",
+      "EA, WB 게임 등 타 퍼블리셔의 게임 데이터도 유출되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Indie devs and publishers hit in Gamescom equipment thefts",
+    "translated_title": "게임스컴 현장에서 인디 개발사 및 퍼블리셔 장비 도난 사건 발생",
+    "link": "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts",
+    "date": "2026-08-31",
+    "summary": [
+      "게임스컴 인디 아레나 및 비즈니스 구역에서 도난 사건 발생",
+      "소규모 전시업체들의 노트북 및 스팀 덱 다수 도난"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "translated_title": "폴리밀, 차세대 일본 공공 AI 인프라 구축",
+    "link": "https://openai.com/index/polimill",
+    "date": "2026-08-31",
+    "summary": [
+      "폴리밀은 OpenAI GPT 모델과 Codex를 활용합니다.",
+      "지자체의 행정 지식 검색 및 활용을 지원합니다.",
+      "AI 기반으로 개발 가속화를 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "translated_title": "AI 접근성 확장의 새로운 이정표",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "date": "2026-08-31",
+    "summary": [
+      "ChatGPT 광고, 연간 수익 10억 달러 달성",
+      "전 세계적으로 확장되어 AI 접근성 확대",
+      "무료 및 합리적인 가격 옵션 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "This Free AI Just Caught The Billion Dollar Giants",
     "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
     "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
@@ -44,36 +121,6 @@ const allArticlesData = [
     "tags": [
       "GameDev",
       "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Warlock's magic system was built on game-bending player choices",
-    "translated_title": "워락의 마법 시스템은 게임을 뒤흔드는 플레이어의 선택을 기반으로 만들어졌습니다",
-    "link": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
-    "date": "2026-08-28",
-    "summary": [
-      "워락의 마법 시스템은 플레이어의 선택이 핵심입니다.",
-      "이 시스템은 버그가 아닌 의도된 기능입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona",
-    "translated_title": "유비소프트 모바일 바르셀로나, 스페인 노조의 지속적인 파업 요구",
-    "link": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
-    "date": "2026-08-28",
-    "summary": [
-      "유비소프트 모바일 바르셀로나 노조가 파업을 선언했습니다.",
-      "8월 초 사측에 파업 의사를 전달했으나 아직 답변을 받지 못했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
     ],
     "source": "gamedeveloper"
   },
@@ -123,6 +170,36 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Warlock's magic system was built on game-bending player choices",
+    "translated_title": "워락의 마법 시스템은 게임을 뒤흔드는 플레이어의 선택을 기반으로 만들어졌습니다",
+    "link": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
+    "date": "2026-08-28",
+    "summary": [
+      "워락의 마법 시스템은 플레이어의 선택이 핵심입니다.",
+      "이 시스템은 버그가 아닌 의도된 기능입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona",
+    "translated_title": "유비소프트 모바일 바르셀로나, 스페인 노조의 지속적인 파업 요구",
+    "link": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
+    "date": "2026-08-28",
+    "summary": [
+      "유비소프트 모바일 바르셀로나 노조가 파업을 선언했습니다.",
+      "8월 초 사측에 파업 의사를 전달했으나 아직 답변을 받지 못했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Three games, 10 years, one Unity project: Piecing together The Immortal John Triptych",
     "translated_title": "3개의 게임, 10년, 하나의 유니티 프로젝트: 불멸의 존 삼부작을 하나로 엮다",
     "link": "https://unity.com/blog/immortal-john-triptych-joe-richardson-interview",
@@ -138,22 +215,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
-    "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
-    "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
-    "date": "2026-08-27",
-    "summary": [
-      "Brian Cronin 디자이너는 2026 GDC Festival of Gaming 발표에서 1:1 플레이테스트를 옹호했습니다.",
-      "이 기법이 개인에게 어떤 이점을 줄 수 있는지 설명합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "translated_title": "더 나은 답변, 폭넓은 사고: ChatGPT와 비판적 사고 훈련으로 학생들은 무엇을 얻는가",
     "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -164,21 +225,6 @@ const allArticlesData = [
     ],
     "tags": [
       "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "translated_title": "OpenAI, 브라질 내 입지 확장",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "date": "2026-08-27",
-    "summary": [
-      "OpenAI가 브라질에서의 활동을 확대합니다.",
-      "개발자, 기업, 지역사회와의 협력을 강화하여 AI 도입을 지원합니다."
-    ],
-    "tags": [
-      "News",
       "AI"
     ],
     "source": "OpenAI News"
@@ -213,6 +259,37 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
+    "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
+    "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
+    "date": "2026-08-27",
+    "summary": [
+      "Brian Cronin 디자이너는 2026 GDC Festival of Gaming 발표에서 1:1 플레이테스트를 옹호했습니다.",
+      "이 기법이 개인에게 어떤 이점을 줄 수 있는지 설명합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "translated_title": "OpenAI, 브라질 내 입지 확장",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "date": "2026-08-27",
+    "summary": [
+      "OpenAI가 브라질에서의 활동을 확대합니다.",
+      "개발자, 기업, 지역사회와의 협력을 강화하여 AI 도입을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson",
@@ -292,21 +369,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
-    "link": "https://openai.com/index/learning-never-stops",
-    "date": "2026-08-26",
-    "summary": [
-      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
-      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Intelligent transcription with Gemini 3.5 Transcribe",
     "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
     "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -320,6 +382,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
+    "link": "https://openai.com/index/learning-never-stops",
+    "date": "2026-08-26",
+    "summary": [
+      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
+      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -4479,83 +4556,6 @@ const allArticlesData = [
       "GPT-5.6 모델이 Microsoft 365 Copilot에 통합되었습니다.",
       "향상된 AI 기능으로 Word, Excel, PowerPoint 등에서 더 빠르고 품질 높은 작업이 가능해졌습니다.",
       "Chat 및 Cowork 기능 또한 GPT-5.6의 지원을 받습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "translated_title": "GPT-5.5 바이오 버그 바운티",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "date": "2026-07-09",
-    "summary": [
-      "OpenAI에서 진행하는 바이오 버그 바운티 프로그램에 대한 정보입니다.",
-      "GPT-5.5와 관련된 내용입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "translated_title": "GPT-5.6: 여러분의 야망에 맞춰 확장되는 최첨단 지능",
-    "link": "https://openai.com/index/gpt-5-6",
-    "date": "2026-07-09",
-    "summary": [
-      "토큰당 향상된 지능으로 더 나은 결과 제공",
-      "달러당 강화된 성능으로 비용 효율성 증대",
-      "온디맨드 기능으로 어려운 업무 지원 강화"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Asha Sharma joins Federal Reserve advisory task force days after laying off thousands at Xbox",
-    "translated_title": "애나 숄즈, 엑스박스 수천 명 해고 후 연방준비제도 자문단 합류",
-    "link": "https://www.gamedeveloper.com/business/asha-sharma-joins-federal-reserve-task-force-days-after-laying-off-thousands-at-xbox",
-    "date": "2026-07-09",
-    "summary": [
-      "애나 숄즈가 엑스박스에서 수천 명을 해고한 직후 연방준비제도의 자문 태스크포스에 합류했습니다.",
-      "그녀는 '신규 범용 기술의 경제적 영향'에 대해 잘 알고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Eurogamer and VG247 veterans launch new independent site",
-    "translated_title": "유로게이머, VG247 출신 베테랑들이 새 독립 게임 매체 론칭",
-    "link": "https://www.gamedeveloper.com/business/eurogamer-and-vg247-veterans-launch-new-independent-site",
-    "date": "2026-07-09",
-    "summary": [
-      "유로게이머와 VG247 출신 기자들이 새로운 독립 게임 매체를 설립했습니다.",
-      "이 매체는 독립적인 운영을 통해 잡지 스타일의 게임 전문 보도를 제공할 계획입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "translated_title": "ChatGPT, 당신의 가장 야심 찬 작업을 위한 파트너가 되다",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "date": "2026-07-09",
-    "summary": [
-      "ChatGPT Work는 앱과 파일을 넘나들며 작업을 수행하는 에이전트입니다.",
-      "필요에 따라 몇 시간 동안 프로젝트에 머무르며 목표를 완성된 결과물로 전환합니다."
     ],
     "tags": [
       "AI",
