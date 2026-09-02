@@ -1,5 +1,218 @@
 const allArticlesData = [
   {
+    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
+    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+    "date": "2026-09-01",
+    "summary": [
+      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
+      "AI 기술의 발전으로 비용 부담 감소 추세"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Report: Savvy Games Group CEO Brian Ward departs company",
+    "translated_title": "사비 게임 그룹 CEO 브라이언 워드, 회사 떠나",
+    "link": "https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company",
+    "date": "2026-09-01",
+    "summary": [
+      "사비 게임 그룹의 CEO인 브라이언 워드가 회사를 떠났습니다.",
+      "회사는 새로운 리더십과 함께 다음 단계의 혁신적인 성장을 계획하고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The majority of Doom: The Dark Ages' DLC got made 'in three or four months'",
+    "translated_title": "둠: 다크 에이지 DLC 상당 부분이 '3~4개월 만에' 완성됐다",
+    "link": "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months",
+    "date": "2026-09-01",
+    "summary": [
+      "둠: 다크 에이지의 DLC 개발 기간이 매우 짧았습니다.",
+      "팀은 프로젝트 완료를 위해 주당 60~80시간의 강도 높은 근무를 했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Aggro Crab launches publishing label to splash that Peak cash",
+    "translated_title": "Aggro Crab, 'Peak' 게임 수익을 노린 퍼블리싱 레이블 출시",
+    "link": "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash",
+    "date": "2026-09-01",
+    "summary": [
+      "Aggro Crab, '강렬하고 스타일리쉬하며 개성 있는 게임'을 지원하기 위한 퍼블리싱 레이블 설립.",
+      "생성형 AI 기반의 저품질 게임은 지원하지 않을 방침."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Sega-owned Rovio is shutting down its Copenhagen studio",
+    "translated_title": "세가 소유 로비오, 코펜하겐 스튜디오 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
+    "date": "2026-09-01",
+    "summary": [
+      "세가 소유의 로비오가 코펜하겐 스튜디오를 폐쇄합니다.",
+      "이번 폐쇄는 '소닉 블리츠' 취소와 관련이 있으며, 정확한 해고 인원은 아직 미정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
+    "translated_title": "패러독스 인터랙티브의 '애프터월드', RPG 요소로 신규 유저 공략",
+    "link": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
+    "date": "2026-09-01",
+    "summary": [
+      "'애프터월드'는 RPG적 요소를 통해 신규 플레이어에게 전략 게임의 재미를 선보일 예정입니다.",
+      "게임 디렉터 댄 린드는 전략 게임의 매력과 새로운 유저를 끌어들이는 방법을 설명합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "translated_title": "벤치마크 MIRT: LLM 벤치마크는 실제로 무엇을 측정하는가?",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "date": "2026-09-01",
+    "summary": [
+      "LLM 벤치마크가 무엇을 측정하는지 탐구합니다.",
+      "BenchMIRT라는 새로운 벤치마크 프레임워크를 소개합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "translated_title": "@huggingface/kernels 소개: 로컬 AI를 위한 200개 이상의 WebGPU 커널",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "date": "2026-09-01",
+    "summary": [
+      "Hugging Face에서 새로운 WebGPU 커널 라이브러리인 @huggingface/kernels를 출시했습니다.",
+      "이 라이브러리는 200개 이상의 최적화된 커널을 제공하여 로컬 환경에서 AI 모델을 더 효율적으로 실행할 수 있게 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "translated_title": "AI 네이티브 기업, 워크플로우를 운영 역량으로 전환하는 방법",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "date": "2026-09-01",
+    "summary": [
+      "AI 에이전트를 활용하여 온보딩, 계정 관리, 개발자 통합 개선",
+      "Basis, Clay, Exa Labs의 사례를 통해 기업 리더를 위한 시사점 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "translated_title": "Astra 경로: 핵심 역량 및 최첨단 안전 장치",
+    "link": "https://openai.com/index/path-to-astra",
+    "date": "2026-09-01",
+    "summary": [
+      "Astra는 OpenAI 최초로 준비태세 프레임워크 하의 핵심 사이버 보안 역량 기준을 충족했습니다.",
+      "Astra는 출시를 위해 더욱 강화된 안전 장치를 갖추고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "translated_title": "의료 기관, EHR 및 추가 산업 데이터 ChatGPT와 연결 가능",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "date": "2026-09-01",
+    "summary": [
+      "ChatGPT가 신뢰할 수 있는 의료 데이터에 연결됩니다.",
+      "의료진은 환자 정보, 의학 연구 등에 안전하게 접근할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "translated_title": "Gilbert + Tobin, OpenAI로 AI를 거버넌스하고 확장하는 방법",
+    "link": "https://openai.com/index/gilbert-tobin",
+    "date": "2026-09-01",
+    "summary": [
+      "CEO 주도의 의지로 ChatGPT Enterprise 및 Codex를 전사적으로 확장",
+      "엄격한 거버넌스 체계를 통해 AI 도입 및 관리",
+      "인적 책임을 강조하며 AI 솔루션의 안전하고 효과적인 활용 도모"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing agentic video understanding with Gemini",
+    "translated_title": "Gemini를 활용한 에이전트형 비디오 이해 기능 소개",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "date": "2026-09-01",
+    "summary": [
+      "Gemini가 에이전트형 비디오 이해 기능을 지원합니다.",
+      "이 기능을 통해 비디오 콘텐츠를 더 지능적으로 분석하고 이해할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "translated_title": "OpenAI, 청소년 AI 안전 강화 캘리포니아 법안 지지",
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-08-31",
+    "summary": [
+      "OpenAI가 캘리포니아 SB 1119 법안을 지지합니다.",
+      "이 법안은 청소년을 위한 강력하고 연령에 적합한 AI 안전 장치를 마련합니다.",
+      "동시에 학습, 창작, 탐구 기회를 보존하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Housemarque co-founder Ilari Kuittinen exits from studio",
     "translated_title": "하우스마크 공동 창립자 일라리 쿠이티넨, 스튜디오 퇴사",
     "link": "https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio",
@@ -94,6 +307,22 @@ const allArticlesData = [
     "source": "Two Minute Papers"
   },
   {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "date": "2026-08-28",
+    "summary": [
+      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
+      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process",
     "translated_title": "GDC 특별 강연 - 오스틴 윈토리의 협업 작곡 과정 엿보기",
     "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
@@ -123,22 +352,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "date": "2026-08-28",
-    "summary": [
-      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
-      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -215,21 +428,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "translated_title": "더 나은 답변, 폭넓은 사고: ChatGPT와 비판적 사고 훈련으로 학생들은 무엇을 얻는가",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "date": "2026-08-27",
-    "summary": [
-      "1,000명 이상의 학생을 대상으로 한 무작위 연구에서 ChatGPT, 비판적 사고, 독창성, 실제 대학 과제 수행 능력을 조사했습니다.",
-      "ChatGPT 사용과 비판적 사고 훈련이 학생들의 성과에 미치는 영향을 분석합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
     "translated_title": "Gemini Omni 1.1 Flash로 더욱 정밀하게 빌드하세요",
     "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -259,6 +457,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "translated_title": "더 나은 답변, 폭넓은 사고: ChatGPT와 비판적 사고 훈련으로 학생들은 무엇을 얻는가",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-27",
+    "summary": [
+      "1,000명 이상의 학생을 대상으로 한 무작위 연구에서 ChatGPT, 비판적 사고, 독창성, 실제 대학 과제 수행 능력을 조사했습니다.",
+      "ChatGPT 사용과 비판적 사고 훈련이 학생들의 성과에 미치는 영향을 분석합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
@@ -353,6 +566,21 @@ const allArticlesData = [
     "source": "Two Minute Papers"
   },
   {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "date": "2026-08-26",
+    "summary": [
+      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
+      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -367,21 +595,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "date": "2026-08-26",
-    "summary": [
-      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
-      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Learning never stops: How AI makes learning continuous",
@@ -4354,213 +4567,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Studio founded by former Star Wars: Galaxy of Heroes GM lays off staff",
-    "translated_title": "전 스타워즈: 갤럭시 히어로즈 GM이 설립한 스튜디오, 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/ex-star-wars-galaxy-of-heroes-gm-studio-lays-off-staff",
-    "date": "2026-07-14",
-    "summary": [
-      "Azra Games, 2년 만에 4,200만 달러 펀딩 후 팀 규모 축소",
-      "데뷔작 'UnGodly' 출시 전 직원 감축 진행"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Spin Master lays off Paw Patrol: The Game devs two days after launch",
-    "translated_title": "스핀 마스터, 'PAW Patrol: The Game' 출시 이틀 만에 개발팀 해고",
-    "link": "https://www.gamedeveloper.com/mobile/spin-master-lays-off-paw-patrol-the-game-devs-two-days-after-launch",
-    "date": "2026-07-14",
-    "summary": [
-      "스핀 마스터가 'PAW Patrol: The Game' 개발팀을 해고했습니다.",
-      "출시 이틀 만에 발생한 이번 해고는 Sago Mini Team이 개발 업무를 맡게 되면서 이루어졌습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "translated_title": "ATL Saathi로 인도의 차세대 혁신가들에게 힘을 실어주다",
-    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "date": "2026-07-13",
-    "summary": [
-      "구글과 AIM이 Gemini 기반 AI 도구인 ATL Saathi를 출시했습니다.",
-      "이 도구는 인도의 로봇 공학 실험실 교육자들에게 AI 역량을 강화해 줍니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "The Alters and Frostpunk developer 11 Bit Studios is laying off 20 employees",
-    "translated_title": "‘디 아터스’, ‘프로스트펑크’ 개발사 11 비트 스튜디오, 20명 감원",
-    "link": "https://www.gamedeveloper.com/business/the-alters-and-frostpunk-developer-11-bit-studios-is-laying-off-20-employees-",
-    "date": "2026-07-13",
-    "summary": [
-      "‘디 아터스’와 ‘프로스트펑크’ 개발사인 11 비트 스튜디오가 20명의 직원을 해고했습니다.",
-      "내부 팀으로 직원을 재배치하여 해고 규모를 최소화했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Games Done Quick apologizes for partnering with Saudi-owned studio SNK",
-    "translated_title": "Games Done Quick, 사우디 국영 기업 SNK와의 파트너십에 대해 사과",
-    "link": "https://www.gamedeveloper.com/business/games-done-quick-apologizes-for-partnering-with-saudi-owned-studio-snk",
-    "date": "2026-07-13",
-    "summary": [
-      "Games Done Quick가 사우디 국영 기업 SNK와의 스폰서십을 취소했습니다.",
-      "커뮤니티의 우려 제기 후 파트너십이 무산되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'A kick in the teeth:' Game workers protest alleged misconduct at MindsEye developer Build A Rocket Boy",
-    "translated_title": "'치욕스러운 일': MindsEye 개발사 Build A Rocket Boy의 의혹 제기에 게임 노동자들 시위",
-    "link": "https://www.gamedeveloper.com/business/-a-kick-in-the-teeth-game-workers-protest-alleged-misconduct-at-mindseye-developer-build-a-rocket-boy",
-    "date": "2026-07-13",
-    "summary": [
-      "Build A Rocket Boy 개발사에서 발생한 의혹에 대해 게임 노동자들이 시위를 벌이고 있습니다.",
-      "게임 노동자들은 이러한 충격적인 대우가 업계 전반에 만연하다고 지적합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Minecraft Was Missing One Brilliant Idea",
-    "translated_title": "마인크래프트에 빠져있던 한 가지 기발한 아이디어",
-    "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-    "date": "2026-07-12",
-    "summary": [
-      "Terrain Diffusion은 텍스트 설명으로 현실적인 마인크래프트 지형을 생성하는 AI 모델입니다.",
-      "이 기술은 게임 개발자들에게 새로운 콘텐츠를 만들거나 기존 월드를 개선할 수 있는 흥미로운 가능성을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "translated_title": "PyTorch 프로파일링 (3부): Attention은 모든 것을 프로파일합니다",
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "date": "2026-07-10",
-    "summary": [
-      "PyTorch에서 Attention 메커니즘의 성능을 프로파일링하는 방법을 다룹니다.",
-      "Attention 연산의 병목 현상을 식별하고 최적화하는 기법을 소개합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "translated_title": "Deutsche Telekom, AI로 통신 산업을 재편하는 방법",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "date": "2026-07-10",
-    "summary": [
-      "Deutsche Telekom은 OpenAI와의 협력을 통해 AI 네이티브 통신사로 변모하고 있습니다.",
-      "AI는 고객 서비스, 직원 업무 효율성, 네트워크 운영 및 음성 통신 미래에 혁신을 가져올 것입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Getting started with ChatGPT",
-    "translated_title": "ChatGPT 시작하기",
-    "link": "https://openai.com/academy/getting-started",
-    "date": "2026-07-10",
-    "summary": [
-      "ChatGPT 사용법을 배웁니다.",
-      "AI를 활용하여 글쓰기, 아이디어 구상, 문제 해결 방법을 알아봅니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "NexusMods CEO digs into the dynamics of video game modding ft. Victor Folmann",
-    "translated_title": "넥서스모드 CEO, 게임 모딩의 역동성 분석 (빅터 폴만)",
-    "link": "https://www.gamedeveloper.com/pc/nexusmods-ceo-digs-into-the-dynamics-of-video-game-modding-ft-victor-folmann",
-    "date": "2026-07-10",
-    "summary": [
-      "넥서스모드는 단순 파일 호스팅에서 벗어나 UGC 플랫폼으로 성장할 잠재력이 있다고 CEO는 믿습니다.",
-      "회사의 미래는 사용자 제작 콘텐츠(UGC)에 달려 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
-    "translated_title": "자책골 전문가 Xbox, 또 한 골을 천장으로 - 패치 노트 #60",
-    "link": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
-    "date": "2026-07-10",
-    "summary": [
-      "Xbox 역사상 중요한 한 주를 되돌아봅니다.",
-      "최근 Xbox의 주요 사건들을 분석합니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
-    "translated_title": "'진심으로 합니다': 엑스박스 노조원들, 7월 15일 '개발자 보호' 집회로 맞선다",
-    "link": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
-    "date": "2026-07-10",
-    "summary": [
-      "베데스다 게임 스튜디오 노조원들이 집회를 주최합니다.",
-      "집회는 '개발자 보호'를 목표로 합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "translated_title": "GPT-5.6, Microsoft 365 Copilot의 주요 모델로 채택",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "date": "2026-07-09",
-    "summary": [
-      "GPT-5.6 모델이 Microsoft 365 Copilot에 통합되었습니다.",
-      "향상된 AI 기능으로 Word, Excel, PowerPoint 등에서 더 빠르고 품질 높은 작업이 가능해졌습니다.",
-      "Chat 및 Cowork 기능 또한 GPT-5.6의 지원을 받습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   }
 ];
