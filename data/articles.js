@@ -1,19 +1,92 @@
 const allArticlesData = [
   {
-    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
-    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
-    "date": "2026-09-01",
+    "title": "The Immersive Edge: August 2026 industry content wrap-up",
+    "translated_title": "몰입형 엣지: 2026년 8월 산업 콘텐츠 총정리",
+    "link": "https://unity.com/blog/immersive-edge-august-2026",
+    "date": "2026-09-02",
     "summary": [
-      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
-      "AI 기술의 발전으로 비용 부담 감소 추세"
+      "2026년 7-8월 Unity 리소스 31개 요약.",
+      "BMW 그룹의 가상 분해 지원 및 Ditmara 트윈 아키텍처 포함."
+    ],
+    "tags": [
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Nexus Mods is acquiring database and analytics site SteamDB",
+    "translated_title": "넥서스 모드가 데이터베이스 및 분석 사이트 스팀DB를 인수합니다",
+    "link": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
+    "date": "2026-09-02",
+    "summary": [
+      "넥서스 모드가 스팀DB를 인수합니다.",
+      "이를 통해 스팀DB에 더 많은 리소스를 제공하고 장기적인 안정성을 확보할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "translated_title": "Confluent에서 IBM 시계열 모델을 이용한 실시간 인텔리전스",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "date": "2026-09-02",
+    "summary": [
+      "IBM 시계열 모델을 Confluent와 통합하여 실시간 데이터 분석.",
+      "실시간 데이터를 기반으로 즉각적인 인사이트 확보 및 의사결정 지원."
     ],
     "tags": [
       "AI",
-      "News",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "translated_title": "ChatGPT로 ATV 빅에어 투어, 3일치 업무를 3시간 만에 완료",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "date": "2026-09-02",
+    "summary": [
+      "ATV 빅에어 투어는 ChatGPT를 활용하여 마케팅 및 상품 기획 업무 효율성을 크게 높였습니다.",
+      "특히, 상품 사진을 15분 만에 재고 관리 웹사이트로 전환하는 등 빠른 결과물을 얻었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "translated_title": "정부 및 기업을 위한 선제적 사이버 방어",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "date": "2026-09-02",
+    "summary": [
+      "정부 및 기업을 대상으로 선제적인 사이버 방어 전략을 제시합니다.",
+      "미래의 위협에 대비하여 능동적으로 보안 태세를 강화하는 방안을 다룹니다."
+    ],
+    "tags": [
+      "AI",
       "Research"
     ],
-    "source": "Two Minute Papers"
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "translated_title": "Gemini 3.8 Flash 및 3.8 Flash Cyber 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "date": "2026-09-02",
+    "summary": [
+      "Gemini 3.8 Flash 및 3.8 Flash Cyber 모델 출시.",
+      "새로운 모델의 주요 기능 또는 특징에 대한 간략한 소개 (콘텐츠 부족으로 구체적 내용 요약 불가)."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Report: Savvy Games Group CEO Brian Ward departs company",
@@ -70,20 +143,6 @@ const allArticlesData = [
     ],
     "tags": [
       "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
-    "translated_title": "패러독스 인터랙티브의 '애프터월드', RPG 요소로 신규 유저 공략",
-    "link": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
-    "date": "2026-09-01",
-    "summary": [
-      "'애프터월드'는 RPG적 요소를 통해 신규 플레이어에게 전략 게임의 재미를 선보일 예정입니다.",
-      "게임 디렉터 댄 린드는 전략 게임의 매력과 새로운 유저를 끌어들이는 방법을 설명합니다."
-    ],
-    "tags": [
       "News"
     ],
     "source": "gamedeveloper"
@@ -197,6 +256,36 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
+    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+    "date": "2026-09-01",
+    "summary": [
+      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
+      "AI 기술의 발전으로 비용 부담 감소 추세"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
+    "translated_title": "패러독스 인터랙티브의 '애프터월드', RPG 요소로 신규 유저 공략",
+    "link": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
+    "date": "2026-09-01",
+    "summary": [
+      "'애프터월드'는 RPG적 요소를 통해 신규 플레이어에게 전략 게임의 재미를 선보일 예정입니다.",
+      "게임 디렉터 댄 린드는 전략 게임의 매력과 새로운 유저를 끌어들이는 방법을 설명합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "OpenAI supports California’s bill to advance youth AI safety",
     "translated_title": "OpenAI, 청소년 AI 안전 강화 캘리포니아 법안 지지",
     "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
@@ -290,6 +379,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "date": "2026-08-28",
+    "summary": [
+      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
+      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "This Free AI Just Caught The Billion Dollar Giants",
     "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
     "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
@@ -305,22 +410,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "date": "2026-08-28",
-    "summary": [
-      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
-      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process",
@@ -413,21 +502,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Three games, 10 years, one Unity project: Piecing together The Immortal John Triptych",
-    "translated_title": "3개의 게임, 10년, 하나의 유니티 프로젝트: 불멸의 존 삼부작을 하나로 엮다",
-    "link": "https://unity.com/blog/immortal-john-triptych-joe-richardson-interview",
-    "date": "2026-08-27",
-    "summary": [
-      "솔로 개발자 Joe Richardson이 10년간 만든 르네상스풍 어드벤처 게임 3개를 유니티의 Adventure Creator를 사용해 하나의 프로젝트로 재구성했습니다.",
-      "Akupara Games의 지원을 받아 콘솔 이식 작업도 진행했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
     "translated_title": "Gemini Omni 1.1 Flash로 더욱 정밀하게 빌드하세요",
     "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -457,6 +531,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Three games, 10 years, one Unity project: Piecing together The Immortal John Triptych",
+    "translated_title": "3개의 게임, 10년, 하나의 유니티 프로젝트: 불멸의 존 삼부작을 하나로 엮다",
+    "link": "https://unity.com/blog/immortal-john-triptych-joe-richardson-interview",
+    "date": "2026-08-27",
+    "summary": [
+      "솔로 개발자 Joe Richardson이 10년간 만든 르네상스풍 어드벤처 게임 3개를 유니티의 Adventure Creator를 사용해 하나의 프로젝트로 재구성했습니다.",
+      "Akupara Games의 지원을 받아 콘솔 이식 작업도 진행했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -4477,95 +4566,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "translated_title": "에이전트 시대의 AI 투자 관리 방법",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "date": "2026-07-14",
-    "summary": [
-      "달러당 유용한 작업량 측정",
-      "효율성 개선 및 고가치 워크플로우 확장"
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "translated_title": "ChatGPT Work, 영업팀 활용법",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "date": "2026-07-14",
-    "summary": [
-      "영업팀이 ChatGPT Work를 사용하여 파이프라인 브리핑, 회의 준비 자료, 예측 검토, 계정 계획, 교착 상태 거래 진단 등을 생성할 수 있습니다.",
-      "실제 업무 입력을 기반으로 다양한 영업 문서를 효율적으로 작성하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "translated_title": "데이터 과학팀, ChatGPT Work 활용법",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "date": "2026-07-14",
-    "summary": [
-      "데이터 과학팀이 ChatGPT Work를 활용하여 근본 원인 분석 보고서, 영향력 분석, KPI 보고서 등을 작성하는 방법을 소개합니다.",
-      "실제 업무 데이터를 기반으로 분석 및 보고서 작성을 효율화합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Assassin's Creed Black Flag Resynced crosses 2 million in sales as studio strikes over proposed layoffs",
-    "translated_title": "어쌔신 크리드 블랙 플래그 리싱크드, 200만 장 판매 돌파… 스튜디오는 감원 반대 파업",
-    "link": "https://www.gamedeveloper.com/business/assassin-s-creed-black-flag-topped-2m-sales-on-its-first-day",
-    "date": "2026-07-14",
-    "summary": [
-      "어쌔신 크리드 블랙 플래그 리싱크드가 24시간 만에 200만 장 이상 판매되었습니다.",
-      "동시에 바르셀로나 스튜디오 직원 51명에 대한 해고 계획에 반대하며 파업에 나섰습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Paramount confirms Mike Zaimont is employed by Avatar Legends dev",
-    "translated_title": "파라마운트, '아바타 레전드' 개발진에 마이크 자이몬트 고용 확인",
-    "link": "https://www.gamedeveloper.com/business/paramount-confirms-mike-zaimont-previously-accused-of-sexual-harassment-is-employed-by-avatar-legends-dev",
-    "date": "2026-07-14",
-    "summary": [
-      "마이크 자이몬트가 게임플레이 그룹 인터내셔널의 개인 개발자로 재직 중임이 확인되었습니다.",
-      "그는 이전 랩 제로 게임즈 CEO 재직 시 성희롱 혐의를 받은 바 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Compulsion Games posts call for business partners after Xbox spinoff",
-    "translated_title": "Compulsion Games, Xbox 스핀오프 후 비즈니스 파트너 모집",
-    "link": "https://www.gamedeveloper.com/business/compulsion-games-is-seeking-partners-after-xbox-spin-off",
-    "date": "2026-07-14",
-    "summary": [
-      "Compulsion Games가 비즈니스 파트너를 모집하고 있습니다.",
-      "Xbox로부터 독립한 후 파트너십을 모색 중입니다.",
-      "'South of Midnight' 개발팀의 재능과 창의성을 활용하도록 초대합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
