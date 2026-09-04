@@ -1,5 +1,191 @@
 const allArticlesData = [
   {
+    "title": "How Project Ember is transforming burn care training through mixed reality",
+    "translated_title": "프로젝트 엠버가 혼합 현실로 화상 치료 훈련을 어떻게 혁신하는가",
+    "link": "https://unity.com/blog/project-ember-mixed-reality-transforming-burn-care-training",
+    "date": "2026-09-03",
+    "summary": [
+      "프로젝트 엠버는 혼합 현실(Mixed Reality) 기술을 활용하여 화상 치료 훈련을 제공합니다.",
+      "이 훈련은 전 세계 외과 의사들에게 더욱 현실적이고 포괄적이며 확장 가능하고 접근성을 높여줍니다."
+    ],
+    "tags": [
+      "혼합 현실",
+      "Unity",
+      "의료 교육",
+      "Research"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
+    "translated_title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
+    "link": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Supercell's acquisition of Metacore expected to close this month",
+    "translated_title": "Supercell's acquisition of Metacore expected to close this month",
+    "link": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Gamecity Hamburg launches second round of prototype funding",
+    "translated_title": "Gamecity Hamburg launches second round of prototype funding",
+    "link": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "CD Projekt Red won't be abandoning physical releases",
+    "translated_title": "CD Projekt Red won't be abandoning physical releases",
+    "link": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "translated_title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "translated_title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "translated_title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "translated_title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "translated_title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "translated_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "translated_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "translated_title": "Safety overview: GPT-6 Astra",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "translated_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-03",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "The Immersive Edge: August 2026 industry content wrap-up",
     "translated_title": "몰입형 엣지: 2026년 8월 산업 콘텐츠 총정리",
     "link": "https://unity.com/blog/immersive-edge-august-2026",
@@ -85,6 +271,37 @@ const allArticlesData = [
     "tags": [
       "AI",
       "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Games made with Unity: August 2026 in review",
+    "translated_title": "유니티로 만든 주목할 만한 게임: 2026년 8월",
+    "link": "https://unity.com/blog/games-made-with-unity-august-2026-releases",
+    "date": "2026-09-01",
+    "summary": [
+      "유니티 커뮤니티의 최신 게임 개발 소식 제공",
+      "2026년 8월에 출시되었거나 주목할 만한 유니티 게임 목록 소개"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Introducing agentic video understanding with Gemini",
+    "translated_title": "Gemini를 활용한 에이전트형 비디오 이해 기능 소개",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "date": "2026-09-01",
+    "summary": [
+      "Gemini가 에이전트형 비디오 이해 기능을 지원합니다.",
+      "이 기능을 통해 비디오 콘텐츠를 더 지능적으로 분석하고 이해할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
     ],
     "source": "Google DeepMind News"
   },
@@ -239,21 +456,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing agentic video understanding with Gemini",
-    "translated_title": "Gemini를 활용한 에이전트형 비디오 이해 기능 소개",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "date": "2026-09-01",
-    "summary": [
-      "Gemini가 에이전트형 비디오 이해 기능을 지원합니다.",
-      "이 기능을 통해 비디오 콘텐츠를 더 지능적으로 분석하고 이해할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -4340,231 +4542,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "ZeniMax Online Studios leadership included in Xbox mass layoffs",
-    "translated_title": "ZeniMax Online Studios 리더십, Xbox 대규모 감원 포함",
-    "link": "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-is-part-of-the-379-laid-off-workers",
-    "date": "2026-07-16",
-    "summary": [
-      "Xbox에서 ZeniMax Online Studios의 스튜디오 책임자, 운영 이사, 게임 디렉터 등이 감원 대상에 포함되었습니다.",
-      "이번 감원은 수십 명의 고위 및 리드 직책을 포함하는 Xbox의 대규모 정리 해고의 일환입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pokemon Go owner Scopely 'reorganizes' Stumble Guys team",
-    "translated_title": "포켓몬 GO 개발사 Scopely, 'Stumble Guys' 팀 '개편'",
-    "link": "https://www.gamedeveloper.com/business/pokemon-go-owner-scopely-reorganizes-stumble-guys-team",
-    "date": "2026-07-16",
-    "summary": [
-      "Scopely가 Stumble Guys 팀을 개편했습니다.",
-      "이번 개편으로 소수의 직원에게 영향을 미쳤습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "translated_title": "NVIDIA Nemotron 3 임베드, RTEB 전체 1위 달성 및 에이전트 검색 성능 향상",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "date": "2026-07-16",
-    "summary": [
-      "NVIDIA Nemotron 3 임베드가 RTEB 벤치마크에서 종합 1위를 차지했습니다.",
-      "이는 에이전트 기반 검색(Agentic Retrieval) 성능을 크게 향상시켰음을 의미합니다.",
-      "Nemotron 3는 대규모 언어 모델(LLM)의 검색 능력을 강화하는 데 기여합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Claude's Brain Has A Secret... And Scientists Found It",
-    "translated_title": "클로드의 뇌에는 비밀이 있습니다... 그리고 과학자들이 그것을 발견했습니다",
-    "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-    "date": "2026-07-15",
-    "summary": [
-      "연구자들이 AI 모델 '클로드'의 특정 내부 작동 방식을 발견했습니다.",
-      "이는 AI의 이해력과 관련이 있을 수 있는 새로운 발견입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "What building Shippy taught us about building agents",
-    "translated_title": "샤피(Shippy) 개발을 통해 배운 에이전트 구축 방법",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "date": "2026-07-15",
-    "summary": [
-      "샤피 프로젝트 개발 경험을 바탕으로 에이전트 구축에 대한 교훈을 공유합니다.",
-      "효과적인 에이전트 설계를 위한 실질적인 인사이트를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "translated_title": "모델 라우팅은 간단하다. 복잡해지기 전까지는.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "date": "2026-07-15",
-    "summary": [
-      "모델 라우팅은 초기에는 단순하지만, 특정 상황에서 복잡성이 증가합니다.",
-      "이 글/영상은 모델 라우팅의 복잡한 측면을 다룰 예정입니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "The US is advancing AI safety through state and federal action",
-    "translated_title": "미국, 주 및 연방 차원의 조치로 AI 안전 발전시켜",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "date": "2026-07-15",
-    "summary": [
-      "OpenAI는 \"역연방주의\" 접근 방식을 제안합니다.",
-      "주 법이 안전하고 민주적인 AI를 위한 국가 프레임워크 구축에 기여합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "translated_title": "GPT-Red: 견고성을 위한 AI 자체 개선 기능 해제",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "date": "2026-07-15",
-    "summary": [
-      "GPT-Red는 OpenAI의 자동 레드팀 시스템입니다.",
-      "셀프 플레이를 통해 AI 안전성, 정렬, 프롬프트 주입 견고성을 개선합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Former Epic Games VP appointed Saber Interactive's chief business officer",
-    "translated_title": "에픽게임즈 전 부사장, 세이버 인터랙티브 최고 사업 책임자로 임명",
-    "link": "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-saber-interactive-s-chief-business-officer",
-    "date": "2026-07-15",
-    "summary": [
-      "에픽게임즈 전 부사장 스티브 앨리슨이 세이버 인터랙티브 최고 사업 책임자(CBO)로 합류했습니다.",
-      "그는 퍼블리싱, 마케팅, 수익화 기회를 총괄하며 CEO 매튜 카치에게 직속 보고할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Dead Space co-creator Glen Schofield retires",
-    "translated_title": "데드 스페이스 공동 창작자 글렌 쇼필드, 은퇴",
-    "link": "https://www.gamedeveloper.com/business/call-of-duty-co-director-glen-schofield-retires",
-    "date": "2026-07-15",
-    "summary": [
-      "글렌 쇼필드는 데드 스페이스 제작사 비서럴 게임즈를 이끌었습니다.",
-      "콜 오브 듀티 개발사 슬렛지해머 게임즈에서도 오랜 기간 근무했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NYU opens incubator applications for New York City-area devs",
-    "translated_title": "NYU, 뉴욕 지역 개발자 대상 인큐베이터 신청 개시",
-    "link": "https://www.gamedeveloper.com/business/nyu-opens-incubator-applications-for-new-york-city-area-devs",
-    "date": "2026-07-15",
-    "summary": [
-      "NYU, 뉴욕 게임 디자인 퓨처 랩 인큐베이터 운영",
-      "개발자에게 멘토링, 워크숍, 투자 기회 제공"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "UK union launches free resource to decode video game writing contracts",
-    "translated_title": "영국 작가조합, 게임 작가 계약서 해독 위한 무료 자료 공개",
-    "link": "https://www.gamedeveloper.com/production/uk-union-launches-free-resource-to-decode-video-game-writing-contracts",
-    "date": "2026-07-15",
-    "summary": [
-      "영국 작가조합(Writers' Guild of Great Britain)이 게임 작가 계약서 해독을 위한 무료 자료를 출시했습니다.",
-      "최근 몇 년간 게임 작가 계약과 관련한 불량 관행이 증가한 것을 목격했기 때문입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "IWGB Game Workers union forms 'redundancy taskforce' to defend workers' rights",
-    "translated_title": "IWGB 게임 노동자 노조, '정리해고 태스크포스' 결성하여 노동자 권리 옹호",
-    "link": "https://www.gamedeveloper.com/business/iwgb-game-workers-union-forms-redundancy-taskforce-to-defend-workers-rights",
-    "date": "2026-07-15",
-    "summary": [
-      "IWGB 게임 노동자 노조가 정리해고 태스크포스를 결성했습니다.",
-      "이들은 노동자의 권리를 보호하고 잘못된 경영과 탐욕으로 인한 정리해고에 맞서 싸울 것입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Welcome Inkling by Thinking Machines",
-    "translated_title": "Thinking Machines의 잉클링을 환영합니다",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "date": "2026-07-15",
-    "summary": [
-      "Thinking Machines에서 새로운 프로젝트 '잉클링'을 소개합니다.",
-      "이 영상/글은 잉클링에 대한 간략한 소개를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "translated_title": "실제 세계 보이스EQ 소개: 음성 AI의 인간적인 품질 측정",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
-    "date": "2026-07-15",
-    "summary": [
-      "음성 AI의 인간적인 품질을 측정하는 '보이스EQ'를 소개합니다.",
-      "실제 환경에서의 음성 AI 성능 평가 및 개선에 초점을 맞춥니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
