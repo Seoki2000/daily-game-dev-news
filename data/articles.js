@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
+    "translated_title": "스타워즈 제로 컴퍼니 개발 비하인드 스토리: 그렉 포어츠치와 함께",
+    "link": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
+    "date": "2026-09-04",
+    "summary": [
+      "비트 리액터 CEO이자 스타워즈 제로 컴퍼니 크리에이티브 디렉터인 그렉 포어츠치가 개발 과정을 설명합니다.",
+      "스타워즈 세계관의 최신 모험에 대한 심층적인 이야기를 다룹니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "How Project Ember is transforming burn care training through mixed reality",
     "translated_title": "프로젝트 엠버가 혼합 현실로 화상 치료 훈련을 어떻게 혁신하는가",
     "link": "https://unity.com/blog/project-ember-mixed-reality-transforming-burn-care-training",
@@ -18,11 +33,12 @@ const allArticlesData = [
   },
   {
     "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
-    "translated_title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
+    "translated_title": "Xbox, Game Pass 구독자 대상 클라우드 게임 이용 시간 제한 도입",
     "link": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "Xbox Game Pass 구독자의 클라우드 게임 이용 시간이 무제한에서 제한됩니다.",
+      "이번 조치는 토큰/시간 절약을 위한 서비스 제한의 일환으로 보입니다."
     ],
     "tags": [
       "News"
@@ -31,11 +47,12 @@ const allArticlesData = [
   },
   {
     "title": "Supercell's acquisition of Metacore expected to close this month",
-    "translated_title": "Supercell's acquisition of Metacore expected to close this month",
+    "translated_title": "슈퍼셀의 메타코어 인수, 이달 말 마무리 예정",
     "link": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "슈퍼셀이 메타코어를 인수하는 거래가 이달 말 마무리될 것으로 예상됩니다.",
+      "거래가 완료되면 'Merge Mansion'은 슈퍼셀의 라이브 게임 포트폴리오에 공식적으로 합류하게 됩니다."
     ],
     "tags": [
       "News"
@@ -44,144 +61,189 @@ const allArticlesData = [
   },
   {
     "title": "Gamecity Hamburg launches second round of prototype funding",
-    "translated_title": "Gamecity Hamburg launches second round of prototype funding",
+    "translated_title": "게임시티 함부르크, 프로토타입 펀딩 2차 라운드 시작",
     "link": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "게임시티 함부르크에서 프로토타입 펀딩 2차 라운드를 시작합니다.",
+      "해당 지역 기반 또는 운영 개발자에게 최대 8만 유로를 지원합니다."
     ],
     "tags": [
+      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "CD Projekt Red won't be abandoning physical releases",
-    "translated_title": "CD Projekt Red won't be abandoning physical releases",
+    "translated_title": "CD 프로젝트 레드, 패키지 게임 출시 이어간다",
     "link": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "CD 프로젝트 레드는 앞으로도 패키지 게임 출시를 계속할 것입니다.",
+      "패키지 게임은 구매 가치가 있도록 제작될 예정입니다."
     ],
     "tags": [
+      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
   },
   {
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "translated_title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
+      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
     ],
     "tags": [
+      "Research",
       "AI"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "translated_title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "translated_title": "100 GRPO 스텝으로 350M 모델을 미세 조정하여 더 나은 구조화된 출력 얻기",
     "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "350M 파라미터 모델을 100 GRPO 스텝으로 미세 조정하는 방법을 설명합니다.",
+      "주요 목표는 모델의 구조화된 출력 성능을 향상시키는 것입니다."
     ],
     "tags": [
+      "Research",
       "AI"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Give Your Coding Agents a Memory You Own",
-    "translated_title": "Give Your Coding Agents a Memory You Own",
+    "translated_title": "코딩 에이전트에게 당신만의 메모리를 만들어주세요",
     "link": "https://huggingface.co/blog/funes",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "코딩 에이전트에 사용자가 제어할 수 있는 메모리 기능을 부여합니다.",
+      "에이전트가 과거 경험을 기억하고 활용하도록 하여 성능을 향상시킵니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Tutorial"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "translated_title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "translated_title": "TRL과 OpenEnv를 이용한 코딩 모델의 수채화 학습",
     "link": "https://huggingface.co/blog/train-to-paint-with-code",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "TRL과 OpenEnv 라이브러리를 활용하여 코딩 모델을 훈련시켰습니다.",
+      "주요 목표는 모델이 수채화 스타일의 이미지를 생성하도록 하는 것입니다."
     ],
     "tags": [
-      "AI"
+      "Research",
+      "AI",
+      "Tutorial"
     ],
     "source": "Hugging Face - Blog"
   },
   {
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "translated_title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "translated_title": "전선 수호자들을 위한 새로운 시작: 필수 서비스 보호에 10억 달러 지원",
     "link": "https://openai.com/index/daybreak-for-frontline-defenders",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "OpenAI가 'Daybreak for Frontline Defenders'를 발표했습니다.",
+      "10억 달러 규모의 투자를 통해 필수 서비스에 최첨단 사이버 AI 접근성을 확대합니다.",
+      "사이버 AI 기술, 교육 및 지원을 제공하여 필수 서비스 보호를 강화합니다."
     ],
     "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "translated_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
-    ],
-    "tags": [
-      "AI"
+      "AI",
+      "News"
     ],
     "source": "OpenAI News"
   },
   {
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "translated_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "translated_title": "Playco, GPT-6 Astra로 게임 프로토타이핑 수작업 수정 50% 절감",
     "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "Playco는 GPT-6 Astra를 활용하여 3가지 테마 게임 프로토타입을 제작했습니다.",
+      "이전 모델 대비 수작업 수정 횟수를 50% 줄였습니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "translated_title": "GPT-6 Astra, 41개 문서 검토 단 몇 분 만에 완료",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "GPT-6 Astra로 41개 문서 검토 시간을 대폭 단축했습니다.",
+      "문서 내 식별된 4가지 오류를 모두 찾아냈습니다.",
+      "금융 검토 워크플로우 성능을 약 40% 향상시켰습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "translated_title": "GPT-6 Astra: 차세대 지능의 등장",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "GPT-6 Astra는 역대 가장 지능적이고 정렬된 모델입니다.",
+      "컴퓨터, 코딩, 사이버 보안, 과학 등 전반에 걸쳐 최첨단 기능을 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
     ],
     "source": "OpenAI News"
   },
   {
     "title": "Safety overview: GPT-6 Astra",
-    "translated_title": "Safety overview: GPT-6 Astra",
+    "translated_title": "GPT-6 Astra: 안전 개요",
     "link": "https://openai.com/index/safety-overview-gpt-6-astra",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "GPT-6 Astra는 가장 유능하고 널리 배포된 모델입니다.",
+      "이 모델은 저희 준비 프레임워크 하에서 'Critical' 수준의 사이버 보안 역량에 도달한 최초의 모델입니다."
     ],
     "tags": [
-      "AI"
+      "Research",
+      "AI",
+      "News"
     ],
     "source": "OpenAI News"
   },
   {
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "translated_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "date": "2026-09-03",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
+      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
+      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
     ],
     "tags": [
-      "AI"
+      "Research",
+      "AI",
+      "News"
     ],
     "source": "Google DeepMind News"
   },
@@ -201,20 +263,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Nexus Mods is acquiring database and analytics site SteamDB",
-    "translated_title": "넥서스 모드가 데이터베이스 및 분석 사이트 스팀DB를 인수합니다",
-    "link": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
-    "date": "2026-09-02",
-    "summary": [
-      "넥서스 모드가 스팀DB를 인수합니다.",
-      "이를 통해 스팀DB에 더 많은 리소스를 제공하고 장기적인 안정성을 확보할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
     "translated_title": "Confluent에서 IBM 시계열 모델을 이용한 실시간 인텔리전스",
     "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -228,21 +276,6 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "translated_title": "ChatGPT로 ATV 빅에어 투어, 3일치 업무를 3시간 만에 완료",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "date": "2026-09-02",
-    "summary": [
-      "ATV 빅에어 투어는 ChatGPT를 활용하여 마케팅 및 상품 기획 업무 효율성을 크게 높였습니다.",
-      "특히, 상품 사진을 15분 만에 재고 관리 웹사이트로 전환하는 등 빠른 결과물을 얻었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Proactive cyber defense for governments and enterprises",
@@ -273,6 +306,35 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Nexus Mods is acquiring database and analytics site SteamDB",
+    "translated_title": "넥서스 모드가 데이터베이스 및 분석 사이트 스팀DB를 인수합니다",
+    "link": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
+    "date": "2026-09-02",
+    "summary": [
+      "넥서스 모드가 스팀DB를 인수합니다.",
+      "이를 통해 스팀DB에 더 많은 리소스를 제공하고 장기적인 안정성을 확보할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "translated_title": "ChatGPT로 ATV 빅에어 투어, 3일치 업무를 3시간 만에 완료",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "date": "2026-09-02",
+    "summary": [
+      "ATV 빅에어 투어는 ChatGPT를 활용하여 마케팅 및 상품 기획 업무 효율성을 크게 높였습니다.",
+      "특히, 상품 사진을 15분 만에 재고 관리 웹사이트로 전환하는 등 빠른 결과물을 얻었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Games made with Unity: August 2026 in review",
@@ -4513,34 +4575,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs",
-    "translated_title": "마이크로소프트, 엑스박스 구조조정 부당 처리 의혹에 노조 법적 대응",
-    "link": "https://www.gamedeveloper.com/production/unions-take-legal-action-against-microsoft-for-allegedly-mishandling-xbox-layoffs",
-    "date": "2026-07-16",
-    "summary": [
-      "CWA 캐나다 회장, 마이크로소프트가 노조와 사전 협의 없이 불법 해고를 단행했다고 주장.",
-      "노조는 마이크로소프트가 해고 통보 및 논의 없이 근로자들을 해고했다고 비난."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'The goal of design is to efficiently communicate ideas'",
-    "translated_title": "디자인의 목표는 아이디어를 효율적으로 전달하는 것이다",
-    "link": "https://www.gamedeveloper.com/design/-the-goal-of-design-is-to-efficiently-communicate-ideas-",
-    "date": "2026-07-16",
-    "summary": [
-      "Stone Librande의 GDC 강연 'One Page Designs'를 다시 살펴봅니다.",
-      "디자인의 본질적인 가치와 효과적인 아이디어 전달에 대한 통찰을 얻을 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
