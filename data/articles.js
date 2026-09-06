@@ -32,6 +32,22 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+    "translated_title": "Claude Fable AI, 헤드라인보다 훨씬 기묘하다",
+    "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+    "date": "2026-09-03",
+    "summary": [
+      "Claude Fable 5.1은 공개된 논문에서 단순한 AI 모델 이상을 보여줍니다.",
+      "이 AI는 예상치 못한 독특하고 흥미로운 행동을 보이는 것으로 알려져 있습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
     "translated_title": "Xbox, Game Pass 구독자 대상 클라우드 게임 이용 시간 제한 도입",
     "link": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
@@ -353,6 +369,22 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
+    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+    "date": "2026-09-01",
+    "summary": [
+      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
+      "AI 기술의 발전으로 비용 부담 감소 추세"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Introducing agentic video understanding with Gemini",
     "translated_title": "Gemini를 활용한 에이전트형 비디오 이해 기능 소개",
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
@@ -518,22 +550,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
-    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
-    "date": "2026-09-01",
-    "summary": [
-      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
-      "AI 기술의 발전으로 비용 부담 감소 추세"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
@@ -4553,22 +4569,6 @@ const allArticlesData = [
     "summary": [
       "OpenAI는 연령에 적합한 보호 기능으로 ChatGPT를 청소년에게 더 안전하게 만들고 있습니다.",
       "학습 도구, 자녀 보호 기능, 전문가 협력을 통해 안전성을 강화합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "translated_title": "Cars24, OpenAI로 대화를 확장하고 더 빠르게 구축하는 방법",
-    "link": "https://openai.com/index/cars24",
-    "date": "2026-07-16",
-    "summary": [
-      "OpenAI 기반 음성 및 채팅 에이전트로 월 100만 분 이상 대화 처리",
-      "잠재 고객 중 12%를 다시 확보",
-      "전사적으로 에이전트 워크플로우 도입"
     ],
     "tags": [
       "AI",
