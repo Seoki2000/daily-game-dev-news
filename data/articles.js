@@ -1,5 +1,35 @@
 const allArticlesData = [
   {
+    "title": "An Alien Mind",
+    "translated_title": "이질적인 정신",
+    "link": "https://openai.com/index/an-alien-mind",
+    "date": "2026-09-06",
+    "summary": [
+      "점점 더 강력해지는 AI에 대한 Jakub Pachocki의 성찰",
+      "AI 정렬의 어려움과 더 강력한 안전장치 및 국제 협력 촉구"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "translated_title": "OpenAI 내부: 연구 가속화의 현황",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "date": "2026-09-06",
+    "summary": [
+      "OpenAI는 코딩 에이전트를 활용해 AI 연구 속도를 높이고 있습니다.",
+      "에이전트 사용, 실험 속도, 작업 복잡성, 연구 가속화에 대한 초기 데이터를 공개합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
     "translated_title": "스타워즈 제로 컴퍼니 개발 비하인드 스토리: 그렉 포어츠치와 함께",
     "link": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
@@ -183,6 +213,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "translated_title": "GPT-6 Astra, 41개 문서 검토 단 몇 분 만에 완료",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "GPT-6 Astra로 41개 문서 검토 시간을 대폭 단축했습니다.",
+      "문서 내 식별된 4가지 오류를 모두 찾아냈습니다.",
+      "금융 검토 워크플로우 성능을 약 40% 향상시켰습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "translated_title": "Playco, GPT-6 Astra로 게임 프로토타이핑 수작업 수정 50% 절감",
     "link": "https://openai.com/index/playco-game-prototyping-with-astra",
@@ -199,20 +245,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "translated_title": "GPT-6 Astra, 41개 문서 검토 단 몇 분 만에 완료",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "date": "2026-09-03",
     "summary": [
-      "GPT-6 Astra로 41개 문서 검토 시간을 대폭 단축했습니다.",
-      "문서 내 식별된 4가지 오류를 모두 찾아냈습니다.",
-      "금융 검토 워크플로우 성능을 약 40% 향상시켰습니다."
+      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
+      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
+      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
     ],
     "tags": [
+      "Research",
       "AI",
       "News"
     ],
-    "source": "OpenAI News"
+    "source": "Google DeepMind News"
   },
   {
     "title": "GPT-6 Astra: A new generation of intelligence",
@@ -245,23 +292,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "date": "2026-09-03",
-    "summary": [
-      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
-      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
-      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "The Immersive Edge: August 2026 industry content wrap-up",
@@ -4545,35 +4575,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "Security incident disclosure — July 2026",
-    "translated_title": "보안 사고 공개 - 2026년 7월",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "date": "2026-07-16",
-    "summary": [
-      "2026년 7월에 발생한 보안 사고에 대한 정보 공개.",
-      "사고의 세부 내용 및 영향에 대한 설명 포함."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "translated_title": "청소년에게 안전한 AI 접근권이 필요한 이유",
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "date": "2026-07-16",
-    "summary": [
-      "OpenAI는 연령에 적합한 보호 기능으로 ChatGPT를 청소년에게 더 안전하게 만들고 있습니다.",
-      "학습 도구, 자녀 보호 기능, 전문가 협력을 통해 안전성을 강화합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   }
 ];
