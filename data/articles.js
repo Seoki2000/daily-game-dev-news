@@ -1,5 +1,20 @@
 const allArticlesData = [
   {
+    "title": "Supporting independent journalism in Ukraine",
+    "translated_title": "우크라이나 독립 언론 지원",
+    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "date": "2026-09-07",
+    "summary": [
+      "OpenAI, AIRPPU, WAN-IFRA가 우크라이나 뉴스 조직을 위한 AI 프로그램 출범.",
+      "이 프로그램은 혁신, 회복력, 독립 언론 강화를 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "An Alien Mind",
     "translated_title": "이질적인 정신",
     "link": "https://openai.com/index/an-alien-mind",
@@ -229,22 +244,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "translated_title": "Playco, GPT-6 Astra로 게임 프로토타이핑 수작업 수정 50% 절감",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "Playco는 GPT-6 Astra를 활용하여 3가지 테마 게임 프로토타입을 제작했습니다.",
-      "이전 모델 대비 수작업 수정 횟수를 50% 줄였습니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
     "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -260,6 +259,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "translated_title": "Playco, GPT-6 Astra로 게임 프로토타이핑 수작업 수정 50% 절감",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-03",
+    "summary": [
+      "Playco는 GPT-6 Astra를 활용하여 3가지 테마 게임 프로토타입을 제작했습니다.",
+      "이전 모델 대비 수작업 수정 횟수를 50% 줄였습니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "GPT-6 Astra: A new generation of intelligence",
@@ -383,22 +398,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Games made with Unity: August 2026 in review",
-    "translated_title": "유니티로 만든 주목할 만한 게임: 2026년 8월",
-    "link": "https://unity.com/blog/games-made-with-unity-august-2026-releases",
-    "date": "2026-09-01",
-    "summary": [
-      "유니티 커뮤니티의 최신 게임 개발 소식 제공",
-      "2026년 8월에 출시되었거나 주목할 만한 유니티 게임 목록 소개"
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
     "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
     "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
@@ -428,6 +427,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Games made with Unity: August 2026 in review",
+    "translated_title": "유니티로 만든 주목할 만한 게임: 2026년 8월",
+    "link": "https://unity.com/blog/games-made-with-unity-august-2026-releases",
+    "date": "2026-09-01",
+    "summary": [
+      "유니티 커뮤니티의 최신 게임 개발 소식 제공",
+      "2026년 8월에 출시되었거나 주목할 만한 유니티 게임 목록 소개"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Report: Savvy Games Group CEO Brian Ward departs company",
@@ -4560,20 +4575,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Our approach to bioresilience",
-    "translated_title": "바이오 회복탄력성에 대한 우리의 접근 방식",
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "date": "2026-07-16",
-    "summary": [
-      "Google DeepMind와 Isomorphic Labs가 공동 접근 방식을 공유합니다.",
-      "AI 모델을 활용한 바이오 회복탄력성 연구를 소개합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   }
 ];
