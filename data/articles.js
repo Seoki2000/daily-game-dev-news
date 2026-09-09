@@ -1,5 +1,187 @@
 const allArticlesData = [
   {
+    "title": "Riot Games is considering making premium titles, says co-founder",
+    "translated_title": "라이엇 게임즈, 유료(프리미엄) 게임 출시 고려 중",
+    "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+    "date": "2026-09-08",
+    "summary": [
+      "라이엇 게임즈 공동 창립자가 유료 타이틀 제작 가능성을 언급했습니다.",
+      "모든 게임이 '무한'이 될 필요는 없다고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
+    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+    "date": "2026-09-08",
+    "summary": [
+      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
+      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience",
+    "translated_title": "팀 셰이퍼: 더블 파인의 독특한 게임도 충분히 상업적 성공을 거둘 수 있다",
+    "link": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
+    "date": "2026-09-08",
+    "summary": [
+      "더블 파인 대표 팀 셰이퍼는 독특한 게임도 잠재적 성공 가능성을 인정했습니다.",
+      "그는 게임이 성공하기 위해선 적합한 유저층을 찾는 것이 중요하다고 강조했습니다.",
+      "더블 파인은 Xbox 산하에서는 수익을 내지 못했다고 언급했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: FuturLab lays off devs without informing team leads or managers",
+    "translated_title": "퓨처랩, 팀장·매니저에게 알리지 않고 개발자 해고 보도",
+    "link": "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-without-informing-team-leads-or-managers",
+    "date": "2026-09-08",
+    "summary": [
+      "퓨처랩이 팀장이나 매니저에게 사전 통보 없이 개발자들을 해고했다는 보도가 나왔습니다.",
+      "해고된 직원들을 '떠나는 사람들(the leavers)'로 지칭하도록 지시하며 진실을 은폐하려 했다는 의혹도 제기되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Don't Nod considering laying off 90 workers in France",
+    "translated_title": "돈 노드, 프랑스에서 90명 감원 고려 중",
+    "link": "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france",
+    "date": "2026-09-08",
+    "summary": [
+      "라이프 이즈 스트레인지 개발사인 돈 노드가 운영 자금 부족으로 2027년 1월 31일 이후 운영이 어려울 수 있다고 경고했습니다.",
+      "프랑스 지점에서 90명의 직원을 해고하는 방안을 검토 중입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "translated_title": "누구를 위한 안전인가? 전체 주제가 아닌, 주제의 일부만 거부하기",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "date": "2026-09-08",
+    "summary": [
+      "안전이라는 개념이 특정 그룹에게만 유리하거나 편향될 수 있음을 지적합니다.",
+      "주제의 전부가 아닌, 일부에 대한 안전 논의를 거부하는 행위의 문제점을 다룹니다.",
+      "전체적인 맥락과 다양한 관점을 고려하지 않은 채 특정 부분만을 차단하는 것에 대한 비판적인 시각을 제시합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "translated_title": "GPT-5.6 Sol, 양자 컴퓨팅 실험 실행을 돕는 방법",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-08",
+    "summary": [
+      "MIT 연구원이 GPT-5.6 Sol와 Codex를 사용하여 양자 컴퓨팅 실험을 자율적으로 실행합니다.",
+      "실험 결과 분석 및 큐비트 보정에도 활용됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "translated_title": "이제 손안에 있는 업무",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "date": "2026-09-08",
+    "summary": [
+      "AI의 발전으로 더 많은 업무 수행이 가능해졌습니다.",
+      "AI의 가격 경쟁력 확보로 비용 효율적인 성장이 가능해집니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "translated_title": "ChatGPT 이미지 2.5 출시",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "date": "2026-09-08",
+    "summary": [
+      "아이디어, 스케치, 참고 사진을 개인화되고 세련된 이미지로 변환합니다.",
+      "사용자의 아이디어를 더 잘 반영하는 이미지를 생성합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "translated_title": "나비에-스토크스 밀레니엄 상 문제에 대한 고찰",
+    "link": "https://openai.com/index/navier-stokes-solution",
+    "date": "2026-09-08",
+    "summary": [
+      "AI가 생성한 나비에-스토크스 방정식의 밀레니엄 상 문제에 대한 해법을 공개합니다.",
+      "해법은 상세한 설명과 Lean 언어로 작성된 공식 증명을 포함합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "translated_title": "AI와 청소년 발달에 대한 신규 연구 지원금 신청 안내",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "date": "2026-09-08",
+    "summary": [
+      "OpenAI에서 청소년 발달, 웰빙, 안전에 대한 생성형 AI 영향 연구를 지원하는 500만 달러 규모의 연구 프로그램 신청을 받습니다.",
+      "독립 연구자라면 지금 바로 지원할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-08",
+    "summary": [
+      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
+      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Supporting independent journalism in Ukraine",
     "translated_title": "우크라이나 독립 언론 지원",
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -77,6 +259,84 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "date": "2026-09-03",
+    "summary": [
+      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
+      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "translated_title": "100 GRPO 스텝으로 350M 모델을 미세 조정하여 더 나은 구조화된 출력 얻기",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "date": "2026-09-03",
+    "summary": [
+      "350M 파라미터 모델을 100 GRPO 스텝으로 미세 조정하는 방법을 설명합니다.",
+      "주요 목표는 모델의 구조화된 출력 성능을 향상시키는 것입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "translated_title": "코딩 에이전트에게 당신만의 메모리를 만들어주세요",
+    "link": "https://huggingface.co/blog/funes",
+    "date": "2026-09-03",
+    "summary": [
+      "코딩 에이전트에 사용자가 제어할 수 있는 메모리 기능을 부여합니다.",
+      "에이전트가 과거 경험을 기억하고 활용하도록 하여 성능을 향상시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "translated_title": "TRL과 OpenEnv를 이용한 코딩 모델의 수채화 학습",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "date": "2026-09-03",
+    "summary": [
+      "TRL과 OpenEnv 라이브러리를 활용하여 코딩 모델을 훈련시켰습니다.",
+      "주요 목표는 모델이 수채화 스타일의 이미지를 생성하도록 하는 것입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-03",
+    "summary": [
+      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
+      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
+      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
     "translated_title": "Claude Fable AI, 헤드라인보다 훨씬 기묘하다",
     "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
@@ -151,67 +411,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "date": "2026-09-03",
-    "summary": [
-      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
-      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "translated_title": "100 GRPO 스텝으로 350M 모델을 미세 조정하여 더 나은 구조화된 출력 얻기",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "date": "2026-09-03",
-    "summary": [
-      "350M 파라미터 모델을 100 GRPO 스텝으로 미세 조정하는 방법을 설명합니다.",
-      "주요 목표는 모델의 구조화된 출력 성능을 향상시키는 것입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Give Your Coding Agents a Memory You Own",
-    "translated_title": "코딩 에이전트에게 당신만의 메모리를 만들어주세요",
-    "link": "https://huggingface.co/blog/funes",
-    "date": "2026-09-03",
-    "summary": [
-      "코딩 에이전트에 사용자가 제어할 수 있는 메모리 기능을 부여합니다.",
-      "에이전트가 과거 경험을 기억하고 활용하도록 하여 성능을 향상시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "translated_title": "TRL과 OpenEnv를 이용한 코딩 모델의 수채화 학습",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "date": "2026-09-03",
-    "summary": [
-      "TRL과 OpenEnv 라이브러리를 활용하여 코딩 모델을 훈련시켰습니다.",
-      "주요 목표는 모델이 수채화 스타일의 이미지를 생성하도록 하는 것입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "translated_title": "전선 수호자들을 위한 새로운 시작: 필수 서비스 보호에 10억 달러 지원",
     "link": "https://openai.com/index/daybreak-for-frontline-defenders",
@@ -242,23 +441,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "date": "2026-09-03",
-    "summary": [
-      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
-      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
-      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
@@ -309,36 +491,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "The Immersive Edge: August 2026 industry content wrap-up",
-    "translated_title": "몰입형 엣지: 2026년 8월 산업 콘텐츠 총정리",
-    "link": "https://unity.com/blog/immersive-edge-august-2026",
-    "date": "2026-09-02",
-    "summary": [
-      "2026년 7-8월 Unity 리소스 31개 요약.",
-      "BMW 그룹의 가상 분해 지원 및 Ditmara 트윈 아키텍처 포함."
-    ],
-    "tags": [
-      "Unity",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "translated_title": "Confluent에서 IBM 시계열 모델을 이용한 실시간 인텔리전스",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "date": "2026-09-02",
-    "summary": [
-      "IBM 시계열 모델을 Confluent와 통합하여 실시간 데이터 분석.",
-      "실시간 데이터를 기반으로 즉각적인 인사이트 확보 및 의사결정 지원."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Proactive cyber defense for governments and enterprises",
     "translated_title": "정부 및 기업을 위한 선제적 사이버 방어",
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -367,6 +519,36 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "The Immersive Edge: August 2026 industry content wrap-up",
+    "translated_title": "몰입형 엣지: 2026년 8월 산업 콘텐츠 총정리",
+    "link": "https://unity.com/blog/immersive-edge-august-2026",
+    "date": "2026-09-02",
+    "summary": [
+      "2026년 7-8월 Unity 리소스 31개 요약.",
+      "BMW 그룹의 가상 분해 지원 및 Ditmara 트윈 아키텍처 포함."
+    ],
+    "tags": [
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "translated_title": "Confluent에서 IBM 시계열 모델을 이용한 실시간 인텔리전스",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "date": "2026-09-02",
+    "summary": [
+      "IBM 시계열 모델을 Confluent와 통합하여 실시간 데이터 분석.",
+      "실시간 데이터를 기반으로 즉각적인 인사이트 확보 및 의사결정 지원."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Nexus Mods is acquiring database and analytics site SteamDB",
@@ -4391,189 +4573,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "translated_title": "장기 실행 모델 시대의 안전 및 정렬",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "date": "2026-07-20",
-    "summary": [
-      "OpenAI는 장기 실행 AI 모델 배포 경험을 공유합니다.",
-      "새로운 안전 위험, 관찰된 실패 사례, 반복적 배포를 통한 안전 장치 개선을 강조합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
-    "translated_title": "넷플릭스, 비평가 혹평 FIFA 월드컵 게임 '최고 수준' 성과 거뒀다고 밝혀",
-    "link": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
-    "date": "2026-07-20",
-    "summary": [
-      "넷플릭스는 비평가들의 혹평에도 불구하고 FIFA 월드컵 비디오 게임이 '최고 수준'의 성과를 거뒀다고 발표했습니다.",
-      "이 축구 시뮬레이션 게임은 6월 11일 출시 이후 '가장 성공적인 클라우드 게임 데뷔' 중 하나를 기록했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
-    "translated_title": "Xbox의 최신 해고로 둠(2016) 남은 개발진의 2/3가 해고됨",
-    "link": "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-development-team-laid-off-during-latest-round-of-xbox-cuts",
-    "date": "2026-07-20",
-    "summary": [
-      "Xbox의 최신 해고에서 둠(2016) 개발팀의 2/3가 감축되었습니다.",
-      "이번 해고는 Xbox의 광범위한 구조조정의 일부입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing Cosmos 3 Edge",
-    "translated_title": "코스모스 3 엣지 소개",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "date": "2026-07-20",
-    "summary": [
-      "코스모스 3 엣지 출시",
-      "주요 기능 및 특징 소개"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.5 Flash Cyber",
-    "translated_title": "Gemini 3.5 Flash Cyber 출시: 경량화된 사이버 보안 모델",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "date": "2026-07-17",
-    "summary": [
-      "Google이 Gemini 3.5 Flash Cyber를 공개했습니다.",
-      "이 모델은 취약점을 찾고 패치하는 데 특화된 경량 사이버 보안 솔루션입니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "translated_title": "AI 시대의 성과 측정 지표",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-17",
-    "summary": [
-      "OpenAI CFO 사라 프라이어가 실용적인 AI 성과 측정 지표를 소개합니다.",
-      "유용한 업무, 성공적인 작업당 비용, 신뢰성, 컴퓨팅 투자 수익률을 측정합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
-    "translated_title": "ZA/UM, '디스코 엘리시움' 개발사, '라스트 카지노' 출시 두 달 만에 최대 32명 감원",
-    "link": "https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-workers-two-months-after-releasing-zero-parades-for-dead-spies",
-    "date": "2026-07-17",
-    "summary": [
-      "ZA/UM 스튜디오가 신작 '라스트 카지노' 출시 두 달 만에 최대 32명의 직원을 해고합니다.",
-      "이번 감원은 회사의 구조 변화를 가져오지만, 예술적 기준과 목적은 유지될 것이라고 밝혔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Todd Howard says 'the timing is right' for a collaboration with Obsidian",
-    "translated_title": "토드 하워드, 옵시디언과의 협업 '지금이 적기'",
-    "link": "https://www.gamedeveloper.com/business/todd-howard-says-the-timing-is-right-for-a-collaboration-with-obsidian",
-    "date": "2026-07-17",
-    "summary": [
-      "폴아웃 신작, 옵시디언 엔터테인먼트와 함께 개발 중.",
-      "폴아웃 프랜차이즈 디렉터 토드 하워드가 공식 발표.",
-      "두 스튜디오 간의 협업 시기가 적절하다고 언급."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Labor unions challenge Xbox, GameStop CEO says physical game sales are 'irrelevant,' and Glen Schofield retires - Patch Notes #61",
-    "translated_title": "노조, Xbox에 도전… 게임스톱 CEO “패키지 게임 판매는 무의미” 발언, 글렌 쇼필드 은퇴 - 패치 노트 #61",
-    "link": "https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamestop-ceo-says-physical-game-sales-are-irrelevant-and-glen-schofield-retires-patch-notes-61",
-    "date": "2026-07-17",
-    "summary": [
-      "Xbox에 대한 노조의 도전이 시작되었습니다.",
-      "게임스톱 CEO가 물리적 게임 판매는 '무의미하다'고 발언했습니다.",
-      "글렌 쇼필드 디렉터가 은퇴했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "translated_title": "NVIDIA NeMo Automodel과 🤗 Diffusers를 사용하여 대규모 비디오 및 이미지 모델 미세 조정하기",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "date": "2026-07-17",
-    "summary": [
-      "NVIDIA NeMo Automodel과 Hugging Face Diffusers를 활용한 대규모 모델 미세 조정 방법을 소개합니다.",
-      "이미지 및 비디오 모델을 효율적으로 튜닝하는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Claude Just Revealed AI's Biggest Problem",
-    "translated_title": "클로드, AI의 가장 큰 문제를 밝히다",
-    "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-    "date": "2026-07-16",
-    "summary": [
-      "AI의 코드 생성 능력이 향상되었으나, \"AI가 무엇을 해야 할지\" 결정하는 데는 여전히 인간의 도움이 필요합니다.",
-      "AI가 복잡한 문제를 해결하기 위해서는 명확한 지침과 의도 파악 능력이 중요합니다.",
-      "현재 AI의 한계는 \"AI가 올바른 방향을 결정하는 능력\"에 있으며, 이는 연구의 핵심 과제입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Newer Models, Same Advantage",
-    "translated_title": "새로운 모델, 변함없는 이점",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "date": "2026-07-16",
-    "summary": [
-      "새로운 모델이 출시되었습니다.",
-      "기존의 이점은 그대로 유지됩니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
