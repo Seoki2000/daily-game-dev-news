@@ -1,5 +1,130 @@
 const allArticlesData = [
   {
+    "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
+    "translated_title": "마크 서니와 제프 키글리, 대학 연계 펠로우십 프로그램 론칭",
+    "link": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
+    "date": "2026-09-09",
+    "summary": [
+      "대학 연계 '노바 게임 재단' 펠로우십 프로그램 출범",
+      "매년 젊은 게임 디자이너 20명에게 억대 지원금 지급"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent",
+    "translated_title": "플래닛 주 개발사 프론티어 디벨롭먼트, 영업 이익 62% 증가",
+    "link": "https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent",
+    "date": "2026-09-09",
+    "summary": [
+      "프론티어 디벨롭먼트, FY2026에 매출 16% 성장 달성",
+      "다수의 '회사 기록' 경신 보고"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Trump Administration takes down Tetris clone after company warns it takes copyright violation 'very seriously'",
+    "translated_title": "트럼프 행정부, 저작권 침해 '매우 심각하게' 경고한 회사 테트리스 유사 게임 차단",
+    "link": "https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-",
+    "date": "2026-09-09",
+    "summary": [
+      "트럼프 행정부가 'Build The Wall'이라는 게임을 차단했습니다.",
+      "이 게임은 테트리스와 유사한 게임으로, 회사는 저작권 침해를 '매우 심각하게' 경고했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Blizzard union workers ratify historic contract covering 1,900 employees",
+    "translated_title": "블리자드 노조, 1,900명 직원 대상 역사적 계약 비준",
+    "link": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+    "date": "2026-09-09",
+    "summary": [
+      "생성형 AI 사용 관련 보호 장치 마련",
+      "정리해고 방지 및 재택/하이브리드 근무 혜택 확보"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "translated_title": "IBM, 상업 친화적 라이선스의 최신 시계열 모델 Granite Time Series PatchTST-FM-r2 출시",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "date": "2026-09-09",
+    "summary": [
+      "IBM이 최신 시계열 예측 모델인 Granite Time Series PatchTST-FM-r2를 공개했습니다.",
+      "이 모델은 최첨단(SOTA) 성능을 자랑하며, 상업적 이용이 가능한 라이선스로 제공됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "translated_title": "AI 정책 결정의 기회가 열렸습니다. 지금 행동해야 합니다.",
+    "link": "https://openai.com/index/ai-policy-window",
+    "date": "2026-09-09",
+    "summary": [
+      "AI 능력 강화에는 더 강력한 안전 증거와 공유 표준이 필요합니다.",
+      "AI 안전을 위한 지속 가능한 정책 조치가 시급합니다.",
+      "현재 AI 정책 결정의 기회가 열려 있는 시점입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "translated_title": "GPT-6 Astra: 업무를 위한 차세대 지능",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "date": "2026-09-09",
+    "summary": [
+      "GPT-6 Astra는 OpenAI의 가장 뛰어난 비즈니스용 모델입니다.",
+      "향상된 추론, 컴퓨터 활용 능력, 강력한 글쓰기 및 디자인 판단력을 갖추고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "translated_title": "폴 크리스티아노, OpenAI 재단 이사회 합류",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "date": "2026-09-09",
+    "summary": [
+      "폴 크리스티아노가 OpenAI 재단 이사회 및 안전보안위원회에 합류했습니다.",
+      "그는 AI 얼라인먼트, 안전, 표준 분야 경험을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Riot Games is considering making premium titles, says co-founder",
     "translated_title": "라이엇 게임즈, 유료(프리미엄) 게임 출시 고려 중",
     "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
@@ -13,6 +138,66 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "translated_title": "누구를 위한 안전인가? 전체 주제가 아닌, 주제의 일부만 거부하기",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "date": "2026-09-08",
+    "summary": [
+      "안전이라는 개념이 특정 그룹에게만 유리하거나 편향될 수 있음을 지적합니다.",
+      "주제의 전부가 아닌, 일부에 대한 안전 논의를 거부하는 행위의 문제점을 다룹니다.",
+      "전체적인 맥락과 다양한 관점을 고려하지 않은 채 특정 부분만을 차단하는 것에 대한 비판적인 시각을 제시합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "translated_title": "GPT-5.6 Sol, 양자 컴퓨팅 실험 실행을 돕는 방법",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-08",
+    "summary": [
+      "MIT 연구원이 GPT-5.6 Sol와 Codex를 사용하여 양자 컴퓨팅 실험을 자율적으로 실행합니다.",
+      "실험 결과 분석 및 큐비트 보정에도 활용됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "translated_title": "이제 손안에 있는 업무",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "date": "2026-09-08",
+    "summary": [
+      "AI의 발전으로 더 많은 업무 수행이 가능해졌습니다.",
+      "AI의 가격 경쟁력 확보로 비용 효율적인 성장이 가능해집니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-08",
+    "summary": [
+      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
+      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
@@ -77,51 +262,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "translated_title": "누구를 위한 안전인가? 전체 주제가 아닌, 주제의 일부만 거부하기",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "date": "2026-09-08",
-    "summary": [
-      "안전이라는 개념이 특정 그룹에게만 유리하거나 편향될 수 있음을 지적합니다.",
-      "주제의 전부가 아닌, 일부에 대한 안전 논의를 거부하는 행위의 문제점을 다룹니다.",
-      "전체적인 맥락과 다양한 관점을 고려하지 않은 채 특정 부분만을 차단하는 것에 대한 비판적인 시각을 제시합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "translated_title": "GPT-5.6 Sol, 양자 컴퓨팅 실험 실행을 돕는 방법",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "date": "2026-09-08",
-    "summary": [
-      "MIT 연구원이 GPT-5.6 Sol와 Codex를 사용하여 양자 컴퓨팅 실험을 자율적으로 실행합니다.",
-      "실험 결과 분석 및 큐비트 보정에도 활용됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "translated_title": "이제 손안에 있는 업무",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "date": "2026-09-08",
-    "summary": [
-      "AI의 발전으로 더 많은 업무 수행이 가능해졌습니다.",
-      "AI의 가격 경쟁력 확보로 비용 효율적인 성장이 가능해집니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Introducing ChatGPT Images 2.5",
     "translated_title": "ChatGPT 이미지 2.5 출시",
     "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
@@ -165,21 +305,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "date": "2026-09-08",
-    "summary": [
-      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
-      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Supporting independent journalism in Ukraine",
@@ -242,6 +367,38 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "date": "2026-09-03",
+    "summary": [
+      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
+      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-03",
+    "summary": [
+      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
+      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
+      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How Project Ember is transforming burn care training through mixed reality",
     "translated_title": "프로젝트 엠버가 혼합 현실로 화상 치료 훈련을 어떻게 혁신하는가",
     "link": "https://unity.com/blog/project-ember-mixed-reality-transforming-burn-care-training",
@@ -257,21 +414,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "date": "2026-09-03",
-    "summary": [
-      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
-      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -318,23 +460,6 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "date": "2026-09-03",
-    "summary": [
-      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
-      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
-      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -4449,129 +4574,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "What developers can learn from this generation of game criticism",
-    "translated_title": "이 시대 게임 비평에서 개발자가 배울 점",
-    "link": "https://www.gamedeveloper.com/design/what-developers-can-learn-from-this-generation-of-games-criticism",
-    "date": "2026-07-21",
-    "summary": [
-      "게임 디자인 분석 영상 에세이가 수백만 뷰를 기록하고 있습니다.",
-      "이러한 형식에서 개발자가 배울 수 있는 점과 활용 방안을 모색합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Splitgate dev 1047 games lays off staff",
-    "translated_title": "스플릿게이트 개발사 1047 게임즈, 직원 해고 보도",
-    "link": "https://www.gamedeveloper.com/business/report-splitgate-dev-1047-games-lays-off-staff",
-    "date": "2026-07-21",
-    "summary": [
-      "스플릿게이트 개발사인 1047 게임즈의 직원 해고 소식이 전해졌습니다.",
-      "이는 타이탄폴 스타일의 슈팅 게임 '엠펄스(Empulse)' 출시 약 한 달 만에 일어난 일입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Nintendo says consumers are not legally entitled to tariff refunds",
-    "translated_title": "닌텐도, 소비자 관세 환급 청구는 법적 권리 아냐",
-    "link": "https://www.gamedeveloper.com/business/nintendo-says-consumers-are-not-legally-entitled-to-tariff-rebate",
-    "date": "2026-07-21",
-    "summary": [
-      "닌텐도 및 판매점은 제품 가격을 책정했습니다.",
-      "소비자는 해당 가격을 지불할 가치가 있는지 스스로 판단했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing the ChatGPT for small business program",
-    "translated_title": "소상공인을 위한 ChatGPT 프로그램 출시",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "date": "2026-07-21",
-    "summary": [
-      "OpenAI, 소상공인 대상 ChatGPT 프로그램 출시",
-      "AI 기술 습득, 업무 자동화, ChatGPT Work를 통한 성장 지원"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "translated_title": "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 대한 초기 조사 결과 공유",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "date": "2026-07-21",
-    "summary": [
-      "OpenAI와 Hugging Face가 AI 모델 평가 과정에서 발생한 보안 사고의 초기 조사 결과를 발표했습니다.",
-      "사고는 고도화된 사이버 공격 능력과 관련이 있으며, 방어자들에게 교훈을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "translated_title": "데이비드 벨레스와 로빈 빈스가 OpenAI 재단 및 OpenAI 그룹 PBC 이사회에 합류",
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "date": "2026-07-21",
-    "summary": [
-      "데이비드 벨레스와 로빈 빈스가 OpenAI 이사회에 합류했습니다.",
-      "이들은 금융, 기술, 거버넌스 분야의 글로벌 리더십을 더할 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
-    "translated_title": "Unity, 빌드를 깨뜨리지 않는 업데이트 경로를 포함한 Unity 7 로드맵 공개",
-    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
-    "date": "2026-07-21",
-    "summary": [
-      "Unity 7은 Unity 6과 동일한 아키텍처 위에서 작동합니다.",
-      "개선 사항과 새로운 개발자 도구를 제공합니다.",
-      "빌드를 깨뜨리지 않는 업데이트 경로를 제공합니다."
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Meet the Unity CLI: manage Unity from your terminal",
-    "translated_title": "Unity CLI 만나보기: 터미널에서 Unity 관리하기",
-    "link": "https://unity.com/blog/meet-the-unity-cli",
-    "date": "2026-07-20",
-    "summary": [
-      "터미널에서 Unity 에디터 설치 및 CI 자동화가 가능합니다.",
-      "스크립트와 AI 에이전트가 Unity를 효율적으로 제어할 수 있습니다.",
-      "실행 중인 에디터나 개발 빌드를 터미널에서 제어할 수 있습니다."
-    ],
-    "tags": [
-      "Unity",
-      "AI"
-    ],
-    "source": "Unity Blog RSS Feed"
   }
 ];
