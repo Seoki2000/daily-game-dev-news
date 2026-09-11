@@ -1,5 +1,178 @@
 const allArticlesData = [
   {
+    "title": "I Never Thought I’d See This Happen",
+    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
+    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+    "date": "2026-09-10",
+    "summary": [
+      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
+      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
+      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
+    "translated_title": "플레이스테이션 프로젝트 포기 후 엑스박스, 코지마 프로덕션의 'Physint' 퍼블리싱 확정",
+    "link": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+    "date": "2026-09-10",
+    "summary": [
+      "엑스박스가 코지마 프로덕션의 신작 'Physint'의 퍼블리싱을 맡게 되었습니다.",
+      "이는 플레이스테이션이 해당 프로젝트를 중단한 이후 결정된 것입니다.",
+      "이번 결정은 최근 대규모 정리해고와 다수의 퍼블리싱 파트너십 취소 등 변화를 겪고 있는 엑스박스에게 중요한 의미를 가집니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
+    "translated_title": "'좋은 게임을 출시하고, 배우고, 다음 단계로 나아가세요': id Software 10년 후 인디 개발에서 얻은 교훈",
+    "link": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
+    "date": "2026-09-10",
+    "summary": [
+      "id Software 출신들이 독립 게임 개발사 Turnkey Games를 설립하여 인디 개발에 뛰어든 경험을 공유합니다.",
+      "좋은 게임을 출시하고, 그 경험으로부터 배우며, 이를 바탕으로 다음 프로젝트를 발전시켜 나가는 것이 중요합니다.",
+      "이들의 인디 개발 여정에 대한 인터뷰 내용을 담고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
+    "translated_title": "'마침내 정의가 손 닿을 듯': 노조 탄압 재판 시작, 글래스고에서 락스타 해고 노동자들 집회",
+    "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
+    "date": "2026-09-10",
+    "summary": [
+      "글래스고에서 락스타 게임즈의 해고된 직원들이 노조 탄압 재판을 앞두고 집회를 열었습니다.",
+      "재판은 2026년 10월 16일에 마무리될 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "translated_title": "AUTOMATIC1111 Gradio 워크플로우 재구축",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "date": "2026-09-10",
+    "summary": [
+      "AUTOMATIC1111을 Gradio 워크플로우를 사용하여 재구축하는 방법을 설명합니다.",
+      "주요 단계와 고려 사항을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "translated_title": "연구자가 코덱스 및 ChatGPT를 활용하여 새로운 항균 분자를 탐색하는 방법",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "date": "2026-09-10",
+    "summary": [
+      "세자르 데 라 푸엔테 연구실은 코덱스와 ChatGPT를 사용하여 살아있는 및 멸종된 유전체에서 항균 후보 물질을 검색합니다.",
+      "이는 약물 내성 감염 퇴치를 위한 연구입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "translated_title": "이제 누구나 데이터를 활용할 수 있습니다",
+    "link": "https://openai.com/index/put-data-to-work",
+    "date": "2026-09-10",
+    "summary": [
+      "ChatGPT Work의 데이터 에이전트 출시",
+      "회사 데이터 연결, AI 기반 인사이트 발굴, 대화형 대시보드 구축",
+      "자연어로 손쉽게 데이터 활용 가능"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "translated_title": "금융 서비스를 위한 ChatGPT 소개",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "date": "2026-09-10",
+    "summary": [
+      "금융 데이터와 GPT-6 Astra를 결합했습니다.",
+      "리서치, 모델링, 고객 자료 제작에 활용 가능합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "translated_title": "연방, 주, 지방 및 부족 정부를 위한 AI 접근성 및 사이버 방어 확대",
+    "link": "https://openai.com/index/expanding-ai-access-us-government",
+    "date": "2026-09-10",
+    "summary": [
+      "OpenAI와 GSA가 정부 기관에 AI 라이선스 무료, 사용료 50% 할인 제공",
+      "확대된 사이버 방어 지원도 함께 제공",
+      "대상: 연방, 주, 지방 및 부족 정부"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the Agents API",
+    "translated_title": "Agents API 소개",
+    "link": "https://openai.com/index/introducing-the-agents-api",
+    "date": "2026-09-10",
+    "summary": [
+      "Agents API를 사용하여 클라우드 에이전트를 구축하고 출시할 수 있습니다.",
+      "Codex 기반의 관리형 서비스로, 오케스트레이션, 장기 실행 세션, 도구 사용을 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Official Unity Plugin for Claude Code",
+    "translated_title": "Claude Code용 공식 Unity 플러그인",
+    "link": "https://unity.com/blog/unity-plugin-for-claude-code",
+    "date": "2026-09-09",
+    "summary": [
+      "Unity-에서 작성한 스킬, Unity CLI, 실시간 에디터 제어를 Unity MCP 서버를 통해 한 번의 명령으로 설치합니다.",
+      "Unity의 공식 Claude Code 플러그인입니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
     "translated_title": "마크 서니와 제프 키글리, 대학 연계 펠로우십 프로그램 론칭",
     "link": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
@@ -13,6 +186,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "translated_title": "IBM, 상업 친화적 라이선스의 최신 시계열 모델 Granite Time Series PatchTST-FM-r2 출시",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "date": "2026-09-09",
+    "summary": [
+      "IBM이 최신 시계열 예측 모델인 Granite Time Series PatchTST-FM-r2를 공개했습니다.",
+      "이 모델은 최첨단(SOTA) 성능을 자랑하며, 상업적 이용이 가능한 라이선스로 제공됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent",
@@ -58,22 +247,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "translated_title": "IBM, 상업 친화적 라이선스의 최신 시계열 모델 Granite Time Series PatchTST-FM-r2 출시",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "date": "2026-09-09",
-    "summary": [
-      "IBM이 최신 시계열 예측 모델인 Granite Time Series PatchTST-FM-r2를 공개했습니다.",
-      "이 모델은 최첨단(SOTA) 성능을 자랑하며, 상업적 이용이 가능한 라이선스로 제공됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "The AI policy window is open. We need to act.",
@@ -125,16 +298,48 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Riot Games is considering making premium titles, says co-founder",
-    "translated_title": "라이엇 게임즈, 유료(프리미엄) 게임 출시 고려 중",
-    "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+    "title": "DrakkenRidge: Building an open-world adventure for mobile VR",
+    "translated_title": "드라켄릿지: 모바일 VR을 위한 오픈 월드 어드벤처 제작기",
+    "link": "https://unity.com/blog/drakkenridge-building-open-world-mobile-vr-rpg-unity-ecs",
     "date": "2026-09-08",
     "summary": [
-      "라이엇 게임즈 공동 창립자가 유료 타이틀 제작 가능성을 언급했습니다.",
-      "모든 게임이 '무한'이 될 필요는 없다고 밝혔습니다."
+      "Garage Collective는 Unity ECS를 사용하여 모바일 VR에 최적화된 오픈 월드 액션 RPG '드라켄릿지'를 개발했습니다.",
+      "ECS를 통해 대규모 오픈 월드 게임 개발의 효율성을 높였습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "GPT-6 Astra Changes Everything",
+    "translated_title": "GPT-6 Astra, 모든 것을 바꾼다",
+    "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+    "date": "2026-09-08",
+    "summary": [
+      "GPT-6 Astra는 획기적인 변화를 예고하는 인공지능 모델입니다.",
+      "다양한 연구 및 관련 링크들이 공유되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
+    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+    "date": "2026-09-08",
+    "summary": [
+      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
+      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
     ],
     "tags": [
       "News",
+      "AI",
       "GameDev"
     ],
     "source": "gamedeveloper"
@@ -154,6 +359,36 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-08",
+    "summary": [
+      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
+      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Riot Games is considering making premium titles, says co-founder",
+    "translated_title": "라이엇 게임즈, 유료(프리미엄) 게임 출시 고려 중",
+    "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+    "date": "2026-09-08",
+    "summary": [
+      "라이엇 게임즈 공동 창립자가 유료 타이틀 제작 가능성을 언급했습니다.",
+      "모든 게임이 '무한'이 될 필요는 없다고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -183,37 +418,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "date": "2026-09-08",
-    "summary": [
-      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
-      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
-    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
-    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-    "date": "2026-09-08",
-    "summary": [
-      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
-      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience",
@@ -4375,204 +4579,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "translated_title": "OpenAI Presence 소개",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "date": "2026-07-22",
-    "summary": [
-      "OpenAI Presence는 엔터프라이즈 AI 에이전트 플랫폼입니다.",
-      "고객 및 내부 워크플로우를 위한 음성 및 채팅 에이전트 배포를 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Microsoft launches Xbox backward compatibility for PC",
-    "translated_title": "마이크로소프트, PC용 엑스박스 호환성 기능 출시",
-    "link": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
-    "date": "2026-07-22",
-    "summary": [
-      "마이크로소프트가 PC에서 엑스박스 호환성 기능을 출시합니다.",
-      "이는 어려운 소식이 이어진 한 달 만에 발표되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
-    "translated_title": "2013년 출시된 Kinect 게임, 2026년에 부활하다",
-    "link": "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013-has-been-revived-in-the-year-of-our-lord-2026",
-    "date": "2026-07-22",
-    "summary": [
-      "13년 만에 'Freefall Racers'가 다시 출시됩니다.",
-      "Nex Playground를 통해 플레이할 수 있게 됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Splatoon Raiders started off as a tower defense game",
-    "translated_title": "스플래툰 레이더스, 원래는 타워 디펜스 게임으로 시작했다",
-    "link": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
-    "date": "2026-07-22",
-    "summary": [
-      "개발 초기 스플래툰 레이더스는 타워 디펜스 장르를 고려했습니다.",
-      "디렉터는 새로운 아이디어를 프로토타이핑할 때 시리즈 핵심 강점을 유지하는 것이 중요하다고 언급했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Human Fall Flat 2 is cancelled. We are making Human Fall Flat 3:' No Brakes Games founder looks back on a defining decade",
-    "translated_title": "'Human Fall Flat 2' 취소, 'Human Fall Flat 3' 개발: No Brakes Games 대표 10년 회고",
-    "link": "https://www.gamedeveloper.com/production/-human-fall-flat-2-is-cancelled-we-are-making-human-fall-flat-3-no-brakes-games-founder-looks-back-on-a-defining-decade",
-    "date": "2026-07-22",
-    "summary": [
-      "No Brakes Games의 대표가 'Human Fall Flat 2' 취소와 'Human Fall Flat 3' 개발을 발표했습니다.",
-      "이 회사는 10년 동안 'Human Fall Flat'을 6천만 명 이상이 즐기는 글로벌 프랜차이즈로 성장시켰습니다.",
-      "대표는 그동안의 경험과 교훈을 공유했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Hasbro records $56M write down after scrapping 'several' video games",
-    "translated_title": "하스브로, '여러' 비디오 게임 프로젝트 취소 후 5,600만 달러 손실 기록",
-    "link": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
-    "date": "2026-07-22",
-    "summary": [
-      "하스브로가 여러 비디오 게임 프로젝트를 취소했습니다.",
-      "이로 인해 5,600만 달러의 손실이 발생했습니다.",
-      "회사는 '프랜차이즈 잠재력과 초기 게임을 넘어선 의미 있는 기회'가 있는 프로젝트에 집중할 계획입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "translated_title": "NTT 데이터 그룹, Codex로 사고 분석 시간 30분 단축",
-    "link": "https://openai.com/index/ntt-data",
-    "date": "2026-07-22",
-    "summary": [
-      "NTT 데이터 그룹은 ChatGPT Enterprise와 Codex를 활용하여 9,000명의 직원이 업무를 자동화하도록 지원합니다.",
-      "이 기술 도입으로 사고 분석 시간을 30분으로 단축했습니다.",
-      "안전한 AI 도입 확대를 목표로 하고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "translated_title": "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 모델 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "date": "2026-07-21",
-    "summary": [
-      "새로운 Gemini 모델 출시",
-      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 포함",
-      "토큰/시간 절약을 위한 모델 길이 제한"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "translated_title": "물리 AI 시뮬레이션의 현황: 개요",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "date": "2026-07-21",
-    "summary": [
-      "물리 AI 시뮬레이션의 현재 발전 단계를 조망합니다.",
-      "AI가 물리적 환경에서 어떻게 학습하고 작동하는지에 대한 개요를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "translated_title": "Grabette: 로봇 조작 데이터 기록을 위한 오픈 시스템",
-    "link": "https://huggingface.co/blog/grabette",
-    "date": "2026-07-21",
-    "summary": [
-      "Grabette는 로봇 조작 데이터를 기록하기 위한 오픈 시스템입니다.",
-      "이 시스템은 연구 및 개발에 유용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "translated_title": "새로운 Gemini 모델: 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 출시",
-    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-    "date": "2026-07-21",
-    "summary": [
-      "Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 등 새로운 Gemini 모델을 출시합니다.",
-      "토큰/시간 절약을 위해 길이를 제한합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Former Wreckreation team starts up new studio working on sequel",
-    "translated_title": "전 Wreckreation 팀, 신규 스튜디오 설립 후 속편 개발 중",
-    "link": "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up-new-studio-working-on-sequel",
-    "date": "2026-07-21",
-    "summary": [
-      "전 Wreckreation 팀이 새로운 스튜디오를 설립했습니다.",
-      "이들은 현재 개발 중인 게임의 속편에 집중하고 있습니다.",
-      "개발자는 플레이어의 피드백을 통해 게임을 개선한다고 믿습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pentiment director emphasizes the importance of RPG players not controlling everything",
-    "translated_title": "펜티먼트 디렉터, RPG 플레이어의 '모든 것을 통제하려는' 욕구에 제동을 걸어야 한다 강조",
-    "link": "https://www.gamedeveloper.com/design/pentiment-director-emphasizes-the-importance-of-rpg-players-not-controlling-everything",
-    "date": "2026-07-21",
-    "summary": [
-      "RPG에서 플레이어가 주인공으로서 모든 것을 할 수 있다는 생각에 반대합니다.",
-      "주인공이라도 할 수 있는 일에는 한계가 있어야 한다고 주장합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
