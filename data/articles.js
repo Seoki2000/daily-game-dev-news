@@ -1,5 +1,81 @@
 const allArticlesData = [
   {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "translated_title": "Perplexity, GPT-6 Astra로 엔드투엔드 시스템을 운영하다",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14",
+    "summary": [
+      "Perplexity는 GPT-6 Astra 모델을 활용하여 커뮤니케이션 작성, 소프트웨어 변경, 생산 시스템 모니터링을 수행합니다.",
+      "이전 모델에 비해 시스템 점검 빈도가 현저히 줄었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
+    "translated_title": "솔직한 의견인가, 명예훼손인가? 변호사가 법적 뉘앙스를 설명합니다",
+    "link": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
+    "date": "2026-09-11",
+    "summary": [
+      "Rockstar는 전 직원을 명예훼손으로 고소했습니다.",
+      "Discord에서의 발언이 법적 명예훼손에 해당하는지 논의합니다.",
+      "변호사가 이 법적 용어의 미묘한 차이를 설명합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rockstar and fired GTA developers outline core arguments during union busting tribunal",
+    "translated_title": "락스타와 해고된 GTA 개발자, 노조 탄압 재판에서 핵심 주장 공개",
+    "link": "https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal",
+    "date": "2026-09-11",
+    "summary": [
+      "락스타 게임즈와 해고된 GTA 개발자들이 노조 탄압 재판에서 각자의 입장을 법적 서류를 통해 공개했습니다.",
+      "게임 개발 전문 매체가 이 법적 문서들을 입수하여 내용을 보도했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "translated_title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 급격한 확장",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "date": "2026-09-11",
+    "summary": [
+      "OpenAI는 Habitat를 Python 라이브러리에서 전역적으로 분산된 스토리지 플랫폼으로 발전시켰습니다.",
+      "이 플랫폼은 10억 명의 ChatGPT 사용자와 초당 2,200만 건의 요청을 처리합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "translated_title": "코그니션, GPT-6 아스트라로 Devin 자체 테스트 지원",
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "date": "2026-09-11",
+    "summary": [
+      "GPT-6 아스트라가 Devin의 소프트웨어 테스트 능력을 향상시킵니다.",
+      "이 기술은 엔지니어가 코드 검토 시간을 줄이고 더 많은 제품을 출시하도록 돕는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "I Never Thought I’d See This Happen",
     "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
     "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
@@ -41,21 +117,6 @@ const allArticlesData = [
       "id Software 출신들이 독립 게임 개발사 Turnkey Games를 설립하여 인디 개발에 뛰어든 경험을 공유합니다.",
       "좋은 게임을 출시하고, 그 경험으로부터 배우며, 이를 바탕으로 다음 프로젝트를 발전시켜 나가는 것이 중요합니다.",
       "이들의 인디 개발 여정에 대한 인터뷰 내용을 담고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
-    "translated_title": "'마침내 정의가 손 닿을 듯': 노조 탄압 재판 시작, 글래스고에서 락스타 해고 노동자들 집회",
-    "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-    "date": "2026-09-10",
-    "summary": [
-      "글래스고에서 락스타 게임즈의 해고된 직원들이 노조 탄압 재판을 앞두고 집회를 열었습니다.",
-      "재판은 2026년 10월 16일에 마무리될 예정입니다."
     ],
     "tags": [
       "GameDev",
@@ -108,6 +169,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
+    "translated_title": "'마침내 정의가 손 닿을 듯': 노조 탄압 재판 시작, 글래스고에서 락스타 해고 노동자들 집회",
+    "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
+    "date": "2026-09-10",
+    "summary": [
+      "글래스고에서 락스타 게임즈의 해고된 직원들이 노조 탄압 재판을 앞두고 집회를 열었습니다.",
+      "재판은 2026년 10월 16일에 마무리될 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Introducing ChatGPT for Financial Services",
@@ -173,21 +249,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
-    "translated_title": "마크 서니와 제프 키글리, 대학 연계 펠로우십 프로그램 론칭",
-    "link": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
-    "date": "2026-09-09",
-    "summary": [
-      "대학 연계 '노바 게임 재단' 펠로우십 프로그램 출범",
-      "매년 젊은 게임 디자이너 20명에게 억대 지원금 지급"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
     "translated_title": "IBM, 상업 친화적 라이선스의 최신 시계열 모델 Granite Time Series PatchTST-FM-r2 출시",
     "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
@@ -202,6 +263,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
+    "translated_title": "마크 서니와 제프 키글리, 대학 연계 펠로우십 프로그램 론칭",
+    "link": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
+    "date": "2026-09-09",
+    "summary": [
+      "대학 연계 '노바 게임 재단' 펠로우십 프로그램 출범",
+      "매년 젊은 게임 디자이너 20명에게 억대 지원금 지급"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent",
@@ -4502,82 +4578,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Bethesda union slams Xbox for offering the 'bare legal minimum in terms of severance'",
-    "translated_title": "베데스다 노조, 엑스박스의 '최소 법적 수준의 퇴직금' 제안 비난",
-    "link": "https://www.gamedeveloper.com/production/canadian-union-workers-slam-xbox-for-offering-the-bare-legal-minimum-in-terms-of-severance-",
-    "date": "2026-07-23",
-    "summary": [
-      "베데스다 노조가 엑스박스의 퇴직금 수준이 법적 최소한에 불과하다고 비난했습니다.",
-      "베데스다 몬트리올 직원들은 마이크로소프트가 건강 보험 등 그룹 혜택을 즉시 중단했다고 주장했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "translated_title": "이핑엄 카운티 지역사회와 함께하는 AI 인프라 구축",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "date": "2026-07-22",
-    "summary": [
-      "OpenAI, 조지아주 이핑엄 카운티에 '프로젝트 카멜리아' 발표",
-      "책임감 있는 에너지, 지역사회 투자, 일자리 창출, Codex 접근성 약속"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "translated_title": "뉴스 조직, AI로 핵심 사명 강화하는 방법",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "date": "2026-07-22",
-    "summary": [
-      "AI를 활용해 보도 강화, 독자층 확대, 사업 운영 개선",
-      "OpenAI 도구가 전 세계 기자 및 발행인 지원"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "translated_title": "과학적 발견의 최전선 가속화: 구글, 제네시스 미션에 4천만 달러 지원 약속",
-    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "date": "2026-07-22",
-    "summary": [
-      "구글은 제네시스 미션에 AI 토큰 및 크레딧 형태로 4천만 달러를 지원합니다.",
-      "이번 투자는 과학적 발견의 속도를 높이는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Advancing the next era of national science",
-    "translated_title": "국가 과학의 차세대 발전을 선도하다",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "date": "2026-07-22",
-    "summary": [
-      "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 최첨단 AI를 활용한 과학적 발견 가속화를 약속합니다.",
-      "이는 미국 과학 발전의 새로운 시대를 열기 위한 노력의 일환입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
