@@ -76,23 +76,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "I Never Thought I’d See This Happen",
-    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
-    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-    "date": "2026-09-10",
-    "summary": [
-      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
-      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
-      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
     "translated_title": "플레이스테이션 프로젝트 포기 후 엑스박스, 코지마 프로덕션의 'Physint' 퍼블리싱 확정",
     "link": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
@@ -169,6 +152,23 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "I Never Thought I’d See This Happen",
+    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
+    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+    "date": "2026-09-10",
+    "summary": [
+      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
+      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
+      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
@@ -389,22 +389,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "GPT-6 Astra Changes Everything",
-    "translated_title": "GPT-6 Astra, 모든 것을 바꾼다",
-    "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-    "date": "2026-09-08",
-    "summary": [
-      "GPT-6 Astra는 획기적인 변화를 예고하는 인공지능 모델입니다.",
-      "다양한 연구 및 관련 링크들이 공유되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
     "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
     "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
@@ -450,6 +434,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "GPT-6 Astra Changes Everything",
+    "translated_title": "GPT-6 Astra, 모든 것을 바꾼다",
+    "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+    "date": "2026-09-08",
+    "summary": [
+      "GPT-6 Astra는 획기적인 변화를 예고하는 인공지능 모델입니다.",
+      "다양한 연구 및 관련 링크들이 공유되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Riot Games is considering making premium titles, says co-founder",
