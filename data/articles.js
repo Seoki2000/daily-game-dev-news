@@ -1,5 +1,66 @@
 const allArticlesData = [
   {
+    "title": "Valve's Steam Frame pricing starts at $1,059",
+    "translated_title": "밸브 스팀 프레임, 1,059달러부터 시작",
+    "link": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
+    "date": "2026-09-14",
+    "summary": [
+      "밸브의 신규 VR 헤드셋, 스팀 프레임 가격 공개",
+      "시작 가격은 1,059달러",
+      "VR 개발자 대상 개발 키트도 함께 출시"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Moss developer Polyarc has shut down",
+    "translated_title": "Moss 개발사 Polyarc, 운영 중단",
+    "link": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+    "date": "2026-09-14",
+    "summary": [
+      "VR 게임 Moss를 개발한 Polyarc가 문을 닫았습니다.",
+      "이 회사는 10년 이상 운영되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Worker-run studio KO_OP confirms layoffs",
+    "translated_title": "노동자 운영 스튜디오 KO_OP, 해고 사실 확인",
+    "link": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+    "date": "2026-09-14",
+    "summary": [
+      "\"Goodbye Volcano High\" 및 \"Young Suns\" 개발사 KO_OP에서 13명의 직원을 해고했습니다.",
+      "이번 해고는 노동자 운영 스튜디오인 KO_OP에서 발생했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "translated_title": "Fyxer, 신뢰받는 AI 임원 비서 구축 방법",
+    "link": "https://openai.com/index/fyxer",
+    "date": "2026-09-14",
+    "summary": [
+      "Fyxer는 OpenAI 모델, 파인튜닝, 메모리, 사용자 피드백을 활용합니다.",
+      "사용자의 고유한 말투로 받은 편지함 정리 및 이메일 초안 작성 기능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "translated_title": "Perplexity, GPT-6 Astra로 엔드투엔드 시스템을 운영하다",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -76,36 +137,19 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
-    "translated_title": "플레이스테이션 프로젝트 포기 후 엑스박스, 코지마 프로덕션의 'Physint' 퍼블리싱 확정",
-    "link": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "translated_title": "HF 잡에서 LoRA와 비동기 GRPO: 버킷, 프록시, 그리고 NCCL 없음",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "date": "2026-09-10",
     "summary": [
-      "엑스박스가 코지마 프로덕션의 신작 'Physint'의 퍼블리싱을 맡게 되었습니다.",
-      "이는 플레이스테이션이 해당 프로젝트를 중단한 이후 결정된 것입니다.",
-      "이번 결정은 최근 대규모 정리해고와 다수의 퍼블리싱 파트너십 취소 등 변화를 겪고 있는 엑스박스에게 중요한 의미를 가집니다."
+      "LoRA를 활용하여 Hugging Face 잡에서 GRPO를 비동기적으로 처리하는 방법을 설명합니다.",
+      "이를 위해 버킷과 프록시를 사용하며, NCCL(Nvidia Collective Communications Library)은 사용하지 않습니다."
     ],
     "tags": [
-      "GameDev",
-      "News"
+      "AI",
+      "Research"
     ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
-    "translated_title": "'좋은 게임을 출시하고, 배우고, 다음 단계로 나아가세요': id Software 10년 후 인디 개발에서 얻은 교훈",
-    "link": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
-    "date": "2026-09-10",
-    "summary": [
-      "id Software 출신들이 독립 게임 개발사 Turnkey Games를 설립하여 인디 개발에 뛰어든 경험을 공유합니다.",
-      "좋은 게임을 출시하고, 그 경험으로부터 배우며, 이를 바탕으로 다음 프로젝트를 발전시켜 나가는 것이 중요합니다.",
-      "이들의 인디 개발 여정에 대한 인터뷰 내용을 담고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -136,6 +180,38 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
+    "translated_title": "플레이스테이션 프로젝트 포기 후 엑스박스, 코지마 프로덕션의 'Physint' 퍼블리싱 확정",
+    "link": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+    "date": "2026-09-10",
+    "summary": [
+      "엑스박스가 코지마 프로덕션의 신작 'Physint'의 퍼블리싱을 맡게 되었습니다.",
+      "이는 플레이스테이션이 해당 프로젝트를 중단한 이후 결정된 것입니다.",
+      "이번 결정은 최근 대규모 정리해고와 다수의 퍼블리싱 파트너십 취소 등 변화를 겪고 있는 엑스박스에게 중요한 의미를 가집니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
+    "translated_title": "'좋은 게임을 출시하고, 배우고, 다음 단계로 나아가세요': id Software 10년 후 인디 개발에서 얻은 교훈",
+    "link": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
+    "date": "2026-09-10",
+    "summary": [
+      "id Software 출신들이 독립 게임 개발사 Turnkey Games를 설립하여 인디 개발에 뛰어든 경험을 공유합니다.",
+      "좋은 게임을 출시하고, 그 경험으로부터 배우며, 이를 바탕으로 다음 프로젝트를 발전시켜 나가는 것이 중요합니다.",
+      "이들의 인디 개발 여정에 대한 인터뷰 내용을 담고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Now everyone can put data to work",
@@ -235,16 +311,16 @@ const allArticlesData = [
   {
     "title": "Official Unity Plugin for Claude Code",
     "translated_title": "Claude Code용 공식 Unity 플러그인",
-    "link": "https://unity.com/blog/unity-plugin-for-claude-code",
+    "link": "https://unity.com/blog/unity-plugin-for-codex",
     "date": "2026-09-09",
     "summary": [
-      "Unity-에서 작성한 스킬, Unity CLI, 실시간 에디터 제어를 Unity MCP 서버를 통해 한 번의 명령으로 설치합니다.",
-      "Unity의 공식 Claude Code 플러그인입니다."
+      "Claude Code용 공식 Unity 플러그인은 Unity에서 작성된 스킬, Unity CLI, MCP 서버를 통한 실시간 에디터 제어를 한 번의 명령으로 설치합니다.",
+      "Unity CLI 및 MCP 서버를 통한 실시간 에디터 제어를 지원합니다."
     ],
     "tags": [
       "AI",
-      "Unity",
-      "GameDev"
+      "GameDev",
+      "Unity"
     ],
     "source": "Unity Blog RSS Feed"
   },
@@ -263,6 +339,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Official Unity Plugin for Claude Code",
+    "translated_title": "Claude Code용 공식 Unity 플러그인",
+    "link": "https://unity.com/blog/unity-plugin-for-claude-code",
+    "date": "2026-09-09",
+    "summary": [
+      "Unity-에서 작성한 스킬, Unity CLI, 실시간 에디터 제어를 Unity MCP 서버를 통해 한 번의 명령으로 설치합니다.",
+      "Unity의 공식 Claude Code 플러그인입니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
@@ -374,37 +466,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "DrakkenRidge: Building an open-world adventure for mobile VR",
-    "translated_title": "드라켄릿지: 모바일 VR을 위한 오픈 월드 어드벤처 제작기",
-    "link": "https://unity.com/blog/drakkenridge-building-open-world-mobile-vr-rpg-unity-ecs",
-    "date": "2026-09-08",
-    "summary": [
-      "Garage Collective는 Unity ECS를 사용하여 모바일 VR에 최적화된 오픈 월드 액션 RPG '드라켄릿지'를 개발했습니다.",
-      "ECS를 통해 대규모 오픈 월드 게임 개발의 효율성을 높였습니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
-    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
-    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-    "date": "2026-09-08",
-    "summary": [
-      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
-      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
     "translated_title": "누구를 위한 안전인가? 전체 주제가 아닌, 주제의 일부만 거부하기",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -434,6 +495,37 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "DrakkenRidge: Building an open-world adventure for mobile VR",
+    "translated_title": "드라켄릿지: 모바일 VR을 위한 오픈 월드 어드벤처 제작기",
+    "link": "https://unity.com/blog/drakkenridge-building-open-world-mobile-vr-rpg-unity-ecs",
+    "date": "2026-09-08",
+    "summary": [
+      "Garage Collective는 Unity ECS를 사용하여 모바일 VR에 최적화된 오픈 월드 액션 RPG '드라켄릿지'를 개발했습니다.",
+      "ECS를 통해 대규모 오픈 월드 게임 개발의 효율성을 높였습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
+    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+    "date": "2026-09-08",
+    "summary": [
+      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
+      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "GPT-6 Astra Changes Everything",
@@ -4484,97 +4576,6 @@ const allArticlesData = [
     ],
     "tags": [
       "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saudi-led EA buyout receives EU approval, Xbox trials ad-supported game streaming, and Poinpy is eternal - Patch Notes #62",
-    "translated_title": "사우디 주도 EA 인수 EU 승인, Xbox 광고 지원 게임 스트리밍 테스트, Poinpy 영원하라 - 패치 노트 #62",
-    "link": "https://www.gamedeveloper.com/business/saudi-led-ea-buyout-receives-eu-approval-xbox-trials-ad-supported-game-streaming-and-poinpy-is-eternal-patch-notes-62",
-    "date": "2026-07-24",
-    "summary": [
-      "사우디 주도의 EA 인수 건이 EU 승인을 받았습니다.",
-      "Xbox가 광고 지원 게임 스트리밍 테스트를 진행합니다.",
-      "베데스다 노조원들이 Xbox에 반발하고 미공개 포켓몬 디자인도 공개됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "translated_title": "Diffusers 라이브러리로 Nunchaku 4비트 확산 모델 추론하기",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "date": "2026-07-23",
-    "summary": [
-      "Diffusers 라이브러리에 Nunchaku 4비트 확산 모델 추론 기능이 추가되었습니다.",
-      "이를 통해 더욱 효율적이고 빠른 확산 모델 추론이 가능해집니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Launching Health in ChatGPT",
-    "translated_title": "ChatGPT, 건강 정보 연동 기능 출시",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "date": "2026-07-23",
-    "summary": [
-      "미국 eligible 사용자는 의료 기록과 Apple Health를 ChatGPT에 안전하게 연결할 수 있습니다.",
-      "개인 맞춤형 건강 인사이트를 얻고 건강 상태를 더 잘 이해할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Steam adds wishlist categories and cross-region gifting",
-    "translated_title": "Steam, 위시리스트 카테고리 및 지역 간 선물 기능 추가",
-    "link": "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross-region-gifting",
-    "date": "2026-07-23",
-    "summary": [
-      "Steam이 위시리스트 관리 기능을 개선했습니다.",
-      "이제 위시리스트를 카테고리별로 분류할 수 있습니다.",
-      "지역 제한 없이 게임 선물이 가능해졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Vermila Studios lays off its staff, studio closure a 'feasible possibility' in coming months",
-    "translated_title": "베르밀라 스튜디오, 직원 해고 및 향후 몇 달 내 스튜디오 폐쇄 가능성 시사",
-    "link": "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-studio-closure-a-feasible-possibility-in-coming-months",
-    "date": "2026-07-23",
-    "summary": [
-      "베르밀라 스튜디오가 직원을 해고했습니다.",
-      "CEO는 현재 상황에서 폐쇄 없이 운영을 이어가기 위해 노력할 것이라고 밝혔습니다.",
-      "향후 몇 달 내 스튜디오 폐쇄 가능성이 제기되고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saudi Arabia's divisive EA buyout approved under EU merger rules",
-    "translated_title": "사우디아라비아의 EA 인수, EU 경쟁 규정 하에 승인",
-    "link": "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyout-approved-under-eu-merger-rules",
-    "date": "2026-07-23",
-    "summary": [
-      "EU 집행위원회는 사우디아라비아의 EA 인수 거래에 경쟁 우려가 없다고 결론 내렸습니다.",
-      "이는 EU의 인수 합병 규칙에 따라 승인되었습니다."
-    ],
-    "tags": [
       "News"
     ],
     "source": "gamedeveloper"
