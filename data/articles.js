@@ -1,5 +1,173 @@
 const allArticlesData = [
   {
+    "title": "CICD Made Easier with Unity CLI",
+    "translated_title": "Unity CLI로 CICD를 더욱 쉽게",
+    "link": "https://unity.com/blog/cicd-made-easier-with-unity-cli",
+    "date": "2026-09-30",
+    "summary": [
+      "Unity CLI를 사용하여 복잡한 커스텀 스크립트를 대체하고 CI/CD를 간소화합니다.",
+      "Unity 설치 관리, 테스트 실행, 빌드 실행 등을 단일 명령줄 인터페이스로 처리합니다.",
+      "어떤 CI 제공업체에서도 쉽게 적용 가능합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+    "translated_title": "Claude가 텍스트에 보이지 않는 지문 남기기 시작",
+    "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+    "date": "2026-09-15",
+    "summary": [
+      "AI 모델 Claude가 생성한 텍스트에 보이지 않는 워터마크를 삽입하는 기술을 개발했습니다.",
+      "이 워터마크는 텍스트의 의미나 가독성에 영향을 주지 않으면서 AI가 생성한 것인지 식별하는 데 사용됩니다.",
+      "이는 AI 생성 콘텐츠의 투명성을 높이고 잠재적인 오용을 방지하는 데 기여할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Roblox will allow devs to release games as standalone apps on other stores",
+    "translated_title": "로블록스, 개발자 게임을 타사 스토어 독립 앱으로 출시 허용",
+    "link": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+    "date": "2026-09-15",
+    "summary": [
+      "로블록스, 개발자들이 타사 플랫폼에 게임 출시 가능하게 함",
+      "게임은 로블록스 앱의 동일한 수익 분배 모델 적용"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Bungie is overhauling Marathon from its original extraction shooter vision",
+    "translated_title": "번지, '마라톤'의 초기 추출 슈터 비전 전면 개편",
+    "link": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+    "date": "2026-09-15",
+    "summary": [
+      "번지가 '마라톤'의 개발 방향을 기존 추출 슈터에서 변경합니다.",
+      "플레이어 피드백을 반영하여 게임의 내용과 제공 방식을 모두 수정할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+    "translated_title": "워독스 리더, 소셜 미디어에서 크런치 비판하는 인재 채용 않겠다 밝혀",
+    "link": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+    "date": "2026-09-15",
+    "summary": [
+      "워독스 스튜디오는 작업물에 대한 애착이 있다면 가치 있다고 느낄 것이라고 언급했습니다.",
+      "만약 그렇지 않다면, 노예처럼 부려진다는 느낌을 받을 것이라고 덧붙였습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Why does this prominent Washington state politician think video games can be 'soft power?'",
+    "translated_title": "워싱턴주 유력 정치인이 비디오 게임을 '소프트 파워'라고 생각하는 이유는?",
+    "link": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+    "date": "2026-09-15",
+    "summary": [
+      "워싱턴주 국무장관 스티브 홉스가 비디오 게임을 '소프트 파워'로 규정.",
+      "SLICHE 및 PAX West 2026 행사에서 개발자들에게 이 개념을 제시."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
+    "translated_title": "Bohemia Interactive, Everwind 개발사 Enjoy Studio 지분 인수",
+    "link": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+    "date": "2026-09-15",
+    "summary": [
+      "Bohemia Interactive가 Enjoy Studio의 소수 지분을 인수했습니다.",
+      "양사는 협력을 통해 최고의 게임을 만들고자 합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "date": "2026-09-15",
+    "summary": [
+      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
+      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "date": "2026-09-15",
+    "summary": [
+      "Gemini 3.8 Live 출시.",
+      "3.8 Live Extended Thinking 기능 추가.",
+      "향상된 Gemini 모델 기능 발표."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "translated_title": "Fyxer, 신뢰받는 AI 임원 비서 구축 방법",
+    "link": "https://openai.com/index/fyxer",
+    "date": "2026-09-14",
+    "summary": [
+      "Fyxer는 OpenAI 모델, 파인튜닝, 메모리, 사용자 피드백을 활용합니다.",
+      "사용자의 고유한 말투로 받은 편지함 정리 및 이메일 초안 작성 기능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "translated_title": "Perplexity, GPT-6 Astra로 엔드투엔드 시스템을 운영하다",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14",
+    "summary": [
+      "Perplexity는 GPT-6 Astra 모델을 활용하여 커뮤니케이션 작성, 소프트웨어 변경, 생산 시스템 모니터링을 수행합니다.",
+      "이전 모델에 비해 시스템 점검 빈도가 현저히 줄었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Valve's Steam Frame pricing starts at $1,059",
     "translated_title": "밸브 스팀 프레임, 1,059달러부터 시작",
     "link": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
@@ -46,13 +214,13 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "translated_title": "Fyxer, 신뢰받는 AI 임원 비서 구축 방법",
-    "link": "https://openai.com/index/fyxer",
-    "date": "2026-09-14",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "translated_title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 급격한 확장",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "date": "2026-09-11",
     "summary": [
-      "Fyxer는 OpenAI 모델, 파인튜닝, 메모리, 사용자 피드백을 활용합니다.",
-      "사용자의 고유한 말투로 받은 편지함 정리 및 이메일 초안 작성 기능을 제공합니다."
+      "OpenAI는 Habitat를 Python 라이브러리에서 전역적으로 분산된 스토리지 플랫폼으로 발전시켰습니다.",
+      "이 플랫폼은 10억 명의 ChatGPT 사용자와 초당 2,200만 건의 요청을 처리합니다."
     ],
     "tags": [
       "AI",
@@ -61,17 +229,17 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "translated_title": "Perplexity, GPT-6 Astra로 엔드투엔드 시스템을 운영하다",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "date": "2026-09-14",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "translated_title": "코그니션, GPT-6 아스트라로 Devin 자체 테스트 지원",
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "date": "2026-09-11",
     "summary": [
-      "Perplexity는 GPT-6 Astra 모델을 활용하여 커뮤니케이션 작성, 소프트웨어 변경, 생산 시스템 모니터링을 수행합니다.",
-      "이전 모델에 비해 시스템 점검 빈도가 현저히 줄었습니다."
+      "GPT-6 아스트라가 Devin의 소프트웨어 테스트 능력을 향상시킵니다.",
+      "이 기술은 엔지니어가 코드 검토 시간을 줄이고 더 많은 제품을 출시하도록 돕는 것을 목표로 합니다."
     ],
     "tags": [
       "AI",
-      "News"
+      "Research"
     ],
     "source": "OpenAI News"
   },
@@ -107,34 +275,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "translated_title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 급격한 확장",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "date": "2026-09-11",
+    "title": "I Never Thought I’d See This Happen",
+    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
+    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+    "date": "2026-09-10",
     "summary": [
-      "OpenAI는 Habitat를 Python 라이브러리에서 전역적으로 분산된 스토리지 플랫폼으로 발전시켰습니다.",
-      "이 플랫폼은 10억 명의 ChatGPT 사용자와 초당 2,200만 건의 요청을 처리합니다."
+      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
+      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
+      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
     ],
     "tags": [
       "AI",
+      "Research",
       "News"
     ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "translated_title": "코그니션, GPT-6 아스트라로 Devin 자체 테스트 지원",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "date": "2026-09-11",
-    "summary": [
-      "GPT-6 아스트라가 Devin의 소프트웨어 테스트 능력을 향상시킵니다.",
-      "이 기술은 엔지니어가 코드 검토 시간을 줄이고 더 많은 제품을 출시하도록 돕는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
+    "source": "Two Minute Papers"
   },
   {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
@@ -228,23 +383,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "I Never Thought I’d See This Happen",
-    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
-    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-    "date": "2026-09-10",
-    "summary": [
-      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
-      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
-      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
@@ -4436,146 +4574,6 @@ const allArticlesData = [
       "새로운 자문 역할에서도 연봉 80만 달러와 현금 보너스를 계속 받습니다."
     ],
     "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Quest maker Meta is having its cake and eating it",
-    "translated_title": "퀘스트 제작사 메타, 누이 좋고 매부 좋은 격",
-    "link": "https://www.gamedeveloper.com/business/quest-maker-meta-spending-billions-on-ai-data-centre-while-lamenting-the-ai-driven-component-shortage",
-    "date": "2026-07-28",
-    "summary": [
-      "메타, 텍사스에 수십억 달러 규모의 AI 데이터 센터 건설 예정",
-      "AI 기반 메모리 부족으로 최근 Quest 가격 인상",
-      "AI 투자는 늘리고 가격은 올리는 메타의 행보"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses",
-    "translated_title": "'HR, 변호사, 홍보팀까지 저를 사냥해왔습니다': 개발자들은 사이드 워크 조항의 고통과 만연함에 대해 이야기합니다",
-    "link": "https://www.gamedeveloper.com/production/-i-have-been-hunted-down-by-hr-reps-lawyers-and-comms-people-developers-discuss-the-pain-and-prevalence-of-side-work-clauses",
-    "date": "2026-07-28",
-    "summary": [
-      "창의성으로 유명한 업계가 이를 어떻게 억누르고 있는지 논의합니다.",
-      "개발자들은 '사이드 워크' 조항으로 인해 HR, 변호사, 홍보팀으로부터 겪는 어려움을 토로합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "translated_title": "NVIDIA Cosmos-H-Dreams: 수술 로봇을 위한 실시간 생성 시뮬레이션 구현",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "date": "2026-07-27",
-    "summary": [
-      "NVIDIA Cosmos-H-Dreams는 수술 로봇에 실시간 생성 시뮬레이션 기능을 도입합니다.",
-      "이를 통해 현실적인 수술 환경을 가상으로 구현할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Why go D2C now: The mobile game webshop business case",
-    "translated_title": "지금 D2C(Direct-to-Consumer)를 해야 하는 이유: 모바일 게임 웹샵 사업 사례",
-    "link": "https://unity.com/blog/mobile-game-webshop-business-case",
-    "date": "2026-07-27",
-    "summary": [
-      "2025년 모바일 최고 매출 게임들의 D2C 수익 38% 성장",
-      "플랫폼 정책 변화, 수수료 구조, 도구들이 모바일 게임 웹샵을 주도"
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "translated_title": "프론티어랩 에이전트 침투 분석: 2026년 7월 사건의 기술적 타임라인",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "date": "2026-07-27",
-    "summary": [
-      "2026년 7월 발생한 프론티어랩 에이전트 침투 사건의 기술적 분석을 담았습니다.",
-      "사건 발생부터 종료까지 상세한 기술적 타임라인을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "translated_title": "AI가 업무 범위를 어떻게 확장하는가",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "date": "2026-07-27",
-    "summary": [
-      "OpenAI 연구에 따르면 AI는 근로자의 업무 범위를 확장하고 있습니다.",
-      "ChatGPT 사용자는 다양한 역할을 수행하며 직무 경계를 재정의하고 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
-    "translated_title": "아타리와 유니버설, '아스테로이드', '미사일 커맨드' 등 고전 게임 기반 영화 제작",
-    "link": "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movies-based-on-classic-properties-including-asteroids-and-missile-command",
-    "date": "2026-07-27",
-    "summary": [
-      "아타리와 유니버설이 협력하여 '아스테로이드', '미사일 커맨드' 등 인기 고전 게임을 영화로 제작합니다.",
-      "아타리 CEO는 게임의 상징적인 정신을 새로운 매체인 영화로 옮기는 것을 목표로 한다고 밝혔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Black Flag Resynced beats annual sales expectations in two weeks",
-    "translated_title": "어쌔신 크리드: 블랙 플래그 리싱크, 출시 2주 만에 연간 판매량 예상치 초과 달성",
-    "link": "https://www.gamedeveloper.com/business/black-flag-resynced-beats-annual-sales-expectations-in-two-weeks",
-    "date": "2026-07-24",
-    "summary": [
-      "Ubisoft가 '어쌔신 크리드: 블랙 플래그 리싱크'의 판매량 소식을 전했습니다.",
-      "리메이크 버전은 전 세계적으로 350만 장 이상 판매되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How Jackbox Games navigated the post-pandemic sales slump ft. Mike Bilder",
-    "translated_title": "팬데믹 이후 판매 부진을 극복한 잭박스 게임즈 (마이크 빌더 인터뷰)",
-    "link": "https://www.gamedeveloper.com/business/how-jackbox-games-navigated-the-post-pandemic-sales-slump-ft-mike-bilder",
-    "date": "2026-07-24",
-    "summary": [
-      "잭박스 게임즈 CEO 마이크 빌더가 출연합니다.",
-      "팬데믹 종료 후 판매 감소 상황에 대한 논의가 이루어집니다.",
-      "잭박스 파티 팩 개발사들의 생존 전략을 다룹니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
