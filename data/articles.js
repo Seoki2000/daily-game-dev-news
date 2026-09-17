@@ -16,6 +16,128 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
+    "translated_title": "보도: MindsEye 개발사 Build a Rocket Boy, 추가 해고 후 폐업 수순 밟는 듯",
+    "link": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+    "date": "2026-09-16",
+    "summary": [
+      "MindsEye 개발사인 Build a Rocket Boy에 대규모 해고가 발생했습니다.",
+      "다수의 직원이 소셜 미디어에 작별 인사를 남기며 폐업 가능성을 시사했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
+    "translated_title": "사카구치 히데오, 2026년 다이스 어워드 AIAS 명예의 전당 헌액",
+    "link": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+    "date": "2026-09-16",
+    "summary": [
+      "바이오하자드 디렉터인 사카구치 히데오가 AIAS 명예의 전당에 헌액됩니다.",
+      "2026년 다이스 어워드에서 진행될 예정입니다.",
+      "스다 고이치는 시상자로 나섭니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Activision Blizzard sued by former employee over sexual harassment",
+    "translated_title": "액티비전 블리자드, 전 직원 성희롱 소송 제기",
+    "link": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+    "date": "2026-09-16",
+    "summary": [
+      "14년 근속했던 전 직원이 10명의 남성을 성희롱 및 보복 행위로 고소했습니다.",
+      "해당 고소는 액티비전 블리자드 내부에서 발생한 성추행 및 부당 대우에 관한 것입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "translated_title": "노년층의 일상생활 속 AI 활용 지원",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "date": "2026-09-16",
+    "summary": [
+      "OpenAI와 AARP가 1,000명의 노년층을 대상으로 무료 ChatGPT 워크숍을 개최합니다.",
+      "실용적인 AI 기술을 안전하게 습득할 수 있도록 돕는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "translated_title": "AI와 함께 광고의 미래를 재구상하다",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "date": "2026-09-16",
+    "summary": [
+      "OpenAI의 AI 기반 새로운 광고 경험 소개",
+      "Sponsored Agents, 마케터를 위한 도구, HubSpot/Shopify 통합 등 포함"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How to connect AI usage to business value",
+    "translated_title": "AI 활용과 비즈니스 가치 연결 방법",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "date": "2026-09-16",
+    "summary": [
+      "ChatGPT와 Codex 분석으로 AI 사용량 및 비용 파악",
+      "AI 교육 필요성 식별 및 도입 성과 측정",
+      "AI 활용을 비즈니스 결과와 연결하는 방법 학습"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Our framework for reporting model misalignment",
+    "translated_title": "모델 불일치 보고를 위한 OpenAI 프레임워크",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "date": "2026-09-16",
+    "summary": [
+      "OpenAI가 모델 불일치 추적, 조사, 공개를 위한 프레임워크를 공유했습니다.",
+      "예상치 못한 또는 우려스러운 모델 행동 6가지 보고서를 함께 공개했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How workers are unlocking new ways of working",
+    "translated_title": "직장인들이 새로운 업무 방식을 찾는 방법",
+    "link": "https://openai.com/index/unlocking-new-ways-of-working",
+    "date": "2026-09-16",
+    "summary": [
+      "OpenAI 경제 연구 결과, 직원들이 AI를 전통적인 역할 이상으로 활용하고 있습니다.",
+      "AI를 통해 새롭게 반복적인 업무 활동이 등장하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
     "translated_title": "Claude가 텍스트에 보이지 않는 지문 남기기 시작",
     "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
@@ -62,6 +184,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "date": "2026-09-15",
+    "summary": [
+      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
+      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "date": "2026-09-15",
+    "summary": [
+      "Gemini 3.8 Live 출시.",
+      "3.8 Live Extended Thinking 기능 추가.",
+      "향상된 Gemini 모델 기능 발표."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
     "translated_title": "워독스 리더, 소셜 미디어에서 크런치 비판하는 인재 채용 않겠다 밝혀",
     "link": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
@@ -105,37 +258,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "date": "2026-09-15",
-    "summary": [
-      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
-      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "date": "2026-09-15",
-    "summary": [
-      "Gemini 3.8 Live 출시.",
-      "3.8 Live Extended Thinking 기능 추가.",
-      "향상된 Gemini 모델 기능 발표."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How Fyxer built an AI executive assistant people trust",
@@ -4457,124 +4579,6 @@ const allArticlesData = [
       "AI",
       "News",
       "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Double Fine making layoffs after being jettisoned by Xbox",
-    "translated_title": "Xbox로부터 결별 후 더블 파인, 인력 감축 단행",
-    "link": "https://www.gamedeveloper.com/business/double-fine-making-layoffs-after-being-jettisoned-by-xbox",
-    "date": "2026-07-29",
-    "summary": [
-      "더블 파인이 Xbox로부터 분리되었습니다.",
-      "이로 인해 스튜디오 생존을 위해 인력 감축이라는 고통스러운 결정을 내렸습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "translated_title": "올모어스 플랫폼: 행성 규모의 지리공간 추론",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "date": "2026-07-28",
-    "summary": [
-      "올모어스 플랫폼은 행성 규모의 지리공간 데이터를 활용합니다.",
-      "이를 통해 정교한 추론 및 분석 기능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "translated_title": "CPU에서 빠른 긴 컨텍스트 추론을 위한 LFM2.5 인코더",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "date": "2026-07-28",
-    "summary": [
-      "LFM2.5 인코더를 사용하여 CPU에서 긴 컨텍스트 추론 속도를 향상합니다.",
-      "토큰/시간 절약을 위해 컨텍스트 길이를 제한합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "translated_title": "Gemini Robotics 2, 로봇에 전신 지능을 구현하다",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "date": "2026-07-28",
-    "summary": [
-      "Gemini Robotics 2는 로봇의 전반적인 지능 향상에 초점.",
-      "로봇의 통합적인 움직임과 인지 능력 강화."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "translated_title": "에이전트 AI 시대의 과학 컴퓨팅",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "date": "2026-07-28",
-    "summary": [
-      "과학자들이 AI 코딩 에이전트를 활용하여 과학 컴퓨팅을 현대화하고 있습니다.",
-      "이를 통해 유전체학 등 다양한 분야에서 소프트웨어 개발 및 과학적 발견 속도가 가속화됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Resident Evil Requiem has sold over 8M units",
-    "translated_title": "바이오하자드 빌리지, 800만 장 이상 판매 돌파",
-    "link": "https://www.gamedeveloper.com/business/resident-evil-requiem-has-sold-over-8m-units",
-    "date": "2026-07-28",
-    "summary": [
-      "바이오하자드 빌리지(Resident Evil Requiem)가 800만 장 이상 판매되었습니다.",
-      "바이오하자드 시리즈의 누적 판매량은 현재 2억 1,300만 장입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Obituary: TaleWorlds Entertainment co-founder İpek Yavuz has passed away",
-    "translated_title": "타이월드 엔터테인먼트 공동 창립자 이펙 야부즈 별세",
-    "link": "https://www.gamedeveloper.com/business/obituary-taleworlds-co-founder-i-pek-yavuz-has-passed-away",
-    "date": "2026-07-28",
-    "summary": [
-      "마운트 앤 블레이드 개발사 타이월드 엔터테인먼트 공동 창립자인 이펙 야부즈가 사망했습니다.",
-      "그녀는 2005년 남편 아르마간 야부즈와 함께 회사를 설립했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Wizards of the Coast president John Hight is stepping down",
-    "translated_title": "매직: 더 개더링 개발사 Wizards of the Coast 사장 존 하이트, 자리에서 물러난다",
-    "link": "https://www.gamedeveloper.com/business/wizards-of-the-coast-president-john-hight-to-step-down",
-    "date": "2026-07-28",
-    "summary": [
-      "Wizards of the Coast 사장 존 하이트가 사임합니다.",
-      "새로운 자문 역할에서도 연봉 80만 달러와 현금 보너스를 계속 받습니다."
-    ],
-    "tags": [
-      "News"
     ],
     "source": "gamedeveloper"
   }
