@@ -1,5 +1,34 @@
 const allArticlesData = [
   {
+    "title": "gamescom",
+    "translated_title": "게임스컴",
+    "link": "https://www.gamedeveloper.com/events/gamescom",
+    "date": "2027-08-23",
+    "summary": [
+      "유럽 최대 규모의 게임 전시회 '게임스컴'에 대한 내용입니다.",
+      "주요 게임 트레일러, 신작 정보, 개발자 인터뷰 등이 다뤄질 것으로 예상됩니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Game Conference MX (GCMX)",
+    "translated_title": "게임 콘퍼런스 MX (GCMX)",
+    "link": "https://www.gamedeveloper.com/events/untitled",
+    "date": "2026-11-13",
+    "summary": [
+      "게임 콘퍼런스 MX(GCMX)에 대한 정보입니다.",
+      "자세한 내용은 본문에서 확인할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "CICD Made Easier with Unity CLI",
     "translated_title": "Unity CLI로 CICD를 더욱 쉽게",
     "link": "https://unity.com/blog/cicd-made-easier-with-unity-cli",
@@ -16,49 +45,35 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
-    "translated_title": "보도: MindsEye 개발사 Build a Rocket Boy, 추가 해고 후 폐업 수순 밟는 듯",
-    "link": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-    "date": "2026-09-16",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "translated_title": "ChatGPT로 IPO 업무를 가속화하는 쿨리(Cooley)의 방법",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "date": "2026-09-17",
     "summary": [
-      "MindsEye 개발사인 Build a Rocket Boy에 대규모 해고가 발생했습니다.",
-      "다수의 직원이 소셜 미디어에 작별 인사를 남기며 폐업 가능성을 시사했습니다."
+      "쿨리(Cooley)는 IPO 절차에 지능을 더하기 위해 ChatGPT 기반 솔루션 'GO Public'을 개발했습니다.",
+      "이를 통해 변호사들은 문제를 조기에 발견하고 중요한 판단에 집중할 수 있습니다."
     ],
     "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
-    "translated_title": "사카구치 히데오, 2026년 다이스 어워드 AIAS 명예의 전당 헌액",
-    "link": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-    "date": "2026-09-16",
-    "summary": [
-      "바이오하자드 디렉터인 사카구치 히데오가 AIAS 명예의 전당에 헌액됩니다.",
-      "2026년 다이스 어워드에서 진행될 예정입니다.",
-      "스다 고이치는 시상자로 나섭니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Activision Blizzard sued by former employee over sexual harassment",
-    "translated_title": "액티비전 블리자드, 전 직원 성희롱 소송 제기",
-    "link": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-    "date": "2026-09-16",
-    "summary": [
-      "14년 근속했던 전 직원이 10명의 남성을 성희롱 및 보복 행위로 고소했습니다.",
-      "해당 고소는 액티비전 블리자드 내부에서 발생한 성추행 및 부당 대우에 관한 것입니다."
-    ],
-    "tags": [
+      "AI",
       "News"
     ],
-    "source": "gamedeveloper"
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "translated_title": "Astra for Law 소개",
+    "link": "https://openai.com/index/astra-for-law",
+    "date": "2026-09-17",
+    "summary": [
+      "법률 분야를 위한 최첨단 인공지능 도입",
+      "맞춤형 법률 회사 워크플로우 및 데이터 소스 연결",
+      "기밀 클라이언트 작업을 위한 법률 등급 보안 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Helping older adults use AI in everyday life",
@@ -106,6 +121,51 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
+    "translated_title": "보도: MindsEye 개발사 Build a Rocket Boy, 추가 해고 후 폐업 수순 밟는 듯",
+    "link": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+    "date": "2026-09-16",
+    "summary": [
+      "MindsEye 개발사인 Build a Rocket Boy에 대규모 해고가 발생했습니다.",
+      "다수의 직원이 소셜 미디어에 작별 인사를 남기며 폐업 가능성을 시사했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
+    "translated_title": "사카구치 히데오, 2026년 다이스 어워드 AIAS 명예의 전당 헌액",
+    "link": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+    "date": "2026-09-16",
+    "summary": [
+      "바이오하자드 디렉터인 사카구치 히데오가 AIAS 명예의 전당에 헌액됩니다.",
+      "2026년 다이스 어워드에서 진행될 예정입니다.",
+      "스다 고이치는 시상자로 나섭니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Activision Blizzard sued by former employee over sexual harassment",
+    "translated_title": "액티비전 블리자드, 전 직원 성희롱 소송 제기",
+    "link": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+    "date": "2026-09-16",
+    "summary": [
+      "14년 근속했던 전 직원이 10명의 남성을 성희롱 및 보복 행위로 고소했습니다.",
+      "해당 고소는 액티비전 블리자드 내부에서 발생한 성추행 및 부당 대우에 관한 것입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Our framework for reporting model misalignment",
     "translated_title": "모델 불일치 보고를 위한 OpenAI 프레임워크",
     "link": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -136,6 +196,37 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "date": "2026-09-15",
+    "summary": [
+      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
+      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "date": "2026-09-15",
+    "summary": [
+      "Gemini 3.8 Live 출시.",
+      "3.8 Live Extended Thinking 기능 추가.",
+      "향상된 Gemini 모델 기능 발표."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
@@ -182,37 +273,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "date": "2026-09-15",
-    "summary": [
-      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
-      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "date": "2026-09-15",
-    "summary": [
-      "Gemini 3.8 Live 출시.",
-      "3.8 Live Extended Thinking 기능 추가.",
-      "향상된 Gemini 모델 기능 발표."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
@@ -4518,68 +4578,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "translated_title": "GPT-5.6, 최첨단 지능과 효율성의 융합",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "date": "2026-07-29",
-    "summary": [
-      "GPT-5.6은 모델, 추론, 에이전트 워크플로우 전반에 걸쳐 AI 효율성을 향상시킵니다.",
-      "이를 통해 더 적은 비용으로 더 유용한 인텔리전스를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Subnautica 2 and PUBG bolster Krafton's Q2 revenue",
-    "translated_title": "서브노티카 2와 배틀그라운드가 크래프톤 2분기 매출 견인",
-    "link": "https://www.gamedeveloper.com/business/subnautica-2-and-pubg-bolster-krafton-s-q2-revenue",
-    "date": "2026-07-29",
-    "summary": [
-      "크래프톤의 2분기 매출이 94.9% 상승하여 8억 8,910만 달러를 기록했습니다.",
-      "이는 서브노티카 2와 배틀그라운드의 성공적인 성과 덕분입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Epic Games hires former head of Blizzard's Battle.net",
-    "translated_title": "에픽게임즈, 블리자드 배틀넷 전 총괄 영입",
-    "link": "https://www.gamedeveloper.com/business/epic-games-hires-former-head-of-blizzard-s-battle-net",
-    "date": "2026-07-29",
-    "summary": [
-      "마틴 킬리, 에픽게임즈 스토어 및 온라인 서비스 총괄 부사장으로 합류",
-      "전 블리자드 배틀넷 책임자였던 인물"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EA boss awarded $38.6M after year of franchise success, studio layoffs, and GenAI adoption",
-    "translated_title": "EA CEO, 프랜차이즈 성공과 인력 감축, AI 도입 속 3,860만 달러 보상 받아",
-    "link": "https://www.gamedeveloper.com/business/ea-boss-awarded-38-6m-after-year-of-franchise-success-studio-layoffs-and-genai-adoption",
-    "date": "2026-07-29",
-    "summary": [
-      "EA CEO 앤드류 윌슨, 2013년부터 재임 중",
-      "프랜차이즈 성공, 스튜디오 직원 감축, 생성형 AI 도입 등 복합적인 상황 속 보상",
-      "총 보상액 3,860만 달러"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
