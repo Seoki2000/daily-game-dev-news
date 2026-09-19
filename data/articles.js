@@ -45,6 +45,81 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Optimizing Deep Rock Galactic Survivor for mobile",
+    "translated_title": "Deep Rock Galactic: Survivor 모바일 최적화 방법",
+    "link": "https://unity.com/blog/optimizing-deep-rock-galactic-survivor-for-mobile",
+    "date": "2026-09-18",
+    "summary": [
+      "Piktiv에서 Deep Rock Galactic: Survivor를 모바일로 이식한 사례를 다룹니다.",
+      "흐름 필드 내비게이션, KD-트리 물리 쿼리, GPU 기반 렌더링, Burst Job, Addressables 기술을 활용했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
+    "translated_title": "AI 음성 서비스가 '원신' 캐릭터를 모방하자 미호요, 11만 2천 달러 승소",
+    "link": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+    "date": "2026-09-18",
+    "summary": [
+      "AI 음성 서비스가 '원신' 캐릭터를 모방한 사건에서 미호요가 승소했습니다.",
+      "법원은 미호요에 11만 2천 달러를 지급하라고 판결했습니다.",
+      "이번 판결은 중국 법원이 생성형 AI 사용에 대해 어떻게 판결할지 보여주는 신호가 될 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How toolmakers like ARM work with devs, ft. Peter Hodges",
+    "translated_title": "ARM과 같은 툴 제작사들이 개발자들과 협력하는 방식 (ft. Peter Hodges)",
+    "link": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+    "date": "2026-09-18",
+    "summary": [
+      "ARM의 Peter Hodges가 게임 개발 툴에 대해 이야기합니다.",
+      "1969년 단편 영화 'Lemon'에 대한 언급도 포함됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "King workers call strike after collective agreement negotiations stall",
+    "translated_title": "단체협상 결렬 후 킹(King) 직원들 파업 돌입",
+    "link": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+    "date": "2026-09-18",
+    "summary": [
+      "캔디 크러쉬 스튜디오의 노조 직원들이 파업을 예고했습니다.",
+      "단체협상 교섭이 진전을 보이지 않을 경우 9월 25일 파업에 돌입할 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "5 tips for speeding up your XR dev workflows with Unity CLI",
+    "translated_title": "Unity CLI로 XR 개발 워크플로우 속도를 높이는 5가지 팁",
+    "link": "https://unity.com/blog/5-tips-for-speeding-up-your-xr-dev-workflows-with-unity-cli",
+    "date": "2026-09-17",
+    "summary": [
+      "Unity CLI를 활용하여 XR 개발 속도 향상",
+      "Meta의 Dilmer가 공유하는 실질적인 팁"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "translated_title": "ChatGPT로 IPO 업무를 가속화하는 쿨리(Cooley)의 방법",
     "link": "https://openai.com/index/cooley-gopublic",
@@ -76,6 +151,23 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "The Official Unity Plugin for Codex",
+    "translated_title": "Codex를 위한 공식 Unity 플러그인",
+    "link": "https://unity.com/blog/unity-plugin-codex",
+    "date": "2026-09-16",
+    "summary": [
+      "OpenAI Codex가 Unity 공식 플러그인을 통해 Unity 관련 기능을 학습합니다.",
+      "이를 통해 스프라이트 아트, URP 렌더러, 인앱 결제, 현지화 등의 작업을 Unity의 자체 가이드라인에 따라 수행합니다.",
+      "Codex가 기존에 학습한 내용이 아닌 Unity의 정확한 지침을 따르도록 합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "Helping older adults use AI in everyday life",
     "translated_title": "노년층의 일상생활 속 AI 활용 지원",
     "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -102,6 +194,22 @@ const allArticlesData = [
     "tags": [
       "AI",
       "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "translated_title": "Hex, GPT-6 Astra로 복잡한 분석을 시각적 리포트로 전환",
+    "link": "https://openai.com/index/hex-gpt-6-astra",
+    "date": "2026-09-16",
+    "summary": [
+      "Hex의 AI 에이전트가 복잡한 분석 결과를 시각화합니다.",
+      "GPT-6 Astra를 활용하여 인터랙티브한 보고서를 생성합니다.",
+      "직원들이 공유하고 싶어하는 결과물을 만들어냅니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
     ],
     "source": "OpenAI News"
   },
@@ -4471,112 +4579,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox revenue fell by $1.7 billion during fiscal 2026",
-    "translated_title": "Xbox, 2026 회계연도에 17억 달러의 수익 감소",
-    "link": "https://www.gamedeveloper.com/business/xbox-hardware-revenue-fell-by-1-7-billion-during-fiscal-2026",
-    "date": "2026-07-30",
-    "summary": [
-      "Xbox 판매 부진이 마이크로소프트에 새로운 일상이 되었습니다.",
-      "2026 회계연도에 Xbox 매출이 17억 달러 감소했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "translated_title": "avatarin, GPT-Realtime으로 24/7 쇼핑 상담원 구축",
-    "link": "https://openai.com/index/avatarin",
-    "date": "2026-07-30",
-    "summary": [
-      "avatarin은 GPT-Realtime을 활용해 야마다덴키 쇼핑객에게 24시간 다국어 지원 제공",
-      "2주 만에 3만 명 이용, 설문 응답 92% 긍정적"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Tencent-owned Lightspeed LA is laying off staff",
-    "translated_title": "텐센트 산하 라이트스피드 LA, 인력 감축 단행",
-    "link": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
-    "date": "2026-07-29",
-    "summary": [
-      "더 라스트 센티넬 개발사인 라이트스피드 LA에서 직원 감축이 이루어졌습니다.",
-      "이번 감축은 프로젝트의 창의적 및 개발 방향 전환에 따른 것이라고 밝혔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "translated_title": "Google Flow Music에서 Lyria 3.5 출시: 음악성, 가사, 보컬, 창의적 제어 기능 대폭 향상",
-    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "date": "2026-07-29",
-    "summary": [
-      "Google Flow Music에 Lyria 3.5 출시.",
-      "음악성, 가사, 보컬, 창의적 제어 기능 등 전반적인 성능 향상."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Kimi K3 Just Broke The Economics Of AI",
-    "translated_title": "Kimi K3, AI 경제학의 판도를 바꾸다",
-    "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-    "date": "2026-07-29",
-    "summary": [
-      "Kimi K3는 AI 모델의 경제적 효율성을 획기적으로 개선한 것으로 보입니다.",
-      "Lambda GPU Cloud 및 Kimi K3 서비스 이용 링크가 제공됩니다.",
-      "관련 논문(arXiv:2607.24653)과 트위터 반응 링크가 공유되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "translated_title": "설정 두 개 활성화로 ARC-AGI-3 벤치마크 점수 3배 향상시킨 방법",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "date": "2026-07-29",
-    "summary": [
-      "API 설정 두 가지를 통해 GPT-5.6의 ARC-AGI-3 벤치마크 성능을 개선했습니다.",
-      "추론 능력 유지 및 압축 기능 활성화를 통해 점수와 효율성을 높였습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "translated_title": "ChatGPT로 학술 연구 가속화: OpenAI, 10만 명의 연구자에게 무료 지원",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "date": "2026-07-29",
-    "summary": [
-      "OpenAI가 10만 명의 학술 연구자에게 최신 ChatGPT AI 모델을 무료 제공합니다.",
-      "이를 통해 과학 연구, 협업 및 발견을 가속화하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
