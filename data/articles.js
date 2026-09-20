@@ -105,6 +105,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "translated_title": "호주 청소년 안전 로드맵 공개",
+    "link": "https://openai.com/index/australian-youth-safety-blueprint",
+    "date": "2026-09-18",
+    "summary": [
+      "OpenAI가 호주 청소년 안전 로드맵을 발표했습니다.",
+      "이는 6가지 핵심 요소를 통해 청소년에게 안전하고 능동적인 AI 경험을 제공하는 것을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "5 tips for speeding up your XR dev workflows with Unity CLI",
     "translated_title": "Unity CLI로 XR 개발 워크플로우 속도를 높이는 5가지 팁",
     "link": "https://unity.com/blog/5-tips-for-speeding-up-your-xr-dev-workflows-with-unity-cli",
@@ -4561,21 +4576,6 @@ const allArticlesData = [
     "tags": [
       "News",
       "Unity",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "If knowledge is power, why are game companies setting it alight?",
-    "translated_title": "지식이 힘이라면, 게임 회사들은 왜 그것을 불태우는 걸까요?",
-    "link": "https://www.gamedeveloper.com/production/if-knowledge-if-power-why-are-game-companies-choosing-impotence-",
-    "date": "2026-07-30",
-    "summary": [
-      "까다로운 생산 관련 질문에 누가 답을 알고 있을까요?",
-      "부디 그 답을 아는 사람이 해고되지 않았기를 바랍니다."
-    ],
-    "tags": [
-      "News",
       "GameDev"
     ],
     "source": "gamedeveloper"
