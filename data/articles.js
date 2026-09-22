@@ -45,6 +45,191 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "From simulation to real-world deployment: Unity Simulation Pro early access",
+    "translated_title": "시뮬레이션부터 실제 배포까지: Unity Simulation Pro 얼리 액세스",
+    "link": "https://unity.com/blog/unity-simulation-pro-early-access",
+    "date": "2026-09-22",
+    "summary": [
+      "Unity Simulation Pro 얼리 액세스 출시",
+      "URDF 임포트, 센서 시뮬레이션, ROS 2, 헤드리스 리눅스 지원",
+      "로보틱스 시뮬레이션 툴킷"
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
+    "translated_title": "번지, 스튜디오의 미래를 공개하며 '데스티니는 아직 끝나지 않았다'고 선언",
+    "link": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+    "date": "2026-09-21",
+    "summary": [
+      "번지는 데스티니가 스튜디오 미래의 초석임을 강조했습니다.",
+      "데스티니 시리즈는 앞으로도 계속 개발될 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
+    "translated_title": "소니, 일부 지역 마블 '울버린' 게임에서 LGBTQ 콘텐츠 검열 의혹",
+    "link": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
+    "date": "2026-09-21",
+    "summary": [
+      "소니가 마블 '울버린' 게임에서 LGBTQ 관련 내용을 일부 지역에서 삭제했다는 의혹이 제기되었습니다.",
+      "특정 지역에서는 뮤턴트 커플의 결혼 관련 내용이 언급되지 않는 것으로 파악되었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Kojima Productions' survival story may sound strikingly familiar to struggling devs",
+    "translated_title": "코지마 프로덕션의 생존 이야기, 고군분투하는 개발자들에게 매우 익숙하게 들릴 수 있다",
+    "link": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
+    "date": "2026-09-21",
+    "summary": [
+      "유명 개발자도 은행 대출금을 제때 갚아야 한다.",
+      "창작자 역시 재정적 압박에서 자유로울 수 없다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "French publisher Dear Villagers confirms layoffs",
+    "translated_title": "프랑스 퍼블리셔 Dear Villagers, 직원 감축 확인",
+    "link": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+    "date": "2026-09-21",
+    "summary": [
+      "Dear Villagers가 직원 감축을 단행했음을 공식 발표했습니다.",
+      "이 회사는 'Caravan SandWitch'와 'The Forgotten City' 등의 게임을 퍼블리싱했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "translated_title": "물리학자처럼 LLM을 가지치기하기: 블록 제거를 아이징 최적화 문제로",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "date": "2026-09-21",
+    "summary": [
+      "LLM의 중요하지 않은 부분을 제거하여 효율성을 높이는 방법론을 소개합니다.",
+      "이를 물리학의 아이징 모델을 이용한 최적화 문제로 접근합니다.",
+      "모델 크기를 줄여 토큰 사용량을 절감하는 데 초점을 맞춥니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "translated_title": "토크나이저 v1: 인코딩, 디코딩 및 확장성 측정",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "date": "2026-09-21",
+    "summary": [
+      "토크나이저 v1의 인코딩 및 디코딩 기능 소개",
+      "토크나이저 v1의 확장성 측정 결과 공유",
+      "토큰/시간 절약을 위한 길이 제한의 중요성 강조"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "translated_title": "수학과 인공지능 자문단",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "date": "2026-09-21",
+    "summary": [
+      "OpenAI는 신흥 AI 결과 검토 및 소통을 위한 독립적인 자문단을 운영합니다.",
+      "이 자문단은 수학과 인공지능 분야를 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "translated_title": "Higgsfield AI, GPT-6 Astra로 하루 만에 새로운 영상 기능 출시",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "date": "2026-09-21",
+    "summary": [
+      "GPT-6 Astra를 통해 Higgsfield AI는 소상공인을 위한 영상 광고 제작을 더 쉽게 만듭니다.",
+      "새로운 창의적 도구를 시장에 더 빠르게 출시합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "translated_title": "AI 다음 단계를 위한 구축 표준",
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "date": "2026-09-21",
+    "summary": [
+      "OpenAI, 안전 개선을 위한 공동 평가, 보고, 거버넌스 촉구",
+      "전 세계적인 AI 표준 공유 경로 제시"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "translated_title": "OpenAI Academy, 새로운 학습 경로로 확장",
+    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "date": "2026-09-21",
+    "summary": [
+      "OpenAI Academy에서 신규 학습 경로를 제공합니다.",
+      "직원, 개발자, 리더, 교육자, 학생을 대상으로 합니다.",
+      "실용적인 AI 기술 구축 및 시연 기회를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "translated_title": "V7, AI 에이전트에 기관 메모리 부여하는 방법",
+    "link": "https://openai.com/index/v7",
+    "date": "2026-09-21",
+    "summary": [
+      "V7은 GPT-5.6을 활용하여 분산된 회사 파일을 AI 에이전트가 사용할 수 있는 컨텍스트로 전환합니다.",
+      "이를 통해 AI 에이전트는 복잡한 작업을 출처와 연결하여 완료할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Optimizing Deep Rock Galactic Survivor for mobile",
     "translated_title": "Deep Rock Galactic: Survivor 모바일 최적화 방법",
     "link": "https://unity.com/blog/optimizing-deep-rock-galactic-survivor-for-mobile",
@@ -4397,187 +4582,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Building abundant intelligence",
-    "translated_title": "풍부한 지능 구축하기",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "date": "2026-07-31",
-    "summary": [
-      "AI의 능력을 향상시키는 풀스택 접근 방식.",
-      "AI를 더 저렴하고 널리 사용할 수 있게 만듭니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Xbox CEO declares priorities after 'reset'",
-    "translated_title": "Xbox CEO, '새로운 시작' 후 우선순위 발표",
-    "link": "https://www.gamedeveloper.com/business/xbox-ceo-declares-priorities-after-reset-",
-    "date": "2026-07-31",
-    "summary": [
-      "Xbox CEO Asha Sharma가 최근 정리해고 이후 Xbox의 재도약을 위한 계획을 발표했습니다.",
-      "회사의 현황을 되돌리기 위한 우선순위가 제시되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "GDC Side Quest - A Sit-Down With The Indomitable Sam Beart",
-    "translated_title": "GDC 사이드 퀘스트 - 불굴의 사만다 비어트와의 대담",
-    "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-a-sit-down-with-the-indomitable-sam-beart",
-    "date": "2026-07-31",
-    "summary": [
-      "이번 GDC 사이드 퀘스트에는 배우 사만다 비어트가 출연합니다.",
-      "게임 개발자 팟캐스트에서 진행되는 인터뷰입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Double Fine cuts staff, Xbox's revenue decline, and Leon Kennedy pays off - Patch Notes #63",
-    "translated_title": "더블파인 직원 감축, 엑스박스 매출 하락, 레온 S. 케네디의 빚 청산 - 패치 노트 #63",
-    "link": "https://www.gamedeveloper.com/business/xbox-perpetual-hardware-revenue-decline-leon-kennedy-pays-off-and-double-fine-cuts-staff-patch-notes-63",
-    "date": "2026-07-31",
-    "summary": [
-      "더블파인, 직원 감축 단행",
-      "엑스박스, 매출 하락세",
-      "레온 S. 케네디, 빚 상환 소식"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Univé builds an AI-ready workforce",
-    "translated_title": "Univé, AI 준비된 인력 구축",
-    "link": "https://openai.com/index/unive",
-    "date": "2026-07-31",
-    "summary": [
-      "Univé는 ChatGPT Enterprise를 활용하여 AI 준비된 인력을 구축했습니다.",
-      "리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합했습니다.",
-      "이를 통해 업무를 대규모로 혁신했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Disrupting a Criminal Scam Operation",
-    "translated_title": "범죄 사기 조직 소탕",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "date": "2026-07-31",
-    "summary": [
-      "OpenAI가 캄보디아 기반의 사기 조직을 적발했습니다.",
-      "이들은 투자, 로맨스, 도박, 사칭 사기에 ChatGPT를 이용했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "translated_title": "GPU 관리: 유휴 GPU는 이제 비행 금지된 항공기만큼 아깝다",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "date": "2026-07-30",
-    "summary": [
-      "유휴 GPU는 귀중한 리소스 낭비입니다.",
-      "GPU 활용도를 높여 비용 효율성을 개선해야 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "translated_title": "Gemini Robotics ER 2: 비디오 이해, 작업 조율, 다중 로봇 협업으로 로봇에 동력 부여",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "date": "2026-07-30",
-    "summary": [
-      "Gemini Robotics ER 2는 로봇이 추론, 협업, 실제 작업 해결을 돕습니다.",
-      "비디오 이해, 도구 조율, 다중 로봇 협업 분야에서 혁신을 가져옵니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
-    "translated_title": "내러티브 노트 #5: UNBEATABLE 뮤직비디오의 분위기는 최고야",
-    "link": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
-    "date": "2026-07-30",
-    "summary": [
-      "음악은 감정을 불러일으키는 것이 아니라, 그 자체가 감정이다.",
-      "예술 또한 감정 그 자체이다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "translated_title": "GPT-5.6으로 가격 대비 성능 한계를 뛰어넘다",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "date": "2026-07-30",
-    "summary": [
-      "GPT-5.6의 루나 및 테라 가격 인하 소식을 전합니다.",
-      "OpenAI의 효율적인 모델을 통해 기업이 AI 워크플로우를 대규모로 배포하는 방법을 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The truth behind the resurrection of Poinpy",
-    "translated_title": "다시 살아난 'Poinpy'의 숨겨진 진실",
-    "link": "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-of-poinpy",
-    "date": "2026-07-30",
-    "summary": [
-      "'Poinpy'가 다시 부활했습니다.",
-      "이전보다 더욱 발전된 모습으로 돌아왔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unity brings dedicated engine support to Netflix Games",
-    "translated_title": "유니티, 넷플릭스 게임 위한 전용 엔진 지원 제공",
-    "link": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games",
-    "date": "2026-07-30",
-    "summary": [
-      "유니티가 넷플릭스 게임 개발자를 위한 전용 엔진 지원을 발표했습니다.",
-      "이를 통해 넷플릭스의 멀티플랫폼 생태계 내 게임 제작을 지원할 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
