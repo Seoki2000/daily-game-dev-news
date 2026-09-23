@@ -61,6 +61,194 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Content directories: Beyond the AssetBundle",
+    "translated_title": "콘텐츠 디렉터리: AssetBundle의 진화",
+    "link": "https://unity.com/blog/content-directories-beyond-the-assetbundle",
+    "date": "2026-09-22",
+    "summary": [
+      "Unity 6.6에서 콘텐츠 디렉터리가 AssetBundle을 대체합니다.",
+      "빌드 시간 단축, 게임 용량 감소, 로딩 성능 향상.",
+      "Unity 7에서는 원격 배포 기능이 추가될 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
+    "translated_title": "‘매우 단순하게 유지하고 싶습니다’: Nex Playground, 하드웨어 위기 속에서 예상을 뛰어넘는 성과를 거둔 비결",
+    "link": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+    "date": "2026-09-22",
+    "summary": [
+      "Nex Playground는 마진 확보를 통해 소프트웨어 투자를 지속하고 있습니다.",
+      "소프트웨어 비용은 매년 상당히 증가하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
+    "translated_title": "이스케이프 프롬 타르코프 개발사, 신규 퍼블리싱 통해 '위험한' 게임에 투자 원해",
+    "link": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+    "date": "2026-09-22",
+    "summary": [
+      "이스케이프 프롬 타르코프 개발사인 배틀스테이트 게임즈가 신규 퍼블리싱 사업을 시작합니다.",
+      "이들은 '하드코어' 게임에 대한 퍼블리싱 지원을 제공할 계획입니다.",
+      "이를 통해 '위험 부담이 큰' 게임들에 대한 투자를 모색하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
+    "translated_title": "Xbox, Halo 스튜디오 정리해고 및 언데드 랩스 매각으로 '재정비' 지속",
+    "link": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+    "date": "2026-09-22",
+    "summary": [
+      "Xbox가 Halo 스튜디오 인력 감축 및 언데드 랩스 매각을 통해 사업 재정비를 이어가고 있습니다.",
+      "Activision이 차기 Halo 타이틀을 개발하며, Ninja Theory 스튜디오는 폐쇄됩니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+    "translated_title": "GTA VI 출시 전, 락스타 게임즈가 밝힌 모딩 금지 규정",
+    "link": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+    "date": "2026-09-22",
+    "summary": [
+      "락스타 게임즈, GTA VI 출시 앞두고 모딩 규정 발표.",
+      "게임의 공식 스토리라인, 캐릭터 등 '확립된 연속성'은 모딩 금지 대상."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "translated_title": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "date": "2026-09-22",
+    "summary": [
+      "영국 AISI와 EvalEval은 벤치마크 결과의 재현성을 높이기 위해 노력하고 있습니다.",
+      "이를 통해 AI 연구 및 개발 커뮤니티에서 투명성과 신뢰성을 확보하고자 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Transformers now runs llama.cpp quants",
+    "translated_title": "이제 Transformers에서 llama.cpp 양자화 모델을 실행할 수 있습니다.",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "date": "2026-09-22",
+    "summary": [
+      "Transformers 라이브러리가 llama.cpp 양자화 모델을 지원합니다.",
+      "이를 통해 모델 실행 성능 및 효율성을 향상시킬 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "translated_title": "oMLX 제작자 및 유지보수 담당자인 Jun Kim, MLX 커뮤니티 지원을 위해 Hugging Face 합류",
+    "link": "https://huggingface.co/blog/omlx",
+    "date": "2026-09-22",
+    "summary": [
+      "oMLX 창작자인 Jun Kim이 Hugging Face에 합류했습니다.",
+      "이는 MLX 커뮤니티를 더욱 발전시키기 위함입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Better prompt caching for GPT-6",
+    "translated_title": "GPT-6를 위한 향상된 프롬프트 캐싱",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "date": "2026-09-22",
+    "summary": [
+      "GPT-6는 캐시 적중률 향상으로 프롬프트 캐싱을 개선합니다.",
+      "새로운 진단 기능, 명시적 중단점, 제어 기능으로 지연 시간 및 비용을 절감합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "translated_title": "GPT-6 Sol과 Luna 소개",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "date": "2026-09-22",
+    "summary": [
+      "GPT-6 Sol과 Luna, 두 가지 모델 출시",
+      "일상 업무에 최첨단 인공지능 제공",
+      "역량과 비용의 균형을 다르게 맞춘 모델"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "translated_title": "GPT-6 Astra로 리서치 시간과 비용 절반 단축",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "date": "2026-09-22",
+    "summary": [
+      "GPT-6 Astra로 인해 Parallel의 에이전트들은 노동 시장 데이터 리서치 및 종합에 소요되는 시간을 절반으로 줄였습니다.",
+      "이전 모델 대비 비용도 절반으로 절감되었습니다.",
+      "이는 작업 효율성을 크게 향상시켰습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Priorities and principles for effective third party assessments",
+    "translated_title": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "date": "2026-09-22",
+    "summary": [
+      "OpenAI는 최첨단 AI 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선순위를 제시했습니다.",
+      "평가 원칙에는 보안성, 독립성, 엄격성이 강조됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
     "translated_title": "번지, 스튜디오의 미래를 공개하며 '데스티니는 아직 끝나지 않았다'고 선언",
     "link": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
@@ -74,6 +262,53 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "translated_title": "물리학자처럼 LLM을 가지치기하기: 블록 제거를 아이징 최적화 문제로",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "date": "2026-09-21",
+    "summary": [
+      "LLM의 중요하지 않은 부분을 제거하여 효율성을 높이는 방법론을 소개합니다.",
+      "이를 물리학의 아이징 모델을 이용한 최적화 문제로 접근합니다.",
+      "모델 크기를 줄여 토큰 사용량을 절감하는 데 초점을 맞춥니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "translated_title": "토크나이저 v1: 인코딩, 디코딩 및 확장성 측정",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "date": "2026-09-21",
+    "summary": [
+      "토크나이저 v1의 인코딩 및 디코딩 기능 소개",
+      "토크나이저 v1의 확장성 측정 결과 공유",
+      "토큰/시간 절약을 위한 길이 제한의 중요성 강조"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "translated_title": "Higgsfield AI, GPT-6 Astra로 하루 만에 새로운 영상 기능 출시",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "date": "2026-09-21",
+    "summary": [
+      "GPT-6 Astra를 통해 Higgsfield AI는 소상공인을 위한 영상 광고 제작을 더 쉽게 만듭니다.",
+      "새로운 창의적 도구를 시장에 더 빠르게 출시합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
@@ -120,38 +355,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "translated_title": "물리학자처럼 LLM을 가지치기하기: 블록 제거를 아이징 최적화 문제로",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "date": "2026-09-21",
-    "summary": [
-      "LLM의 중요하지 않은 부분을 제거하여 효율성을 높이는 방법론을 소개합니다.",
-      "이를 물리학의 아이징 모델을 이용한 최적화 문제로 접근합니다.",
-      "모델 크기를 줄여 토큰 사용량을 절감하는 데 초점을 맞춥니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "translated_title": "토크나이저 v1: 인코딩, 디코딩 및 확장성 측정",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "date": "2026-09-21",
-    "summary": [
-      "토크나이저 v1의 인코딩 및 디코딩 기능 소개",
-      "토크나이저 v1의 확장성 측정 결과 공유",
-      "토큰/시간 절약을 위한 길이 제한의 중요성 강조"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "translated_title": "수학과 인공지능 자문단",
     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
@@ -163,21 +366,6 @@ const allArticlesData = [
     "tags": [
       "AI",
       "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "translated_title": "Higgsfield AI, GPT-6 Astra로 하루 만에 새로운 영상 기능 출시",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "date": "2026-09-21",
-    "summary": [
-      "GPT-6 Astra를 통해 Higgsfield AI는 소상공인을 위한 영상 광고 제작을 더 쉽게 만듭니다.",
-      "새로운 창의적 도구를 시장에 더 빠르게 출시합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
     ],
     "source": "OpenAI News"
   },
@@ -4402,185 +4590,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "Games made with Unity: July 2026 in review",
-    "translated_title": "2026년 7월 Unity 게임 리뷰",
-    "link": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
-    "date": "2026-08-03",
-    "summary": [
-      "2026년 7월에 출시된 Unity 기반 게임들을 소개합니다.",
-      "Unity 커뮤니티의 최신 창작물을 확인해보세요."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Apple is getting this wrong",
-    "translated_title": "애플, 이번엔 잘못 짚었다",
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "date": "2026-08-03",
-    "summary": [
-      "OpenAI, 애플의 근거 없는 소송에 반박.",
-      "직원 관련 허위 주장 정정 및 사건 경위 문서 공개."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "translated_title": "6개월 만에 반응성 있는 음성 AI를 위한 실시간 시스템 구축 방법",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "date": "2026-08-03",
-    "summary": [
-      "GPT-Live는 턴리스(turnless) 음성 모델과 저지연 아키텍처를 활용합니다.",
-      "이를 통해 AI와 끊김 없이 자연스러운 음성 상호작용이 가능해집니다.",
-      "더 빠르고 자연스러운 대화를 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "translated_title": "Circles, OpenAI 기술로 통신사 개인화 강화",
-    "link": "https://openai.com/index/circles",
-    "date": "2026-08-03",
-    "summary": [
-      "Circles는 OpenAI API와 Codex를 활용하여 AI 기반 통신 경험을 제공합니다.",
-      "이를 통해 ARPU 22% 증가, 이탈률 9% 감소, 개발 효율성 향상을 달성했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Silent Hill: Townfall gets deep into its protagonist's headspace",
-    "translated_title": "사일런트 힐: 타운폴, 주인공의 정신세계를 깊이 파고드는 방법",
-    "link": "https://www.gamedeveloper.com/design/how-silent-hill-townfall-gets-deep-into-its-protagonist-s-headspace",
-    "date": "2026-08-03",
-    "summary": [
-      "아날로그 호러를 채택하고 플레이어 몰입도를 높이는 새로운 시점에 대해 이야기합니다.",
-      "사일런트 힐 시리즈 프로듀서와 게임 디렉터가 참여했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: FIFA World Cup developer Refactor Games shuttered by Delphi Interactive",
-    "translated_title": "보도: FIFA 월드컵 개발사 Refactor Games, Delphi Interactive에 의해 폐업",
-    "link": "https://www.gamedeveloper.com/production/report-refactor-games-shuttered-by-delphi-interactive",
-    "date": "2026-08-03",
-    "summary": [
-      "FIFA 월드컵 시뮬레이터 게임 개발사 Refactor Games가 Delphi Interactive에 의해 문을 닫았습니다.",
-      "해당 게임은 지난 6월 넷플릭스로 출시되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox hardware now costs a lot more in the UK and Europe",
-    "translated_title": "영국 및 유럽에서 Xbox 하드웨어 가격 대폭 인상",
-    "link": "https://www.gamedeveloper.com/business/xbox-hardware-now-costs-a-lot-more-in-the-uk-and-europe",
-    "date": "2026-08-03",
-    "summary": [
-      "영국 및 유럽에서 Xbox 하드웨어 가격이 인상되었습니다.",
-      "일부 콘솔 하드웨어 가격은 최대 50%까지 오를 것으로 예상됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "PlayStation 5 sales have topped 95 million units worldwide",
-    "translated_title": "플레이스테이션 5, 전 세계 판매량 9,500만 대 돌파",
-    "link": "https://www.gamedeveloper.com/business/playstation-5-sales-have-topped-95-million-units-worldwide",
-    "date": "2026-08-03",
-    "summary": [
-      "플레이스테이션 5(PS5) 누적 판매량 9,500만 대를 돌파했습니다.",
-      "소니는 미국 관세 환급으로 5억 1,000만 달러 이상을 확보했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-    "translated_title": "NVIDIA의 AI, 인간 모방만으로는 부족한 이유를 배우다",
-    "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-    "date": "2026-08-02",
-    "summary": [
-      "NVIDIA의 AI는 인간의 행동을 단순히 모방하는 것을 넘어, 더 나은 성능을 위해 새로운 학습 방식을 개발하고 있습니다.",
-      "이 연구는 AI가 더 복잡하고 창의적인 작업을 수행할 수 있도록 하는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "translated_title": "수학 및 이론 컴퓨터 과학 분야의 10가지 최신 연구 성과",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "date": "2026-08-01",
-    "summary": [
-      "OpenAI가 수학 및 이론 컴퓨터 과학의 난제 해결에 기여했습니다.",
-      "기하학, 암호학, 복잡성 이론 등 다양한 분야에서 성과를 발표했습니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "EA clears US regulatory approvals in take-private deal",
-    "translated_title": "EA, '투트레이크 딜' 미국 규제 승인 획득",
-    "link": "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-have-been-cleared-for-its-take-private-deal",
-    "date": "2026-07-31",
-    "summary": [
-      "사우디아라비아의 EA 인수, 다음 주 최종 성사 전망",
-      "미국 규제 당국의 최종 승인 완료"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "translated_title": "유럽 전역의 책임감 있는 AI 발전",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "date": "2026-07-31",
-    "summary": [
-      "OpenAI는 안전, 보안, 투명성, 출처 추적 관행을 통해 유럽의 책임감 있는 AI 거버넌스를 지원합니다.",
-      "EU AI 법안이 진전됨에 따라 이러한 노력은 계속될 것입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   }
 ];
