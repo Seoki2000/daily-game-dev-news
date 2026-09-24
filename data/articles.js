@@ -45,6 +45,175 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
+    "translated_title": "Discord, '계정 신호' 기반 연령 확인 정책 재도입",
+    "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+    "date": "2026-09-23",
+    "summary": [
+      "Discord가 사용자 연령대 추정을 위한 '계정 신호' 기반 연령 확인 모델을 구축했습니다.",
+      "이 모델은 계정에서 수집되는 다양한 신호를 활용하여 연령대를 파악합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+    "translated_title": "베데스다 사장, 잇섭 직원들에게 '합병 후에도 창의적 정체성 유지될 것'",
+    "link": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+    "date": "2026-09-23",
+    "summary": [
+      "베데스다 사장 질 브래프, 잇섭과의 합병을 '주로 보고 체계 변화'라고 언급",
+      "이번 합병으로 잇섭의 창의적 정체성이 훼손되지 않을 것이라고 밝힘"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
+    "translated_title": "언데드 랩스, 엑스박스에서 분리 후 '상당한' 규모의 감원 단행",
+    "link": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+    "date": "2026-09-23",
+    "summary": [
+      "언데드 랩스가 엑스박스에서 분리되었습니다.",
+      "분리 이후 상당한 규모의 감원이 이루어졌습니다.",
+      "마이크로소프트는 올해 초 스튜디오 매각 의사를 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "date": "2026-09-23",
+    "summary": [
+      "NVIDIA Warp와 MjWarp를 사용하여 로보틱스 시뮬레이션 성능을 크게 향상시킬 수 있습니다.",
+      "이 기술은 학습 워크플로우의 속도를 높여 로보틱스 연구 및 개발을 가속화합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Two years of OpenAI Academy",
+    "translated_title": "OpenAI Academy 2주년: 더 많은 커뮤니티에 AI 기술 보급",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "date": "2026-09-23",
+    "summary": [
+      "OpenAI Academy 2주년을 기념하며",
+      "더 많은 지역사회에 AI 기술을 제공하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "translated_title": "OpenAI, 우크라이나 민간 방어를 위한 사이버 접근 지원 확대",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "date": "2026-09-23",
+    "summary": [
+      "OpenAI가 우크라이나 정부에 Daybreak 프로그램 접근 권한을 확대합니다.",
+      "이는 민간 기반 시설의 사이버 방어를 지원하기 위함입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "translated_title": "샘 알트만, 유엔 안전보장이사회 발언",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "date": "2026-09-23",
+    "summary": [
+      "오픈AI CEO 샘 알트만이 유엔 안보리에서 AI 안전, 인간의 통제, 국제 협력에 대해 논의했습니다.",
+      "AI 위험 관리와 책임 있는 개발을 위한 국제적 논의의 중요성을 강조했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "translated_title": "Harvey, GPT-6 Astra로 법률 문서 초안 강화",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "date": "2026-09-23",
+    "summary": [
+      "GPT-6 Astra는 법률 문서의 구조화 및 맥락 이해도를 높입니다.",
+      "변호사들은 전략 수립에 더 집중할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "translated_title": "invideo, GPT‑6 Astra로 색 보정 3배 향상하는 방법",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "date": "2026-09-23",
+    "summary": [
+      "GPT‑6 Astra를 사용하여 편집 정밀도 향상",
+      "색 보정 및 그레이딩 3배 개선",
+      "하루에 맞춤형 효과 50개 제작"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "translated_title": "개인 AI 컴퓨팅을 위한 안전한 서버 측 메모리 기반 고급 프라이빗 AI 연산",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "date": "2026-09-23",
+    "summary": [
+      "개인 AI를 위한 프라이빗 AI 컴퓨팅에 서버 측 메모리 도입.",
+      "보안을 강화하여 개인 정보 보호 기능을 향상시킴."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "translated_title": "Gemini 3.8, 텍스트 음성 변환으로 인사하다",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "date": "2026-09-23",
+    "summary": [
+      "Gemini 3.8의 텍스트 음성 변환 기능 소개",
+      "텍스트 음성 변환을 통해 '안녕'이라고 말하는 기능 시연"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "From simulation to real-world deployment: Unity Simulation Pro early access",
     "translated_title": "시뮬레이션부터 실제 배포까지: Unity Simulation Pro 얼리 액세스",
     "link": "https://unity.com/blog/unity-simulation-pro-early-access",
@@ -109,36 +278,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
-    "translated_title": "Xbox, Halo 스튜디오 정리해고 및 언데드 랩스 매각으로 '재정비' 지속",
-    "link": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
-    "date": "2026-09-22",
-    "summary": [
-      "Xbox가 Halo 스튜디오 인력 감축 및 언데드 랩스 매각을 통해 사업 재정비를 이어가고 있습니다.",
-      "Activision이 차기 Halo 타이틀을 개발하며, Ninja Theory 스튜디오는 폐쇄됩니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-    "translated_title": "GTA VI 출시 전, 락스타 게임즈가 밝힌 모딩 금지 규정",
-    "link": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-    "date": "2026-09-22",
-    "summary": [
-      "락스타 게임즈, GTA VI 출시 앞두고 모딩 규정 발표.",
-      "게임의 공식 스토리라인, 캐릭터 등 '확립된 연속성'은 모딩 금지 대상."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "translated_title": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법",
     "link": "https://huggingface.co/blog/evaleval-aisi",
@@ -183,6 +322,36 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
+    "translated_title": "Xbox, Halo 스튜디오 정리해고 및 언데드 랩스 매각으로 '재정비' 지속",
+    "link": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+    "date": "2026-09-22",
+    "summary": [
+      "Xbox가 Halo 스튜디오 인력 감축 및 언데드 랩스 매각을 통해 사업 재정비를 이어가고 있습니다.",
+      "Activision이 차기 Halo 타이틀을 개발하며, Ninja Theory 스튜디오는 폐쇄됩니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+    "translated_title": "GTA VI 출시 전, 락스타 게임즈가 밝힌 모딩 금지 규정",
+    "link": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+    "date": "2026-09-22",
+    "summary": [
+      "락스타 게임즈, GTA VI 출시 앞두고 모딩 규정 발표.",
+      "게임의 공식 스토리라인, 캐릭터 등 '확립된 연속성'은 모딩 금지 대상."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Better prompt caching for GPT-6",
@@ -249,21 +418,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
-    "translated_title": "번지, 스튜디오의 미래를 공개하며 '데스티니는 아직 끝나지 않았다'고 선언",
-    "link": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-    "date": "2026-09-21",
-    "summary": [
-      "번지는 데스티니가 스튜디오 미래의 초석임을 강조했습니다.",
-      "데스티니 시리즈는 앞으로도 계속 개발될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "translated_title": "물리학자처럼 LLM을 가지치기하기: 블록 제거를 아이징 최적화 문제로",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
@@ -278,6 +432,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
+    "translated_title": "번지, 스튜디오의 미래를 공개하며 '데스티니는 아직 끝나지 않았다'고 선언",
+    "link": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+    "date": "2026-09-21",
+    "summary": [
+      "번지는 데스티니가 스튜디오 미래의 초석임을 강조했습니다.",
+      "데스티니 시리즈는 앞으로도 계속 개발될 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "tokenizers v1: encode, decode and scaling, measured",
@@ -4426,169 +4595,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Candy Crush maker King has declined staff's collective bargaining agreement",
-    "translated_title": "캔디 크러쉬 개발사 킹, 직원 단체협약 제안 거부",
-    "link": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
-    "date": "2026-08-05",
-    "summary": [
-      "마이크로소프트 소유의 킹(King) 스튜디오가 직원들의 단체협약 제안을 거절했습니다.",
-      "회사는 현재 복지 제도가 단체협약에서 제시될 내용과 같거나 그 이상이라고 밝혔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Policymakers across Europe told to do more to support local game industry",
-    "translated_title": "유럽 정책 입안자들, 지역 게임 산업 지원 강화 필요",
-    "link": "https://www.gamedeveloper.com/production/policymakers-across-europe-told-to-do-more-to-support-game-industry",
-    "date": "2026-08-05",
-    "summary": [
-      "게임 산업의 생산 능력과 역동성이 필수적이며, 더 큰 활용이 필요합니다.",
-      "정부의 지원을 통해 게임 산업의 잠재력을 활용해야 합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Coffee Stain bullish despite underperformance of Deep Rock Galactic spinoff",
-    "translated_title": "커피스테인, 딥 락 갤럭틱 스핀오프 부진에도 불구하고 강세 전망",
-    "link": "https://www.gamedeveloper.com/business/coffee-stain-bullish-despite-underperformance-of-deep-rock-galactic-spinoff",
-    "date": "2026-08-05",
-    "summary": [
-      "커피스테인, 딥 락 갤럭틱 스핀오프의 저조한 성과에도 불구하고 긍정적인 전망을 유지하고 있습니다.",
-      "회사의 인기 로블록스 타이틀인 '웰컴 투 블록스버그'는 1분기에 210만 달러를 벌어들였습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "translated_title": "LFM2.5-2.6B로 로컬 에이전트를 어디든 배포하세요",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "date": "2026-08-04",
-    "summary": [
-      "LFM2.5-2.6B 모델을 사용하여 로컬 환경에 에이전트를 손쉽게 배포할 수 있습니다.",
-      "이 기술은 다양한 장소에서 에이전트를 유연하게 활용할 수 있도록 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "translated_title": "OpenAI 모델 관련 제3자 사이버 평가",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "date": "2026-08-04",
-    "summary": [
-      "OpenAI가 최근 제3자 사이버 보안 평가 중 발생한 사건들을 설명합니다.",
-      "AI 모델 테스트 및 평가 강화를 위한 새로운 안전 장치를 마련했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "translated_title": "ChatGPT Work 및 Codex를 활용한 새로운 학습 및 교육 방법",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "date": "2026-08-04",
-    "summary": [
-      "ChatGPT Work 및 Codex용 교육 플러그인을 소개합니다.",
-      "K-12 교사, 대학 교육자, 학생들의 학습, 교육, 연구, 개발을 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
-    "translated_title": "EA, 사우디아라비아와 트럼프 사위에게 인수되다",
-    "link": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
-    "date": "2026-08-04",
-    "summary": [
-      "EA가 550억 달러 규모의 거래로 비공개 기업이 되었습니다.",
-      "인수 주체에 사우디아라비아와 도널드 트럼프의 사위가 포함되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Devs raise $130,000 in just five days to support laid-off peers",
-    "translated_title": "개발자들, 해고된 동료 지원 위해 5일 만에 13만 달러 모금",
-    "link": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
-    "date": "2026-08-04",
-    "summary": [
-      "게임 업계 대규모 해고 사태 속에서 해고된 게임 노동자 지원을 위한 펀드 번들이 목표 금액의 절반 이상을 달성했습니다.",
-      "5일 만에 13만 달러(약 1억 7천만 원)가 모였으며, 현재 목표 금액은 20만 달러입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
-    "translated_title": "아동 안전 소송 속 로블록스, 디지털 안전 기준 마련 '지속 추진' 강조",
-    "link": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
-    "date": "2026-08-04",
-    "summary": [
-      "로블록스가 아동 안전 관련 소송에 직면한 가운데, 건강하고 안전하며 연령에 적합한 디지털 참여의 '글로벌 표준'을 설정하고 있다고 주장합니다.",
-      "회사는 이러한 노력이 지속적으로 이루어지고 있음을 강조하고 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
-    "translated_title": "EA, 사우디 딜 앞두고 지난 회계연도 실적 보고서에서 라이브 서비스 매출이 압도적",
-    "link": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
-    "date": "2026-08-04",
-    "summary": [
-      "EA의 지난 회계연도 실적에서 라이브 서비스 매출이 가장 큰 비중을 차지했습니다.",
-      "사우디 국부펀드 컨소시엄과의 인수 계약이 오늘 마무리될 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Another DeepSeek Moment Has Arrived",
-    "translated_title": "딥시크의 또 다른 순간이 찾아왔습니다",
-    "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-    "date": "2026-08-03",
-    "summary": [
-      "딥시크 v4 Flash 0731 모델 공개",
-      "Lambda GPU 클라우드 및 딥시크 API 소개"
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
   }
 ];
