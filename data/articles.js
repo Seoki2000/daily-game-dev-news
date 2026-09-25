@@ -45,6 +45,97 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Meta VR Glasses are coming. Build with Unity from day one.",
+    "translated_title": "Meta VR 안경 출시 임박, Unity로 즉시 개발 시작",
+    "link": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
+    "date": "2026-09-24",
+    "summary": [
+      "Unity 6.6, Meta VR 안경 개발에 대한 출시 첫날(Day-one) 지원 추가",
+      "OpenXR, XR Interaction Toolkit, XR Hands, 시선 추적, 쿼드 뷰 렌더링 기능 지원"
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
+    "translated_title": "메타, 무게 100g에 1,300달러짜리 신형 VR 헤드셋 발표",
+    "link": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+    "date": "2026-09-24",
+    "summary": [
+      "메타가 100g 무게의 신형 VR 헤드셋을 1,300달러에 출시합니다.",
+      "새로운 VR 헤드셋에는 테트리스 이펙트, 비트 세이버, 역전재판 게임이 포함될 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
+    "translated_title": "아발란체 스튜디오 전 최고 책임자 나탈리 프랜시스, 매시브 엔터테인먼트 총괄 매니저로 합류",
+    "link": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
+    "date": "2026-09-24",
+    "summary": [
+      "아발란체 스튜디오의 전 최고 책임자 나탈리 프랜시스가 매시브 엔터테인먼트의 총괄 매니저로 합류합니다.",
+      "그녀는 10월 1일부터 직책을 맡게 됩니다.",
+      "이는 토마스 안드렌이 크리에이티브 네트워크 총괄 매니저로 임명된 후 이루어졌습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Irish Game Fund expands with additional funding pathways",
+    "translated_title": "아일랜드 게임 펀드, 추가 펀딩 경로 확대",
+    "link": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+    "date": "2026-09-24",
+    "summary": [
+      "개발 펀드, 프로토타입 펀드, 출시 펀드 신설",
+      "지역 개발자들이 자금 지원받을 수 있게 됨"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "translated_title": "LFM2.5-VL-DSpark를 활용한 비전-언어 모델 가속화",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "date": "2026-09-24",
+    "summary": [
+      "LFM2.5-VL-DSpark를 사용하여 비전-언어 모델의 성능을 가속화합니다.",
+      "이 기술은 모델의 효율성과 속도를 향상시키는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "translated_title": "Gemini 3.8 라이브, 라이브 아바타와 함께 출시",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "date": "2026-09-24",
+    "summary": [
+      "Gemini 3.8이 라이브 아바타 기능과 함께 출시되었습니다.",
+      "주요 기능 및 업데이트에 대한 소개가 있을 것으로 예상됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
     "translated_title": "Discord, '계정 신호' 기반 연령 확인 정책 재도입",
     "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
@@ -67,22 +158,6 @@ const allArticlesData = [
     "summary": [
       "베데스다 사장 질 브래프, 잇섭과의 합병을 '주로 보고 체계 변화'라고 언급",
       "이번 합병으로 잇섭의 창의적 정체성이 훼손되지 않을 것이라고 밝힘"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-    "translated_title": "언데드 랩스, 엑스박스에서 분리 후 '상당한' 규모의 감원 단행",
-    "link": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-    "date": "2026-09-23",
-    "summary": [
-      "언데드 랩스가 엑스박스에서 분리되었습니다.",
-      "분리 이후 상당한 규모의 감원이 이루어졌습니다.",
-      "마이크로소프트는 올해 초 스튜디오 매각 의사를 밝혔습니다."
     ],
     "tags": [
       "GameDev",
@@ -214,6 +289,22 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
+    "translated_title": "언데드 랩스, 엑스박스에서 분리 후 '상당한' 규모의 감원 단행",
+    "link": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+    "date": "2026-09-23",
+    "summary": [
+      "언데드 랩스가 엑스박스에서 분리되었습니다.",
+      "분리 이후 상당한 규모의 감원이 이루어졌습니다.",
+      "마이크로소프트는 올해 초 스튜디오 매각 의사를 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "From simulation to real-world deployment: Unity Simulation Pro early access",
     "translated_title": "시뮬레이션부터 실제 배포까지: Unity Simulation Pro 얼리 액세스",
     "link": "https://unity.com/blog/unity-simulation-pro-early-access",
@@ -245,37 +336,6 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
-    "translated_title": "‘매우 단순하게 유지하고 싶습니다’: Nex Playground, 하드웨어 위기 속에서 예상을 뛰어넘는 성과를 거둔 비결",
-    "link": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
-    "date": "2026-09-22",
-    "summary": [
-      "Nex Playground는 마진 확보를 통해 소프트웨어 투자를 지속하고 있습니다.",
-      "소프트웨어 비용은 매년 상당히 증가하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
-    "translated_title": "이스케이프 프롬 타르코프 개발사, 신규 퍼블리싱 통해 '위험한' 게임에 투자 원해",
-    "link": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
-    "date": "2026-09-22",
-    "summary": [
-      "이스케이프 프롬 타르코프 개발사인 배틀스테이트 게임즈가 신규 퍼블리싱 사업을 시작합니다.",
-      "이들은 '하드코어' 게임에 대한 퍼블리싱 지원을 제공할 계획입니다.",
-      "이를 통해 '위험 부담이 큰' 게임들에 대한 투자를 모색하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
@@ -322,6 +382,37 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
+    "translated_title": "‘매우 단순하게 유지하고 싶습니다’: Nex Playground, 하드웨어 위기 속에서 예상을 뛰어넘는 성과를 거둔 비결",
+    "link": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+    "date": "2026-09-22",
+    "summary": [
+      "Nex Playground는 마진 확보를 통해 소프트웨어 투자를 지속하고 있습니다.",
+      "소프트웨어 비용은 매년 상당히 증가하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
+    "translated_title": "이스케이프 프롬 타르코프 개발사, 신규 퍼블리싱 통해 '위험한' 게임에 투자 원해",
+    "link": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+    "date": "2026-09-22",
+    "summary": [
+      "이스케이프 프롬 타르코프 개발사인 배틀스테이트 게임즈가 신규 퍼블리싱 사업을 시작합니다.",
+      "이들은 '하드코어' 게임에 대한 퍼블리싱 지원을 제공할 계획입니다.",
+      "이를 통해 '위험 부담이 큰' 게임들에 대한 투자를 모색하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
@@ -4502,97 +4593,6 @@ const allArticlesData = [
     "tags": [
       "AI",
       "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Halo Studios jettisons long-serving contractors after launch of Halo: Campaign Evolved",
-    "translated_title": "헤일로 스튜디오, '헤일로: 캠페인 에볼브드' 출시 후 장기 계약직원 대거 해고",
-    "link": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
-    "date": "2026-08-06",
-    "summary": [
-      "헤일로 스튜디오가 '헤일로: 캠페인 에볼브드' 출시 후 계약직원들을 해고했습니다.",
-      "해고된 인원 중 일부는 워싱턴 스튜디오에서 수년간 근무해왔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar wants you to pay Netflix to watch the next GTA VI trailer before it's released to the masses",
-    "translated_title": "락스타, GTA VI 트레일러 사전 공개를 위해 넷플릭스 유료 시청 요구",
-    "link": "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix-to-watch-the-next-gta-vi-trailer",
-    "date": "2026-08-06",
-    "summary": [
-      "GTA VI의 '확장 미리보기' 트레일러가 넷플릭스에서 6시간 독점 공개됩니다.",
-      "이후 유튜브 등 다른 플랫폼에도 공개될 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Devolver wants to delist because indie publishing is not 'compatible' with public trading",
-    "translated_title": "인디 게임 퍼블리셔 Devolver, 상장 폐지 고려… \"상장 기업으로서의 사업 운영과 맞지 않다\"",
-    "link": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
-    "date": "2026-08-06",
-    "summary": [
-      "Devolver는 인디 게임 사업의 장기적이고 지속적인 수익 흐름이 현재 주식 시장의 평가 방식과 맞지 않는다고 주장합니다.",
-      "이러한 '가치 평가 괴리' 때문에 회사는 상장 폐지를 고려하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The Billion Dollar AI Race Just Broke",
-    "translated_title": "수십억 달러 규모의 AI 경쟁이 깨졌다",
-    "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-    "date": "2026-08-05",
-    "summary": [
-      "Qwen 3.8 Max 모델이 공개되었습니다.",
-      "Lambda GPU 클라우드 서비스가 소개되었습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "The 3D as 2D sample project, Bunny Blitz, is available now",
-    "translated_title": "3D를 2D처럼 구현한 샘플 프로젝트, Bunny Blitz 출시",
-    "link": "https://unity.com/blog/the-3d-as-2d-sample-project,-bunny-blitz,-is-available-now",
-    "date": "2026-08-05",
-    "summary": [
-      "3D 그래픽을 2D처럼 보이게 하는 샘플 프로젝트 'Bunny Blitz'가 출시되었습니다.",
-      "이 프로젝트를 통해 3D 환경에서 2D 게임 플레이를 구현하는 방법을 배울 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Publisher Secret Mode opens development studio to support internal projects",
-    "translated_title": "퍼블리셔 시크릿 모드, 자체 프로젝트 지원 위한 개발 스튜디오 설립",
-    "link": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
-    "date": "2026-08-05",
-    "summary": [
-      "퍼블리셔 시크릿 모드가 자체 프로젝트 지원을 위해 개발 스튜디오를 설립했습니다.",
-      "이는 시크릿 모드가 독립 후 소수 직원을 해고한 지 1년 만에 나온 소식입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
     ],
     "source": "gamedeveloper"
   }
