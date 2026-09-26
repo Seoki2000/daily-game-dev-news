@@ -45,6 +45,51 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+    "translated_title": "GDC 사이드 퀘스트: 샘 칼라일과 함께 공동 개발 기회 탐색",
+    "link": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+    "date": "2026-09-25",
+    "summary": [
+      "XDS Spark 공동 창립자 샘 칼라일과 GDC 축제 마케팅 매니저 베스 엘더킨이 공동 개발의 진화에 대해 논의합니다.",
+      "본 영상은 공동 개발의 현재와 미래에 대한 통찰력을 제공합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+    "translated_title": "'직원들이 힘을 합쳐 만들어내는 힘을 보여줍니다:' King, 노조와 단체협약 체결",
+    "link": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+    "date": "2026-09-25",
+    "summary": [
+      "King이 노조와 단체협약(collective bargaining agreement)을 체결했습니다.",
+      "이는 King, 게임 산업, 그리고 스웨덴 모델에 중요한 진전입니다."
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "translated_title": "Codex로 Proaction, 매출 60% 증대 및 75시간 이상 절감",
+    "link": "https://openai.com/index/proaction",
+    "date": "2026-09-25",
+    "summary": [
+      "Codex, GPT-Live-1, GPT-6 Astra를 활용하여 Proaction이 현대적인 차량 관리 시스템 구축, 운영, 판매 속도를 높였습니다.",
+      "이를 통해 매출이 60% 증가하고 75시간 이상의 업무 시간을 절약했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Meta VR Glasses are coming. Build with Unity from day one.",
     "translated_title": "Meta VR 안경 출시 임박, Unity로 즉시 개발 시작",
     "link": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
@@ -136,36 +181,6 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
-    "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
-    "translated_title": "Discord, '계정 신호' 기반 연령 확인 정책 재도입",
-    "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-    "date": "2026-09-23",
-    "summary": [
-      "Discord가 사용자 연령대 추정을 위한 '계정 신호' 기반 연령 확인 모델을 구축했습니다.",
-      "이 모델은 계정에서 수집되는 다양한 신호를 활용하여 연령대를 파악합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-    "translated_title": "베데스다 사장, 잇섭 직원들에게 '합병 후에도 창의적 정체성 유지될 것'",
-    "link": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-    "date": "2026-09-23",
-    "summary": [
-      "베데스다 사장 질 브래프, 잇섭과의 합병을 '주로 보고 체계 변화'라고 언급",
-      "이번 합병으로 잇섭의 창의적 정체성이 훼손되지 않을 것이라고 밝힘"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -243,22 +258,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "translated_title": "invideo, GPT‑6 Astra로 색 보정 3배 향상하는 방법",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "date": "2026-09-23",
-    "summary": [
-      "GPT‑6 Astra를 사용하여 편집 정밀도 향상",
-      "색 보정 및 그레이딩 3배 개선",
-      "하루에 맞춤형 효과 50개 제작"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Advancing Private AI Compute with secure, server-side memory",
     "translated_title": "개인 AI 컴퓨팅을 위한 안전한 서버 측 메모리 기반 고급 프라이빗 AI 연산",
     "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -287,6 +286,52 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
+    "translated_title": "Discord, '계정 신호' 기반 연령 확인 정책 재도입",
+    "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+    "date": "2026-09-23",
+    "summary": [
+      "Discord가 사용자 연령대 추정을 위한 '계정 신호' 기반 연령 확인 모델을 구축했습니다.",
+      "이 모델은 계정에서 수집되는 다양한 신호를 활용하여 연령대를 파악합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+    "translated_title": "베데스다 사장, 잇섭 직원들에게 '합병 후에도 창의적 정체성 유지될 것'",
+    "link": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+    "date": "2026-09-23",
+    "summary": [
+      "베데스다 사장 질 브래프, 잇섭과의 합병을 '주로 보고 체계 변화'라고 언급",
+      "이번 합병으로 잇섭의 창의적 정체성이 훼손되지 않을 것이라고 밝힘"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "translated_title": "invideo, GPT‑6 Astra로 색 보정 3배 향상하는 방법",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "date": "2026-09-23",
+    "summary": [
+      "GPT‑6 Astra를 사용하여 편집 정밀도 향상",
+      "색 보정 및 그레이딩 3배 개선",
+      "하루에 맞춤형 효과 50개 제작"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
@@ -4549,51 +4594,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "translated_title": "청소년 정신 건강 및 AI 관련 미국 심리학회와의 협력",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "date": "2026-08-06",
-    "summary": [
-      "OpenAI와 미국 심리학회가 협력하여 청소년 정신 건강과 AI의 책임감 있는 사용을 위한 증거 기반 지침 및 자료를 개발합니다.",
-      "양측은 AI 사용에 대한 안전 조치를 강화하는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "translated_title": "질문에서 실행으로: 전 세계가 ChatGPT를 어떻게 활용하고 있는가",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "date": "2026-08-06",
-    "summary": [
-      "OpenAI의 새로운 데이터는 ChatGPT의 전 세계적 활용 현황을 보여줍니다.",
-      "국가별 도입률, 사용 추세, 변화하는 행동 양식에 대한 인사이트를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Unity sells Supersonic publishing business to Tripledot for $40M",
-    "translated_title": "유니티, 슈퍼소닉 퍼블리싱 사업 4천만 달러에 트리플닷에 매각",
-    "link": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
-    "date": "2026-08-06",
-    "summary": [
-      "트리플닷이 유니티의 슈퍼소닉 퍼블리싱 사업부를 4천만 달러에 인수했습니다.",
-      "이번 인수로 트리플닷은 AI 시대 게임 산업에서의 입지를 강화하고 이스라엘의 인재를 확보할 계획입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
