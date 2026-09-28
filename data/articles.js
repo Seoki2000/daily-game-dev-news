@@ -45,6 +45,22 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
+    "translated_title": "RUST LTD, H3 VR 게임의 깊이 있는 총기 시뮬레이션을 구축한 방법",
+    "link": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
+    "date": "2026-09-25",
+    "summary": [
+      "H3 VR 게임의 엔진을 Unity ECS 기반으로 재구축했습니다.",
+      "맞춤형 총기 물리 및 퀘스트 3 프레임 예산 최적화에 집중했습니다.",
+      "개발 효율성을 높이는 에디터 툴링을 도입했습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
     "translated_title": "GDC 사이드 퀘스트: 샘 칼라일과 함께 공동 개발 기회 탐색",
     "link": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
@@ -4579,20 +4595,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "translated_title": "ChatGPT의 GPT-5.6 Sol 개선 및 무료 사용자 대상 GPT-5.6 Luna 접근성 확대",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "date": "2026-08-06",
-    "summary": [
-      "ChatGPT, GPT-5.6 Sol 정확도 및 일관성 향상",
-      "무료 사용자 대상 GPT-5.6 Luna 접근성 확대 및 무제한 일상 대화 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   }
 ];
