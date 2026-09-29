@@ -45,6 +45,113 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Scaling Scritchy Scratchy across platforms",
+    "translated_title": "Scritchy Scratchy, Unity로 다양한 플랫폼으로 확장하기",
+    "link": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
+    "date": "2026-09-28",
+    "summary": [
+      "Unity를 사용하여 PC, 모바일, 닌텐도 스위치 등 여러 플랫폼으로 게임을 이식했습니다.",
+      "이식 과정에서 성능과 촉감적인 게임플레이를 유지하는 데 중점을 두었습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
+    "translated_title": "마이크로소프트 CEO, 3년간 5,750명 이상 해고 후 Xbox는 '간소화' 중이라고 밝혀",
+    "link": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+    "date": "2026-09-28",
+    "summary": [
+      "마이크로소프트는 3년간 5,750명 이상의 직원을 해고했습니다.",
+      "Xbox 사업 부문은 '간소화' 과정을 거치고 있다고 CEO가 언급했습니다.",
+      "더블 파인, 컴펄션, 탱고 게임웍스 등 주요 스튜디오를 매각하거나 폐쇄했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "translated_title": "Holo4: 범용 컴퓨터 사용 에이전트 구동",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "date": "2026-09-28",
+    "summary": [
+      "Holo4는 다양한 일반 컴퓨터 작업을 수행할 수 있는 에이전트입니다.",
+      "범용적인 컴퓨터 사용 에이전트로서의 Holo4의 능력을 탐구합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How we will do better for Australia",
+    "translated_title": "호주를 위해 더 나은 방법을 모색합니다",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "date": "2026-09-28",
+    "summary": [
+      "OpenAI, 호주 정부 웹사이트 관련 사고에 대해 사과했습니다.",
+      "호주의 사이버 방어 강화를 위한 강력한 안전 장치와 지원을 약속했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "translated_title": "렌페스트 연구소, OpenAI 지원 확대로 주요 프로그램 성장",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "date": "2026-09-28",
+    "summary": [
+      "OpenAI, 렌페스트 AI 협력 및 펠로우십 프로그램에 500만 달러 지원",
+      "추가로 500만 달러 규모의 소프트웨어 크레딧 및 엔지니어링 지원 제공"
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Are you a Codex Original?",
+    "translated_title": "당신은 코덱스 오리지널인가요?",
+    "link": "https://openai.com/form/codex-originals",
+    "date": "2026-09-28",
+    "summary": [
+      "Codex를 활용하여 놀라운 성과를 이룬 빌더, 연구자, 창작자들의 실제 이야기를 모집합니다.",
+      "Codex Originals 프로그램의 다음 챕터에 참여하고 싶다면, 여러분의 이야기와 프로젝트를 공유해 주세요."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "translated_title": "GPT-6 Astra, Basis의 세금 워크북 작성 시간 2배 단축",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "date": "2026-09-28",
+    "summary": [
+      "GPT-6 Astra, 50페이지 분량의 세금 워크북 작성 시간 GPT-5.6 Sol 대비 2배 단축",
+      "사용자 의도 이해 능력 강화로 실제 활용에 대한 Basis의 신뢰도 향상"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
     "translated_title": "RUST LTD, H3 VR 게임의 깊이 있는 총기 시뮬레이션을 구축한 방법",
     "link": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
@@ -152,21 +259,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Irish Game Fund expands with additional funding pathways",
-    "translated_title": "아일랜드 게임 펀드, 추가 펀딩 경로 확대",
-    "link": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
-    "date": "2026-09-24",
-    "summary": [
-      "개발 펀드, 프로토타입 펀드, 출시 펀드 신설",
-      "지역 개발자들이 자금 지원받을 수 있게 됨"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "translated_title": "LFM2.5-VL-DSpark를 활용한 비전-언어 모델 가속화",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -197,6 +289,21 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Irish Game Fund expands with additional funding pathways",
+    "translated_title": "아일랜드 게임 펀드, 추가 펀딩 경로 확대",
+    "link": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+    "date": "2026-09-24",
+    "summary": [
+      "개발 펀드, 프로토타입 펀드, 출시 펀드 신설",
+      "지역 개발자들이 자금 지원받을 수 있게 됨"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -211,6 +318,36 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "translated_title": "개인 AI 컴퓨팅을 위한 안전한 서버 측 메모리 기반 고급 프라이빗 AI 연산",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "date": "2026-09-23",
+    "summary": [
+      "개인 AI를 위한 프라이빗 AI 컴퓨팅에 서버 측 메모리 도입.",
+      "보안을 강화하여 개인 정보 보호 기능을 향상시킴."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "translated_title": "Gemini 3.8, 텍스트 음성 변환으로 인사하다",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "date": "2026-09-23",
+    "summary": [
+      "Gemini 3.8의 텍스트 음성 변환 기능 소개",
+      "텍스트 음성 변환을 통해 '안녕'이라고 말하는 기능 시연"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Two years of OpenAI Academy",
@@ -272,36 +409,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "translated_title": "개인 AI 컴퓨팅을 위한 안전한 서버 측 메모리 기반 고급 프라이빗 AI 연산",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "date": "2026-09-23",
-    "summary": [
-      "개인 AI를 위한 프라이빗 AI 컴퓨팅에 서버 측 메모리 도입.",
-      "보안을 강화하여 개인 정보 보호 기능을 향상시킴."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "translated_title": "Gemini 3.8, 텍스트 음성 변환으로 인사하다",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "date": "2026-09-23",
-    "summary": [
-      "Gemini 3.8의 텍스트 음성 변환 기능 소개",
-      "텍스트 음성 변환을 통해 '안녕'이라고 말하는 기능 시연"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
@@ -4485,111 +4592,6 @@ const allArticlesData = [
     "summary": [
       "GTA V가 2억 3천만 장 이상 판매되었습니다.",
       "이는 세 세대에 걸친 콘솔 판매량입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "What devs need to know about localization, ft. Concha Fernandez Alvarez, Aurelie Perrin, and Guido Di Carlo",
-    "translated_title": "개발자가 로컬라이제이션에 대해 알아야 할 모든 것 (Concha Fernandez Alvarez, Aurelie Perrin, Guido Di Carlo 참여)",
-    "link": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
-    "date": "2026-08-07",
-    "summary": [
-      "게임 로컬라이제이션 시 로컬라이저와 협업하는 방법",
-      "개발자를 위한 언어 현지화의 핵심 정보"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EA taken private by Saudi Arabia, GTA marketing jumps the shark, and Devolver's huge mistake - Patch Notes #64",
-    "translated_title": "EA, 사우디아라비아에 인수? GTA 마케팅 과장, 데볼버의 큰 실수 - 패치 노트 #64",
-    "link": "https://www.gamedeveloper.com/business/ea-taken-private-by-saudi-arabia-gta-marketing-jumps-the-shark-and-devolver-s-huge-mistake-patch-notes-64",
-    "date": "2026-08-07",
-    "summary": [
-      "EA가 사우디아라비아에 인수될 가능성에 대한 내용.",
-      "GTA 마케팅이 과도하게 느껴진다는 분석.",
-      "데볼버 디지털의 중대한 실책에 대한 언급."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "translated_title": "차세대 핵심 사이버 역량에 대한 대응",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "date": "2026-08-07",
-    "summary": [
-      "OpenAI는 Astra의 초기 사이버 보안 평가 결과를 공유합니다.",
-      "보안 조치 및 통제 강화를 위한 진행 상황을 설명합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "translated_title": "HSP GRUPPE, 세무 자문에 AI 역량을 구축하는 방법",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "date": "2026-08-07",
-    "summary": [
-      "HSP GRUPPE는 ChatGPT Enterprise를 활용합니다.",
-      "이를 통해 생산성 향상, 업무 품질 개선, 세무 자문 및 고객 서비스 역량 강화에 기여합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "translated_title": "WeatherNext: AI 모델, 사이클론 예측 분야 획기적 성과 달성",
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "date": "2026-08-06",
-    "summary": [
-      "AI 모델 WeatherNext가 사이클론 예측 정확도를 크게 향상시켰습니다.",
-      "이 모델은 기존 예측 방식의 한계를 극복하는 획기적인 기술을 선보입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "translated_title": "Hugging Face 추론 제공자에서의 Baseten",
-    "link": "https://huggingface.co/blog/baseten",
-    "date": "2026-08-06",
-    "summary": [
-      "Baseten은 Hugging Face의 추론 제공자 중 하나입니다.",
-      "이 기능은 모델 배포 및 추론을 더욱 간소화합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Nintendo Switch 2 hardware sales are down 34.4 percent year-on-year",
-    "translated_title": "닌텐도 스위치 2 하드웨어 판매량 전년 대비 34.4% 감소",
-    "link": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
-    "date": "2026-08-06",
-    "summary": [
-      "닌텐도 스위치 2 하드웨어 판매량이 전년 동기 대비 34.4% 하락했습니다.",
-      "이러한 판매량 감소에도 불구하고 닌텐도는 연간 하드웨어 판매량 전망을 그대로 유지했습니다."
     ],
     "tags": [
       "News"
