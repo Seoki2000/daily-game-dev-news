@@ -45,6 +45,159 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
+    "translated_title": "Steam의 할인 및 이벤트 탭, 곧 알고리즘 기반으로 전면 개편",
+    "link": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+    "date": "2026-09-29",
+    "summary": [
+      "Steam이 할인 및 이벤트 탭에 대한 대규모 변경 사항을 발표했습니다.",
+      "이번 변경으로 플레이어에게 표시되는 게임 목록이 달라집니다.",
+      "새로운 기능은 알고리즘을 통해 게임 추천 방식을 개선할 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+    "translated_title": "다잉 라이트 프랜차이즈 총괄, 블로버팀 호러 레이블 '브로큰 미러 게임즈' 합류",
+    "link": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+    "date": "2026-09-29",
+    "summary": [
+      "다잉 라이트 프랜차이즈의 전 총괄이 블로버팀의 신규 호러 레이블 '브로큰 미러 게임즈'에 합류했습니다.",
+      "개발자, 스튜디오, 창작자를 대상으로 흥미로운 호러 프로젝트 제보를 받고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Naughty Dog is working on new The Last Of Us 'projects'",
+    "translated_title": "너티 독, 새로운 '더 라스트 오브 어스' 프로젝트 작업 중",
+    "link": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+    "date": "2026-09-29",
+    "summary": [
+      "너티 독은 '인터갤럭틱' 완료 후 차기작을 예고했습니다.",
+      "이는 '더 라스트 오브 어스' 관련 새로운 프로젝트를 의미합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
+    "translated_title": "Control 개발팀, 과도한 '노란색 페인트' 지양해야 하는 이유 설명",
+    "link": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+    "date": "2026-09-29",
+    "summary": [
+      "게임 내 요소에 대한 플레이어의 결정권을 보장해야 합니다.",
+      "플레이어가 직접 세계를 탐험하고 상호작용하는 경험을 중요시합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
+    "translated_title": "'계속해서 역량을 초과했습니다': Arc Raiders 개발사 임원, 성공이 번아웃으로 이어졌다고 밝혀",
+    "link": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+    "date": "2026-09-29",
+    "summary": [
+      "Arc Raiders 개발사 Embark의 임원 Aleksander Grøndal이 성공이 직원 번아웃으로 이어졌다고 인정했습니다.",
+      "Embark는 수백만 명의 플레이어 요구와 직원 복지 사이의 균형을 맞추는 데 어려움을 겪고 있다고 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "translated_title": "NVIDIA Kumo Tabular, 표 형식 예측의 정확도-효율성 새로운 지평을 열다",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "date": "2026-09-29",
+    "summary": [
+      "NVIDIA Kumo Tabular는 표 형식 데이터 예측에서 정확성과 효율성 모두에서 새로운 기준을 제시합니다.",
+      "이는 기존 모델의 한계를 뛰어넘는 혁신적인 성능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "translated_title": "단순 사실 확인을 넘어: MCP 에이전트를 위한 출처 인지 검증",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "date": "2026-09-29",
+    "summary": [
+      "MCP 에이전트의 검증에 있어 사실 자체뿐만 아니라 정보의 출처를 함께 고려하는 것이 중요함을 강조합니다.",
+      "이러한 '출처 인지 검증' 방식은 에이전트의 신뢰성과 정확성을 높일 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "translated_title": "GPT-6.1 Sol 소개",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "date": "2026-09-29",
+    "summary": [
+      "GPT-6.1 Sol이 출시되었습니다.",
+      "코딩, 컴퓨터 사용, 전문 업무에 Near-Astra 수준의 지능을 제공합니다.",
+      "Astra API의 1/5 가격으로 이용 가능합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "translated_title": "OpenAI DevDay 2026 리뷰",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "date": "2026-09-29",
+    "summary": [
+      "OpenAI DevDay 2026의 20개 이상의 주요 발표 내용 소개",
+      "GPT-6 Astra, ChatGPT, Codex, API, 보안 및 개발자 도구 등 다룸"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing dots",
+    "translated_title": "OpenAI의 새로운 도우미, Dots 소개",
+    "link": "https://openai.com/index/introducing-dots",
+    "date": "2026-09-29",
+    "summary": [
+      "Dots는 복잡한 프로젝트와 일상 업무 전반에 걸쳐 작업을 지속하는 능동적인 조수입니다.",
+      "Dots를 통해 업무는 진행되면서도 사용자는 통제력을 유지할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Scaling Scritchy Scratchy across platforms",
     "translated_title": "Scritchy Scratchy, Unity로 다양한 플랫폼으로 확장하기",
     "link": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
@@ -58,22 +211,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
-    "translated_title": "마이크로소프트 CEO, 3년간 5,750명 이상 해고 후 Xbox는 '간소화' 중이라고 밝혀",
-    "link": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-    "date": "2026-09-28",
-    "summary": [
-      "마이크로소프트는 3년간 5,750명 이상의 직원을 해고했습니다.",
-      "Xbox 사업 부문은 '간소화' 과정을 거치고 있다고 CEO가 언급했습니다.",
-      "더블 파인, 컴펄션, 탱고 게임웍스 등 주요 스튜디오를 매각하거나 폐쇄했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "Holo4: powering generalist computer-use agents",
@@ -91,6 +228,21 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Towards safety cases for frontier AI training",
+    "translated_title": "최첨단 AI 훈련을 위한 안전 사례 구축을 향하여",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "date": "2026-09-28",
+    "summary": [
+      "최첨단 AI 훈련에 대한 초기 안전 사례 가이드라인을 제시합니다.",
+      "기술적 안전 장치, 운영 관행, 불일치 사건 조사를 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "How we will do better for Australia",
     "translated_title": "호주를 위해 더 나은 방법을 모색합니다",
     "link": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -104,6 +256,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
+    "translated_title": "마이크로소프트 CEO, 3년간 5,750명 이상 해고 후 Xbox는 '간소화' 중이라고 밝혀",
+    "link": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+    "date": "2026-09-28",
+    "summary": [
+      "마이크로소프트는 3년간 5,750명 이상의 직원을 해고했습니다.",
+      "Xbox 사업 부문은 '간소화' 과정을 거치고 있다고 CEO가 언급했습니다.",
+      "더블 파인, 컴펄션, 탱고 게임웍스 등 주요 스튜디오를 매각하거나 폐쇄했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -229,36 +397,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
-    "translated_title": "메타, 무게 100g에 1,300달러짜리 신형 VR 헤드셋 발표",
-    "link": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-    "date": "2026-09-24",
-    "summary": [
-      "메타가 100g 무게의 신형 VR 헤드셋을 1,300달러에 출시합니다.",
-      "새로운 VR 헤드셋에는 테트리스 이펙트, 비트 세이버, 역전재판 게임이 포함될 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
-    "translated_title": "아발란체 스튜디오 전 최고 책임자 나탈리 프랜시스, 매시브 엔터테인먼트 총괄 매니저로 합류",
-    "link": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
-    "date": "2026-09-24",
-    "summary": [
-      "아발란체 스튜디오의 전 최고 책임자 나탈리 프랜시스가 매시브 엔터테인먼트의 총괄 매니저로 합류합니다.",
-      "그녀는 10월 1일부터 직책을 맡게 됩니다.",
-      "이는 토마스 안드렌이 크리에이티브 네트워크 총괄 매니저로 임명된 후 이루어졌습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "translated_title": "LFM2.5-VL-DSpark를 활용한 비전-언어 모델 가속화",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -289,6 +427,36 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
+    "translated_title": "메타, 무게 100g에 1,300달러짜리 신형 VR 헤드셋 발표",
+    "link": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+    "date": "2026-09-24",
+    "summary": [
+      "메타가 100g 무게의 신형 VR 헤드셋을 1,300달러에 출시합니다.",
+      "새로운 VR 헤드셋에는 테트리스 이펙트, 비트 세이버, 역전재판 게임이 포함될 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
+    "translated_title": "아발란체 스튜디오 전 최고 책임자 나탈리 프랜시스, 매시브 엔터테인먼트 총괄 매니저로 합류",
+    "link": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
+    "date": "2026-09-24",
+    "summary": [
+      "아발란체 스튜디오의 전 최고 책임자 나탈리 프랜시스가 매시브 엔터테인먼트의 총괄 매니저로 합류합니다.",
+      "그녀는 10월 1일부터 직책을 맡게 됩니다.",
+      "이는 토마스 안드렌이 크리에이티브 네트워크 총괄 매니저로 임명된 후 이루어졌습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Irish Game Fund expands with additional funding pathways",
     "translated_title": "아일랜드 게임 펀드, 추가 펀딩 경로 확대",
     "link": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
@@ -302,22 +470,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "date": "2026-09-23",
-    "summary": [
-      "NVIDIA Warp와 MjWarp를 사용하여 로보틱스 시뮬레이션 성능을 크게 향상시킬 수 있습니다.",
-      "이 기술은 학습 워크플로우의 속도를 높여 로보틱스 연구 및 개발을 가속화합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Advancing Private AI Compute with secure, server-side memory",
@@ -348,6 +500,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "date": "2026-09-23",
+    "summary": [
+      "NVIDIA Warp와 MjWarp를 사용하여 로보틱스 시뮬레이션 성능을 크게 향상시킬 수 있습니다.",
+      "이 기술은 학습 워크플로우의 속도를 높여 로보틱스 연구 및 개발을 가속화합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Two years of OpenAI Academy",
@@ -4428,174 +4596,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "translated_title": "GPT-5.6 Sol 기반 ML 모델, 금융 업무 효율성 증대",
-    "link": "https://openai.com/index/model-ml",
-    "date": "2026-08-10",
-    "summary": [
-      "ML 모델이 GPT-5.6 Sol을 활용하여 금융 업무를 수행합니다.",
-      "연구, 분석부터 편집 가능한 PowerPoint 및 Excel 작업물까지 전 과정에 적용됩니다.",
-      "업무 효율성 향상에 기여합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "What building an AI-native finance function taught me",
-    "translated_title": "AI 네이티브 금융 기능을 구축하며 배운 점",
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "date": "2026-08-10",
-    "summary": [
-      "OpenAI CFO 사라 프라이어가 AI 네이티브 금융 기능 구축에 대한 5가지 교훈 공유",
-      "자동화된 예측, 강화된 통제, AI ROI 등 주요 내용 포함"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The video game site backed by Walmart has laid off its editorial team",
-    "translated_title": "월마트의 지원을 받는 게임 웹사이트, 편집팀 해고",
-    "link": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
-    "date": "2026-08-10",
-    "summary": [
-      "월마트 지원 게임 웹사이트 Restart, 5명 규모 편집팀 해고.",
-      "Restart는 2024년 12월에 출시되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EVE Online studio hires former Icelandic minister to lead autonomous AI efforts",
-    "translated_title": "EVE Online 개발사, 자율 AI 부문 이끌 전 아이슬란드 장관 영입",
-    "link": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
-    "date": "2026-08-10",
-    "summary": [
-      "EVE Online 개발사 Fenris Creations가 자율 AI 부문을 이끌기 위해 전 아이슬란드 장관을 영입했습니다.",
-      "Fenris Creations는 올해 초 독립했으며, 구글로부터 소수 지분 투자를 유치했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
-    "translated_title": "유니티, AI 광고 플랫폼으로 '역대 최고 분기' 달성",
-    "link": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
-    "date": "2026-08-10",
-    "summary": [
-      "유니티의 수익이 Unity Vector AI의 수익 덕분에 전년 대비 24% 성장했습니다.",
-      "Unity Vector AI가 유니티 실적 호조의 핵심 요인으로 작용했습니다."
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "translated_title": "사이버 방어 시간이 좁혀짐에 따라 Daybreak 확장",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "date": "2026-08-10",
-    "summary": [
-      "OpenAI는 사이버 보안 전문 모델인 GPT-5.6-Cyber를 출시했습니다.",
-      "이 모델은 Daybreak Red를 통해 인증된 취약점 연구, 익스플로잇 검증 및 보안 테스트에 사용 가능합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "translated_title": "최첨단 사이버 모델을 더욱 신뢰할 수 있는 파트너에게 제공",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "date": "2026-08-10",
-    "summary": [
-      "승인된 Daybreak 파트너가 OpenAI의 최첨단 사이버 모델을 활용할 수 있습니다.",
-      "이를 통해 고객에게 승인되고 관리되는 사이버 보안 서비스를 제공할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DeepMind Just Changed How AI Sees The World",
-    "translated_title": "DeepMind, AI가 세상을 보는 방식을 바꾸다",
-    "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-    "date": "2026-08-07",
-    "summary": [
-      "DeepMind가 AI의 시각 인지 방식을 혁신하는 연구를 발표했습니다.",
-      "Gemma4 논문 및 관련 정보를 소개합니다.",
-      "Lambda GPU 클라우드를 홍보하며, Patreon 후원자들에게 감사를 표합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "translated_title": "튜터모먼트: AI 튜터는 언제 돕고 언제 멈춰야 할까요?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "date": "2026-08-07",
-    "summary": [
-      "AI 튜터가 학습자에게 개입해야 할 시점을 파악하는 것이 중요합니다.",
-      "적절한 시점에 개입하는 것은 학습 효과를 높이는 데 기여합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Pushing the limits in Simulating a City, One Page at a Time",
-    "translated_title": "도시 시뮬레이션의 한계를 넘어서: 단 한 페이지의 디자인으로",
-    "link": "https://www.gamedeveloper.com/design/pushing-the-limits-in-simulating-a-city-one-page-at-a-time",
-    "date": "2026-08-07",
-    "summary": [
-      "SimCity (2013)의 디자인 과정을 다룹니다.",
-      "유명 디자이너 Stone Librande의 경험을 공유합니다.",
-      "한 페이지 디자인 패러다임을 탐구합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "GTA V surpasses 230 million sales months before GTA VI touches down",
-    "translated_title": "GTA V, GTA VI 출시 몇 달 앞두고 2억 3천만 장 판매 돌파",
-    "link": "https://www.gamedeveloper.com/business/gta-v-surpasses-230-million-sales-months-before-gta-vi-touches-down",
-    "date": "2026-08-07",
-    "summary": [
-      "GTA V가 2억 3천만 장 이상 판매되었습니다.",
-      "이는 세 세대에 걸친 콘솔 판매량입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
