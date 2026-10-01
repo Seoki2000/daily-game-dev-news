@@ -29,6 +29,114 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
+    "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
+    "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+    "date": "2026-09-30",
+    "summary": [
+      "스다 51의 Grasshopper Manufacture가 넷이즈로부터 분사했습니다.",
+      "그는 다시 한번 독립적으로 게임 개발에 나섭니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+    "translated_title": "유비소프트 몬트리올 직원들, 하이브리드 근무제 유지를 위한 집단 행동 개시",
+    "link": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+    "date": "2026-09-30",
+    "summary": [
+      "유비소프트 몬트리올 직원들이 하이브리드 근무제 유지를 요구하고 나섰습니다.",
+      "이들의 첫 번째 행동은 청원서 제출입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "translated_title": "Open TTS 리더보드: 다국어 TTS 및 음성 복제를 위한 확장 가능한 평가",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "date": "2026-09-30",
+    "summary": [
+      "다국어 텍스트 음성 변환(TTS) 및 음성 복제 성능을 평가하는 확장 가능한 시스템인 Open TTS 리더보드를 소개합니다.",
+      "리더보드는 다양한 TTS 모델을 비교하고 순위를 매기는 데 사용될 수 있습니다.",
+      "연구자와 개발자들이 TTS 기술 발전에 기여할 수 있는 플랫폼을 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "translated_title": "협력적인 모델 증류 캠페인 방해",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "date": "2026-09-30",
+    "summary": [
+      "OpenAI는 보호된 모델 추론 추출 시도를 성공적으로 방해했습니다.",
+      "AI 모델을 보호하기 위한 방어 체계를 강화하고 있습니다.",
+      "적대적 증류 공격에 대한 대응책을 모색 중입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Helping small businesses put AI to work",
+    "translated_title": "소상공인을 위한 AI 활용 지원",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "date": "2026-09-30",
+    "summary": [
+      "OpenAI와 America's SBDC가 협력하여 소상공인을 위한 AI 교육 및 현장 지원 확대",
+      "소규모 팀의 AI 활용에 대한 새로운 보고서 발표"
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "translated_title": "Gemini 4 Argon: 차세대 프론티어 인텔리전스의 시작",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "date": "2026-09-30",
+    "summary": [
+      "Gemini 4 Argon은 차세대 프론티어 인텔리전스를 선보입니다.",
+      "AI 기술의 새로운 시대를 열 것으로 기대됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing SynthID Bio",
+    "translated_title": "SynthID Bio 소개",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "date": "2026-09-30",
+    "summary": [
+      "AI 생성 단백질 워터마킹 개념 증명",
+      "생물학적 기능 보존을 유지하며 워터마킹 가능"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "CICD Made Easier with Unity CLI",
     "translated_title": "Unity CLI로 CICD를 더욱 쉽게",
     "link": "https://unity.com/blog/cicd-made-easier-with-unity-cli",
@@ -83,36 +191,6 @@ const allArticlesData = [
     "summary": [
       "너티 독은 '인터갤럭틱' 완료 후 차기작을 예고했습니다.",
       "이는 '더 라스트 오브 어스' 관련 새로운 프로젝트를 의미합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
-    "translated_title": "Control 개발팀, 과도한 '노란색 페인트' 지양해야 하는 이유 설명",
-    "link": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-    "date": "2026-09-29",
-    "summary": [
-      "게임 내 요소에 대한 플레이어의 결정권을 보장해야 합니다.",
-      "플레이어가 직접 세계를 탐험하고 상호작용하는 경험을 중요시합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-    "translated_title": "'계속해서 역량을 초과했습니다': Arc Raiders 개발사 임원, 성공이 번아웃으로 이어졌다고 밝혀",
-    "link": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-    "date": "2026-09-29",
-    "summary": [
-      "Arc Raiders 개발사 Embark의 임원 Aleksander Grøndal이 성공이 직원 번아웃으로 이어졌다고 인정했습니다.",
-      "Embark는 수백만 명의 플레이어 요구와 직원 복지 사이의 균형을 맞추는 데 어려움을 겪고 있다고 밝혔습니다."
     ],
     "tags": [
       "GameDev",
@@ -196,6 +274,36 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
+    "translated_title": "Control 개발팀, 과도한 '노란색 페인트' 지양해야 하는 이유 설명",
+    "link": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+    "date": "2026-09-29",
+    "summary": [
+      "게임 내 요소에 대한 플레이어의 결정권을 보장해야 합니다.",
+      "플레이어가 직접 세계를 탐험하고 상호작용하는 경험을 중요시합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
+    "translated_title": "'계속해서 역량을 초과했습니다': Arc Raiders 개발사 임원, 성공이 번아웃으로 이어졌다고 밝혀",
+    "link": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+    "date": "2026-09-29",
+    "summary": [
+      "Arc Raiders 개발사 Embark의 임원 Aleksander Grøndal이 성공이 직원 번아웃으로 이어졌다고 인정했습니다.",
+      "Embark는 수백만 명의 플레이어 요구와 직원 복지 사이의 균형을 맞추는 데 어려움을 겪고 있다고 밝혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Scaling Scritchy Scratchy across platforms",
@@ -381,22 +489,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Meta VR Glasses are coming. Build with Unity from day one.",
-    "translated_title": "Meta VR 안경 출시 임박, Unity로 즉시 개발 시작",
-    "link": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
-    "date": "2026-09-24",
-    "summary": [
-      "Unity 6.6, Meta VR 안경 개발에 대한 출시 첫날(Day-one) 지원 추가",
-      "OpenXR, XR Interaction Toolkit, XR Hands, 시선 추적, 쿼드 뷰 렌더링 기능 지원"
-    ],
-    "tags": [
-      "GameDev",
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "translated_title": "LFM2.5-VL-DSpark를 활용한 비전-언어 모델 가속화",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -425,6 +517,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Meta VR Glasses are coming. Build with Unity from day one.",
+    "translated_title": "Meta VR 안경 출시 임박, Unity로 즉시 개발 시작",
+    "link": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
+    "date": "2026-09-24",
+    "summary": [
+      "Unity 6.6, Meta VR 안경 개발에 대한 출시 첫날(Day-one) 지원 추가",
+      "OpenXR, XR Interaction Toolkit, XR Hands, 시선 추적, 쿼드 뷰 렌더링 기능 지원"
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
@@ -4492,109 +4600,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Ubisoft Barcelona devs launch Dark Ritual Studios",
-    "translated_title": "우버소프트 바르셀로나 전 개발자들이 다크 리추얼 스튜디오 설립",
-    "link": "https://www.gamedeveloper.com/business/former-ubisoft-barcelona-devs-launch-dark-ritual-studios",
-    "date": "2026-08-11",
-    "summary": [
-      "우버소프트 바르셀로나 지부 51명 해고 발생",
-      "전 우버소프트 개발자들이 독립하여 스튜디오 설립"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Remedy Entertainment touts pricing Control Resonant 'attractively for an AAA title'",
-    "translated_title": "레메디 엔터테인먼트, '컨트롤 레조넌트' AAA 타이틀 가격을 '매력적으로' 책정했다고 주장",
-    "link": "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing-control-resonant-attractively-for-an-aaa-title-",
-    "date": "2026-08-11",
-    "summary": [
-      "레메디는 '컨트롤 레조넌트'의 가격을 60달러로 책정했습니다.",
-      "회사는 자체 퍼블리싱 위험보다 긍정적인 사전 보도를 기대하고 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Supermassive Games begins third round of layoffs in three years",
-    "translated_title": "슈퍼매시브 게임즈, 3년 만에 세 번째 정리해고 시작",
-    "link": "https://www.gamedeveloper.com/business/supermassive-games-begins-third-round-of-layoffs-in-three-years",
-    "date": "2026-08-11",
-    "summary": [
-      "영국 개발사 슈퍼매시브 게임즈에서 최대 75명 감축 예정입니다.",
-      "이는 3년 내 세 번째 대규모 정리해고입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "translated_title": "NVIDIA Magpie TTS로 구축하는 저지연 다국어 음성 에이전트: 오픈 웨이트 및 완전한 배포 제어",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "date": "2026-08-10",
-    "summary": [
-      "NVIDIA Magpie TTS를 사용하여 저지연 다국어 음성 에이전트를 구축합니다.",
-      "오픈 웨이트와 완전한 배포 제어를 통해 유연성을 확보합니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "translated_title": "대규모 적용을 위한 저렴한 지식 증류 방법",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "date": "2026-08-10",
-    "summary": [
-      "지식 증류를 대규모로 실행 가능하도록 비용 효율성을 높이는 방법을 설명합니다.",
-      "저렴한 지식 증류를 통해 AI 모델을 더 넓은 범위에 적용할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "translated_title": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 구축에 관한 서한 전달",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "date": "2026-08-10",
-    "summary": [
-      "OpenAI는 텍사스 내 책임 있는 AI 인프라 구축에 대한 의지를 담은 서한을 주지사에게 보냈습니다.",
-      "서한은 텍사스 주민들에게 이익이 되는 신뢰할 수 있고 투명한 성장을 지지합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "translated_title": "메타, 로컬, 에이전트, 멀티모달, 오픈소스 AI 'Muse Glimmer' 재출시",
-    "link": "https://huggingface.co/blog/muse-glimmer",
-    "date": "2026-08-10",
-    "summary": [
-      "메타가 'Muse Glimmer'라는 AI 모델을 재출시했습니다.",
-      "Muse Glimmer는 로컬 환경에서 구동되며, 에이전트 기능, 멀티모달 지원, 오픈소스 특징을 갖췄습니다.",
-      "새로운 버전은 이전 모델보다 개선된 기능을 제공할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
