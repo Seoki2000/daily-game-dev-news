@@ -29,6 +29,97 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "translated_title": "AutoSynthData: 엔터프라이즈 에이전트 학습 데이터 자동 생성",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "date": "2026-10-02",
+    "summary": [
+      "AutoSynthData는 엔터프라이즈 에이전트 학습을 위한 데이터를 자동으로 생성하는 기술입니다.",
+      "이 기술은 학습 데이터 생성 과정을 효율화하여 에이전트 개발을 가속화합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "'Xbox is not for sale,' CEO Asha Sharma says",
+    "translated_title": "“Xbox, 판매 불가” CEO 아샤 샤르마 발언",
+    "link": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+    "date": "2026-10-01",
+    "summary": [
+      "Xbox는 현재 판매되지 않는다고 CEO가 밝혔다.",
+      "새 CEO는 뉴욕 타임스와의 인터뷰에서 이 발언을 했다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "translated_title": "Olmo-core 3 소개: 대규모 MoE를 위한 개방적이고 확장 가능한 학습 인프라",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "date": "2026-10-01",
+    "summary": [
+      "Olmo-core 3는 대규모 MoE(Mixture-of-Experts) 모델을 위한 학습 인프라입니다.",
+      "개방적이며 확장 가능한 설계를 특징으로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The eternal complement",
+    "translated_title": "영원한 조력자",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "date": "2026-10-01",
+    "summary": [
+      "혁신적인 아이디어의 이면에 있는 루틴 작업에 AI가 중요할 수 있습니다.",
+      "실행력이 다음 경제와 발전 속도를 어떻게 형성할지 탐구합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "translated_title": "Albertsons Companies, AI로 내부 혁신을 통한 리테일의 미래를 재구상하다",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "date": "2026-10-01",
+    "summary": [
+      "Albertsons는 ChatGPT Enterprise와 OpenAI API를 활용하여 업무 효율성을 높이고 있습니다.",
+      "이를 통해 수백만 명의 고객에게 더욱 편리한 식료품 쇼핑 경험을 제공하고자 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "translated_title": "The Den, ChatGPT로 주당 10-15시간 절약하고 성장하다",
+    "link": "https://openai.com/index/the-den-family-social",
+    "date": "2026-10-01",
+    "summary": [
+      "The Den은 ChatGPT를 활용하여 업무 시간을 크게 단축했습니다.",
+      "신규 지점 개설 시, 보조금 신청서를 3일에서 2시간으로, 주류 면허 관련 서류를 4일에서 3시간으로 처리했습니다.",
+      "이를 통해 연간 10-15시간의 업무 시간을 절약하여 사업 성장에 집중할 수 있게 되었습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
     "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
     "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
@@ -184,21 +275,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Naughty Dog is working on new The Last Of Us 'projects'",
-    "translated_title": "너티 독, 새로운 '더 라스트 오브 어스' 프로젝트 작업 중",
-    "link": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-    "date": "2026-09-29",
-    "summary": [
-      "너티 독은 '인터갤럭틱' 완료 후 차기작을 예고했습니다.",
-      "이는 '더 라스트 오브 어스' 관련 새로운 프로젝트를 의미합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "translated_title": "NVIDIA Kumo Tabular, 표 형식 예측의 정확도-효율성 새로운 지평을 열다",
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -227,6 +303,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Naughty Dog is working on new The Last Of Us 'projects'",
+    "translated_title": "너티 독, 새로운 '더 라스트 오브 어스' 프로젝트 작업 중",
+    "link": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+    "date": "2026-09-29",
+    "summary": [
+      "너티 독은 '인터갤럭틱' 완료 후 차기작을 예고했습니다.",
+      "이는 '더 라스트 오브 어스' 관련 새로운 프로젝트를 의미합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Introducing GPT-6.1 Sol",
@@ -4507,98 +4598,5 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "OpenAI’s AI Agents Just Crossed A Line",
-    "translated_title": "OpenAI의 AI 에이전트가 선을 넘다",
-    "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
-    "date": "2026-08-11",
-    "summary": [
-      "OpenAI의 AI 에이전트가 보안 사고에 연루되었습니다.",
-      "Hugging Face 모델 평가 보안 사고 및 에이전트 침입에 대한 기술 보고서가 공개되었습니다.",
-      "Lambda GPU Cloud를 홍보하며 관련 기술 보고서 링크를 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "translated_title": "ACE에 대해 생각 중이신가요? 더 적은 토큰으로 해낼 수 있습니다.",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "date": "2026-08-11",
-    "summary": [
-      "토큰/시간 절약을 위해 길이 제한을 두세요.",
-      "ACE 모델 활용 시 효율적인 토큰 사용을 강조합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "translated_title": "ChatGPT 광고 테스트 시작",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-08-11",
-    "summary": [
-      "무료 접근 지원을 위한 ChatGPT 광고 테스트 시작",
-      "광고는 명확하게 표시되며 답변과 독립적",
-      "강력한 개인 정보 보호 및 사용자 제어 기능 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "translated_title": "Daybreak 모델, AWS에서 사용 가능",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "date": "2026-08-11",
-    "summary": [
-      "OpenAI와 AWS가 Daybreak 사이버 보안 기능을 Amazon Bedrock을 통해 제공합니다.",
-      "기업 보안 워크플로우를 지원하기 위함입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
-    "translated_title": "크로스파이어 개발사 That's No Moon, 14명 감원 소식",
-    "link": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
-    "date": "2026-08-11",
-    "summary": [
-      "크로스파이어 개발사 That's No Moon에서 14명의 직원을 해고했습니다.",
-      "크로스파이어는 올해 6월 스마일게이트와 텐센트 자회사 팀 K1이 퍼블리싱을 맡아 공개되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Three indie horror publishers faced sexual harassment claims – what comes next?",
-    "translated_title": "인디 호러 퍼블리셔 3곳, 성희롱 의혹 제기... 앞으로는?",
-    "link": "https://www.gamedeveloper.com/production/three-indie-horror-publishers-faced-sexual-harassment-claims-what-comes-next-",
-    "date": "2026-08-11",
-    "summary": [
-      "인디 개발자 보호 및 부적절한 행동 고발 시스템 부재",
-      "업계 내에서 누가 인디 개발자를 보호할 것인가에 대한 의문 제기"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
