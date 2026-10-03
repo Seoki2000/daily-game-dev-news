@@ -29,6 +29,54 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "From attention to action: why the state of play matters for marketers",
+    "translated_title": "관심에서 행동으로: 현황이 마케터에게 중요한 이유",
+    "link": "https://unity.com/blog/mobile-gaming-attention-economy-driving-marketing-performance",
+    "date": "2026-10-02",
+    "summary": [
+      "파편화된 미디어 환경에서 '현황'은 마케터에게 중요합니다.",
+      "모바일 게임이 높은 품질의 관심을 어떻게 확보하여 측정 가능한 마케팅 성과를 이끌어내는지 알아보세요."
+    ],
+    "tags": [
+      "News",
+      "Unity",
+      "Research"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
+    "translated_title": "Reigns 개발사 Nerial, '휴면 모드' 진입 및 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+    "date": "2026-10-02",
+    "summary": [
+      "Reigns 시리즈를 개발한 Nerial 스튜디오가 운영을 중단합니다.",
+      "이번 조치는 일시적인 '휴면 모드' 진입으로 인한 것입니다.",
+      "운영 중단과 함께 직원 해고도 이루어졌습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "translated_title": "Asta의 빠른 보고서 생성 모델 AstaBrief, 오픈 소스 공개",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "date": "2026-10-02",
+    "summary": [
+      "Asta의 빠른 보고서 생성 모델인 AstaBrief을 오픈 소스로 공개했습니다.",
+      "이 모델은 개발자들이 더 빠르고 효율적으로 보고서를 생성하도록 돕습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "translated_title": "AutoSynthData: 엔터프라이즈 에이전트 학습 데이터 자동 생성",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -44,6 +92,69 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "A model guide for the GPT-6 family",
+    "translated_title": "GPT-6 모델 활용 가이드",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-02",
+    "summary": [
+      "스타트업을 위한 GPT-6 모델 선택 및 튜닝 방법",
+      "프롬프트 엔지니어링, 도구 통합, 생산 워크플로우 준비"
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "translated_title": "채텀, OpenAI로 자본 시장 전문성 강화",
+    "link": "https://openai.com/index/chatham-financial",
+    "date": "2026-10-02",
+    "summary": [
+      "채텀 파이낸셜, Codex와 GPT-5.6 활용 기술 개발 및 워크플로우 재설계",
+      "무역 검증 시간 30분에서 4분 이내로 단축"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Meeting you where you work: Unity Plugin for Grok Build",
+    "translated_title": "업무 현장으로 찾아가는 안내: Grok Build용 Unity 플러그인",
+    "link": "https://unity.com/blog/unity-plugin-grok",
+    "date": "2026-10-01",
+    "summary": [
+      "Grok Build에서 공식 Unity 플러그인을 사용할 수 있게 되었습니다.",
+      "터미널 명령어 하나로 30개 이상의 Unity 기반 스킬을 이용하세요.",
+      "Unity 6 이상 버전에서 지원됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Games made with Unity: September 2026 in review",
+    "translated_title": "유니티로 만든 게임: 2026년 8월 결산",
+    "link": "https://unity.com/blog/games-made-with-unity-september-2026-releases",
+    "date": "2026-10-01",
+    "summary": [
+      "유니티 커뮤니티의 최신 게임들을 소개합니다.",
+      "2026년 8월에 출시된 주목할 만한 유니티 게임 목록을 확인하세요."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "'Xbox is not for sale,' CEO Asha Sharma says",
     "translated_title": "“Xbox, 판매 불가” CEO 아샤 샤르마 발언",
     "link": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
@@ -56,21 +167,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "translated_title": "Olmo-core 3 소개: 대규모 MoE를 위한 개방적이고 확장 가능한 학습 인프라",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "date": "2026-10-01",
-    "summary": [
-      "Olmo-core 3는 대규모 MoE(Mixture-of-Experts) 모델을 위한 학습 인프라입니다.",
-      "개방적이며 확장 가능한 설계를 특징으로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "The eternal complement",
@@ -120,6 +216,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "translated_title": "Olmo-core 3 소개: 대규모 MoE를 위한 개방적이고 확장 가능한 학습 인프라",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "date": "2026-10-01",
+    "summary": [
+      "Olmo-core 3는 대규모 MoE(Mixture-of-Experts) 모델을 위한 학습 인프라입니다.",
+      "개방적이며 확장 가능한 설계를 특징으로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
     "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
     "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
@@ -165,6 +276,37 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "translated_title": "Gemini 4 Argon: 차세대 프론티어 인텔리전스의 시작",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "date": "2026-09-30",
+    "summary": [
+      "Gemini 4 Argon은 차세대 프론티어 인텔리전스를 선보입니다.",
+      "AI 기술의 새로운 시대를 열 것으로 기대됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing SynthID Bio",
+    "translated_title": "SynthID Bio 소개",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "date": "2026-09-30",
+    "summary": [
+      "AI 생성 단백질 워터마킹 개념 증명",
+      "생물학적 기능 보존을 유지하며 워터마킹 가능"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Disrupting a coordinated model-distillation campaign",
     "translated_title": "협력적인 모델 증류 캠페인 방해",
     "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -197,37 +339,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "translated_title": "Gemini 4 Argon: 차세대 프론티어 인텔리전스의 시작",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "date": "2026-09-30",
-    "summary": [
-      "Gemini 4 Argon은 차세대 프론티어 인텔리전스를 선보입니다.",
-      "AI 기술의 새로운 시대를 열 것으로 기대됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing SynthID Bio",
-    "translated_title": "SynthID Bio 소개",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "date": "2026-09-30",
-    "summary": [
-      "AI 생성 단백질 워터마킹 개념 증명",
-      "생물학적 기능 보존을 유지하며 워터마킹 가능"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "CICD Made Easier with Unity CLI",
     "translated_title": "Unity CLI로 CICD를 더욱 쉽게",
     "link": "https://unity.com/blog/cicd-made-easier-with-unity-cli",
@@ -244,6 +355,20 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Unity Announces External Dependency Manager Package",
+    "translated_title": "Unity, 외부 종속성 관리자 패키지 발표",
+    "link": "https://unity.com/blog/external-dependency-manager",
+    "date": "2026-09-29",
+    "summary": [
+      "Unity의 외부 종속성 관리자(EDM)가 Android 및 iOS SDK 종속성을 위해 EDM4U를 대체합니다."
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
     "translated_title": "Steam의 할인 및 이벤트 탭, 곧 알고리즘 기반으로 전면 개편",
     "link": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
@@ -255,21 +380,6 @@ const allArticlesData = [
     ],
     "tags": [
       "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-    "translated_title": "다잉 라이트 프랜차이즈 총괄, 블로버팀 호러 레이블 '브로큰 미러 게임즈' 합류",
-    "link": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
-    "date": "2026-09-29",
-    "summary": [
-      "다잉 라이트 프랜차이즈의 전 총괄이 블로버팀의 신규 호러 레이블 '브로큰 미러 게임즈'에 합류했습니다.",
-      "개발자, 스튜디오, 창작자를 대상으로 흥미로운 호러 프로젝트 제보를 받고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -303,6 +413,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+    "translated_title": "다잉 라이트 프랜차이즈 총괄, 블로버팀 호러 레이블 '브로큰 미러 게임즈' 합류",
+    "link": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+    "date": "2026-09-29",
+    "summary": [
+      "다잉 라이트 프랜차이즈의 전 총괄이 블로버팀의 신규 호러 레이블 '브로큰 미러 게임즈'에 합류했습니다.",
+      "개발자, 스튜디오, 창작자를 대상으로 흥미로운 호러 프로젝트 제보를 받고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Naughty Dog is working on new The Last Of Us 'projects'",
@@ -4474,129 +4599,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "translated_title": "지원에서 실행까지: 기업의 AI 활용 방안",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "date": "2026-08-12",
-    "summary": [
-      "기업들이 에이전트 AI를 도입하며 ChatGPT와 Codex를 활용하는 방식에 대해 OpenAI 연구 결과가 발표되었습니다.",
-      "프론티어 기업들이 AI 채택에서 앞서나가고 있음을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "translated_title": "RingCentral, AI 네이티브를 위한 엔지니어링부터 운영까지 구축하는 방법",
-    "link": "https://openai.com/index/ringcentral",
-    "date": "2026-08-12",
-    "summary": [
-      "RingCentral은 ChatGPT Work와 Codex를 활용합니다.",
-      "AI 제품 개발을 가속화하고 운영 인텔리전스를 중앙 집중화합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027",
-    "translated_title": "아마존, 2027년 초 로스트아크 및 쓰론 앤 리버티 퍼블리싱 역할 종료",
-    "link": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
-    "date": "2026-08-12",
-    "summary": [
-      "아마존 게임즈, 로스트아크와 쓰론 앤 리버티 퍼블리싱 중단 발표",
-      "MMORPG 장르의 두 게임, 개발사로 운영 복귀 예정",
-      "2027년 초까지 서비스 종료 또는 이관 완료 목표"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Developers expect generative AI to impact roles and team sizes in the next three years",
-    "translated_title": "개발자들은 생성형 AI가 향후 3년간 직무와 팀 규모에 영향을 미칠 것으로 예상",
-    "link": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
-    "date": "2026-08-12",
-    "summary": [
-      "올해 Gamescom Dev Conference 참가자 100명을 대상으로 한 설문조사 결과입니다.",
-      "개발자들은 생성형 AI 사용에 대해 망설임과 복합적인 감정을 보였습니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Meccha Chameleon tops 20M sales in two months",
-    "translated_title": "메차 카멜레온, 출시 두 달 만에 판매량 2000만 돌파",
-    "link": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
-    "date": "2026-08-12",
-    "summary": [
-      "인기 숨바꼭질 게임 '메차 카멜레온'이 출시 2개월 만에 2000만 건의 판매량을 기록했습니다.",
-      "숨바꼭질 게임으로서 꾸준히 높은 인기를 증명하고 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Epic Games sells ArtStation and Sketchfab to KitBash",
-    "translated_title": "에픽게임즈, 아트스테이션과 스케치팹을 킷배시에 매각",
-    "link": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
-    "date": "2026-08-12",
-    "summary": [
-      "에픽게임즈가 아트스테이션과 스케치팹을 킷배시에 매각했습니다.",
-      "두 플랫폼은 2021년에 에픽게임즈에 인수되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
-    "translated_title": "해고된 개발자마다 깃발 하나씩: Xbox 책임자 아샤 샤르마를 향한 노조원들의 놓칠 수 없는 시위",
-    "link": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
-    "date": "2026-08-12",
-    "summary": [
-      "노조원들이 Xbox 책임자를 향해 시위를 벌였습니다.",
-      "해고된 개발자 각자를 상징하는 깃발이 사용되었습니다.",
-      "거대한 풍선 쥐가 시위의 가시성을 높였습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "5 tips for using GitHub Copilot with Unity",
-    "translated_title": "Unity에서 GitHub Copilot 활용을 위한 5가지 팁",
-    "link": "https://unity.com/blog/5-tips-for-using-github-copilot-with-unity",
-    "date": "2026-08-11",
-    "summary": [
-      "GitHub Copilot을 Unity 개발에 효율적으로 적용하는 5가지 방법",
-      "코드 작성 생산성 향상을 위한 Copilot 활용 팁 제공"
-    ],
-    "tags": [
-      "Unity",
-      "AI",
-      "GameDev",
-      "Tutorial"
-    ],
-    "source": "Unity Blog RSS Feed"
   }
 ];
