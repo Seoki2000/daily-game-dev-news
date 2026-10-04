@@ -29,6 +29,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "translated_title": "상담원은 완료했다고 했지만, 데이터베이스는 동의하지 않았다.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "date": "2026-10-03",
+    "summary": [
+      "상담원의 말과 실제 데이터베이스 기록 간의 불일치가 발생했습니다.",
+      "이러한 오류는 잠재적으로 고객 서비스 및 데이터 무결성에 영향을 미칠 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "From attention to action: why the state of play matters for marketers",
     "translated_title": "관심에서 행동으로: 현황이 마케터에게 중요한 이유",
     "link": "https://unity.com/blog/mobile-gaming-attention-economy-driving-marketing-performance",
@@ -4578,21 +4593,6 @@ const allArticlesData = [
     "summary": [
       "OlmoEarth Studio에서 사용자 지정 임베딩을 내보낼 수 있게 되었습니다.",
       "이를 통해 다운스트림 분석 작업에 활용할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "translated_title": "LFM2.5-VL-3B: 엣지 디바이스를 위한 더 뛰어나고 빠른 비전 기능",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "date": "2026-08-12",
-    "summary": [
-      "LFM2.5-VL-3B 모델이 엣지 디바이스에서 비전 기능의 성능과 속도를 향상시킵니다.",
-      "더욱 발전된 비전 처리 능력을 제공하여 엣지 컴퓨팅의 효율성을 높입니다."
     ],
     "tags": [
       "AI",
