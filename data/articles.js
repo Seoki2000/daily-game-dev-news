@@ -29,6 +29,81 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
+    "translated_title": "백룸 공동 제작자가 아크 레이더스, 더 파이널스 TV/영화 각색 진행",
+    "link": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+    "date": "2026-10-05",
+    "summary": [
+      "엠바크 스튜디오의 멀티플레이어 슈팅 게임 '더 파이널스'와 '아크 레이더스'가 TV 및 영화로 각색됩니다.",
+      "이번 각색은 '백룸'의 공동 제작사가 담당합니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
+    "translated_title": "보도: 닌자 시어리, 엑스박스로부터 분사 실패 후 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+    "date": "2026-10-05",
+    "summary": [
+      "닌자 시어리가 엑스박스로부터 독립하는 데 실패했습니다.",
+      "이에 따라 스튜디오에서 직원 감축이 이루어지고 있다는 보도가 나왔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne",
+    "translated_title": "왜 아직도 몰입형 시뮬레이션 게임을 만드는 것이 가치 있는지: 하비 스미스 & 벤 호른",
+    "link": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+    "date": "2026-10-05",
+    "summary": [
+      "하비 스미스와 벤 호른이 블랙 포니 임머시브의 비전을 제시합니다.",
+      "과거 아케인 오스틴 출신의 두 개발자가 몰입형 시뮬레이션 게임의 미래를 논합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Our approach to EU text provenance rules",
+    "translated_title": "EU 텍스트 출처 규칙에 대한 OpenAI의 접근 방식",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "date": "2026-10-05",
+    "summary": [
+      "OpenAI는 EU 규정에 따라 텍스트 워터마킹 접근 방식을 설명합니다.",
+      "워터마크 적용 범위, 탐지 방식, 연구자 우선 접근 이유를 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "translated_title": "AI 사용 방식에 맞춘 광고 구축",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "date": "2026-10-05",
+    "summary": [
+      "OpenAI, ChatGPT에서 새로운 비주얼 광고 형식 도입",
+      "광고주를 위한 측정 도구, 기여 파트너십, 브랜드 적합성 확장"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "translated_title": "상담원은 완료했다고 했지만, 데이터베이스는 동의하지 않았다.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -246,35 +321,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
-    "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
-    "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
-    "date": "2026-09-30",
-    "summary": [
-      "스다 51의 Grasshopper Manufacture가 넷이즈로부터 분사했습니다.",
-      "그는 다시 한번 독립적으로 게임 개발에 나섭니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
-    "translated_title": "유비소프트 몬트리올 직원들, 하이브리드 근무제 유지를 위한 집단 행동 개시",
-    "link": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-    "date": "2026-09-30",
-    "summary": [
-      "유비소프트 몬트리올 직원들이 하이브리드 근무제 유지를 요구하고 나섰습니다.",
-      "이들의 첫 번째 행동은 청원서 제출입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
     "translated_title": "Open TTS 리더보드: 다국어 TTS 및 음성 복제를 위한 확장 가능한 평가",
     "link": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -320,6 +366,35 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
+    "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
+    "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+    "date": "2026-09-30",
+    "summary": [
+      "스다 51의 Grasshopper Manufacture가 넷이즈로부터 분사했습니다.",
+      "그는 다시 한번 독립적으로 게임 개발에 나섭니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+    "translated_title": "유비소프트 몬트리올 직원들, 하이브리드 근무제 유지를 위한 집단 행동 개시",
+    "link": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+    "date": "2026-09-30",
+    "summary": [
+      "유비소프트 몬트리올 직원들이 하이브리드 근무제 유지를 요구하고 나섰습니다.",
+      "이들의 첫 번째 행동은 청원서 제출입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Disrupting a coordinated model-distillation campaign",
@@ -370,6 +445,21 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "translated_title": "NVIDIA Kumo Tabular, 표 형식 예측의 정확도-효율성 새로운 지평을 열다",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "date": "2026-09-29",
+    "summary": [
+      "NVIDIA Kumo Tabular는 표 형식 데이터 예측에서 정확성과 효율성 모두에서 새로운 기준을 제시합니다.",
+      "이는 기존 모델의 한계를 뛰어넘는 혁신적인 성능을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Unity Announces External Dependency Manager Package",
     "translated_title": "Unity, 외부 종속성 관리자 패키지 발표",
     "link": "https://unity.com/blog/external-dependency-manager",
@@ -398,21 +488,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "translated_title": "NVIDIA Kumo Tabular, 표 형식 예측의 정확도-효율성 새로운 지평을 열다",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "date": "2026-09-29",
-    "summary": [
-      "NVIDIA Kumo Tabular는 표 형식 데이터 예측에서 정확성과 효율성 모두에서 새로운 기준을 제시합니다.",
-      "이는 기존 모델의 한계를 뛰어넘는 혁신적인 성능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -4523,81 +4598,5 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "translated_title": "초고속 모드 미리보기: GPT-5.6 Sol, 최대 14배 빠른 속도로",
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "date": "2026-08-13",
-    "summary": [
-      "OpenAI, GPT-5.6 Sol을 최대 14배 빠르게 실행하는 새로운 API 서비스 등급 'Ultrafast' 공개",
-      "Cerebras 기반으로 초당 최대 750개의 출력 토큰 제공",
-      "토큰/시간 절약을 위한 길이 제한 기능"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "translated_title": "OpenAI, 신임 최고매출책임자(CRO)에 달리 라직 임명",
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "date": "2026-08-13",
-    "summary": [
-      "OpenAI가 달리 라직을 최고매출책임자(CRO)로 임명했습니다.",
-      "그는 글로벌 매출 조직을 이끌고 기업들의 AI 가치 실현을 도울 것입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Opinion: Deprofessionalization could foster toxic work environments on small teams",
-    "translated_title": "의견: 비전문가화가 소규모 팀 내 독성 업무 환경을 조장할 수 있다",
-    "link": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
-    "date": "2026-08-13",
-    "summary": [
-      "소규모 팀의 성공이 커지면서 게임 산업은 전문적인 행동 기준을 어떻게 보호할 것인가?",
-      "비전문가화가 팀 내에서 부정적인 업무 환경을 야기할 우려가 있다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Putting sign language AI into users’ hands",
-    "translated_title": "수어 AI를 사용자에게 직접 제공하다",
-    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "date": "2026-08-12",
-    "summary": [
-      "청각 및 난청 사용자를 위한 새로운 수어 기능 개발",
-      "수어를 텍스트로 변환하는 혁신적인 SL2T 모델 소개"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "translated_title": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위한 OlmoEarth Studio의 맞춤형 임베딩 내보내기",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "date": "2026-08-12",
-    "summary": [
-      "OlmoEarth Studio에서 사용자 지정 임베딩을 내보낼 수 있게 되었습니다.",
-      "이를 통해 다운스트림 분석 작업에 활용할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
