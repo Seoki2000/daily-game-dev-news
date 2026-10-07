@@ -1,5 +1,21 @@
 const allArticlesData = [
   {
+    "title": "New for Unity Industry: Automotive HMI sample for embedded-style hardware",
+    "translated_title": "Unity 산업용 신기능: 임베디드 스타일 하드웨어를 위한 자동차 HMI 샘플",
+    "link": "https://unity.com/blog/unity-industry-hmi-template-for-embedded-systems",
+    "date": "2027-10-06",
+    "summary": [
+      "Unity에서 자동차 HMI(Human-Machine Interface) 샘플을 출시했습니다.",
+      "계기판, ADAS, 공조 장치, 도시 시뮬레이션 기능을 포함합니다.",
+      "제한된 임베디드 시스템을 대상으로 합니다."
+    ],
+    "tags": [
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "gamescom",
     "translated_title": "게임스컴",
     "link": "https://www.gamedeveloper.com/events/gamescom",
@@ -27,6 +43,144 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+    "translated_title": "게임스탑 등 소매업체, 중고 PS5 Pro를 정가 대비 66% 웃돈에 판매",
+    "link": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+    "date": "2026-10-06",
+    "summary": [
+      "고성능 PS5 콘솔이 높은 수요와 공급 부족으로 구하기 어려운 상황입니다.",
+      "현재 소매업체들은 정가보다 훨씬 높은 가격에 PS5 Pro를 판매하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+    "translated_title": "Unlead Labs 스튜디오 대표, 직원들에게 '무책임할 정도로 투명하게' 해고 준비시켰다고 밝혀",
+    "link": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+    "date": "2026-10-06",
+    "summary": [
+      "Unlead Labs 스튜디오 대표 Philip Holt는 해고가 임박했을 때 직원들에게 '믿을 수 없을 정도로 솔직하게' 이야기했다고 말했습니다.",
+      "그는 해고 과정을 앞두고 직원들에게 정보를 투명하게 공개했던 것이 오히려 '무책임했다'고 평가했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+    "translated_title": "협업 개발 사례 연구: Blackbird Interactive와 Secret Mode가 Escape the Backrooms를 백룸 붐에 태운 방법",
+    "link": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+    "date": "2026-10-06",
+    "summary": [
+      "Fancy의 히트작 'Escape The Backrooms'가 4백만 명 이상의 플레이어를 확보했습니다.",
+      "이는 Blackbird Interactive와 Secret Mode의 협업 개발 파트너십 덕분입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "translated_title": "팔콘-에미라티: LLM이 방언, 문화, 뉘앙스를 학습할 때",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "date": "2026-10-06",
+    "summary": [
+      "LLM(거대 언어 모델)이 특정 지역의 방언, 문화, 미묘한 차이를 학습하는 방법을 다룹니다.",
+      "이는 AI 모델의 현지화 및 문화적 이해도 향상에 대한 연구를 보여줍니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "translated_title": "점프 트레이딩, ChatGPT로 퀀트 리서치를 확장하는 방법",
+    "link": "https://openai.com/index/jump-trading",
+    "date": "2026-10-06",
+    "summary": [
+      "점프 트레이딩은 OpenAI의 ChatGPT를 활용하여 퀀트 리서치를 확장하고 있습니다.",
+      "더 긴 실행 시간의 AI 워크플로우는 여러 데이터 소스와 인간의 검토를 결합합니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Sharing AI progress in mathematics",
+    "translated_title": "OpenAI, 수학 분야 AI 연구 성과 공유",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "date": "2026-10-06",
+    "summary": [
+      "OpenAI가 자체 AI 모델을 활용해 수학 분야 난제 해결에 대한 새로운 결과를 발표했습니다.",
+      "해당 결과와 Lean 증명 형식화, 연구 세부 정보를 GitHub에 공개했습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "translated_title": "Ironclad와 함께하는 컴퓨터 사용의 진화",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "date": "2026-10-06",
+    "summary": [
+      "OpenAI와 Ironclad가 복잡한 계약 워크플로우에서 AI 에이전트를 훈련하고 평가합니다.",
+      "이를 통해 전문적인 업무에 컴퓨터 사용을 발전시킵니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "translated_title": "아틀라시안, OpenAI와 파트너십 확장으로 기업 지식을 실행으로 전환",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "date": "2026-10-06",
+    "summary": [
+      "아틀라시안과 OpenAI가 파트너십을 확대합니다.",
+      "기업의 지식을 최첨단 AI 모델과 연결합니다.",
+      "팀의 계획, 구축, 업무 수행을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06",
+    "summary": [
+      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
+      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
@@ -58,21 +212,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne",
-    "translated_title": "왜 아직도 몰입형 시뮬레이션 게임을 만드는 것이 가치 있는지: 하비 스미스 & 벤 호른",
-    "link": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-    "date": "2026-10-05",
-    "summary": [
-      "하비 스미스와 벤 호른이 블랙 포니 임머시브의 비전을 제시합니다.",
-      "과거 아케인 오스틴 출신의 두 개발자가 몰입형 시뮬레이션 게임의 미래를 논합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Our approach to EU text provenance rules",
     "translated_title": "EU 텍스트 출처 규칙에 대한 OpenAI의 접근 방식",
     "link": "https://openai.com/index/eu-text-provenance",
@@ -87,6 +226,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne",
+    "translated_title": "왜 아직도 몰입형 시뮬레이션 게임을 만드는 것이 가치 있는지: 하비 스미스 & 벤 호른",
+    "link": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+    "date": "2026-10-05",
+    "summary": [
+      "하비 스미스와 벤 호른이 블랙 포니 임머시브의 비전을 제시합니다.",
+      "과거 아케인 오스틴 출신의 두 개발자가 몰입형 시뮬레이션 게임의 미래를 논합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Building advertising for the way people use AI",
@@ -135,22 +289,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
-    "translated_title": "Reigns 개발사 Nerial, '휴면 모드' 진입 및 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-    "date": "2026-10-02",
-    "summary": [
-      "Reigns 시리즈를 개발한 Nerial 스튜디오가 운영을 중단합니다.",
-      "이번 조치는 일시적인 '휴면 모드' 진입으로 인한 것입니다.",
-      "운영 중단과 함께 직원 해고도 이루어졌습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "translated_title": "Asta의 빠른 보고서 생성 모델 AstaBrief, 오픈 소스 공개",
     "link": "https://huggingface.co/blog/allenai/astabrief",
@@ -180,6 +318,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
+    "translated_title": "Reigns 개발사 Nerial, '휴면 모드' 진입 및 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+    "date": "2026-10-02",
+    "summary": [
+      "Reigns 시리즈를 개발한 Nerial 스튜디오가 운영을 중단합니다.",
+      "이번 조치는 일시적인 '휴면 모드' 진입으로 인한 것입니다.",
+      "운영 중단과 함께 직원 해고도 이루어졌습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "A model guide for the GPT-6 family",
@@ -321,22 +475,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "translated_title": "Open TTS 리더보드: 다국어 TTS 및 음성 복제를 위한 확장 가능한 평가",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "date": "2026-09-30",
-    "summary": [
-      "다국어 텍스트 음성 변환(TTS) 및 음성 복제 성능을 평가하는 확장 가능한 시스템인 Open TTS 리더보드를 소개합니다.",
-      "리더보드는 다양한 TTS 모델을 비교하고 순위를 매기는 데 사용될 수 있습니다.",
-      "연구자와 개발자들이 TTS 기술 발전에 기여할 수 있는 플랫폼을 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "translated_title": "Gemini 4 Argon: 차세대 프론티어 인텔리전스의 시작",
     "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
@@ -366,6 +504,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "translated_title": "Open TTS 리더보드: 다국어 TTS 및 음성 복제를 위한 확장 가능한 평가",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "date": "2026-09-30",
+    "summary": [
+      "다국어 텍스트 음성 변환(TTS) 및 음성 복제 성능을 평가하는 확장 가능한 시스템인 Open TTS 리더보드를 소개합니다.",
+      "리더보드는 다양한 TTS 모델을 비교하고 순위를 매기는 데 사용될 수 있습니다.",
+      "연구자와 개발자들이 TTS 기술 발전에 기여할 수 있는 플랫폼을 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
@@ -4444,159 +4598,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "translated_title": "오픈 모델 현황: 2026년 여름 관찰",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "date": "2026-08-14",
-    "summary": [
-      "2026년 여름, 오픈 모델들의 현황을 다루고 있습니다.",
-      "주요 관찰 내용 및 동향을 요약합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65",
-    "translated_title": "스캐비 대 샤르마, 트위치의 GenAI 인정, 넷플릭스 스튜디오 추가 폐쇄 - 패치 노트 #65",
-    "link": "https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65",
-    "date": "2026-08-14",
-    "summary": [
-      "트위치의 GenAI 관련 입장 발표",
-      "넷플릭스의 스튜디오 추가 폐쇄 소식",
-      "그 외 게임 관련 긍정적 뉴스"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing Gemini 3.7 Flash",
-    "translated_title": "Gemini 3.7 Flash 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "date": "2026-08-13",
-    "summary": [
-      "Gemini 3.7 Flash 모델을 소개합니다.",
-      "주요 기능 및 특징을 요약합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "translated_title": "Strands Agents, LeRobot, Hugging Face 스토리지 버킷으로 한 곳에서 기록, 학습, 배포하기",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "date": "2026-08-13",
-    "summary": [
-      "Strands Agents, LeRobot, Hugging Face 스토리지 버킷을 활용합니다.",
-      "단일 플랫폼에서 로봇 데이터 기록, AI 모델 학습, 배포까지 가능합니다.",
-      "복잡한 AI 워크플로우를 간소화하여 효율성을 높입니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Netflix closing Oxenfree developer Night School Studio and Moonloot Games",
-    "translated_title": "넷플릭스, '옥센프리' 개발사 나이트 스쿨 스튜디오와 문룻 게임즈 폐쇄",
-    "link": "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games",
-    "date": "2026-08-13",
-    "summary": [
-      "넷플릭스가 게임 사업의 전략 및 효율성 증대를 위해 일부 게임 부문 인력을 감축합니다.",
-      "이번 감축은 나이트 스쿨 스튜디오와 문룻 게임즈를 포함한 몇몇 게임 관련 사업에 영향을 미칠 것으로 보입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "2K announces new Vancouver-based AAA studio led by EA veteran",
-    "translated_title": "2K, EA 베테랑 이끄는 새로운 밴쿠버 기반 AAA 스튜디오 발표",
-    "link": "https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran",
-    "date": "2026-08-13",
-    "summary": [
-      "2K가 밴쿠버에 새로운 AAA 게임 스튜디오를 설립합니다.",
-      "EA에서 20년 가까이 근무한 Aaron McHardy가 스튜디오를 이끌 예정입니다.",
-      "Aaron McHardy는 부사장, 총괄 프로듀서, Small Axe Studios 대표를 맡습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xsolla rolls out publishing tools to keep players 'engaged' after the first purchase",
-    "translated_title": "Xsolla, 첫 구매 후에도 플레이어 '몰입' 유지 위한 퍼블리싱 툴 출시",
-    "link": "https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase",
-    "date": "2026-08-13",
-    "summary": [
-      "Xsolla가 스튜디오를 위한 새로운 퍼블리싱 툴을 선보입니다.",
-      "이를 통해 첫 구매 이후에도 플레이어의 재구매를 유도하는 데 집중합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy",
-    "translated_title": "세이버 인터랙티브, 논란 후 '라이드셰어' AI 사용 공개 예정",
-    "link": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
-    "date": "2026-08-13",
-    "summary": [
-      "세이버 인터랙티브는 '라이드셰어' 게임에 AI를 사용하지 않았다고 밝혔습니다.",
-      "이전에는 AI 사용 여부에 대한 논란이 있었습니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "translated_title": "ICML 논문 2,200편 재현 연구에서 얻은 교훈",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "date": "2026-08-13",
-    "summary": [
-      "ICML 학회 논문 2,200편을 재현하는 대규모 연구를 수행했습니다.",
-      "연구를 통해 재현 과정에서의 어려움과 결과에 대한 인사이트를 얻었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "The builder’s guide to GPT‑5.6",
-    "translated_title": "GPT-5.6 빌더를 위한 가이드",
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "date": "2026-08-13",
-    "summary": [
-      "스타트업이 GPT-5.6을 활용하여 AI 에이전트 개발 속도를 높이고 비용을 절감하는 방법을 배웁니다.",
-      "더욱 스마트해진 모델 선택과 새로운 Responses API 기능을 통해 효율적인 AI 에이전트 구축이 가능해집니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
   }
 ];
