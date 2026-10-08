@@ -45,6 +45,236 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Why we built Unity Spark",
+    "translated_title": "유니티 스파크를 개발한 이유",
+    "link": "https://unity.com/blog/why-we-built-unity-spark",
+    "date": "2026-10-07",
+    "summary": [
+      "Unity CEO Matt Bromberg가 Unity Spark를 소개합니다.",
+      "Unity 또는 게임 개발 경험 없이도 브라우저에서 게임을 만들고 공유할 수 있는 새로운 방법입니다."
+    ],
+    "tags": [
+      "News",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "DeepMind's New AI Just Cracked The Code Of Life",
+    "translated_title": "딥마인드의 새 AI, 생명의 코드를 해독하다",
+    "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+    "date": "2026-10-07",
+    "summary": [
+      "딥마인드가 인간 게놈의 가능한 모든 DNA 변화를 예측하는 '알파게놈 아틀라스'를 공개했습니다.",
+      "이는 생명의 코드를 이해하는 데 중요한 진전을 의미합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
+    "translated_title": "스타워즈 제로 컴퍼니 개발사 Bit Reactor, 해고 직원 절반 이상 복귀시켜",
+    "link": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+    "date": "2026-10-07",
+    "summary": [
+      "Bit Reactor는 스타워즈 전술 게임 출시 전 직원 대다수를 해고했습니다.",
+      "현재 해고되었던 직원 절반 이상을 다시 고용하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
+    "translated_title": "액티비전 블리자드 전 CEO 바비 코틱, 합병 후 스카이댄스 이사회 합류",
+    "link": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+    "date": "2026-10-07",
+    "summary": [
+      "파라마운트와 워너브라더스의 합병으로 새로운 회사 출범",
+      "바비 코틱, 신규 회사 이사회 멤버로 합류"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
+    "translated_title": "일렉트로닉 아츠의 차입매수가 채권단과의 분쟁에 직면하다",
+    "link": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+    "date": "2026-10-07",
+    "summary": [
+      "일렉트로닉 아츠 인수 과정에서 많은 부채가 발생했습니다.",
+      "일부 채권자들이 더 많은 현금을 요구하고 있는 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
+    "translated_title": "Unity, Google AI와 협력하여 프롬프트 기반 게임 개발 도구 'Unity Spark' 공개",
+    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+    "date": "2026-10-07",
+    "summary": [
+      "Unity가 Google AI와 협력하여 새로운 프롬프트 기반 게임 개발 도구 'Unity Spark'를 출시했습니다.",
+      "Unity Spark는 텍스트 프롬프트를 통해 게임 개발을 지원하는 도구입니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Multimodal open d1 decision models for the edge",
+    "translated_title": "엣지 디바이스를 위한 멀티모달 개방형 D1 의사결정 모델",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "date": "2026-10-07",
+    "summary": [
+      "엣지 디바이스에서 작동하는 멀티모달 AI 모델을 소개합니다.",
+      "이 모델은 개방형 D1 아키텍처를 기반으로 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "translated_title": "하나의 모델 패밀리로 두 개의 최고 수준 결과 달성: Nemotron을 IOI와 IMO에 미세 조정하기",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "date": "2026-10-07",
+    "summary": [
+      "Nemotron 모델 패밀리를 활용하여 IOI와 IMO 두 분야에서 최고 수준의 성과를 달성했습니다.",
+      "특정 태스크에 맞게 Nemotron 모델을 미세 조정하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "translated_title": "청소년들의 AI 학습, 계획, 미래 설계를 돕는 방법",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "date": "2026-10-07",
+    "summary": [
+      "ChatGPT for Teens에 대학 플래너 기능 추가, 대학 지원 관리 도움",
+      "새로운 플래시카드, 퀴즈, 청소년 AI 위원회 운영 예정",
+      "청소년들의 AI 활용 능력 및 미래 설계 지원"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "translated_title": "래디슨 호텔 그룹, 챗GPT로 호텔 검색 기능 도입",
+    "link": "https://openai.com/index/radisson",
+    "date": "2026-10-07",
+    "summary": [
+      "래디슨 호텔 그룹이 액센츄어와 협력하여 OpenAI 기술 기반 챗GPT 플러그인을 개발했습니다.",
+      "이 플러그인을 통해 여행객은 여행 계획 중 호텔 검색, 비교, 예약이 가능해집니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "translated_title": "GPT-6와 모두를 위한 지능형 UI",
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "date": "2026-10-07",
+    "summary": [
+      "GPT-6가 ChatGPT에 지능형 UI와 함께 글로벌 출시됩니다.",
+      "더 빠른 응답 속도와 시각적, 인터랙티브 경험을 직접 탐색하고 사용할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Google debuts new 'experimental' AI game platform named Google Playground",
+    "translated_title": "구글, AI 게임 플랫폼 '구글 플레이그라운드' 공개",
+    "link": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+    "date": "2026-10-06",
+    "summary": [
+      "구글이 새로운 AI 게임 플랫폼 '구글 플레이그라운드'를 선보였습니다.",
+      "이 플랫폼은 AI가 만든 게임을 즐길 수 있는 공간입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "translated_title": "점프 트레이딩, ChatGPT로 퀀트 리서치를 확장하는 방법",
+    "link": "https://openai.com/index/jump-trading",
+    "date": "2026-10-06",
+    "summary": [
+      "점프 트레이딩은 OpenAI의 ChatGPT를 활용하여 퀀트 리서치를 확장하고 있습니다.",
+      "더 긴 실행 시간의 AI 워크플로우는 여러 데이터 소스와 인간의 검토를 결합합니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Sharing AI progress in mathematics",
+    "translated_title": "OpenAI, 수학 분야 AI 연구 성과 공유",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "date": "2026-10-06",
+    "summary": [
+      "OpenAI가 자체 AI 모델을 활용해 수학 분야 난제 해결에 대한 새로운 결과를 발표했습니다.",
+      "해당 결과와 Lean 증명 형식화, 연구 세부 정보를 GitHub에 공개했습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06",
+    "summary": [
+      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
+      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
     "translated_title": "게임스탑 등 소매업체, 중고 PS5 Pro를 정가 대비 66% 웃돈에 판매",
     "link": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
@@ -105,38 +335,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "translated_title": "점프 트레이딩, ChatGPT로 퀀트 리서치를 확장하는 방법",
-    "link": "https://openai.com/index/jump-trading",
-    "date": "2026-10-06",
-    "summary": [
-      "점프 트레이딩은 OpenAI의 ChatGPT를 활용하여 퀀트 리서치를 확장하고 있습니다.",
-      "더 긴 실행 시간의 AI 워크플로우는 여러 데이터 소스와 인간의 검토를 결합합니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "translated_title": "OpenAI, 수학 분야 AI 연구 성과 공유",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "date": "2026-10-06",
-    "summary": [
-      "OpenAI가 자체 AI 모델을 활용해 수학 분야 난제 해결에 대한 새로운 결과를 발표했습니다.",
-      "해당 결과와 Lean 증명 형식화, 연구 세부 정보를 GitHub에 공개했습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Advancing computer use with Ironclad",
     "translated_title": "Ironclad와 함께하는 컴퓨터 사용의 진화",
     "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
@@ -168,19 +366,20 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "date": "2026-10-06",
+    "title": "The Billion Dollar AI Advantage Is Disappearing",
+    "translated_title": "수십억 달러 가치의 AI 이점, 사라지다",
+    "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+    "date": "2026-10-05",
     "summary": [
-      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
-      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
+      "AI 기술 발전 속도가 빨라지면서 기존의 거대 기술 기업들이 누리던 독점적 이점이 줄어들고 있습니다.",
+      "오픈 소스 모델과 클라우드 기반 GPU 서비스의 확산이 경쟁 구도를 변화시키고 있습니다."
     ],
     "tags": [
-      "Research",
-      "AI"
+      "News",
+      "AI",
+      "Research"
     ],
-    "source": "Google DeepMind News"
+    "source": "Two Minute Papers"
   },
   {
     "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
@@ -4399,204 +4598,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "ChatGPT Ads expands across Europe",
-    "translated_title": "ChatGPT 광고, 유럽 전역으로 확장",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "date": "2026-08-18",
-    "summary": [
-      "ChatGPT 광고가 31개 유럽 시장으로 확대됩니다.",
-      "광고주들은 사람들이 탐색, 비교, 의사 결정하는 과정에서 도달할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "translated_title": "국가 안보 분야 민주적 감독 강화",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "date": "2026-08-18",
-    "summary": [
-      "OpenAI, 국가 안보 AI 분야 민주적 감독 강화 이니셔티브 출시",
-      "정부 기관에 도구, 교육, 전문성 지원 예정"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "translated_title": "CodeAI와 협력하여 첫 AI 생성을 준비하다",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "date": "2026-08-18",
-    "summary": [
-      "OpenAI와 CodeAI가 학생들의 AI 리터러시 향상을 위해 협력합니다.",
-      "AI에 대한 비판적 사고와 책임감 있는 AI 사용/개발 역량 함양을 지원합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Memory crisis is driving uncertainty over PlayStation 6's launch date",
-    "translated_title": "메모리 부족, 플레이스테이션 6 출시일 불확실성 키워",
-    "link": "https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6",
-    "date": "2026-08-18",
-    "summary": [
-      "플레이스테이션 6 출시일 아직 미정입니다.",
-      "소니 CEO, 출시일 확정되지 않았다고 밝혔습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Deus Ex director Warren Spector is retiring after nearly 45 years in game dev",
-    "translated_title": "데이어스 엑스 디렉터 워렌 스펙터, 약 45년 게임 개발 커리어 마치고 은퇴",
-    "link": "https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years",
-    "date": "2026-08-18",
-    "summary": [
-      "데이어스 엑스 시리즈의 워렌 스펙터가 45년 가까운 게임 개발 경력을 뒤로하고 은퇴합니다.",
-      "은퇴를 생각하고 있지만, 아직 만들고 싶은 게임 아이디어 3개를 가지고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025",
-    "translated_title": "2025년 아동 학대 의심 65,381건 보고된 로블록스, 미 상원 조사 착수",
-    "link": "https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025",
-    "date": "2026-08-18",
-    "summary": [
-      "로블록스에서 아동 학대 의심 사례 65,381건 보고.",
-      "미국 상원이 로블록스에 대한 조사 시작.",
-      "정치권, 아동 보호 문제에 대한 심각성 강조."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Arco tops 100,000 sales in two years and breaks even",
-    "translated_title": "아르코, 2년 만에 10만 판매 돌파 및 손익분기점 달성",
-    "link": "https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales",
-    "date": "2026-08-18",
-    "summary": [
-      "아르코가 출시 2년 만에 10만 개 이상의 판매량을 기록했습니다.",
-      "동시에 손익분기점을 달성하는 쾌거를 이루었습니다.",
-      "개발팀은 이 성과를 '놀랍다'고 평가했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "WINGS really, really wants to fund your neat indie video game",
-    "translated_title": "WINGS, 당신의 멋진 인디 게임 개발에 적극 지원합니다",
-    "link": "https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game",
-    "date": "2026-08-18",
-    "summary": [
-      "WINGS가 여성 및 성소수자 개발자 지원을 위한 새로운 펀딩 경로를 개설합니다.",
-      "모든 규모의 PC 게임 프로젝트에 대한 투자를 진행합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "translated_title": "사이버 중요 역량 시대의 페이싱 모델 개발",
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "date": "2026-08-18",
-    "summary": [
-      "OpenAI, 최첨단 AI 모델에 대한 모니터링, 정렬, 보안 강화",
-      "새로운 안전 장치가 모델 개발 속도를 조절하는 방식 설명"
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "translated_title": "10대 맞춤 ChatGPT 출시: 학습을 위한 설계, 보호 기능 강화",
-    "link": "https://openai.com/index/chatgpt-for-teens",
-    "date": "2026-08-18",
-    "summary": [
-      "10대가 AI를 자신감 있게 배우고 비판적으로 사고하도록 돕습니다.",
-      "강화된 내장 보호 기능, 건강한 사용 습관 기능, 부모님을 위한 추가 제어 기능을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "translated_title": "NVIDIA, ChatGPT Work로 전문성을 확장하는 방법",
-    "link": "https://openai.com/index/nvidia/chatgpt-work",
-    "date": "2026-08-18",
-    "summary": [
-      "NVIDIA 팀은 ChatGPT Work를 활용하여 수동 작업을 줄입니다.",
-      "빠르게 변화하는 신호를 연결하고 성공적인 워크플로를 전 세계적으로 확장합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "translated_title": "동일한 클러스터, 33% 더 높은 활용률: 순서 변경이 불러온 변화",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "date": "2026-08-17",
-    "summary": [
-      "클러스터의 작업 처리 순서를 변경하여 활용률을 33% 향상시켰습니다.",
-      "작업 순서 최적화만으로도 상당한 성능 개선을 달성할 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-    "translated_title": "Claude AI 650번 실패 후 인간 기록을 뛰어넘다",
-    "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-    "date": "2026-08-14",
-    "summary": [
-      "Claude AI가 복잡한 수학 문제를 해결하는 데 650번의 시도 끝에 성공했습니다.",
-      "이 성공은 인간 최고 기록을 경신한 것으로, AI의 문제 해결 능력을 보여줍니다.",
-      "이 연구는 Anthropic의 Claude AI 모델을 활용했으며, Weights & Biases의 지원을 받았습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   }
 ];
