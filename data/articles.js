@@ -45,6 +45,139 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
+    "translated_title": "에코 위버: 유니티 6로 구축하는 타임 루프 메트로이드배니아",
+    "link": "https://unity.com/blog/echo-weaver-time-loop-unity",
+    "date": "2026-10-08",
+    "summary": [
+      "Moonlight Kids가 유니티 6를 사용하여 타임 루프 메트로이드배니아 '에코 위버' 개발 과정을 설명합니다.",
+      "주요 기술로는 청크 스트리밍, 루프 리셋 아키텍처, 2D 최적화 팁 등이 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
+    "translated_title": "트럼프 행정부, 사기 혐의로 마이크로소프트의 그린카드 신청 자격 정지",
+    "link": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+    "date": "2026-10-08",
+    "summary": [
+      "트럼프 행정부가 마이크로소프트의 H1-B 비자 신청 자격을 일시 중단했습니다.",
+      "이는 미국에서 일하러 오는 직원들을 위한 것으로, Xbox 채용에 차질을 빚을 수 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+    "translated_title": "Xbox CEO, 게임과 연계된 사업 위한 'XP'라는 새로운 Xbox 부문 공개",
+    "link": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+    "date": "2026-10-08",
+    "summary": [
+      "Xbox가 IP 중심 전략을 강화합니다.",
+      "새로운 'XP' 부문은 게임 외 IP 확장에 집중할 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
+    "translated_title": "Denuvo, 해커 신원 파악 위해 디스코드, 밸브, 레딧에 소환장 발부 시도",
+    "link": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
+    "date": "2026-10-08",
+    "summary": [
+      "Denuvo, 지속적인 크랙 발생에 따라 해커 추적 나서",
+      "해커 신원 파악 위해 디스코드, 밸브, 레딧 등 플랫폼에 정보 요청"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The model that didn't exist, so you made it yourself",
+    "translated_title": "존재하지 않는 모델, 직접 만들어 보기",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "date": "2026-10-08",
+    "summary": [
+      "존재하지 않는 AI 모델을 직접 제작하는 과정에 대한 내용입니다.",
+      "개발자가 필요로 하는 모델을 스스로 구현하는 경험을 공유합니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "translated_title": "ChatGPT와 Codex로 오라클이 며칠 치 업무를 몇 분으로 단축하는 방법",
+    "link": "https://openai.com/index/oracle",
+    "date": "2026-10-08",
+    "summary": [
+      "오라클은 ChatGPT와 Codex를 활용하여 전문 지식을 신속하고 반복 가능한 워크플로우로 전환합니다.",
+      "채용, 엔지니어링, 운영 등 다양한 분야에서 업무 효율성을 극대화합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "translated_title": "Pollo AI, OpenAI 기반으로 창의적 아이디어를 캠페인으로 구현",
+    "link": "https://openai.com/index/pollo-ai",
+    "date": "2026-10-08",
+    "summary": [
+      "Pollo AI는 GPT-5.6, GPT-6 Astra, GPT‑Image‑2.5 등 OpenAI 모델을 활용합니다.",
+      "창작자가 대담한 아이디어를 상세한 이미지와 영상 광고로 전환하도록 돕습니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "translated_title": "LegalOn, 개발 속도 유지하며 Codex 비용 65% 절감",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "date": "2026-10-08",
+    "summary": [
+      "LegalOn은 개발 속도를 유지하면서 Codex 일일 예상 비용을 65% 절감했습니다.",
+      "Astra, Sol, Luna를 작업에 맞춰 배치하고 예산을 전략적으로 관리했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "translated_title": "AI 활용 '가짜 전면' 공작 방해",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "date": "2026-10-08",
+    "summary": [
+      "OpenAI는 AI를 이용한 두 개의 영향 공작을 방해했습니다.",
+      "이 공작들은 가짜 기자와 싱크탱크를 동원하여 지정학적 메시지를 퍼뜨렸습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Why we built Unity Spark",
     "translated_title": "유니티 스파크를 개발한 이유",
     "link": "https://unity.com/blog/why-we-built-unity-spark",
@@ -59,22 +192,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "DeepMind's New AI Just Cracked The Code Of Life",
-    "translated_title": "딥마인드의 새 AI, 생명의 코드를 해독하다",
-    "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-    "date": "2026-10-07",
-    "summary": [
-      "딥마인드가 인간 게놈의 가능한 모든 DNA 변화를 예측하는 '알파게놈 아틀라스'를 공개했습니다.",
-      "이는 생명의 코드를 이해하는 데 중요한 진전을 의미합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
@@ -106,37 +223,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
-    "translated_title": "일렉트로닉 아츠의 차입매수가 채권단과의 분쟁에 직면하다",
-    "link": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-    "date": "2026-10-07",
-    "summary": [
-      "일렉트로닉 아츠 인수 과정에서 많은 부채가 발생했습니다.",
-      "일부 채권자들이 더 많은 현금을 요구하고 있는 것으로 알려졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
-    "translated_title": "Unity, Google AI와 협력하여 프롬프트 기반 게임 개발 도구 'Unity Spark' 공개",
-    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-    "date": "2026-10-07",
-    "summary": [
-      "Unity가 Google AI와 협력하여 새로운 프롬프트 기반 게임 개발 도구 'Unity Spark'를 출시했습니다.",
-      "Unity Spark는 텍스트 프롬프트를 통해 게임 개발을 지원하는 도구입니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Multimodal open d1 decision models for the edge",
     "translated_title": "엣지 디바이스를 위한 멀티모달 개방형 D1 의사결정 모델",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -148,6 +234,21 @@ const allArticlesData = [
     "tags": [
       "AI",
       "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Falcon ASR",
+    "translated_title": "Falcon ASR 소개",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "date": "2026-10-07",
+    "summary": [
+      "Falcon ASR은 음성 인식 기술입니다.",
+      "이 기술은 음성을 텍스트로 변환하는 데 사용됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
     ],
     "source": "Hugging Face - Blog"
   },
@@ -183,6 +284,53 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "DeepMind's New AI Just Cracked The Code Of Life",
+    "translated_title": "딥마인드의 새 AI, 생명의 코드를 해독하다",
+    "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+    "date": "2026-10-07",
+    "summary": [
+      "딥마인드가 인간 게놈의 가능한 모든 DNA 변화를 예측하는 '알파게놈 아틀라스'를 공개했습니다.",
+      "이는 생명의 코드를 이해하는 데 중요한 진전을 의미합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
+    "translated_title": "일렉트로닉 아츠의 차입매수가 채권단과의 분쟁에 직면하다",
+    "link": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+    "date": "2026-10-07",
+    "summary": [
+      "일렉트로닉 아츠 인수 과정에서 많은 부채가 발생했습니다.",
+      "일부 채권자들이 더 많은 현금을 요구하고 있는 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
+    "translated_title": "Unity, Google AI와 협력하여 프롬프트 기반 게임 개발 도구 'Unity Spark' 공개",
+    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+    "date": "2026-10-07",
+    "summary": [
+      "Unity가 Google AI와 협력하여 새로운 프롬프트 기반 게임 개발 도구 'Unity Spark'를 출시했습니다.",
+      "Unity Spark는 텍스트 프롬프트를 통해 게임 개발을 지원하는 도구입니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
     "translated_title": "래디슨 호텔 그룹, 챗GPT로 호텔 검색 기능 도입",
     "link": "https://openai.com/index/radisson",
@@ -211,6 +359,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06",
+    "summary": [
+      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
+      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Google debuts new 'experimental' AI game platform named Google Playground",
@@ -258,21 +421,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "date": "2026-10-06",
-    "summary": [
-      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
-      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
@@ -4447,156 +4595,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "translated_title": "프론티어 모델을 위한 제로 데이터 보존 제공",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date": "2026-08-19",
-    "summary": [
-      "OpenAI, API 고객 대상 제로 데이터 보존 정책 재확인",
-      "개인 정보 보호를 유지하며 AI 안전 강화를 위한 Private Safety Processing 미리보기 제공"
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "translated_title": "Replit, GPT-5.6 Luna로 소프트웨어 제작 접근성을 확장하다",
-    "link": "https://openai.com/index/replit",
-    "date": "2026-08-19",
-    "summary": [
-      "Replit이 GPT-5.6 Luna 기반 무료 모드를 출시했습니다.",
-      "이를 통해 사용자는 토큰 비용 걱정 없이 아이디어를 실제 소프트웨어로 구현할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive",
-    "translated_title": "하비 스미스와 아케인 오스틴 출신 베테랑들이 설립한 신규 스튜디오 '블랙 포니 이머시브' 발표",
-    "link": "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio",
-    "date": "2026-08-19",
-    "summary": [
-      "아케인 오스틴 출신 베테랑들이 '블랙 포니 이머시브'라는 새 스튜디오를 설립했습니다.",
-      "이 스튜디오는 1인칭 액션 RPG 디자인 및 개발에 집중할 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio",
-    "translated_title": "AAA 게임 베테랑과 접근성 전문가들이 신규 게임 개발 협동조합 '레이즈 앤 리빌드 스튜디오' 설립",
-    "link": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio",
-    "date": "2026-08-19",
-    "summary": [
-      "AAA 게임 개발 경력자들과 접근성 전문가들이 모여 새로운 게임 개발 협동조합 '레이즈 앤 리빌드 스튜디오'를 설립했습니다.",
-      "이 스튜디오는 협동 구조를 최대한 활용하여 게임을 개발할 계획입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: PlayStation scales back live service ambitions for Horizon Hunters Gathering, reassigns devs",
-    "translated_title": "보도: 플레이스테이션, '호라이즌 헌터스 개더링' 라이브 서비스 계획 축소, 개발자 재배치",
-    "link": "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback",
-    "date": "2026-08-19",
-    "summary": [
-      "게릴라 게임즈, '호라이즌 헌터스 개더링' 라이브 서비스 요소 제거",
-      "부정적 피드백으로 인한 계획 변경"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games",
-    "translated_title": "휴먼: 폴 플랫 베테랑들이 신생 UK 스튜디오 '프리티 쿨 게임즈' 설립",
-    "link": "https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games",
-    "date": "2026-08-19",
-    "summary": [
-      "휴먼: 폴 플랫 개발자들이 새로운 게임 스튜디오 '프리티 쿨 게임즈'를 설립했습니다.",
-      "이 스튜디오는 첫 프로젝트 자금 확보 후 인력을 충원 중입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'I feel dirty:' EA workers trapped in a maelstrom of cynicism and doubt after Saudi buyout",
-    "translated_title": "'더러운 기분': 사우디 인수 후 EA 직원들, 냉소와 의심의 소용돌이에 갇히다",
-    "link": "https://www.gamedeveloper.com/business/-i-feel-dirty-ea-workers-trapped-in-a-maelstrom-of-after-following-saudi-buyout",
-    "date": "2026-08-19",
-    "summary": [
-      "EA 직원 다수가 회사의 550억 달러 규모 인수합병에 대한 우려를 표했습니다.",
-      "이번 인수가 인기 게임 프랜차이즈 개발자들에게 미칠 영향에 대해 걱정하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "translated_title": "양자화 인식 증류를 통한 LFM2.5 Q4_0 체크포인트",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "date": "2026-08-19",
-    "summary": [
-      "LFM2.5 모델에 대한 Q4_0 양자화 체크포인트를 소개합니다.",
-      "양자화 인식 증류(Quantization-Aware Distillation) 기술을 활용하여 모델을 최적화했습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "translated_title": "에이전트에게 실제로 얼마나 많은 메모리가 필요할까요?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "date": "2026-08-18",
-    "summary": [
-      "에이전트의 메모리 요구량을 평가하는 방법을 설명합니다.",
-      "메모리 사용량을 최적화하여 성능을 향상시키는 팁을 제공합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "translated_title": "Sentence Transformers를 이용한 다중 벡터 (후기 상호작용) 임베딩 모델",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "date": "2026-08-18",
-    "summary": [
-      "Sentence Transformers를 활용하여 후기 상호작용 방식의 다중 벡터 임베딩 모델을 구축하는 방법을 설명합니다.",
-      "이 모델은 문장 간의 관계를 파악하는 데 효과적이며, 다양한 자연어 처리 작업에 적용될 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
