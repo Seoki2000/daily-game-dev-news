@@ -45,6 +45,96 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
+    "translated_title": "유니티로 만든 오싹한 게임: 2026년 할로윈 추천 플레이리스트",
+    "link": "https://unity.com/blog/horror-games-made-with-unity-halloween-2026",
+    "date": "2026-10-09",
+    "summary": [
+      "2026년 유니티로 개발된 다양한 공포 게임을 소개합니다.",
+      "아늑한 뱀파이어 시뮬레이터부터 협동 공포 게임까지 포함됩니다.",
+      "추천 게임은 공포 수준에 따라 분류됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
+    "translated_title": "유비소프트, 레인보우 식스 모바일 출시 7개월 만에 서비스 종료",
+    "link": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+    "date": "2026-10-09",
+    "summary": [
+      "레인보우 식스 모바일이 출시 7개월 만에 서비스를 종료합니다.",
+      "글로벌 출시는 올해 초에 이루어졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
+    "translated_title": "보도: 더블 파인 노조 결성 시도, 오해와 문화 충돌로 무산",
+    "link": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+    "date": "2026-10-09",
+    "summary": [
+      "더블 파인의 노조 결성 시도가 회사 문화와 충돌했습니다.",
+      "노조 자격 요건에 대한 문제가 회사 내부의 오랜 문화와 부딪혔습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "translated_title": "GPU 클러스터를 위한 영향력 있는 스케줄링",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "date": "2026-10-09",
+    "summary": [
+      "GPU 클러스터에서 효율적인 자원 할당을 위한 스케줄링 기법을 설명합니다.",
+      "작업 성능 최적화를 위한 스케줄링의 중요성을 강조합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "translated_title": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
+    "link": "https://openai.com/index/sophos",
+    "date": "2026-10-09",
+    "summary": [
+      "Sophos는 OpenAI Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축했습니다.",
+      "MDR(관리형 탐지 및 대응) 사례의 52%를 자동화하면서도 인간의 감독을 유지합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "translated_title": "Asana, GPT-6.1 Sol 활용하여 브라우저 테스트에서 모델 비용 76배 절감",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "date": "2026-10-09",
+    "summary": [
+      "Asana는 GPT-6 Astra와 Codex를 사용하여 브라우저 에이전트 비용을 76배 절감했습니다.",
+      "이번 개선으로 에이전트 속도가 5배 빨라졌으며, 고객에게 더 뛰어난 모델을 제공할 수 있게 되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
     "translated_title": "에코 위버: 유니티 6로 구축하는 타임 루프 메트로이드배니아",
     "link": "https://unity.com/blog/echo-weaver-time-loop-unity",
@@ -194,35 +284,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-    "translated_title": "스타워즈 제로 컴퍼니 개발사 Bit Reactor, 해고 직원 절반 이상 복귀시켜",
-    "link": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-    "date": "2026-10-07",
-    "summary": [
-      "Bit Reactor는 스타워즈 전술 게임 출시 전 직원 대다수를 해고했습니다.",
-      "현재 해고되었던 직원 절반 이상을 다시 고용하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-    "translated_title": "액티비전 블리자드 전 CEO 바비 코틱, 합병 후 스카이댄스 이사회 합류",
-    "link": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-    "date": "2026-10-07",
-    "summary": [
-      "파라마운트와 워너브라더스의 합병으로 새로운 회사 출범",
-      "바비 코틱, 신규 회사 이사회 멤버로 합류"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Multimodal open d1 decision models for the edge",
     "translated_title": "엣지 디바이스를 위한 멀티모달 개방형 D1 의사결정 모델",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -266,6 +327,35 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
+    "translated_title": "스타워즈 제로 컴퍼니 개발사 Bit Reactor, 해고 직원 절반 이상 복귀시켜",
+    "link": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+    "date": "2026-10-07",
+    "summary": [
+      "Bit Reactor는 스타워즈 전술 게임 출시 전 직원 대다수를 해고했습니다.",
+      "현재 해고되었던 직원 절반 이상을 다시 고용하고 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
+    "translated_title": "액티비전 블리자드 전 CEO 바비 코틱, 합병 후 스카이댄스 이사회 합류",
+    "link": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+    "date": "2026-10-07",
+    "summary": [
+      "파라마운트와 워너브라더스의 합병으로 새로운 회사 출범",
+      "바비 코틱, 신규 회사 이사회 멤버로 합류"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Helping teens learn, plan, and shape the future of AI",
@@ -4503,97 +4593,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "translated_title": "LFM2.5-DSpark로 최대 3.2배 빨라진 추론 속도",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "date": "2026-08-20",
-    "summary": [
-      "LFM2.5-DSpark를 활용하여 추론 속도를 최대 3.2배 향상시켰습니다.",
-      "이는 LFM2.5-DSpark의 성능 개선을 보여주는 연구 결과입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing AI Futures",
-    "translated_title": "AI 미래를 소개합니다",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "date": "2026-08-20",
-    "summary": [
-      "OpenAI의 새로운 블로그 'AI Futures' 출시.",
-      "AI가 권력, 거버넌스, 경제, 개인의 자유에 미칠 혁신적인 변화 탐구."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "translated_title": "Stampli, ChatGPT Work로 출시 시간 68% 단축",
-    "link": "https://openai.com/index/stampli",
-    "date": "2026-08-20",
-    "summary": [
-      "Stampli는 고정된 마감일과 제한된 디자인 리소스로 인해 어려움을 겪었습니다.",
-      "Codex와 ChatGPT Work를 활용하여 출시 준비 시간을 몇 주에서 며칠로 단축했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Makers Fund expands game industry footprint through $250 million investment round",
-    "translated_title": "메이커스 펀드, 2억 5천만 달러 투자 유치로 게임 산업 확장",
-    "link": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
-    "date": "2026-08-20",
-    "summary": [
-      "메이커스 펀드가 2억 5천만 달러 규모의 투자 유치를 완료했습니다.",
-      "이번 투자를 통해 게임 산업 내 입지를 더욱 넓힐 계획입니다.",
-      "메이커스 펀드는 창작자를 핵심으로 삼는다는 신념으로 설립되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Hundreds of union workers rally across North America to protest Xbox layoffs",
-    "translated_title": "수백 명의 노조원, 북미 전역에서 Xbox 해고 규탄 시위",
-    "link": "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs",
-    "date": "2026-08-20",
-    "summary": [
-      "CWA 노조원 및 지지자들이 마이크로소프트의 Xbox 부문 3,200명 감축 계획에 반발하여 시위했습니다.",
-      "북미 전역에서 시위가 벌어졌으며, 마이크로소프트에 압력을 가하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-    "translated_title": "DeepSeek, 폐쇄형 AI를 우습게 만들다",
-    "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-    "date": "2026-08-19",
-    "summary": [
-      "DeepSeek V4 Pro 0813 모델이 공개되었습니다.",
-      "이 모델은 폐쇄형 AI 모델 대비 경쟁력을 보여주며 큰 주목을 받고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
   }
 ];
