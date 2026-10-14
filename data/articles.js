@@ -45,6 +45,113 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "date": "2026-10-14",
+    "summary": [
+      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
+      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
+      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
+    "translated_title": "Owlchemy CEO: VR이 '카페 테스트'를 통과하지 못해 아직 신흥 시장인 이유",
+    "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+    "date": "2026-10-13",
+    "summary": [
+      "VR 시장은 아직 대중에게 '카페 테스트'를 통과하지 못했기 때문에 신흥 시장으로 남아 있습니다.",
+      "일부 VR 기업들이 대중의 요구를 충족시키지 못해 해고가 빈번하게 발생하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "translated_title": "LFM2.5-24B-A2B로 빠르고 프라이빗한 온디바이스 에이전트 실행",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "date": "2026-10-13",
+    "summary": [
+      "LFM2.5-24B-A2B 모델을 사용하여 온디바이스에서 빠르고 프라이빗한 에이전트를 실행합니다.",
+      "사용자 데이터 프라이버시를 보호하며 즉각적인 반응성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "translated_title": "Higgsfield, AI 영상 제작 시간을 1분에서 10분 이상으로 확장",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "date": "2026-10-13",
+    "summary": [
+      "Higgsfield는 GPT-6 Astra를 통해 AI 영상 제작 시간을 1분에서 10분 이상으로 늘립니다.",
+      "GPT-Image-2.5로 정밀한 시각 효과를 구현하며, GPT-Live로 음성 기반 영상 제작 경로를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "translated_title": "Gemini 4 Argon의 책임감 있고 안전한 개발",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "date": "2026-10-13",
+    "summary": [
+      "Gemini 4 Argon의 책임감 있는 개발에 초점을 맞춥니다.",
+      "안전성 확보를 위한 개발 과정에 대해 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "translated_title": "로보틱스를 위한 Gemini 4 Argon",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "date": "2026-10-13",
+    "summary": [
+      "Gemini 4 Argon, 로보틱스 분야에서의 활용 방안 소개.",
+      "새로운 Gemini 모델이 로봇 제어 및 인지 능력 향상에 기여할 것으로 예상."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "translated_title": "Gemini 4 Argon: 가장 어려운 문제 해결을 위해 탄생했습니다",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "date": "2026-10-13",
+    "summary": [
+      "Gemini 4 Argon은 복잡한 문제를 해결하도록 설계되었습니다.",
+      "이 모델은 가장 어려운 과제에 대한 솔루션을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
     "translated_title": "유니티로 만든 오싹한 게임: 2026년 할로윈 추천 플레이리스트",
     "link": "https://unity.com/blog/horror-games-made-with-unity-halloween-2026",
@@ -179,20 +286,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
-    "translated_title": "Denuvo, 해커 신원 파악 위해 디스코드, 밸브, 레딧에 소환장 발부 시도",
-    "link": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
-    "date": "2026-10-08",
-    "summary": [
-      "Denuvo, 지속적인 크랙 발생에 따라 해커 추적 나서",
-      "해커 신원 파악 위해 디스코드, 밸브, 레딧 등 플랫폼에 정보 요청"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "The model that didn't exist, so you made it yourself",
     "translated_title": "존재하지 않는 모델, 직접 만들어 보기",
     "link": "https://huggingface.co/blog/building-with-ml-intern",
@@ -237,6 +330,20 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
+    "translated_title": "Denuvo, 해커 신원 파악 위해 디스코드, 밸브, 레딧에 소환장 발부 시도",
+    "link": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
+    "date": "2026-10-08",
+    "summary": [
+      "Denuvo, 지속적인 크랙 발생에 따라 해커 추적 나서",
+      "해커 신원 파악 위해 디스코드, 밸브, 레딧 등 플랫폼에 정보 요청"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "LegalOn halves Codex costs while maintaining development speed",
     "translated_title": "LegalOn, 개발 속도 유지하며 Codex 비용 65% 절감",
     "link": "https://openai.com/index/legalon-halves-codex-costs",
@@ -268,6 +375,36 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Introducing Falcon ASR",
+    "translated_title": "Falcon ASR 소개",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "date": "2026-10-07",
+    "summary": [
+      "Falcon ASR은 음성 인식 기술입니다.",
+      "이 기술은 음성을 텍스트로 변환하는 데 사용됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "translated_title": "하나의 모델 패밀리로 두 개의 최고 수준 결과 달성: Nemotron을 IOI와 IMO에 미세 조정하기",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "date": "2026-10-07",
+    "summary": [
+      "Nemotron 모델 패밀리를 활용하여 IOI와 IMO 두 분야에서 최고 수준의 성과를 달성했습니다.",
+      "특정 태스크에 맞게 Nemotron 모델을 미세 조정하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Why we built Unity Spark",
     "translated_title": "유니티 스파크를 개발한 이유",
     "link": "https://unity.com/blog/why-we-built-unity-spark",
@@ -291,36 +428,6 @@ const allArticlesData = [
     "summary": [
       "엣지 디바이스에서 작동하는 멀티모달 AI 모델을 소개합니다.",
       "이 모델은 개방형 D1 아키텍처를 기반으로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Falcon ASR",
-    "translated_title": "Falcon ASR 소개",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "date": "2026-10-07",
-    "summary": [
-      "Falcon ASR은 음성 인식 기술입니다.",
-      "이 기술은 음성을 텍스트로 변환하는 데 사용됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "translated_title": "하나의 모델 패밀리로 두 개의 최고 수준 결과 달성: Nemotron을 IOI와 IMO에 미세 조정하기",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "date": "2026-10-07",
-    "summary": [
-      "Nemotron 모델 패밀리를 활용하여 IOI와 IMO 두 분야에서 최고 수준의 성과를 달성했습니다.",
-      "특정 태스크에 맞게 Nemotron 모델을 미세 조정하는 방법을 설명합니다."
     ],
     "tags": [
       "AI",
@@ -4480,113 +4587,6 @@ const allArticlesData = [
     "summary": [
       "2026년 게임스컴 개발자 어워드에서 6개 부문 수상자 발표",
       "주요 수상작으로 '발터'와 '블루 프린스' 선정"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Each event has to feel local and relevant to its market:' Gamescom wants responsible expansion after record-breaking year",
-    "translated_title": "'각 행사는 현지 및 시장에 맞춰 관련성을 느껴야 합니다': 기록적인 한 해 이후 게임스컴, 책임감 있는 확장을 원하다",
-    "link": "https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year",
-    "date": "2026-08-24",
-    "summary": [
-      "게임스컴 2026이 역사상 가장 큰 규모의 쇼를 앞두고 있습니다.",
-      "업계 엑스포는 앞으로 어떤 방향으로 나아갈까요?"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "translated_title": "아타리부터 이브 온라인까지: 15년간의 게임 AI 연구 성과",
-    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "date": "2026-08-21",
-    "summary": [
-      "구글 딥마인드가 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입 개발 중입니다.",
-      "이는 15년간 축적된 게임 AI 연구에 기반한 성과입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "GameDev"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "translated_title": "Hugging Face 추론 엔드포인트, 작업 및 버킷이 Papers with Code 검색을 지원하는 방법",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "date": "2026-08-21",
-    "summary": [
-      "Hugging Face의 추론 엔드포인트, 작업, 버킷 기능이 Papers with Code의 검색 기능을 강화합니다.",
-      "이러한 Hugging Face 서비스는 Papers with Code 플랫폼 내에서 효율적인 검색 및 데이터 관리를 가능하게 합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "translated_title": "음성 인식에서의 벤치마크 최적화 측정",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "date": "2026-08-21",
-    "summary": [
-      "음성 인식 모델의 성능 최적화를 벤치마크를 통해 측정합니다.",
-      "최적화 과정에서 발생할 수 있는 성능 변화를 정량적으로 평가하는 방법을 다룹니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
-    "translated_title": "보도: 테이크투, GTA VI 대규모 유출 중단 위해 마이크로소프트 및 디스코드에 영장 발부",
-    "link": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
-    "date": "2026-08-21",
-    "summary": [
-      "테이크투가 GTA VI 유출을 막기 위해 움직이고 있습니다.",
-      "\"Cyberleek\"이라는 주체가 게임 플레이 가능 버전에 접근한 것으로 추정됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
-    "translated_title": "드디어 AI에 대해 이야기합니다 - 데이비드 '레즈' 그래함 & 루크 디켄 출연",
-    "link": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
-    "date": "2026-08-21",
-    "summary": [
-      "AI와 AI 기법에 대한 대화",
-      "AI가 게임 개발에서 가지는 본질적인 가치 논의",
-      "AI와 일의 본질에 대한 고찰"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
-    "translated_title": "EA 직원, 사우디 인수 우려, GTA 6 유출, 픽의 마지막 대형 업데이트 - 패치 노트 #66",
-    "link": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
-    "date": "2026-08-21",
-    "summary": [
-      "EA 직원들은 사우디아라비아의 잠재적 인수 합병에 대해 우려하고 있습니다.",
-      "Grand Theft Auto 6 게임 관련 정보가 유출되었습니다.",
-      "Peak Games의 마지막 주요 업데이트 소식이 있습니다."
     ],
     "tags": [
       "News",
