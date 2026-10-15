@@ -45,6 +45,130 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
+    "translated_title": "유비소프트, Trials 스튜디오 RedLynx 폐쇄 및 싱가포르 스튜디오 규모 축소",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
+    "date": "2026-10-14",
+    "summary": [
+      "유비소프트가 Trials 시리즈 개발사 RedLynx를 폐쇄합니다.",
+      "싱가포르 유비소프트 스튜디오의 규모도 축소될 예정입니다.",
+      "두 스튜디오에서 총 120명 이상의 일자리가 영향을 받습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development",
+    "translated_title": "손코딩은 옛말? 에픽 게임즈, 디즈니 프로젝트 'AI 우선' 개발로 전환 보도",
+    "link": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+    "date": "2026-10-14",
+    "summary": [
+      "에픽 게임즈의 신규 스타워즈/마블 슈터 개발에서 AI 활용 비중 확대 지시.",
+      "특히 코드 및 아트 제작에 AI를 적극 활용할 것으로 알려짐."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "translated_title": "HiRO-ACEv2: 3km 해상도로 극심한 날씨를 저렴하게 시뮬레이션",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "date": "2026-10-14",
+    "summary": [
+      "HiRO-ACEv2는 3km 해상도로 극심한 날씨를 시뮬레이션합니다.",
+      "기존 방식보다 훨씬 저렴한 비용으로 높은 해상도의 시뮬레이션이 가능합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "translated_title": "Amp, OpenAI 모델을 활용해 AI 에이전트를 코드를 넘어 활용하다",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "date": "2026-10-14",
+    "summary": [
+      "Amp는 GPT-6 Astra, Ultrafast, GPT-Live-1, Sign in with ChatGPT 등 OpenAI 모델을 사용하여 AI 에이전트의 활용 범위를 넓힙니다.",
+      "코드 작성 외에도 AI 에이전트의 새로운 가능성을 탐구합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "translated_title": "SentinelOne, 멀웨어 분석 시간 수 주에서 수 시간으로 단축",
+    "link": "https://openai.com/index/sentinelone",
+    "date": "2026-10-14",
+    "summary": [
+      "SentinelOne이 OpenAI Daybreak를 활용하여 멀웨어 분석 시간을 획기적으로 단축했습니다.",
+      "이를 통해 위협 조사 역량을 강화할 수 있게 되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "translated_title": "Third Moment Research, GPT-6 기반 에이전트 10,000개로 36시간 이상 운영하는 방법",
+    "link": "https://openai.com/index/third-moment-research",
+    "date": "2026-10-14",
+    "summary": [
+      "GPT-6 Astra, GPT-6.1 Sol, Codex, Daybreak 등 AI 모델 활용",
+      "사이버 보안 분야에 특화된 에이전트 개발",
+      "장시간 집중 및 사용 통한 성능 향상"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "translated_title": "Block, OpenAI 기술로 AI 기반 보안 구축",
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "date": "2026-10-14",
+    "summary": [
+      "Block은 OpenAI 기술을 활용해 AI 기반 보안을 구축하고 있습니다.",
+      "이를 통해 보안팀은 위협 조사 시간을 단축하고 수 분 내에 패치를 제안할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "translated_title": "EU의 AI 다음 챕터: 에이전트 AI",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "date": "2026-10-14",
+    "summary": [
+      "EU 기업 및 중소기업에서 에이전트 AI 도입이 증가하고 있습니다.",
+      "에이전트 AI의 심층적 활용은 더 큰 가치를 창출할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
     "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
     "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -92,21 +216,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "translated_title": "Higgsfield, AI 영상 제작 시간을 1분에서 10분 이상으로 확장",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "date": "2026-10-13",
-    "summary": [
-      "Higgsfield는 GPT-6 Astra를 통해 AI 영상 제작 시간을 1분에서 10분 이상으로 늘립니다.",
-      "GPT-Image-2.5로 정밀한 시각 효과를 구현하며, GPT-Live로 음성 기반 영상 제작 경로를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "translated_title": "Gemini 4 Argon의 책임감 있고 안전한 개발",
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -150,6 +259,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "translated_title": "Higgsfield, AI 영상 제작 시간을 1분에서 10분 이상으로 확장",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "date": "2026-10-13",
+    "summary": [
+      "Higgsfield는 GPT-6 Astra를 통해 AI 영상 제작 시간을 1분에서 10분 이상으로 늘립니다.",
+      "GPT-Image-2.5로 정밀한 시각 효과를 구현하며, GPT-Live로 음성 기반 영상 제작 경로를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
@@ -4462,131 +4586,6 @@ const allArticlesData = [
     "summary": [
       "thatgamecompany가 새로운 퍼블리싱 레이블 thatgamepublisher를 발표했습니다.",
       "Sky: Children of the Light의 수익이 이 이니셔티브를 지원하는 데 사용될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "W4 Games raises $18M to expand its international team",
-    "translated_title": "W4 Games, 1,800만 달러 투자 유치하여 글로벌 팀 확장",
-    "link": "https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team",
-    "date": "2026-08-25",
-    "summary": [
-      "W4 Games가 1,800만 달러의 투자를 유치했습니다.",
-      "이를 통해 글로벌 팀을 확장할 예정입니다.",
-      "Tencent와 파트너십을 맺고 아시아 시장 및 Godot 생태계 확장에 나섭니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "translated_title": "Jalapeño, AI 추론에서 업계 최고 속도 및 효율성 첫 결과 발표",
-    "link": "https://openai.com/index/jalapeno-first-results",
-    "date": "2026-08-25",
-    "summary": [
-      "OpenAI의 맞춤형 추론 칩 Jalapeño가 AI 추론 속도 및 전력 효율성에서 업계 최고 수준을 달성했습니다.",
-      "이 칩은 최신 AI 모델에 대해 높은 처리량과 낮은 지연 시간을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "translated_title": "러시아의 새로운 은밀한 영향력 캠페인 폭로",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "date": "2026-08-25",
-    "summary": [
-      "OpenAI는 러시아 발 계정이 AI를 이용한 가짜 이스라엘 싱크탱크 홍보 및 러시아를 찬양하고 서방을 비판하는 '주권' 지수 조작 활동을 차단했습니다.",
-      "이 캠페인은 AI를 활용하여 허위 정보를 확산시키고 지정학적 영향력을 행사하려는 시도로 보입니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "translated_title": "ChatGPT Work 및 Codex를 위한 관리자 플러그인 소개",
-    "link": "https://openai.com/index/introducing-admin-plugin",
-    "date": "2026-08-25",
-    "summary": [
-      "워크스페이스 사용량 분석",
-      "멤버 및 권한 관리",
-      "제한 설정 및 관리자 요청 처리"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "This Small AI Will Change Everything",
-    "translated_title": "이 작은 AI가 모든 것을 바꿀 것입니다",
-    "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-    "date": "2026-08-24",
-    "summary": [
-      "Qwen3.8-27b라는 새로운 AI 모델이 출시되었습니다.",
-      "이 모델은 GPU 클라우드 서비스인 Lambda와 Hugging Face에서 확인할 수 있습니다.",
-      "다양한 커뮤니티에서 Qwen3.8-27b의 성능에 대한 긍정적인 결과가 공유되고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "translated_title": "Kiro의 GPT‑5.6으로 개발자를 위한 가격 대비 성능 향상",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "date": "2026-08-24",
-    "summary": [
-      "Kiro에 GPT‑5.6이 출시되었습니다.",
-      "개발자의 소프트웨어 계획, 구축, 검토, 테스트에 더 나은 가격 대비 성능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Creative Artists Agency spins up indie funding venture Frame1Games",
-    "translated_title": "크리에이티브 아티스트 에이전시, 인디 게임 펀딩 벤처 '프레임1게임즈' 출범",
-    "link": "https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games",
-    "date": "2026-08-24",
-    "summary": [
-      "크리에이티브 아티스트 에이전시가 인디 게임 펀딩 벤처 '프레임1게임즈'를 설립했습니다.",
-      "이 벤처는 자금, 인맥, 마케팅 자원이 부족한 신진 팀을 지원하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Mutter and Blue Prince among winners at Gamescom Dev Awards 2026",
-    "translated_title": "발터와 블루 프린스가 2026년 게임스컴 개발자 어워드 수상",
-    "link": "https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026",
-    "date": "2026-08-24",
-    "summary": [
-      "2026년 게임스컴 개발자 어워드에서 6개 부문 수상자 발표",
-      "주요 수상작으로 '발터'와 '블루 프린스' 선정"
     ],
     "tags": [
       "News",
