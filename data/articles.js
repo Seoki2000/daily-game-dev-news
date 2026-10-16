@@ -45,6 +45,141 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "translated_title": "인디 사전 학습 확장: 2.8조 토큰 및 오픈 데이터 생성 파이프라인",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "date": "2026-10-16",
+    "summary": [
+      "2.8조 개의 토큰으로 Indic 언어 사전 학습 모델을 확장했습니다.",
+      "연구진은 오픈소스 데이터 생성 파이프라인을 공개했습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
+    "translated_title": "Caves of Qud: Diaspora, 스팀 최초 얼리 액세스 DLC 출시로 새로운 지평을 열다",
+    "link": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
+    "date": "2026-10-15",
+    "summary": [
+      "'Caves of Qud'의 신규 DLC 'Diaspora'가 스팀 얼리 액세스로 출시됩니다.",
+      "이는 스팀 얼리 액세스 프로그램 최초의 DLC 얼리 액세스 출시입니다.",
+      "본편 게임은 더 이상 얼리 액세스 상태가 아닙니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "translated_title": "Granite Switch 4.1: 하나의 엔드포인트에서 대화, 결정, 음성 지원",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "date": "2026-10-15",
+    "summary": [
+      "Granite Switch 4.1은 단일 엔드포인트에서 대화, 의사 결정, 음성 기능을 통합 제공합니다.",
+      "이 기술은 통합된 AI 경험을 가능하게 합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "translated_title": "Meta의 오픈 가중치 프론티어 멀티모달 Mixture-of-Experts 모델, Muse Spark Open 출시",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "date": "2026-10-15",
+    "summary": [
+      "Meta에서 Muse Spark Open이라는 새로운 모델을 공개했습니다.",
+      "이 모델은 오픈 가중치 방식의 멀티모달 Mixture-of-Experts(MoE) 아키텍처를 사용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "translated_title": "Diffusers에서 FLUX.3 이미지 Klein을 환영합니다",
+    "link": "https://huggingface.co/blog/flux-3",
+    "date": "2026-10-15",
+    "summary": [
+      "Diffusers 라이브러리에 FLUX.3 이미지 Klein이 추가되었습니다.",
+      "이 업데이트는 이미지 생성 기능을 향상시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "translated_title": "GPT-Rosalind, 학술 연구실에 도입",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "date": "2026-10-15",
+    "summary": [
+      "Rosalind Academic Plan을 소개합니다.",
+      "자격 있는 학술 연구실에 GPT-Rosalind를 지원합니다.",
+      "생명 과학 연구 발전을 위한 도구를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "translated_title": "질문을 통해 생각하고 배우도록 학생들을 가르치기",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "date": "2026-10-15",
+    "summary": [
+      "AI for Educators를 통해 교사들의 날을 기념하세요 (브라질 포르투갈어).",
+      "Study Mode가 교사들의 능동적이고 단계별 학습 지원에 어떻게 도움이 되는지 알아보세요."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "translated_title": "설리번앤크롬웰, 계약 검토에 법률 전문성 도입",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "date": "2026-10-15",
+    "summary": [
+      "설리번앤크롬웰이 OpenAI와 협력하여 계약 분석 AI 도구 'Agreement Analyzer'를 개발했습니다.",
+      "이 도구는 초안 계약서의 문제점을 식별하는 데 사용됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "date": "2026-10-15",
+    "summary": [
+      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
+      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
     "translated_title": "유비소프트, Trials 스튜디오 RedLynx 폐쇄 및 싱가포르 스튜디오 규모 축소",
     "link": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
@@ -123,6 +258,23 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "date": "2026-10-14",
+    "summary": [
+      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
+      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
+      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "translated_title": "Third Moment Research, GPT-6 기반 에이전트 10,000개로 36시간 이상 운영하는 방법",
     "link": "https://openai.com/index/third-moment-research",
@@ -169,23 +321,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "date": "2026-10-14",
-    "summary": [
-      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
-      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
-      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
     "translated_title": "Owlchemy CEO: VR이 '카페 테스트'를 통과하지 못해 아직 신흥 시장인 이유",
     "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
@@ -199,21 +334,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "translated_title": "LFM2.5-24B-A2B로 빠르고 프라이빗한 온디바이스 에이전트 실행",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "date": "2026-10-13",
-    "summary": [
-      "LFM2.5-24B-A2B 모델을 사용하여 온디바이스에서 빠르고 프라이빗한 에이전트를 실행합니다.",
-      "사용자 데이터 프라이버시를 보호하며 즉각적인 반응성을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -261,6 +381,21 @@ const allArticlesData = [
     "source": "Google DeepMind News"
   },
   {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "translated_title": "LFM2.5-24B-A2B로 빠르고 프라이빗한 온디바이스 에이전트 실행",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "date": "2026-10-13",
+    "summary": [
+      "LFM2.5-24B-A2B 모델을 사용하여 온디바이스에서 빠르고 프라이빗한 에이전트를 실행합니다.",
+      "사용자 데이터 프라이버시를 보호하며 즉각적인 반응성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "translated_title": "Higgsfield, AI 영상 제작 시간을 1분에서 10분 이상으로 확장",
     "link": "https://openai.com/index/higgsfield-longer-videos-voice",
@@ -274,6 +409,20 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
+    "translated_title": "유비소프트, 레인보우 식스 모바일 출시 7개월 만에 서비스 종료",
+    "link": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+    "date": "2026-10-09",
+    "summary": [
+      "레인보우 식스 모바일이 출시 7개월 만에 서비스를 종료합니다.",
+      "글로벌 출시는 올해 초에 이루어졌습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
@@ -290,20 +439,6 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-    "translated_title": "유비소프트, 레인보우 식스 모바일 출시 7개월 만에 서비스 종료",
-    "link": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-    "date": "2026-10-09",
-    "summary": [
-      "레인보우 식스 모바일이 출시 7개월 만에 서비스를 종료합니다.",
-      "글로벌 출시는 올해 초에 이루어졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   },
   {
     "title": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
@@ -4454,143 +4589,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "translated_title": "loveholidays, Codex로 누구나 개발자가 되는 법",
-    "link": "https://openai.com/index/loveholidays",
-    "date": "2026-08-26",
-    "summary": [
-      "loveholidays는 OpenAI Codex를 활용하여 소프트웨어 개발을 비즈니스 전반에 걸쳐 접근 가능하게 만듭니다.",
-      "이를 통해 팀은 아이디어를 더 빠르게 제품으로 전환할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "translated_title": "Granite 4.2 LLM: 구축 방법",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "date": "2026-08-25",
-    "summary": [
-      "Granite 4.2 LLM의 구축 과정에 대한 설명.",
-      "LLM 구축의 핵심 요소와 기술에 대한 정보 제공."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "translated_title": "양자화 인식 복원: 원본 전체 정밀도 모델을 능가하는 압축된 4비트 모델",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "date": "2026-08-25",
-    "summary": [
-      "4비트 압축 모델이 전체 정밀도 모델보다 성능이 우수합니다.",
-      "양자화 과정 중에도 성능 저하 없이 모델을 복원하는 기술을 사용했습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "translated_title": "Gradio로 AI 워크플로우 구축하기: 연결, 실행, 배포",
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
-    "date": "2026-08-25",
-    "summary": [
-      "Gradio를 사용하여 AI 모델을 쉽게 연결하고 실행할 수 있습니다.",
-      "Gradio를 통해 AI 워크플로우를 손쉽게 배포하는 방법을 설명합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "The full stack behind abundant intelligence",
-    "translated_title": "풍부한 지능을 구현하는 풀스택 기술",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "date": "2026-08-25",
-    "summary": [
-      "칩, 컴퓨팅, 모델, 제품 전반의 발전을 설명합니다.",
-      "이러한 요소들이 결합되어 더 유용하고 확장 가능한 지능을 제공합니다.",
-      "더 낮은 비용으로 고성능 AI를 구현하는 방법을 공유합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Riot Games is winding down 2XKO active development in December",
-    "translated_title": "라이엇 게임즈, 12월부터 2XKO 신규 개발 중단",
-    "link": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
-    "date": "2026-08-25",
-    "summary": [
-      "라이엇 게임즈가 2XKO의 신규 개발을 12월부로 중단합니다.",
-      "충분한 플레이어 유지율을 확보하지 못해 지속 가능성이 어렵다고 판단했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Among Us 3D co-dev Schell Games lays off staff",
-    "translated_title": "보도: 어몽 어스 3D 공동 개발사 Schell Games, 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff",
-    "date": "2026-08-25",
-    "summary": [
-      "어몽 어스 3D 공동 개발사인 Schell Games가 직원을 해고했습니다.",
-      "Schell Games는 과거 해고를 피하는 방법에 대해 여러 차례 인터뷰한 바 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'",
-    "translated_title": "아일랜드 브라우저 게임 스타트업 Entity, '새로운 웹' 시대 위한 '콘솔급 게임' 개발 위해 500만 달러 투자 유치",
-    "link": "https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-",
-    "date": "2026-08-25",
-    "summary": [
-      "아일랜드 게임 스타트업 Entity, 500만 달러 투자 유치",
-      "'새로운 웹' 시대 위한 콘솔급 브라우저 게임 개발 계획",
-      "차세대 게이밍 플랫폼 2027년 출시 예정"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Journey maker thatgamecompany announces thatgamepublisher",
-    "translated_title": "Journey 제작사 thatgamecompany, 퍼블리셔 thatgamepublisher 발표",
-    "link": "https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher",
-    "date": "2026-08-25",
-    "summary": [
-      "thatgamecompany가 새로운 퍼블리싱 레이블 thatgamepublisher를 발표했습니다.",
-      "Sky: Children of the Light의 수익이 이 이니셔티브를 지원하는 데 사용될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
   }
 ];
