@@ -45,6 +45,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
+    "translated_title": "Soft Crunch Games, Foxy Dumplings를 모든 플랫폼용으로 구축한 방법",
+    "link": "https://unity.com/blog/foxy-dumplings-cross-platform-development",
+    "date": "2026-10-16",
+    "summary": [
+      "하나의 Unity 프로젝트로 PC, 콘솔, 모바일에 Foxy Dumplings 출시",
+      "플랫폼 추상화, 입력, 프로파일링, 클라우드 세이브 다룸"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "translated_title": "인디 사전 학습 확장: 2.8조 토큰 및 오픈 데이터 생성 파이프라인",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -58,6 +73,52 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "translated_title": "Beam을 환영합니다: 소유, 맞춤 설정, 확장이 가능한 501B 오픈 모델",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "date": "2026-10-16",
+    "summary": [
+      "Beam은 501B 규모의 오픈 모델입니다.",
+      "사용자는 Beam을 소유하고, 맞춤 설정하며, 확장할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "translated_title": "이타우, 모든 고객을 위한 생성형 AI 구축 방법",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "date": "2026-10-16",
+    "summary": [
+      "이타우는 ia.i(대화형 인터페이스)와 IARA 거버넌스 플랫폼을 통해 AI 퍼스트 전략을 적용하고 있습니다.",
+      "이 전략은 브라질의 규제가 엄격한 금융 부문에서 고객과 직원 모두를 대상으로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "translated_title": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "date": "2026-10-16",
+    "summary": [
+      "Stack Overflow for Agents는 Codex를 사용하여 몇 주 만에 개발되었습니다.",
+      "ChatGPT 플러그인이 출시되어 에이전트 생성 수가 최대 10배 증가하는 데 기여했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
@@ -212,6 +273,23 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "date": "2026-10-14",
+    "summary": [
+      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
+      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
+      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
     "translated_title": "HiRO-ACEv2: 3km 해상도로 극심한 날씨를 저렴하게 시뮬레이션",
     "link": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -256,23 +334,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "date": "2026-10-14",
-    "summary": [
-      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
-      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
-      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -4529,65 +4590,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Playdate maker Panic is refunding tariff fees to customers",
-    "translated_title": "Playdate 제작사 Panic, 관세 환불 조치",
-    "link": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
-    "date": "2026-08-26",
-    "summary": [
-      "Playdate 제작사인 Panic이 관세 부과액을 전액 환불했습니다.",
-      "Panic은 고객에게 받은 관세는 자신들의 돈이 아니라고 설명했습니다.",
-      "이러한 결정에 대해 '돌려주는 것이 옳은 일'이라는 긍정적인 반응을 보였습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox officially announces disc to digital program",
-    "translated_title": "Xbox, 공식적으로 디스크-투-디지털 프로그램 발표",
-    "link": "https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program",
-    "date": "2026-08-26",
-    "summary": [
-      "Xbox가 디스크를 디지털 버전으로 변환하는 프로그램을 공식 발표했습니다.",
-      "이 프로그램에 대한 소식은 이미 7월에 The Verge를 통해 보도되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "CD Projekt Red to distribute The Witcher 3: The Wild Hunt on Blizzard's Battle.net",
-    "translated_title": "CDPR, '더 위쳐 3: 와일드 헌트' 블리자드 배틀넷 출시",
-    "link": "https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership",
-    "date": "2026-08-26",
-    "summary": [
-      "더 위쳐 3: 와일드 헌트 리마스터 버전이 배틀넷에 출시됩니다.",
-      "새로운 확장팩과 디아블로 4 콜라보도 함께 제공됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "translated_title": "허깅페이스 사건과 앞으로의 과제",
-    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "date": "2026-08-26",
-    "summary": [
-      "OpenAI는 허깅페이스 보안 사고 조사 결과를 발표했습니다.",
-      "AI 모델 보안, 모니터링, 얼라인먼트 강화를 위한 조치를 설명했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
