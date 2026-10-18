@@ -106,6 +106,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "translated_title": "Benefit Street Partners, Codex로 질문에 더 빠르게 답변",
+    "link": "https://openai.com/index/benefit-street-partners",
+    "date": "2026-10-16",
+    "summary": [
+      "Anant Kumar는 Codex를 코드 검토 및 신속한 후속 조치에 사용하여 대출 가치 비교 및 신용 계약 분석 도구를 구축합니다.",
+      "Codex는 Benefit Street Partners의 질문 응답 속도를 향상시키는 데 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "translated_title": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -211,21 +226,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "translated_title": "설리번앤크롬웰, 계약 검토에 법률 전문성 도입",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "date": "2026-10-15",
-    "summary": [
-      "설리번앤크롬웰이 OpenAI와 협력하여 계약 분석 AI 도구 'Agreement Analyzer'를 개발했습니다.",
-      "이 도구는 초안 계약서의 문제점을 식별하는 데 사용됩니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -239,6 +239,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "translated_title": "설리번앤크롬웰, 계약 검토에 법률 전문성 도입",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "date": "2026-10-15",
+    "summary": [
+      "설리번앤크롬웰이 OpenAI와 협력하여 계약 분석 AI 도구 'Agreement Analyzer'를 개발했습니다.",
+      "이 도구는 초안 계약서의 문제점을 식별하는 데 사용됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
@@ -4571,20 +4586,6 @@ const allArticlesData = [
     "summary": [
       "무대와 스크린의 카리스마 넘치는 배우 팀 커리가 80세로 세상을 떠났습니다.",
       "그는 여러 유명 비디오 게임에도 자신의 모습을 빌려주었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks",
-    "translated_title": "락스타 게임즈, GTA 6 유출에 '가슴 아파'",
-    "link": "https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks",
-    "date": "2026-08-26",
-    "summary": [
-      "GTA 6 제작사가 게임의 대규모 유출에 대한 입장을 밝혔습니다.",
-      "이번 유출로 인해 락스타 게임즈는 안타까움을 표했습니다."
     ],
     "tags": [
       "News"
