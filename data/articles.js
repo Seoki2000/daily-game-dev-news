@@ -45,6 +45,68 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
+    "translated_title": "RocketWerkz의 C# 프레임워크 'BRUTAL', 모든 개발자에게 공개",
+    "link": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+    "date": "2026-10-19",
+    "summary": [
+      "코드 완전 제어를 원하는 개발자를 위한 새로운 프레임워크 'BRUTAL' 출시.",
+      "RocketWerkz에서 개발한 C# 기반 프레임워크."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Moonlighter developer delays public playtest of next game over concerns of AI cloning",
+    "translated_title": "Moonlighter 개발사, AI 복제 우려로 차기작 공개 플레이 테스트 연기",
+    "link": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+    "date": "2026-10-19",
+    "summary": [
+      "Moonlighter 개발사인 Digital Sun Games가 신작 'ReVamp'의 공개 플레이 테스트를 연기합니다.",
+      "AI 기반 복제 기술에 대한 우려가 결정적인 이유입니다.",
+      "테스트는 향후 Discord 커뮤니티 중심으로 진행될 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "translated_title": "TorchNeuron: AWS Trainium에서 HF 모델을 그 어느 때보다 쉽게 실행",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "date": "2026-10-19",
+    "summary": [
+      "TorchNeuron을 사용하면 AWS Trainium에서 Hugging Face(HF) 모델 실행이 간편해졌습니다.",
+      "Hugging Face 모델을 AWS Trainium에서 효율적으로 학습시킬 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "translated_title": "저자원 프로그래밍 언어 코딩 능력 향상",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "date": "2026-10-19",
+    "summary": [
+      "OpenAI가 저자원 프로그래밍 언어에서 ChatGPT의 성능을 개선하고 있습니다.",
+      "새로운 평가에는 소프트웨어 엔지니어링, SQLite, COBOL 마이그레이션이 포함됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
     "translated_title": "Soft Crunch Games, Foxy Dumplings를 모든 플랫폼용으로 구축한 방법",
     "link": "https://unity.com/blog/foxy-dumplings-cross-platform-development",
@@ -165,6 +227,52 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Apertus 1.5 Release Notes",
+    "translated_title": "Apertus 1.5 릴리스 노트",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "date": "2026-10-15",
+    "summary": [
+      "Apertus 1.5 버전 출시",
+      "주요 변경 사항 및 기능 업데이트"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "translated_title": "GPT-Rosalind, 학술 연구실에 도입",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "date": "2026-10-15",
+    "summary": [
+      "Rosalind Academic Plan을 소개합니다.",
+      "자격 있는 학술 연구실에 GPT-Rosalind를 지원합니다.",
+      "생명 과학 연구 발전을 위한 도구를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "date": "2026-10-15",
+    "summary": [
+      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
+      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
     "translated_title": "Meta의 오픈 가중치 프론티어 멀티모달 Mixture-of-Experts 모델, Muse Spark Open 출시",
     "link": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -195,22 +303,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "translated_title": "GPT-Rosalind, 학술 연구실에 도입",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "date": "2026-10-15",
-    "summary": [
-      "Rosalind Academic Plan을 소개합니다.",
-      "자격 있는 학술 연구실에 GPT-Rosalind를 지원합니다.",
-      "생명 과학 연구 발전을 위한 도구를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Teaching students to think and learn through questions",
     "translated_title": "질문을 통해 생각하고 배우도록 학생들을 가르치기",
     "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
@@ -224,21 +316,6 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "date": "2026-10-15",
-    "summary": [
-      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
-      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -397,21 +474,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
-    "translated_title": "Owlchemy CEO: VR이 '카페 테스트'를 통과하지 못해 아직 신흥 시장인 이유",
-    "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
-    "date": "2026-10-13",
-    "summary": [
-      "VR 시장은 아직 대중에게 '카페 테스트'를 통과하지 못했기 때문에 신흥 시장으로 남아 있습니다.",
-      "일부 VR 기업들이 대중의 요구를 충족시키지 못해 해고가 빈번하게 발생하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "translated_title": "Gemini 4 Argon의 책임감 있고 안전한 개발",
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -455,6 +517,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
+    "translated_title": "Owlchemy CEO: VR이 '카페 테스트'를 통과하지 못해 아직 신흥 시장인 이유",
+    "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+    "date": "2026-10-13",
+    "summary": [
+      "VR 시장은 아직 대중에게 '카페 테스트'를 통과하지 못했기 때문에 신흥 시장으로 남아 있습니다.",
+      "일부 VR 기업들이 대중의 요구를 충족시키지 못해 해고가 빈번하게 발생하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -4516,80 +4593,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Two Minute Papers"
-  },
-  {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "translated_title": "Gemini 3.5 Transcribe를 통한 지능형 음성-텍스트 변환",
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "date": "2026-08-26",
-    "summary": [
-      "Gemini 3.5 Transcribe로 더욱 지능적인 음성-텍스트 변환이 가능해졌습니다.",
-      "토큰/시간 절약을 위해 길이 제한을 사용할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "translated_title": "Sentence Transformers를 이용한 멀티 벡터 임베딩 모델 학습 및 파인튜닝",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "date": "2026-08-26",
-    "summary": [
-      "Sentence Transformers를 활용하여 멀티 벡터 임베딩 모델을 학습하는 방법.",
-      "모델 성능 향상을 위한 파인튜닝 기법을 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "translated_title": "배움은 멈추지 않는다: AI가 어떻게 학습을 지속하게 하는가",
-    "link": "https://openai.com/index/learning-never-stops",
-    "date": "2026-08-26",
-    "summary": [
-      "OpenAI 보고서는 ChatGPT를 활용한 학생 및 교육자들의 학습 지속 사례를 다룹니다.",
-      "AI 지원은 교실 밖에서도 학습을 확장시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "translated_title": "ChatGPT for Teachers, 미국 학교 수련회 확대로 더 많은 교사에게 제공",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "date": "2026-08-26",
-    "summary": [
-      "ChatGPT for Teachers가 55개 미국 학군으로 확대됩니다.",
-      "10만 명 이상의 교직원에게 안전한 AI 도구, 교육 및 지원을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80",
-    "translated_title": "추모: 게임계에서도 명성을 떨친 배우 팀 커리가 80세로 별세하다",
-    "link": "https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80",
-    "date": "2026-08-26",
-    "summary": [
-      "무대와 스크린의 카리스마 넘치는 배우 팀 커리가 80세로 세상을 떠났습니다.",
-      "그는 여러 유명 비디오 게임에도 자신의 모습을 빌려주었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
