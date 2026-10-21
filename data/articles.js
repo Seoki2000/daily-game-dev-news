@@ -45,6 +45,175 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Fuse Games CEO breaks down codev framework for Star Wars: Galactic Racer",
+    "translated_title": "Fuse Games CEO, 스타워즈: 갈락틱 레이서의 코드브(Codev) 프레임워크 분석",
+    "link": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+    "date": "2026-10-20",
+    "summary": [
+      "분산 개발 효율 극대화를 위한 모델 소개",
+      "코드브 프레임워크의 핵심 내용 설명"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Innersloth co-founder warns devs: 'there are some very bad deals out there'",
+    "translated_title": "어몽 어스 개발사 공동 창업자, 개발자들에게 경고: '매우 좋지 않은 거래들이 많다'",
+    "link": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
+    "date": "2026-10-20",
+    "summary": [
+      "어몽 어스 개발사 공동 창업자가 업계 내 '매우 좋지 않은' 게임 거래들에 대해 경고했습니다.",
+      "개발자들이 부당한 조건의 거래를 피해야 한다고 강조했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Griffin Gaming Partners, Entertainment 360 jointly unveil production company Hitpoint Entertainment",
+    "translated_title": "그리핀 게이밍 파트너스, 엔터테인먼트 360, 합작 프로덕션 회사 '힛포인트 엔터테인먼트' 공개",
+    "link": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+    "date": "2026-10-20",
+    "summary": [
+      "게임 업계 펀드와 할리우드 에이전시가 게임 IP를 TV 및 영화로 각색하기 위해 협력합니다.",
+      "이를 위해 '힛포인트 엔터테인먼트'라는 새로운 프로덕션 회사를 공동 설립했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "translated_title": "NVIDIA Cosmos3-H-Dreams: 생성적 시뮬레이션으로 임상 수술을 생생하게 구현하다",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "date": "2026-10-20",
+    "summary": [
+      "NVIDIA Cosmos3-H-Dreams는 생성적 시뮬레이션 기술을 활용합니다.",
+      "이 기술은 임상 수술 환경을 현실감 있게 재현하는 데 사용됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "translated_title": "FairStress: LLM 의사결정의 공정성에 대한 심층 평가",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "date": "2026-10-20",
+    "summary": [
+      "LLM(거대 언어 모델)의 의사결정 과정에서 공정성을 더 깊이 평가하는 방법론.",
+      "FairStress는 LLM의 편향성을 측정하고 완화하는 데 초점을 맞춥니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "translated_title": "ALTK-Evolve: 학습된 기억력으로 프론티어 모델 없이 고객 서비스 작업에서 τ²-벤치마크 리더보드를 석권하다",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "date": "2026-10-20",
+    "summary": [
+      "ALTK-Evolve는 학습된 기억력 기능을 활용합니다.",
+      "고객 서비스 작업에서 τ²-벤치마크의 선두를 차지했습니다.",
+      "프론티어 모델 없이도 뛰어난 성능을 달성했습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "translated_title": "허깅 페이스와 TorchTPU의 만남: TPUs, 네이티브 지원",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "date": "2026-10-20",
+    "summary": [
+      "허깅 페이스가 PyTorch/XLA를 통해 TPU에 대한 네이티브 지원을 발표했습니다.",
+      "이로써 TPU에서 Hugging Face 라이브러리를 더 효율적으로 사용할 수 있게 됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "translated_title": "AnyLanguageModel 1.0: Apple 플랫폼에서의 로컬 모델 1년",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "date": "2026-10-20",
+    "summary": [
+      "AnyLanguageModel 1.0 출시 1주년을 맞아 Apple 플랫폼에서의 로컬 AI 모델 개발 현황을 다룹니다.",
+      "로컬 모델의 장점과 Apple 플랫폼에서의 활용 가능성에 대한 정보를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "translated_title": "ChatGPT Work로 가맹점주, 현금 결산 시간 94% 단축",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "date": "2026-10-20",
+    "summary": [
+      "ChatGPT Work를 활용하여 메뉴 가격 재산정 시간 95% 단축",
+      "연간 10만 달러 현금 흐름 확보 가능성 제시",
+      "독립적인 Schlotzsky’s 및 Cinnabon 가맹점주 사례"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "translated_title": "Terminal X, GPT-6.1와 함께 시니어 투자자 판단 88.6% 일치율 달성",
+    "link": "https://openai.com/index/terminal-x",
+    "date": "2026-10-20",
+    "summary": [
+      "Terminal X의 Eval Agent는 54개 기준 루브릭으로 결과물을 평가합니다.",
+      "GPT-6.1 Sol을 사용하여 펀드 의무 위반 사항을 25% 더 많이 발견합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "translated_title": "OpenAI, Orchestra Bio 인수",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "date": "2026-10-20",
+    "summary": [
+      "OpenAI가 Orchestra Bio를 인수합니다.",
+      "AI 기반 운영을 생명 과학 R&D에 적용합니다.",
+      "신약 개발 가속화 및 신규 치료법 발전에 기여할 것입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
     "translated_title": "RocketWerkz의 C# 프레임워크 'BRUTAL', 모든 개발자에게 공개",
     "link": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
@@ -77,21 +246,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "translated_title": "TorchNeuron: AWS Trainium에서 HF 모델을 그 어느 때보다 쉽게 실행",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "date": "2026-10-19",
-    "summary": [
-      "TorchNeuron을 사용하면 AWS Trainium에서 Hugging Face(HF) 모델 실행이 간편해졌습니다.",
-      "Hugging Face 모델을 AWS Trainium에서 효율적으로 학습시킬 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Advancing coding in low‑resource programming languages",
     "translated_title": "저자원 프로그래밍 언어 코딩 능력 향상",
     "link": "https://openai.com/index/low-resource-programming-languages",
@@ -107,6 +261,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "translated_title": "TorchNeuron: AWS Trainium에서 HF 모델을 그 어느 때보다 쉽게 실행",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "date": "2026-10-19",
+    "summary": [
+      "TorchNeuron을 사용하면 AWS Trainium에서 Hugging Face(HF) 모델 실행이 간편해졌습니다.",
+      "Hugging Face 모델을 AWS Trainium에서 효율적으로 학습시킬 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
     "translated_title": "Soft Crunch Games, Foxy Dumplings를 모든 플랫폼용으로 구축한 방법",
     "link": "https://unity.com/blog/foxy-dumplings-cross-platform-development",
@@ -120,6 +289,21 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "translated_title": "이타우, 모든 고객을 위한 생성형 AI 구축 방법",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "date": "2026-10-16",
+    "summary": [
+      "이타우는 ia.i(대화형 인터페이스)와 IARA 거버넌스 플랫폼을 통해 AI 퍼스트 전략을 적용하고 있습니다.",
+      "이 전략은 브라질의 규제가 엄격한 금융 부문에서 고객과 직원 모두를 대상으로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -153,21 +337,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "translated_title": "이타우, 모든 고객을 위한 생성형 AI 구축 방법",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "date": "2026-10-16",
-    "summary": [
-      "이타우는 ia.i(대화형 인터페이스)와 IARA 거버넌스 플랫폼을 통해 AI 퍼스트 전략을 적용하고 있습니다.",
-      "이 전략은 브라질의 규제가 엄격한 금융 부문에서 고객과 직원 모두를 대상으로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Benefit Street Partners answers questions faster with Codex",
     "translated_title": "Benefit Street Partners, Codex로 질문에 더 빠르게 답변",
     "link": "https://openai.com/index/benefit-street-partners",
@@ -196,6 +365,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "date": "2026-10-15",
+    "summary": [
+      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
+      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
@@ -256,21 +440,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "date": "2026-10-15",
-    "summary": [
-      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
-      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -4425,173 +4594,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona",
-    "translated_title": "유비소프트 모바일 바르셀로나, 스페인 노조의 지속적인 파업 요구",
-    "link": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
-    "date": "2026-08-28",
-    "summary": [
-      "유비소프트 모바일 바르셀로나 노조가 파업을 선언했습니다.",
-      "8월 초 사측에 파업 의사를 전달했으나 아직 답변을 받지 못했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "translated_title": "Gemini Omni 1.1 Flash로 더욱 정밀하게 빌드하세요",
-    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "date": "2026-08-27",
-    "summary": [
-      "Gemini Omni 1.1 Flash 출시.",
-      "더욱 향상된 제어 기능을 제공하여 빌드 작업 지원.",
-      "개발자가 프로젝트를 더 세밀하게 관리할 수 있도록 설계됨."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "translated_title": "세계 최초 이중 맹검 AI 평가 파일럿 진행",
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "date": "2026-08-27",
-    "summary": [
-      "세계 최초로 이중 맹검 AI 평가를 시범 운영합니다.",
-      "AI 평가의 새로운 표준을 제시합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Three games, 10 years, one Unity project: Piecing together The Immortal John Triptych",
-    "translated_title": "3개의 게임, 10년, 하나의 유니티 프로젝트: 불멸의 존 삼부작을 하나로 엮다",
-    "link": "https://unity.com/blog/immortal-john-triptych-joe-richardson-interview",
-    "date": "2026-08-27",
-    "summary": [
-      "솔로 개발자 Joe Richardson이 10년간 만든 르네상스풍 어드벤처 게임 3개를 유니티의 Adventure Creator를 사용해 하나의 프로젝트로 재구성했습니다.",
-      "Akupara Games의 지원을 받아 콘솔 이식 작업도 진행했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "translated_title": "더 나은 답변, 폭넓은 사고: ChatGPT와 비판적 사고 훈련으로 학생들은 무엇을 얻는가",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "date": "2026-08-27",
-    "summary": [
-      "1,000명 이상의 학생을 대상으로 한 무작위 연구에서 ChatGPT, 비판적 사고, 독창성, 실제 대학 과제 수행 능력을 조사했습니다.",
-      "ChatGPT 사용과 비판적 사고 훈련이 학생들의 성과에 미치는 영향을 분석합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How you (yes, you) can benefit from 1-on-1 synchronous playtesting",
-    "translated_title": "당신(바로 당신!)도 1:1 동기식 플레이테스트로 혜택을 받을 수 있는 방법",
-    "link": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
-    "date": "2026-08-27",
-    "summary": [
-      "Brian Cronin 디자이너는 2026 GDC Festival of Gaming 발표에서 1:1 플레이테스트를 옹호했습니다.",
-      "이 기법이 개인에게 어떤 이점을 줄 수 있는지 설명합니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "translated_title": "OpenAI, 브라질 내 입지 확장",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "date": "2026-08-27",
-    "summary": [
-      "OpenAI가 브라질에서의 활동을 확대합니다.",
-      "개발자, 기업, 지역사회와의 협력을 강화하여 AI 도입을 지원합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson",
-    "translated_title": "CDPR, 사이버펑크 2077 교훈 삼아 위쳐 4 주요 플랫폼 모두 개발 중",
-    "link": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
-    "date": "2026-08-27",
-    "summary": [
-      "CDPR 공동 CEO 미하우 노바코프스키와 인터뷰 진행",
-      "사이버펑크 2077 개발 경험을 위쳐 4에 적용",
-      "위쳐 4, 목표 플랫폼 전반에 걸쳐 개발 진행 중"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Saber exec: The game industry must look beyond North America and dilute risk",
-    "translated_title": "세이버 임원: 게임 산업은 북미를 넘어 위험을 분산해야 합니다",
-    "link": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
-    "date": "2026-08-27",
-    "summary": [
-      "게임 스튜디오는 대규모 투자를 지원하기 위해 '안정적인' 수입원을 찾아야 합니다.",
-      "북미 시장에 대한 의존도를 줄여 위험을 분산할 필요가 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox CEO Asha Sharma once again stresses Xbox's need for affordability",
-    "translated_title": "Xbox CEO 아샤 샤르마, 다시 한번 Xbox의 가격 경쟁력 필요성 강조",
-    "link": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
-    "date": "2026-08-27",
-    "summary": [
-      "Xbox CEO 아샤 샤르마가 Xbox의 건강 상태에 대해 다시 언급했습니다.",
-      "그녀는 Xbox의 가격 경쟁력이 필요하다는 점을 재차 강조했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-    "translated_title": "DeepSeek의 새로운 AI 시스템은 불가능해야 한다",
-    "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-    "date": "2026-08-26",
-    "summary": [
-      "DeepSeek가 새로운 AI 시스템을 출시했습니다.",
-      "이 시스템은 현재 기술로는 구현이 어려울 정도로 놀라운 성능을 보여줍니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
   }
 ];
