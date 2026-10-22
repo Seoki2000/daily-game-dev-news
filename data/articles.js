@@ -45,6 +45,176 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Rethinking the funnel: where mobile gaming really fits in the marketing mix",
+    "translated_title": "퍼널 재고: 모바일 게임 마케팅 믹스에서 진정한 위치",
+    "link": "https://unity.com/blog/mobile-gaming-advertising-full-funnel-strategy-for-marketers",
+    "date": "2026-10-21",
+    "summary": [
+      "업계 리더들이 마케팅 퍼널을 재고하는 이유를 알아보세요.",
+      "모바일 게임 광고가 브랜드 인지도부터 전환까지 전체 퍼널에서 어떻게 성과를 내는지 살펴보세요."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
+    "translated_title": "EA, Mass Effect 및 Dragon Age 개발사 BioWare 30년 만에 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+    "date": "2026-10-21",
+    "summary": [
+      "EA가 400명의 직원을 해고했습니다.",
+      "이 중 50명은 BioWare 소속이었습니다.",
+      "BioWare는 30년 동안 게임을 개발해 왔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "translated_title": "NVIDIA Kumo: 별도 학습 없이 관계형 데이터에서 지도 학습보다 뛰어난 성능",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "date": "2026-10-21",
+    "summary": [
+      "NVIDIA Kumo는 관계형 데이터에서 별도의 학습 없이 지도 학습보다 우수한 성능을 보여줍니다.",
+      "별도의 훈련 과정이 필요 없어 효율적입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "translated_title": "SLM 어휘 전문화로 실제 애플리케이션에서 추론 비용 77% 절감하는 방법",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "date": "2026-10-21",
+    "summary": [
+      "SLM(소형 언어 모델)의 어휘를 특정 작업에 맞게 전문화하면 추론 비용을 크게 절감할 수 있습니다.",
+      "어휘를 최적화하면 특히 실제 애플리케이션에서 77%까지 비용을 줄일 수 있는 잠재력이 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "translated_title": "TorchNeuron 프로파일링 (1부): AWS Trainium에서의 시스템 레벨 프로파일링",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "date": "2026-10-21",
+    "summary": [
+      "AWS Trainium에서의 TorchNeuron 시스템 레벨 프로파일링을 다룹니다.",
+      "이번 글은 TorchNeuron 성능 분석의 시작이며, 특히 Trainium 하드웨어에 집중합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "translated_title": "Granite Speech 5.0: 더 정확하고 빠르게 전사, 번역, 속기",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "date": "2026-10-21",
+    "summary": [
+      "Granite Speech 5.0은 기존보다 정확하고 빠른 음성 전사, 번역, 속기 기능을 제공합니다.",
+      "새로운 버전은 음성 데이터를 효과적으로 처리하여 사용자 경험을 향상시킵니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "translated_title": "AT&T, OpenAI와 협력하여 사내 법률 업무 혁신 방안 모색",
+    "link": "https://openai.com/index/att-legal",
+    "date": "2026-10-21",
+    "summary": [
+      "AT&T는 OpenAI와 협력하여 법률 지식 접근성을 높이고 있습니다.",
+      "LegalEdge 팀은 법률 업무 인입(intake) 과정을 재고하고 법률적 판단력 확장을 모색 중입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "translated_title": "일관된 표준을 통한 광범위한 접근성 확보",
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "date": "2026-10-21",
+    "summary": [
+      "OpenAI는 배포 파트너와 협력하여 일관된 안전 장치를 유지합니다.",
+      "책임감 있는 접근을 지원하고 사용 정책에 대한 기대치를 명확히 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "translated_title": "OpenAI 모델, Google Cloud에서 사용 가능",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "date": "2026-10-21",
+    "summary": [
+      "OpenAI와 Google Cloud가 제휴를 맺었습니다.",
+      "Gemini 모델 가든에 OpenAI의 최신 모델과 Codex 워크플로우가 추가됩니다.",
+      "Google Cloud Marketplace를 통해 접근 가능합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "translated_title": "지구를 패치하다: 중요 취약점 발견 시 전 지구적 대응 조율",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "date": "2026-10-21",
+    "summary": [
+      "오픈소스의 중요 취약점 해결을 위한 보안 연구원, 개발자, 사고 대응팀 연결",
+      "전 지구적 차원의 협력을 통한 취약점 관리 및 대응 강화"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "translated_title": "ChatGPT 광고, 10만 광고주 돌파 및 26개국으로 확대",
+    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "date": "2026-10-21",
+    "summary": [
+      "ChatGPT 광고가 26개국으로 확장되었습니다.",
+      "10만 명 이상의 광고주가 ChatGPT를 활용했습니다.",
+      "광고를 통해 잠재 고객의 구매 결정 과정에 도달할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Fuse Games CEO breaks down codev framework for Star Wars: Galactic Racer",
     "translated_title": "Fuse Games CEO, 스타워즈: 갈락틱 레이서의 코드브(Codev) 프레임워크 분석",
     "link": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
@@ -89,13 +259,13 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "translated_title": "NVIDIA Cosmos3-H-Dreams: 생성적 시뮬레이션으로 임상 수술을 생생하게 구현하다",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "translated_title": "FairStress: LLM 의사결정의 공정성에 대한 심층 평가",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
     "date": "2026-10-20",
     "summary": [
-      "NVIDIA Cosmos3-H-Dreams는 생성적 시뮬레이션 기술을 활용합니다.",
-      "이 기술은 임상 수술 환경을 현실감 있게 재현하는 데 사용됩니다."
+      "LLM(거대 언어 모델)의 의사결정 과정에서 공정성을 더 깊이 평가하는 방법론.",
+      "FairStress는 LLM의 편향성을 측정하고 완화하는 데 초점을 맞춥니다."
     ],
     "tags": [
       "AI",
@@ -104,13 +274,13 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "translated_title": "FairStress: LLM 의사결정의 공정성에 대한 심층 평가",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "translated_title": "NVIDIA Cosmos3-H-Dreams: 생성적 시뮬레이션으로 임상 수술을 생생하게 구현하다",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
     "date": "2026-10-20",
     "summary": [
-      "LLM(거대 언어 모델)의 의사결정 과정에서 공정성을 더 깊이 평가하는 방법론.",
-      "FairStress는 LLM의 편향성을 측정하고 완화하는 데 초점을 맞춥니다."
+      "NVIDIA Cosmos3-H-Dreams는 생성적 시뮬레이션 기술을 활용합니다.",
+      "이 기술은 임상 수술 환경을 현실감 있게 재현하는 데 사용됩니다."
     ],
     "tags": [
       "AI",
@@ -4418,176 +4588,6 @@ const allArticlesData = [
     "summary": [
       "하우스마크 공동 창립자 일라리 쿠이티넨이 회사를 떠납니다.",
       "그는 더 나은 전문가와 인간이 되기 위해 노력하겠다는 메시지를 남겼습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: 13TB of Steam data leaked after users access 'publicly accessible endpoint'",
-    "translated_title": "유출 보고: '공개 접근 가능 엔드포인트' 통해 13TB 스팀 데이터 접근",
-    "link": "https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-users-access-publicly-accessible-endpoint-",
-    "date": "2026-08-31",
-    "summary": [
-      "공개 접근 가능한 엔드포인트를 통해 13TB에 달하는 스팀 데이터가 유출되었습니다.",
-      "유출된 데이터에는 밸브의 미출시 게임 베타 빌드, 스크린샷 등이 포함되어 있습니다.",
-      "EA, WB 게임 등 타 퍼블리셔의 게임 데이터도 유출되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Indie devs and publishers hit in Gamescom equipment thefts",
-    "translated_title": "게임스컴 현장에서 인디 개발사 및 퍼블리셔 장비 도난 사건 발생",
-    "link": "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts",
-    "date": "2026-08-31",
-    "summary": [
-      "게임스컴 인디 아레나 및 비즈니스 구역에서 도난 사건 발생",
-      "소규모 전시업체들의 노트북 및 스팀 덱 다수 도난"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "translated_title": "폴리밀, 차세대 일본 공공 AI 인프라 구축",
-    "link": "https://openai.com/index/polimill",
-    "date": "2026-08-31",
-    "summary": [
-      "폴리밀은 OpenAI GPT 모델과 Codex를 활용합니다.",
-      "지자체의 행정 지식 검색 및 활용을 지원합니다.",
-      "AI 기반으로 개발 가속화를 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "A milestone in expanding access to AI",
-    "translated_title": "AI 접근성 확장의 새로운 이정표",
-    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "date": "2026-08-31",
-    "summary": [
-      "ChatGPT 광고, 연간 수익 10억 달러 달성",
-      "전 세계적으로 확장되어 AI 접근성 확대",
-      "무료 및 합리적인 가격 옵션 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "translated_title": "ASR 오픈 리더보드, 첫 번째 글로벌 남반구 언어 추가",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "date": "2026-08-28",
-    "summary": [
-      "음성 인식(ASR) 오픈 리더보드에 첫 번째 글로벌 남반구 언어가 추가되었습니다.",
-      "이는 해당 언어에 대한 ASR 기술 발전을 촉진할 것으로 기대됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "This Free AI Just Caught The Billion Dollar Giants",
-    "translated_title": "이 무료 AI가 수십억 달러 규모의 거대 기업들을 따라잡았습니다",
-    "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-    "date": "2026-08-28",
-    "summary": [
-      "Qwen3.8-Flash-Next라는 무료 AI 모델이 공개되었습니다.",
-      "이 AI는 기술 보고서와 GitHub 저장소를 통해 접근 가능합니다.",
-      "Weights & Biases의 무료 데모가 소개되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process",
-    "translated_title": "GDC 특별 강연 - 오스틴 윈토리의 협업 작곡 과정 엿보기",
-    "link": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
-    "date": "2026-08-28",
-    "summary": [
-      "오스틴 윈토리가 콘텐츠 마케팅 매니저와 창작 과정에 대해 대화합니다.",
-      "그의 협업 작곡 과정에 대한 심층적인 탐구가 이루어집니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Panic refunds tariff fees, 1047 Games pivots from Splitgate, and Gamescom Dev grows - Patch Notes #67",
-    "translated_title": "패닉, 관세 환불 및 스플릿게이트 개발사 1047게임즈 피벗, Gamescom Dev 성장 - 패치 노트 #67",
-    "link": "https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67",
-    "date": "2026-08-28",
-    "summary": [
-      "1047게임즈가 스플릿게이트 개발에서 피벗합니다.",
-      "Gamescom Dev는 성장을 기록했습니다.",
-      "No More Room in Hell 2가 얼리 액세스 졸업 후 100만 명을 돌파했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "translated_title": "SpaceX 인수 후 Cursor에 대한 우리의 결정",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "date": "2026-08-28",
-    "summary": [
-      "SpaceX가 Cursor를 인수한 후, Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "translated_title": "태국의 차세대 AI 스타트업 지원",
-    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "date": "2026-08-28",
-    "summary": [
-      "OpenAI와 태국 MHESI가 8주간 액셀러레이터를 공동 출범했습니다.",
-      "헬스, 웰니스, 교육 분야의 10개 스타트업이 AI 프로토타입을 신뢰할 수 있는 제품으로 발전시키는 것을 지원합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Warlock's magic system was built on game-bending player choices",
-    "translated_title": "워락의 마법 시스템은 게임을 뒤흔드는 플레이어의 선택을 기반으로 만들어졌습니다",
-    "link": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
-    "date": "2026-08-28",
-    "summary": [
-      "워락의 마법 시스템은 플레이어의 선택이 핵심입니다.",
-      "이 시스템은 버그가 아닌 의도된 기능입니다."
     ],
     "tags": [
       "GameDev",
