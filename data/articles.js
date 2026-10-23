@@ -45,6 +45,174 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
+    "translated_title": "여러분의 작업 공간에서 만나세요: 2억 개 이상의 Unity CLI 이벤트 분석",
+    "link": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+    "date": "2026-10-22",
+    "summary": [
+      "Unity CLI 사용량 데이터 2억 개 이벤트 분석 결과, 98%가 AI 코딩 에이전트 및 자동화에서 발생했습니다.",
+      "주요 명령어, 에이전트, 사용처를 확인할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "AI",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Skipping domain reload: faster iteration using the MethodReload feature",
+    "translated_title": "도메인 리로드 건너뛰기: MethodReload 기능으로 더 빠른 반복 작업",
+    "link": "https://unity.com/blog/skipping-domain-reload-faster-iteration-using-the-methodreload-feature",
+    "date": "2026-10-22",
+    "summary": [
+      "MethodReload를 사용하여 Unity 반복 시간을 단축하는 방법을 배웁니다.",
+      "MethodReload의 제한 사항을 알아보고 기존 핫 리로드 도구와 비교합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Opinion: Why words matter when we prioritize 'core teams' in game development",
+    "translated_title": "의견: 게임 개발에서 '핵심 팀'을 우선시할 때 단어의 중요성",
+    "link": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+    "date": "2026-10-22",
+    "summary": [
+      "게임 개발 방식은 우리가 사용하는 언어에 의해 형성됩니다.",
+      "어떤 용어를 선택하느냐에 따라 개발 프로세스가 달라질 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "VR pioneer Owlchemy Labs jumps to XR for its next release",
+    "translated_title": "VR 선구자 Owlchemy Labs, 차기작으로 XR 시장 진출",
+    "link": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+    "date": "2026-10-22",
+    "summary": [
+      "Owlchemy Labs의 신작 'Hyper Visor'가 출시됩니다.",
+      "이 게임은 HTC의 XREAL Aura 헤드셋의 론칭 타이틀로 선정되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "translated_title": "데이터베이스 채점을 RL 보상으로 전환: ThinkingBox로 사후 훈련 에이전트 만들기",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "date": "2026-10-22",
+    "summary": [
+      "데이터베이스 채점을 강화 학습(RL) 보상으로 활용하는 방법을 설명합니다.",
+      "ThinkingBox를 사용하여 훈련된 에이전트를 사후 훈련시키는 기법을 소개합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "translated_title": "OlmoEarth v1.3: 지구 전체를 위한 최첨단 임베딩",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "date": "2026-10-22",
+    "summary": [
+      "OlmoEarth v1.3은 전 지구를 아우르는 최신 임베딩 기술을 제공합니다.",
+      "이 기술은 지구 전체에 대한 상세하고 정확한 정보를 담고 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "translated_title": "IBM Granite 시계열 모델을 이용한 앙상블 예측",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "date": "2026-10-22",
+    "summary": [
+      "IBM Granite 시계열 모델을 활용하여 앙상블 예측 기법을 소개합니다.",
+      "앙상블 예측의 원리와 IBM Granite 모델의 적용 방법을 설명합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "translated_title": "결정 API로 더 반응적인 앱 구축하기",
+    "link": "https://openai.com/index/decisions-api",
+    "date": "2026-10-22",
+    "summary": [
+      "모든 애플리케이션을 위한 빠르고 집중적이며 저렴한 결정.",
+      "앱의 반응성을 향상시키는 데 도움이 됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "What FDE means at OpenAI",
+    "translated_title": "OpenAI에서 FDE가 의미하는 것",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "date": "2026-10-22",
+    "summary": [
+      "FDE는 'Forward Deployed Engineering'의 약자입니다.",
+      "이는 OpenAI 내에서 엔지니어링의 한 형태를 의미합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "translated_title": "우버, 전 직원에게 ChatGPT Work 도입",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "date": "2026-10-22",
+    "summary": [
+      "우버가 3만 명 이상의 직원에게 ChatGPT Work를 확대 적용합니다.",
+      "업무 효율성 향상을 위해 리서치, 데이터 분석, 프레젠테이션 작성 등에 활용됩니다.",
+      "복잡한 워크플로우 완수를 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "translated_title": "나무 덮개를 넘어: 전 세계 산림 유형 지도 제작",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22",
+    "summary": [
+      "지구상의 모든 10미터 토지를 고유한 산림 유형으로 분류하는 세계 지도입니다.",
+      "이 지도는 기존의 나무 덮개 정보 이상의 상세한 산림 분류를 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Rethinking the funnel: where mobile gaming really fits in the marketing mix",
     "translated_title": "퍼널 재고: 모바일 게임 마케팅 믹스에서 진정한 위치",
     "link": "https://unity.com/blog/mobile-gaming-advertising-full-funnel-strategy-for-marketers",
@@ -107,36 +275,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "translated_title": "TorchNeuron 프로파일링 (1부): AWS Trainium에서의 시스템 레벨 프로파일링",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "date": "2026-10-21",
-    "summary": [
-      "AWS Trainium에서의 TorchNeuron 시스템 레벨 프로파일링을 다룹니다.",
-      "이번 글은 TorchNeuron 성능 분석의 시작이며, 특히 Trainium 하드웨어에 집중합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "translated_title": "Granite Speech 5.0: 더 정확하고 빠르게 전사, 번역, 속기",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "date": "2026-10-21",
-    "summary": [
-      "Granite Speech 5.0은 기존보다 정확하고 빠른 음성 전사, 번역, 속기 기능을 제공합니다.",
-      "새로운 버전은 음성 데이터를 효과적으로 처리하여 사용자 경험을 향상시킵니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "translated_title": "AT&T, OpenAI와 협력하여 사내 법률 업무 혁신 방안 모색",
     "link": "https://openai.com/index/att-legal",
@@ -165,6 +303,36 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "translated_title": "TorchNeuron 프로파일링 (1부): AWS Trainium에서의 시스템 레벨 프로파일링",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "date": "2026-10-21",
+    "summary": [
+      "AWS Trainium에서의 TorchNeuron 시스템 레벨 프로파일링을 다룹니다.",
+      "이번 글은 TorchNeuron 성능 분석의 시작이며, 특히 Trainium 하드웨어에 집중합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "translated_title": "Granite Speech 5.0: 더 정확하고 빠르게 전사, 번역, 속기",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "date": "2026-10-21",
+    "summary": [
+      "Granite Speech 5.0은 기존보다 정확하고 빠른 음성 전사, 번역, 속기 기능을 제공합니다.",
+      "새로운 버전은 음성 데이터를 효과적으로 처리하여 사용자 경험을 향상시킵니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "OpenAI models are coming to Google Cloud",
@@ -384,6 +552,23 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Gemini 4 Argon Is Not What I Expected",
+    "translated_title": "Gemini 4 Argon, 기대했던 것과는 달랐습니다",
+    "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+    "date": "2026-10-19",
+    "summary": [
+      "Gemini 4 Argon 모델 및 관련 안전 보고서가 공개되었습니다.",
+      "해당 모델에 대한 다양한 사용자 반응과 정보가 공유되었습니다.",
+      "Lambda GPU Cloud와 같은 관련 기술 지원 정보도 제공됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
     "translated_title": "RocketWerkz의 C# 프레임워크 'BRUTAL', 모든 개발자에게 공개",
     "link": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
@@ -444,6 +629,23 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Stop Fighting AI",
+    "translated_title": "AI와 싸우지 마세요",
+    "link": "https://www.youtube.com/watch?v=YY28vCh2Wc0",
+    "date": "2026-10-18",
+    "summary": [
+      "AI 도구를 실제 작업에 적용하고, 변경 사항을 검토하며, 결과를 테스트하는 것이 중요합니다.",
+      "AI는 유용하지만, 직업 상실에 대한 우려는 정당하며, 개인은 계속 학습하고 기본기를 다져야 합니다.",
+      "AI를 활용하여 흥미로운 게임을 만들고 자신의 능력을 보여주는 것이 중요합니다."
+    ],
+    "tags": [
+      "Unity",
+      "AI",
+      "GameDev"
+    ],
+    "source": "Jason Weimann (GameDev)"
   },
   {
     "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
@@ -4397,202 +4599,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Report: Savvy Games Group CEO Brian Ward departs company",
-    "translated_title": "사비 게임 그룹 CEO 브라이언 워드, 회사 떠나",
-    "link": "https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company",
-    "date": "2026-09-01",
-    "summary": [
-      "사비 게임 그룹의 CEO인 브라이언 워드가 회사를 떠났습니다.",
-      "회사는 새로운 리더십과 함께 다음 단계의 혁신적인 성장을 계획하고 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The majority of Doom: The Dark Ages' DLC got made 'in three or four months'",
-    "translated_title": "둠: 다크 에이지 DLC 상당 부분이 '3~4개월 만에' 완성됐다",
-    "link": "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months",
-    "date": "2026-09-01",
-    "summary": [
-      "둠: 다크 에이지의 DLC 개발 기간이 매우 짧았습니다.",
-      "팀은 프로젝트 완료를 위해 주당 60~80시간의 강도 높은 근무를 했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Aggro Crab launches publishing label to splash that Peak cash",
-    "translated_title": "Aggro Crab, 'Peak' 게임 수익을 노린 퍼블리싱 레이블 출시",
-    "link": "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash",
-    "date": "2026-09-01",
-    "summary": [
-      "Aggro Crab, '강렬하고 스타일리쉬하며 개성 있는 게임'을 지원하기 위한 퍼블리싱 레이블 설립.",
-      "생성형 AI 기반의 저품질 게임은 지원하지 않을 방침."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Sega-owned Rovio is shutting down its Copenhagen studio",
-    "translated_title": "세가 소유 로비오, 코펜하겐 스튜디오 폐쇄",
-    "link": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
-    "date": "2026-09-01",
-    "summary": [
-      "세가 소유의 로비오가 코펜하겐 스튜디오를 폐쇄합니다.",
-      "이번 폐쇄는 '소닉 블리츠' 취소와 관련이 있으며, 정확한 해고 인원은 아직 미정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "translated_title": "벤치마크 MIRT: LLM 벤치마크는 실제로 무엇을 측정하는가?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "date": "2026-09-01",
-    "summary": [
-      "LLM 벤치마크가 무엇을 측정하는지 탐구합니다.",
-      "BenchMIRT라는 새로운 벤치마크 프레임워크를 소개합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "translated_title": "@huggingface/kernels 소개: 로컬 AI를 위한 200개 이상의 WebGPU 커널",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "date": "2026-09-01",
-    "summary": [
-      "Hugging Face에서 새로운 WebGPU 커널 라이브러리인 @huggingface/kernels를 출시했습니다.",
-      "이 라이브러리는 200개 이상의 최적화된 커널을 제공하여 로컬 환경에서 AI 모델을 더 효율적으로 실행할 수 있게 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "translated_title": "AI 네이티브 기업, 워크플로우를 운영 역량으로 전환하는 방법",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "date": "2026-09-01",
-    "summary": [
-      "AI 에이전트를 활용하여 온보딩, 계정 관리, 개발자 통합 개선",
-      "Basis, Clay, Exa Labs의 사례를 통해 기업 리더를 위한 시사점 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "translated_title": "Astra 경로: 핵심 역량 및 최첨단 안전 장치",
-    "link": "https://openai.com/index/path-to-astra",
-    "date": "2026-09-01",
-    "summary": [
-      "Astra는 OpenAI 최초로 준비태세 프레임워크 하의 핵심 사이버 보안 역량 기준을 충족했습니다.",
-      "Astra는 출시를 위해 더욱 강화된 안전 장치를 갖추고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "translated_title": "의료 기관, EHR 및 추가 산업 데이터 ChatGPT와 연결 가능",
-    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "date": "2026-09-01",
-    "summary": [
-      "ChatGPT가 신뢰할 수 있는 의료 데이터에 연결됩니다.",
-      "의료진은 환자 정보, 의학 연구 등에 안전하게 접근할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "translated_title": "Gilbert + Tobin, OpenAI로 AI를 거버넌스하고 확장하는 방법",
-    "link": "https://openai.com/index/gilbert-tobin",
-    "date": "2026-09-01",
-    "summary": [
-      "CEO 주도의 의지로 ChatGPT Enterprise 및 Codex를 전사적으로 확장",
-      "엄격한 거버넌스 체계를 통해 AI 도입 및 관리",
-      "인적 책임을 강조하며 AI 솔루션의 안전하고 효과적인 활용 도모"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
-    "translated_title": "패러독스 인터랙티브의 '애프터월드', RPG 요소로 신규 유저 공략",
-    "link": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
-    "date": "2026-09-01",
-    "summary": [
-      "'애프터월드'는 RPG적 요소를 통해 신규 플레이어에게 전략 게임의 재미를 선보일 예정입니다.",
-      "게임 디렉터 댄 린드는 전략 게임의 매력과 새로운 유저를 끌어들이는 방법을 설명합니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "translated_title": "OpenAI, 청소년 AI 안전 강화 캘리포니아 법안 지지",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "date": "2026-08-31",
-    "summary": [
-      "OpenAI가 캘리포니아 SB 1119 법안을 지지합니다.",
-      "이 법안은 청소년을 위한 강력하고 연령에 적합한 AI 안전 장치를 마련합니다.",
-      "동시에 학습, 창작, 탐구 기회를 보존하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Housemarque co-founder Ilari Kuittinen exits from studio",
-    "translated_title": "하우스마크 공동 창립자 일라리 쿠이티넨, 스튜디오 퇴사",
-    "link": "https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio",
-    "date": "2026-08-31",
-    "summary": [
-      "하우스마크 공동 창립자 일라리 쿠이티넨이 회사를 떠납니다.",
-      "그는 더 나은 전문가와 인간이 되기 위해 노력하겠다는 메시지를 남겼습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
