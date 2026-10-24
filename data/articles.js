@@ -45,6 +45,99 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "GameMaker's GMRT runtime will soon be free for all developers",
+    "translated_title": "GameMaker의 GMRT 런타임, 2027년부터 모든 개발자에게 무료 제공 예정",
+    "link": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+    "date": "2026-10-23",
+    "summary": [
+      "GameMaker의 GMRT 런타임이 2027년부터 무료로 제공됩니다.",
+      "모든 개발자가 GMRT 런타임을 자유롭게 사용할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "translated_title": "LitPivot: 문헌 환경 내 동적 맥락화를 통한 연구 아이디어 개발",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "date": "2026-10-23",
+    "summary": [
+      "LitPivot은 문헌 내에서 아이디어를 동적으로 연결하고 맥락화하여 연구를 발전시키는 방법론입니다.",
+      "이 접근법은 연구자가 기존 문헌을 탐색하며 새로운 연구 질문과 아이디어를 발견하도록 돕습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "translated_title": "AWS Trainium에서 모델을 실행 중이신가요? 확인해보세요",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "date": "2026-10-23",
+    "summary": [
+      "AWS Trainium 칩에서 모델을 실행하는지 확인하는 방법을 알려줍니다.",
+      "모델의 AWS Trainium 지원 여부를 파악하는 것이 중요합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "translated_title": "ChatGPT 사용자 10억 명 이상을 위한 온라인 스토리지의 신속한 확장 (2부)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "date": "2026-10-23",
+    "summary": [
+      "OpenAI는 안정적인 멀티 테넌시, 글로벌 캐싱, Azure Cosmos DB를 활용하여 Habitat을 확장했습니다.",
+      "이를 통해 ChatGPT의 읽기 성능을 12배 향상시켰습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "translated_title": "오픈AI의 최첨단 모델 훈련 환경 보안 강화 방법",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "date": "2026-10-23",
+    "summary": [
+      "오픈AI가 최첨단 모델 훈련 및 평가 환경의 보안을 강화했음을 설명합니다.",
+      "강화된 조치에는 오프라인 환경 구축과 고성능 컴퓨팅을 활용한 레드팀 테스트가 포함됩니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "translated_title": "OpenAI와 폴란드 NASK, AI 안전 및 보안 강화 위해 협력",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "date": "2026-10-23",
+    "summary": [
+      "OpenAI와 폴란드 NASK가 AI 안전 및 보안 분야에서 파트너십을 맺었습니다.",
+      "양측은 AI 안전, 보안 및 기술 연구를 공동으로 진행하여 보호 조치를 강화할 예정입니다.",
+      "이번 협력은 보다 복원력 있는 디지털 생태계 구축을 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
     "translated_title": "여러분의 작업 공간에서 만나세요: 2억 개 이상의 Unity CLI 이벤트 분석",
     "link": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
@@ -121,21 +214,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "translated_title": "OlmoEarth v1.3: 지구 전체를 위한 최첨단 임베딩",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "date": "2026-10-22",
-    "summary": [
-      "OlmoEarth v1.3은 전 지구를 아우르는 최신 임베딩 기술을 제공합니다.",
-      "이 기술은 지구 전체에 대한 상세하고 정확한 정보를 담고 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Ensemble forecasting with IBM Granite time-series models",
     "translated_title": "IBM Granite 시계열 모델을 이용한 앙상블 예측",
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -181,22 +259,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "translated_title": "우버, 전 직원에게 ChatGPT Work 도입",
-    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "date": "2026-10-22",
-    "summary": [
-      "우버가 3만 명 이상의 직원에게 ChatGPT Work를 확대 적용합니다.",
-      "업무 효율성 향상을 위해 리서치, 데이터 분석, 프레젠테이션 작성 등에 활용됩니다.",
-      "복잡한 워크플로우 완수를 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Beyond tree cover: mapping the world’s forest types",
     "translated_title": "나무 덮개를 넘어: 전 세계 산림 유형 지도 제작",
     "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -211,6 +273,37 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "translated_title": "OlmoEarth v1.3: 지구 전체를 위한 최첨단 임베딩",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "date": "2026-10-22",
+    "summary": [
+      "OlmoEarth v1.3은 전 지구를 아우르는 최신 임베딩 기술을 제공합니다.",
+      "이 기술은 지구 전체에 대한 상세하고 정확한 정보를 담고 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "translated_title": "우버, 전 직원에게 ChatGPT Work 도입",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "date": "2026-10-22",
+    "summary": [
+      "우버가 3만 명 이상의 직원에게 ChatGPT Work를 확대 적용합니다.",
+      "업무 효율성 향상을 위해 리서치, 데이터 분석, 프레젠테이션 작성 등에 활용됩니다.",
+      "복잡한 워크플로우 완수를 지원합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Rethinking the funnel: where mobile gaming really fits in the marketing mix",
@@ -4504,97 +4597,6 @@ const allArticlesData = [
       "BMW 그룹의 가상 분해 지원 및 Ditmara 트윈 아키텍처 포함."
     ],
     "tags": [
-      "Unity",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "translated_title": "Confluent에서 IBM 시계열 모델을 이용한 실시간 인텔리전스",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "date": "2026-09-02",
-    "summary": [
-      "IBM 시계열 모델을 Confluent와 통합하여 실시간 데이터 분석.",
-      "실시간 데이터를 기반으로 즉각적인 인사이트 확보 및 의사결정 지원."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Nexus Mods is acquiring database and analytics site SteamDB",
-    "translated_title": "넥서스 모드가 데이터베이스 및 분석 사이트 스팀DB를 인수합니다",
-    "link": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
-    "date": "2026-09-02",
-    "summary": [
-      "넥서스 모드가 스팀DB를 인수합니다.",
-      "이를 통해 스팀DB에 더 많은 리소스를 제공하고 장기적인 안정성을 확보할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "translated_title": "ChatGPT로 ATV 빅에어 투어, 3일치 업무를 3시간 만에 완료",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "date": "2026-09-02",
-    "summary": [
-      "ATV 빅에어 투어는 ChatGPT를 활용하여 마케팅 및 상품 기획 업무 효율성을 크게 높였습니다.",
-      "특히, 상품 사진을 15분 만에 재고 관리 웹사이트로 전환하는 등 빠른 결과물을 얻었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-    "translated_title": "GLM 5.3: 강력한 AI가 거의 무료가 되어가고 있습니다",
-    "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
-    "date": "2026-09-01",
-    "summary": [
-      "GLM 5.3 모델의 성능 향상 및 접근성 증가",
-      "AI 기술의 발전으로 비용 부담 감소 추세"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Introducing agentic video understanding with Gemini",
-    "translated_title": "Gemini를 활용한 에이전트형 비디오 이해 기능 소개",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "date": "2026-09-01",
-    "summary": [
-      "Gemini가 에이전트형 비디오 이해 기능을 지원합니다.",
-      "이 기능을 통해 비디오 콘텐츠를 더 지능적으로 분석하고 이해할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Games made with Unity: August 2026 in review",
-    "translated_title": "유니티로 만든 주목할 만한 게임: 2026년 8월",
-    "link": "https://unity.com/blog/games-made-with-unity-august-2026-releases",
-    "date": "2026-09-01",
-    "summary": [
-      "유니티 커뮤니티의 최신 게임 개발 소식 제공",
-      "2026년 8월에 출시되었거나 주목할 만한 유니티 게임 목록 소개"
-    ],
-    "tags": [
-      "GameDev",
       "Unity",
       "News"
     ],
