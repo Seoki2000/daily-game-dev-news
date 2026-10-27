@@ -45,6 +45,125 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
+    "translated_title": "Xbox, 넷플릭스의 5억 달러 제안 거절 보도",
+    "link": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
+    "date": "2026-10-26",
+    "summary": [
+      "넷플릭스가 Xbox 게임 IP 각색을 위해 5억 달러를 제안했다.",
+      "Xbox는 더 높은 금액을 기대하며 제안을 거절한 것으로 알려졌다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox's first-ever COO is out after just three months",
+    "translated_title": "Xbox 첫 COO, 3개월 만에 사임",
+    "link": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
+    "date": "2026-10-26",
+    "summary": [
+      "Xbox의 첫 COO가 임용 3개월 만에 직책에서 물러납니다.",
+      "이 직책은 Xbox CEO가 Xbox의 파편화를 줄이기 위해 필요하다고 언급한 바 있습니다.",
+      "별다른 홍보 없이 조용히 사임했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Obituary: Voice actor Eric Bauza has passed away at 46",
+    "translated_title": "성우 에릭 바우자, 46세로 별세",
+    "link": "https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46",
+    "date": "2026-10-26",
+    "summary": [
+      "벅스 버니, 대피 덕 등 인기 캐릭터 목소리의 주인공 에릭 바우자가 별세했습니다.",
+      "향년 46세입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "translated_title": "Greptile, GPT-6 Astra로 코드 검토를 넘어 버그 탐지",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "date": "2026-10-26",
+    "summary": [
+      "Greptile은 GPT-6 Astra를 사용하여 사용자 워크플로우를 테스트합니다.",
+      "Daybreak로 보안을 강화하고 Codex로 재작업을 줄입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "translated_title": "학계 커뮤니티와 협력하여 과학적 이해를 구축하다",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "date": "2026-10-26",
+    "summary": [
+      "OpenAI가 케케야 추측, 지수 시간 가설, 양자 색역학 모델 결과를 공유했습니다.",
+      "연구자들이 결과를 검증하고 이를 기반으로 발전시킬 수 있는 방법을 안내합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "translated_title": "GPT-6.1 Sol, CodeRabbit의 복잡한 코드베이스 보안 강화 지원",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "date": "2026-10-26",
+    "summary": [
+      "CodeRabbit은 GPT-6.1 Sol을 활용하여 복잡한 코드베이스의 보안 위험을 분석합니다.",
+      "보안 에이전트는 개발자가 발견된 문제점과 제안된 수정 사항을 검토하도록 돕습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "translated_title": "ChatGPT의 확장되는 업무 세계",
+    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "date": "2026-10-26",
+    "summary": [
+      "100개국 165가지 업무 활동에 대한 OpenAI Signals 데이터 분석",
+      "ChatGPT의 업무 활용 방식 및 시간 경과에 따른 변화 탐구"
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "translated_title": "Fanatics와 OpenAI, 팬 경험 간소화하는 방법",
+    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "date": "2026-10-26",
+    "summary": [
+      "Fanatics는 OpenAI의 'Shop the Look' 기능을 활용하여 팬들이 게임 당일 의상을 완성하도록 돕습니다.",
+      "MLB 제품 약 30,000개를 대상으로 한 테스트 결과, 참여율이 10% 증가했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "GameMaker's GMRT runtime will soon be free for all developers",
     "translated_title": "GameMaker의 GMRT 런타임, 2027년부터 모든 개발자에게 무료 제공 예정",
     "link": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
@@ -184,21 +303,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "VR pioneer Owlchemy Labs jumps to XR for its next release",
-    "translated_title": "VR 선구자 Owlchemy Labs, 차기작으로 XR 시장 진출",
-    "link": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
-    "date": "2026-10-22",
-    "summary": [
-      "Owlchemy Labs의 신작 'Hyper Visor'가 출시됩니다.",
-      "이 게임은 HTC의 XREAL Aura 헤드셋의 론칭 타이틀로 선정되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "translated_title": "데이터베이스 채점을 RL 보상으로 전환: ThinkingBox로 사후 훈련 에이전트 만들기",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -229,6 +333,37 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "translated_title": "나무 덮개를 넘어: 전 세계 산림 유형 지도 제작",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22",
+    "summary": [
+      "지구상의 모든 10미터 토지를 고유한 산림 유형으로 분류하는 세계 지도입니다.",
+      "이 지도는 기존의 나무 덮개 정보 이상의 상세한 산림 분류를 제공합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "VR pioneer Owlchemy Labs jumps to XR for its next release",
+    "translated_title": "VR 선구자 Owlchemy Labs, 차기작으로 XR 시장 진출",
+    "link": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+    "date": "2026-10-22",
+    "summary": [
+      "Owlchemy Labs의 신작 'Hyper Visor'가 출시됩니다.",
+      "이 게임은 HTC의 XREAL Aura 헤드셋의 론칭 타이틀로 선정되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Build more responsive apps with the Decisions API",
     "translated_title": "결정 API로 더 반응적인 앱 구축하기",
     "link": "https://openai.com/index/decisions-api",
@@ -257,22 +392,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "translated_title": "나무 덮개를 넘어: 전 세계 산림 유형 지도 제작",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "date": "2026-10-22",
-    "summary": [
-      "지구상의 모든 10미터 토지를 고유한 산림 유형으로 분류하는 세계 지도입니다.",
-      "이 지도는 기존의 나무 덮개 정보 이상의 상세한 산림 분류를 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
@@ -322,6 +441,21 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "translated_title": "NVIDIA Kumo: 별도 학습 없이 관계형 데이터에서 지도 학습보다 뛰어난 성능",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "date": "2026-10-21",
+    "summary": [
+      "NVIDIA Kumo는 관계형 데이터에서 별도의 학습 없이 지도 학습보다 우수한 성능을 보여줍니다.",
+      "별도의 훈련 과정이 필요 없어 효율적입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
     "translated_title": "EA, Mass Effect 및 Dragon Age 개발사 BioWare 30년 만에 폐쇄",
     "link": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
@@ -336,21 +470,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "translated_title": "NVIDIA Kumo: 별도 학습 없이 관계형 데이터에서 지도 학습보다 뛰어난 성능",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "date": "2026-10-21",
-    "summary": [
-      "NVIDIA Kumo는 관계형 데이터에서 별도의 학습 없이 지도 학습보다 우수한 성능을 보여줍니다.",
-      "별도의 훈련 과정이 필요 없어 효율적입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -4476,130 +4595,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "translated_title": "전선 수호자들을 위한 새로운 시작: 필수 서비스 보호에 10억 달러 지원",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "date": "2026-09-03",
-    "summary": [
-      "OpenAI가 'Daybreak for Frontline Defenders'를 발표했습니다.",
-      "10억 달러 규모의 투자를 통해 필수 서비스에 최첨단 사이버 AI 접근성을 확대합니다.",
-      "사이버 AI 기술, 교육 및 지원을 제공하여 필수 서비스 보호를 강화합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "translated_title": "GPT-6 Astra, 41개 문서 검토 단 몇 분 만에 완료",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "GPT-6 Astra로 41개 문서 검토 시간을 대폭 단축했습니다.",
-      "문서 내 식별된 4가지 오류를 모두 찾아냈습니다.",
-      "금융 검토 워크플로우 성능을 약 40% 향상시켰습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "translated_title": "Playco, GPT-6 Astra로 게임 프로토타이핑 수작업 수정 50% 절감",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "Playco는 GPT-6 Astra를 활용하여 3가지 테마 게임 프로토타입을 제작했습니다.",
-      "이전 모델 대비 수작업 수정 횟수를 50% 줄였습니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "translated_title": "GPT-6 Astra: 차세대 지능의 등장",
-    "link": "https://openai.com/index/gpt-6-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "GPT-6 Astra는 역대 가장 지능적이고 정렬된 모델입니다.",
-      "컴퓨터, 코딩, 사이버 보안, 과학 등 전반에 걸쳐 최첨단 기능을 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Safety overview: GPT-6 Astra",
-    "translated_title": "GPT-6 Astra: 안전 개요",
-    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "date": "2026-09-03",
-    "summary": [
-      "GPT-6 Astra는 가장 유능하고 널리 배포된 모델입니다.",
-      "이 모델은 저희 준비 프레임워크 하에서 'Critical' 수준의 사이버 보안 역량에 도달한 최초의 모델입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "translated_title": "정부 및 기업을 위한 선제적 사이버 방어",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "date": "2026-09-02",
-    "summary": [
-      "정부 및 기업을 대상으로 선제적인 사이버 방어 전략을 제시합니다.",
-      "미래의 위협에 대비하여 능동적으로 보안 태세를 강화하는 방안을 다룹니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "translated_title": "Gemini 3.8 Flash 및 3.8 Flash Cyber 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "date": "2026-09-02",
-    "summary": [
-      "Gemini 3.8 Flash 및 3.8 Flash Cyber 모델 출시.",
-      "새로운 모델의 주요 기능 또는 특징에 대한 간략한 소개 (콘텐츠 부족으로 구체적 내용 요약 불가)."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "The Immersive Edge: August 2026 industry content wrap-up",
-    "translated_title": "몰입형 엣지: 2026년 8월 산업 콘텐츠 총정리",
-    "link": "https://unity.com/blog/immersive-edge-august-2026",
-    "date": "2026-09-02",
-    "summary": [
-      "2026년 7-8월 Unity 리소스 31개 요약.",
-      "BMW 그룹의 가상 분해 지원 및 Ditmara 트윈 아키텍처 포함."
-    ],
-    "tags": [
-      "Unity",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
   }
 ];
