@@ -45,6 +45,286 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "How does terrain work in video games?",
+    "translated_title": "비디오 게임 지형은 어떻게 작동할까요?",
+    "link": "https://unity.com/blog/video-game-terrain-guide",
+    "date": "2026-10-27",
+    "summary": [
+      "타일, 높이맵, 복셀, 노이즈를 이용한 게임 지형 생성 원리 설명",
+      "초보자를 위한 게임 지형 디자인 방법 안내"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Frame rate explained: What is fps in video games?",
+    "translated_title": "프레임 속도(FPS) 설명: 비디오 게임에서의 FPS란 무엇일까?",
+    "link": "https://unity.com/blog/frame-rate-in-video-games-explained",
+    "date": "2026-10-27",
+    "summary": [
+      "FPS(초당 프레임 수)의 의미를 학습합니다.",
+      "30, 60, 120 FPS가 흔한 이유와 안정성과 속도 비교를 알아봅니다.",
+      "게임에 적합한 프레임 속도 선택 방법을 안내합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "10 things you need to know before building your first video game",
+    "translated_title": "첫 게임 개발 전 꼭 알아야 할 10가지",
+    "link": "https://unity.com/blog/things-to-know-before-starting-your-first-game",
+    "date": "2026-10-27",
+    "summary": [
+      "게임 개발 입문자를 위한 설계 결정 사항 소개",
+      "핵심 루프, 스케일, 물리, 카메라, 조작, 플레이 테스트 등 주요 요소 설명"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How bosses and enemies decide what to do in video games",
+    "translated_title": "게임 속 보스와 적의 행동 방식",
+    "link": "https://unity.com/blog/how-enemy-ai-works-video-games",
+    "date": "2026-10-27",
+    "summary": [
+      "게임 속 적 AI의 기본 원리 (상태, 감지, 예측 가능한 공격, 보스 페이즈)",
+      "디자이너들이 적을 공정하고 재미있게 만드는 방법"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Jump, match, build, or explore? How to find your core game loop",
+    "translated_title": "점프, 매치, 건설, 탐험? 핵심 게임 루프 찾기",
+    "link": "https://unity.com/blog/find-your-core-game-loop",
+    "date": "2026-10-27",
+    "summary": [
+      "플레이어가 반복하는 핵심 게임 루프를 찾는 방법을 배우세요.",
+      "장르를 활용하여 게임의 나머지 부분을 구성하는 방법을 알아보세요."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+    "translated_title": "GTA 6 출시 직전, 락스타 게임즈 직원들 노조 결성 투표 진행",
+    "link": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+    "date": "2026-10-27",
+    "summary": [
+      "락스타 게임즈 직원들이 노조 결성을 위한 투표를 진행합니다.",
+      "투표는 IWGB 락스타 게임 노동조합 인정을 위한 것으로 2주간 진행됩니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Warhorse Studios hit by an undetailed cybersecurity incident",
+    "translated_title": "Warhorse Studios, 상세 불명의 사이버 보안 사고 발생",
+    "link": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
+    "date": "2026-10-27",
+    "summary": [
+      "Warhorse Studios가 '심각한' 사이버 보안 공격을 받았다고 밝혔습니다.",
+      "현재 공격의 전체 영향을 파악하기 위한 조치를 취하고 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+    "translated_title": "크로시 로드 개발자 맷 홀, 아타리 모바일 사업 총괄 부사장으로 임명",
+    "link": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+    "date": "2026-10-27",
+    "summary": [
+      "크로시 로드 개발자로 유명한 맷 홀이 아타리의 모바일 사업을 이끌게 되었습니다.",
+      "모바일 게임 업계의 선구자인 맷 홀이 아타리의 모바일 전략을 총괄할 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic is updating its EULA to allow AI training on outputs from Unreal Engine and MetaHuman",
+    "translated_title": "에픽, 언리얼 엔진 및 메타휴먼 출력으로 AI 학습 허용하도록 EULA 업데이트",
+    "link": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+    "date": "2026-10-27",
+    "summary": [
+      "에픽 CEO 팀 스위니에 따르면 EULA 업데이트로 언리얼 엔진/메타휴먼 출력물로 AI 학습 가능.",
+      "개발자는 개별 게임에 대해 AI 학습 제한 가능."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Changing acquired studios' core identity consistently leads to doom, says Nightdive Studios CEO",
+    "translated_title": "인수 스튜디오의 핵심 정체성 변경은 종종 파멸을 부른다: 나이트다이브 스튜디오 CEO",
+    "link": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+    "date": "2026-10-27",
+    "summary": [
+      "대형 퍼블리셔들이 회사를 인수할 때, 그들의 강점을 살릴 수 있도록 내버려 두는 것이 중요하다.",
+      "인수된 스튜디오의 핵심 정체성을 바꾸려는 시도는 부정적인 결과를 초래하는 경향이 있다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "translated_title": "LFM3를 활용한 특화 멀티모달 모델 구축",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "date": "2026-10-27",
+    "summary": [
+      "LFM3를 사용하여 특정 목적에 맞는 멀티모달 모델을 만들 수 있습니다.",
+      "본문에서는 이러한 특화 모델 구축 방법에 대한 내용을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "translated_title": "연구 아이디어의 참신성을 LLM이 판단할 수 있을까?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "date": "2026-10-27",
+    "summary": [
+      "LLM이 연구 아이디어의 독창성을 평가하는 데 신뢰할 수 있는지 의문을 제기합니다.",
+      "LLM의 현재 능력과 한계를 탐구하여 이 역할에 적합한지 평가합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "translated_title": "Retell, OpenAI 모델 활용해 월 1억 통화 지원",
+    "link": "https://openai.com/index/retell-ai",
+    "date": "2026-10-27",
+    "summary": [
+      "Retell은 OpenAI의 GPT-6 Astra 모델로 음성 에이전트 벤치마크에서 최고 성능을 달성했습니다.",
+      "Codex 모델을 통해 직원당 연간 160만 달러의 매출 달성률을 기록했습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "translated_title": "OpenAI, Oracle과의 파트너십 확장하여 ChatGPT에 앱 통합",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "date": "2026-10-27",
+    "summary": [
+      "OpenAI와 Oracle이 파트너십을 확장합니다.",
+      "비즈니스 앱과 AI 에이전트가 ChatGPT에 통합될 예정입니다.",
+      "이를 통해 새로운 Oracle 서비스도 지원됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "translated_title": "체크포인트, Daybreak로 취약점 연구 가속화하는 방법",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "date": "2026-10-27",
+    "summary": [
+      "OpenAI Daybreak를 활용하여 새로운 보안 위협에 대한 연구를 가속화합니다.",
+      "취약점 정보를 고객 방어로 더 빠르게 전환합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "date": "2026-10-27",
+    "summary": [
+      "Genie 4는 실시간 시뮬레이션에 전례 없는 현실감을 제공하는 새로운 월드 모델입니다.",
+      "차세대 월드 시뮬레이션 기술을 선보입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "translated_title": "Greptile, GPT-6 Astra로 코드 검토를 넘어 버그 탐지",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "date": "2026-10-26",
+    "summary": [
+      "Greptile은 GPT-6 Astra를 사용하여 사용자 워크플로우를 테스트합니다.",
+      "Daybreak로 보안을 강화하고 Codex로 재작업을 줄입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "translated_title": "학계 커뮤니티와 협력하여 과학적 이해를 구축하다",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "date": "2026-10-26",
+    "summary": [
+      "OpenAI가 케케야 추측, 지수 시간 가설, 양자 색역학 모델 결과를 공유했습니다.",
+      "연구자들이 결과를 검증하고 이를 기반으로 발전시킬 수 있는 방법을 안내합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
     "translated_title": "Xbox, 넷플릭스의 5억 달러 제안 거절 보도",
     "link": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
@@ -86,36 +366,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "translated_title": "Greptile, GPT-6 Astra로 코드 검토를 넘어 버그 탐지",
-    "link": "https://openai.com/index/greptile-code-review-codex-astra",
-    "date": "2026-10-26",
-    "summary": [
-      "Greptile은 GPT-6 Astra를 사용하여 사용자 워크플로우를 테스트합니다.",
-      "Daybreak로 보안을 강화하고 Codex로 재작업을 줄입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Working with academic communities to build scientific understanding",
-    "translated_title": "학계 커뮤니티와 협력하여 과학적 이해를 구축하다",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "date": "2026-10-26",
-    "summary": [
-      "OpenAI가 케케야 추측, 지수 시간 가설, 양자 색역학 모델 결과를 공유했습니다.",
-      "연구자들이 결과를 검증하고 이를 기반으로 발전시킬 수 있는 방법을 안내합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -164,6 +414,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "translated_title": "AWS Trainium에서 모델을 실행 중이신가요? 확인해보세요",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "date": "2026-10-23",
+    "summary": [
+      "AWS Trainium 칩에서 모델을 실행하는지 확인하는 방법을 알려줍니다.",
+      "모델의 AWS Trainium 지원 여부를 파악하는 것이 중요합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "GameMaker's GMRT runtime will soon be free for all developers",
     "translated_title": "GameMaker의 GMRT 런타임, 2027년부터 모든 개발자에게 무료 제공 예정",
     "link": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
@@ -189,21 +454,6 @@ const allArticlesData = [
     ],
     "tags": [
       "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "translated_title": "AWS Trainium에서 모델을 실행 중이신가요? 확인해보세요",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "date": "2026-10-23",
-    "summary": [
-      "AWS Trainium 칩에서 모델을 실행하는지 확인하는 방법을 알려줍니다.",
-      "모델의 AWS Trainium 지원 여부를 파악하는 것이 중요합니다."
-    ],
-    "tags": [
-      "News",
       "AI"
     ],
     "source": "Hugging Face - Blog"
@@ -257,52 +507,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
-    "translated_title": "여러분의 작업 공간에서 만나세요: 2억 개 이상의 Unity CLI 이벤트 분석",
-    "link": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-    "date": "2026-10-22",
-    "summary": [
-      "Unity CLI 사용량 데이터 2억 개 이벤트 분석 결과, 98%가 AI 코딩 에이전트 및 자동화에서 발생했습니다.",
-      "주요 명령어, 에이전트, 사용처를 확인할 수 있습니다."
-    ],
-    "tags": [
-      "Unity",
-      "AI",
-      "News"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Skipping domain reload: faster iteration using the MethodReload feature",
-    "translated_title": "도메인 리로드 건너뛰기: MethodReload 기능으로 더 빠른 반복 작업",
-    "link": "https://unity.com/blog/skipping-domain-reload-faster-iteration-using-the-methodreload-feature",
-    "date": "2026-10-22",
-    "summary": [
-      "MethodReload를 사용하여 Unity 반복 시간을 단축하는 방법을 배웁니다.",
-      "MethodReload의 제한 사항을 알아보고 기존 핫 리로드 도구와 비교합니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Opinion: Why words matter when we prioritize 'core teams' in game development",
-    "translated_title": "의견: 게임 개발에서 '핵심 팀'을 우선시할 때 단어의 중요성",
-    "link": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
-    "date": "2026-10-22",
-    "summary": [
-      "게임 개발 방식은 우리가 사용하는 언어에 의해 형성됩니다.",
-      "어떤 용어를 선택하느냐에 따라 개발 프로세스가 달라질 수 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "translated_title": "데이터베이스 채점을 RL 보상으로 전환: ThinkingBox로 사후 훈련 에이전트 만들기",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -347,6 +551,52 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
+    "translated_title": "여러분의 작업 공간에서 만나세요: 2억 개 이상의 Unity CLI 이벤트 분석",
+    "link": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+    "date": "2026-10-22",
+    "summary": [
+      "Unity CLI 사용량 데이터 2억 개 이벤트 분석 결과, 98%가 AI 코딩 에이전트 및 자동화에서 발생했습니다.",
+      "주요 명령어, 에이전트, 사용처를 확인할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "AI",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Skipping domain reload: faster iteration using the MethodReload feature",
+    "translated_title": "도메인 리로드 건너뛰기: MethodReload 기능으로 더 빠른 반복 작업",
+    "link": "https://unity.com/blog/skipping-domain-reload-faster-iteration-using-the-methodreload-feature",
+    "date": "2026-10-22",
+    "summary": [
+      "MethodReload를 사용하여 Unity 반복 시간을 단축하는 방법을 배웁니다.",
+      "MethodReload의 제한 사항을 알아보고 기존 핫 리로드 도구와 비교합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Opinion: Why words matter when we prioritize 'core teams' in game development",
+    "translated_title": "의견: 게임 개발에서 '핵심 팀'을 우선시할 때 단어의 중요성",
+    "link": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+    "date": "2026-10-22",
+    "summary": [
+      "게임 개발 방식은 우리가 사용하는 언어에 의해 형성됩니다.",
+      "어떤 용어를 선택하느냐에 따라 개발 프로세스가 달라질 수 있습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "VR pioneer Owlchemy Labs jumps to XR for its next release",
@@ -4351,249 +4601,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "translated_title": "AI와 청소년 발달에 대한 신규 연구 지원금 신청 안내",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "date": "2026-09-08",
-    "summary": [
-      "OpenAI에서 청소년 발달, 웰빙, 안전에 대한 생성형 AI 영향 연구를 지원하는 500만 달러 규모의 연구 프로그램 신청을 받습니다.",
-      "독립 연구자라면 지금 바로 지원할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "translated_title": "우크라이나 독립 언론 지원",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "date": "2026-09-07",
-    "summary": [
-      "OpenAI, AIRPPU, WAN-IFRA가 우크라이나 뉴스 조직을 위한 AI 프로그램 출범.",
-      "이 프로그램은 혁신, 회복력, 독립 언론 강화를 목표로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "An Alien Mind",
-    "translated_title": "이질적인 정신",
-    "link": "https://openai.com/index/an-alien-mind",
-    "date": "2026-09-06",
-    "summary": [
-      "점점 더 강력해지는 AI에 대한 Jakub Pachocki의 성찰",
-      "AI 정렬의 어려움과 더 강력한 안전장치 및 국제 협력 촉구"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Research acceleration: The view inside OpenAI",
-    "translated_title": "OpenAI 내부: 연구 가속화의 현황",
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "date": "2026-09-06",
-    "summary": [
-      "OpenAI는 코딩 에이전트를 활용해 AI 연구 속도를 높이고 있습니다.",
-      "에이전트 사용, 실험 속도, 작업 복잡성, 연구 가속화에 대한 초기 데이터를 공개합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
-    "translated_title": "스타워즈 제로 컴퍼니 개발 비하인드 스토리: 그렉 포어츠치와 함께",
-    "link": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
-    "date": "2026-09-04",
-    "summary": [
-      "비트 리액터 CEO이자 스타워즈 제로 컴퍼니 크리에이티브 디렉터인 그렉 포어츠치가 개발 과정을 설명합니다.",
-      "스타워즈 세계관의 최신 모험에 대한 심층적인 이야기를 다룹니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "translated_title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "date": "2026-09-03",
-    "summary": [
-      "NeoMME는 멀티모달 및 다국어 처리에 특화된 효율적인 인코더입니다.",
-      "이 모델은 여러 양식의 데이터를 통합하고 다양한 언어를 지원하도록 설계되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "translated_title": "가장 발전되고 정확한 글로벌 날씨 AI 모델, WeatherNext 3 소개",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "date": "2026-09-03",
-    "summary": [
-      "WeatherNext 3는 새롭게 출시된 AI 날씨 모델입니다.",
-      "이 모델은 전 세계 날씨 예측에서 최고의 정확도를 자랑합니다.",
-      "WeatherNext 3는 기술적으로 가장 진보된 모델입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "How Project Ember is transforming burn care training through mixed reality",
-    "translated_title": "프로젝트 엠버가 혼합 현실로 화상 치료 훈련을 어떻게 혁신하는가",
-    "link": "https://unity.com/blog/project-ember-mixed-reality-transforming-burn-care-training",
-    "date": "2026-09-03",
-    "summary": [
-      "프로젝트 엠버는 혼합 현실(Mixed Reality) 기술을 활용하여 화상 치료 훈련을 제공합니다.",
-      "이 훈련은 전 세계 외과 의사들에게 더욱 현실적이고 포괄적이며 확장 가능하고 접근성을 높여줍니다."
-    ],
-    "tags": [
-      "혼합 현실",
-      "Unity",
-      "의료 교육",
-      "Research"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "translated_title": "100 GRPO 스텝으로 350M 모델을 미세 조정하여 더 나은 구조화된 출력 얻기",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "date": "2026-09-03",
-    "summary": [
-      "350M 파라미터 모델을 100 GRPO 스텝으로 미세 조정하는 방법을 설명합니다.",
-      "주요 목표는 모델의 구조화된 출력 성능을 향상시키는 것입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Give Your Coding Agents a Memory You Own",
-    "translated_title": "코딩 에이전트에게 당신만의 메모리를 만들어주세요",
-    "link": "https://huggingface.co/blog/funes",
-    "date": "2026-09-03",
-    "summary": [
-      "코딩 에이전트에 사용자가 제어할 수 있는 메모리 기능을 부여합니다.",
-      "에이전트가 과거 경험을 기억하고 활용하도록 하여 성능을 향상시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "translated_title": "TRL과 OpenEnv를 이용한 코딩 모델의 수채화 학습",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "date": "2026-09-03",
-    "summary": [
-      "TRL과 OpenEnv 라이브러리를 활용하여 코딩 모델을 훈련시켰습니다.",
-      "주요 목표는 모델이 수채화 스타일의 이미지를 생성하도록 하는 것입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-    "translated_title": "Claude Fable AI, 헤드라인보다 훨씬 기묘하다",
-    "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-    "date": "2026-09-03",
-    "summary": [
-      "Claude Fable 5.1은 공개된 논문에서 단순한 AI 모델 이상을 보여줍니다.",
-      "이 AI는 예상치 못한 독특하고 흥미로운 행동을 보이는 것으로 알려져 있습니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
-    "translated_title": "Xbox, Game Pass 구독자 대상 클라우드 게임 이용 시간 제한 도입",
-    "link": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
-    "date": "2026-09-03",
-    "summary": [
-      "Xbox Game Pass 구독자의 클라우드 게임 이용 시간이 무제한에서 제한됩니다.",
-      "이번 조치는 토큰/시간 절약을 위한 서비스 제한의 일환으로 보입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Supercell's acquisition of Metacore expected to close this month",
-    "translated_title": "슈퍼셀의 메타코어 인수, 이달 말 마무리 예정",
-    "link": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
-    "date": "2026-09-03",
-    "summary": [
-      "슈퍼셀이 메타코어를 인수하는 거래가 이달 말 마무리될 것으로 예상됩니다.",
-      "거래가 완료되면 'Merge Mansion'은 슈퍼셀의 라이브 게임 포트폴리오에 공식적으로 합류하게 됩니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Gamecity Hamburg launches second round of prototype funding",
-    "translated_title": "게임시티 함부르크, 프로토타입 펀딩 2차 라운드 시작",
-    "link": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
-    "date": "2026-09-03",
-    "summary": [
-      "게임시티 함부르크에서 프로토타입 펀딩 2차 라운드를 시작합니다.",
-      "해당 지역 기반 또는 운영 개발자에게 최대 8만 유로를 지원합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "CD Projekt Red won't be abandoning physical releases",
-    "translated_title": "CD 프로젝트 레드, 패키지 게임 출시 이어간다",
-    "link": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
-    "date": "2026-09-03",
-    "summary": [
-      "CD 프로젝트 레드는 앞으로도 패키지 게임 출시를 계속할 것입니다.",
-      "패키지 게임은 구매 가치가 있도록 제작될 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
