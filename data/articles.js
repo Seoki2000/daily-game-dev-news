@@ -45,6 +45,165 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity",
+    "translated_title": "구글 플레이 인디 게임 펀드 아프리카 2026 - 유니티로 제작된 게임",
+    "link": "https://unity.com/blog/google-play-indie-games-fund-2026",
+    "date": "2026-10-28",
+    "summary": [
+      "구글 플레이는 2026년 아프리카 인디 게임 개발을 지원합니다.",
+      "이 펀드는 유니티 엔진으로 제작된 게임에 초점을 맞춥니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "XREAL AURA Is Here: Meet Seven Made With Unity Titles",
+    "translated_title": "XREAL AURA 출시: Unity로 제작된 7가지 타이틀을 만나보세요",
+    "link": "https://unity.com/blog/xreal-aura-games-made-with-unity",
+    "date": "2026-10-28",
+    "summary": [
+      "XREAL AURA 글래스에서 출시될 Unity 게임 목록을 확인하세요.",
+      "게임 개발 스튜디오들의 이야기를 들어보세요.",
+      "Android XR 개발 시작 방법을 알아보세요."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
+    "translated_title": "에픽 VP: AI 코드 도구, 언리얼 엔진의 10년 묵은 '비결정적 버그' 제거",
+    "link": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+    "date": "2026-10-28",
+    "summary": [
+      "에픽은 AI 우선 전략으로 전환 후, AI가 언리얼 엔진의 미래를 형성할 것이라고 확인했습니다.",
+      "AI 코드 도구가 언리얼 엔진에서 10년 된 '비결정적 버그'를 해결하는 데 성공했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
+    "translated_title": "Roblox, Open3DLab 데이터 스크래핑 관련 AI 성인 콘텐츠 미사용 확인",
+    "link": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+    "date": "2026-10-28",
+    "summary": [
+      "Roblox AI 에이전트가 Open3DLab, Smutlab, SFMLab에서 성인 콘텐츠를 대량 다운로드하는 오류 발생",
+      "Roblox 측은 해당 AI가 의도대로 작동하지 않았으며, 성인 콘텐츠를 AI 훈련에 사용하지 않았다고 해명"
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Valve weighs in on Next Fest AI cloning phenomenon",
+    "translated_title": "밸브, 넥스트 페스트 AI 복제 현상에 대한 입장 발표",
+    "link": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+    "date": "2026-10-28",
+    "summary": [
+      "밸브는 스팀 스토어에서 게임들이 빠르게 복제되는 현상을 인지하고 있습니다.",
+      "문제 해결의 책임은 개발자에게 있다고 밝혔습니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "translated_title": "NVIDIA Nemotron 3.5 및 Granary v2: 프롬프트 및 적응 가능한 지능형 다국어 음성 인식",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "date": "2026-10-28",
+    "summary": [
+      "NVIDIA Nemotron 3.5와 Granary v2는 프롬프트와 적응을 통해 강력한 다국어 음성 인식 기능을 제공합니다.",
+      "새로운 기술은 사용자가 음성 인식 모델을 보다 유연하게 제어하고 특정 요구사항에 맞게 조정할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "translated_title": "OpenAI와 ServiceNow, 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십 확장",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "date": "2026-10-28",
+    "summary": [
+      "OpenAI와 ServiceNow가 파트너십을 확장합니다.",
+      "OpenAI 모델과 에이전트가 ServiceNow로 통합됩니다.",
+      "ServiceNow 워크플로우가 ChatGPT 및 Codex로 확장됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "The future of the firm",
+    "translated_title": "기업의 미래: AI의 조직 내 침투 방식",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "date": "2026-10-28",
+    "summary": [
+      "AI가 조직 구조의 하단, 중간, 측면에 위치하며 인간과 협업할 가능성을 제시합니다.",
+      "AI가 기존 인력 및 직무와 함께 공존하거나 대체하는 방안을 탐구합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "translated_title": "레고라, 법률 업무를 위한 에이전트 운영체제 구축",
+    "link": "https://openai.com/index/legora",
+    "date": "2026-10-28",
+    "summary": [
+      "레고라는 OpenAI 모델, ChatGPT, Codex를 활용하여 법률 워크플로우를 가속화합니다.",
+      "계약 분석을 확장하고 변호사들이 더 높은 가치의 업무에 집중할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "date": "2026-10-28",
+    "summary": [
+      "Gemini 4 Carbon이 차세대 프론티어 모델로 공개됩니다.",
+      "이번 모델은 기술적 한계를 뛰어넘는 혁신을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How does terrain work in video games?",
     "translated_title": "비디오 게임 지형은 어떻게 작동할까요?",
     "link": "https://unity.com/blog/video-game-terrain-guide",
@@ -94,39 +253,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "How bosses and enemies decide what to do in video games",
-    "translated_title": "게임 속 보스와 적의 행동 방식",
-    "link": "https://unity.com/blog/how-enemy-ai-works-video-games",
-    "date": "2026-10-27",
-    "summary": [
-      "게임 속 적 AI의 기본 원리 (상태, 감지, 예측 가능한 공격, 보스 페이즈)",
-      "디자이너들이 적을 공정하고 재미있게 만드는 방법"
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Jump, match, build, or explore? How to find your core game loop",
-    "translated_title": "점프, 매치, 건설, 탐험? 핵심 게임 루프 찾기",
-    "link": "https://unity.com/blog/find-your-core-game-loop",
-    "date": "2026-10-27",
-    "summary": [
-      "플레이어가 반복하는 핵심 게임 루프를 찾는 방법을 배우세요.",
-      "장르를 활용하여 게임의 나머지 부분을 구성하는 방법을 알아보세요."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "Tutorial"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
     "translated_title": "GTA 6 출시 직전, 락스타 게임즈 직원들 노조 결성 투표 진행",
     "link": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
@@ -149,52 +275,6 @@ const allArticlesData = [
     "summary": [
       "Warhorse Studios가 '심각한' 사이버 보안 공격을 받았다고 밝혔습니다.",
       "현재 공격의 전체 영향을 파악하기 위한 조치를 취하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
-    "translated_title": "크로시 로드 개발자 맷 홀, 아타리 모바일 사업 총괄 부사장으로 임명",
-    "link": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
-    "date": "2026-10-27",
-    "summary": [
-      "크로시 로드 개발자로 유명한 맷 홀이 아타리의 모바일 사업을 이끌게 되었습니다.",
-      "모바일 게임 업계의 선구자인 맷 홀이 아타리의 모바일 전략을 총괄할 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Epic is updating its EULA to allow AI training on outputs from Unreal Engine and MetaHuman",
-    "translated_title": "에픽, 언리얼 엔진 및 메타휴먼 출력으로 AI 학습 허용하도록 EULA 업데이트",
-    "link": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
-    "date": "2026-10-27",
-    "summary": [
-      "에픽 CEO 팀 스위니에 따르면 EULA 업데이트로 언리얼 엔진/메타휴먼 출력물로 AI 학습 가능.",
-      "개발자는 개별 게임에 대해 AI 학습 제한 가능."
-    ],
-    "tags": [
-      "GameDev",
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Changing acquired studios' core identity consistently leads to doom, says Nightdive Studios CEO",
-    "translated_title": "인수 스튜디오의 핵심 정체성 변경은 종종 파멸을 부른다: 나이트다이브 스튜디오 CEO",
-    "link": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
-    "date": "2026-10-27",
-    "summary": [
-      "대형 퍼블리셔들이 회사를 인수할 때, 그들의 강점을 살릴 수 있도록 내버려 두는 것이 중요하다.",
-      "인수된 스튜디오의 핵심 정체성을 바꾸려는 시도는 부정적인 결과를 초래하는 경향이 있다."
     ],
     "tags": [
       "GameDev",
@@ -264,21 +344,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "translated_title": "체크포인트, Daybreak로 취약점 연구 가속화하는 방법",
-    "link": "https://openai.com/index/check-point-daybreak",
-    "date": "2026-10-27",
-    "summary": [
-      "OpenAI Daybreak를 활용하여 새로운 보안 위협에 대한 연구를 가속화합니다.",
-      "취약점 정보를 고객 방어로 더 빠르게 전환합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Genie 4: A new generation of world simulation",
     "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -293,6 +358,100 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How bosses and enemies decide what to do in video games",
+    "translated_title": "게임 속 보스와 적의 행동 방식",
+    "link": "https://unity.com/blog/how-enemy-ai-works-video-games",
+    "date": "2026-10-27",
+    "summary": [
+      "게임 속 적 AI의 기본 원리 (상태, 감지, 예측 가능한 공격, 보스 페이즈)",
+      "디자이너들이 적을 공정하고 재미있게 만드는 방법"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Jump, match, build, or explore? How to find your core game loop",
+    "translated_title": "점프, 매치, 건설, 탐험? 핵심 게임 루프 찾기",
+    "link": "https://unity.com/blog/find-your-core-game-loop",
+    "date": "2026-10-27",
+    "summary": [
+      "플레이어가 반복하는 핵심 게임 루프를 찾는 방법을 배우세요.",
+      "장르를 활용하여 게임의 나머지 부분을 구성하는 방법을 알아보세요."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+    "translated_title": "크로시 로드 개발자 맷 홀, 아타리 모바일 사업 총괄 부사장으로 임명",
+    "link": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+    "date": "2026-10-27",
+    "summary": [
+      "크로시 로드 개발자로 유명한 맷 홀이 아타리의 모바일 사업을 이끌게 되었습니다.",
+      "모바일 게임 업계의 선구자인 맷 홀이 아타리의 모바일 전략을 총괄할 예정입니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic is updating its EULA to allow AI training on outputs from Unreal Engine and MetaHuman",
+    "translated_title": "에픽, 언리얼 엔진 및 메타휴먼 출력으로 AI 학습 허용하도록 EULA 업데이트",
+    "link": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+    "date": "2026-10-27",
+    "summary": [
+      "에픽 CEO 팀 스위니에 따르면 EULA 업데이트로 언리얼 엔진/메타휴먼 출력물로 AI 학습 가능.",
+      "개발자는 개별 게임에 대해 AI 학습 제한 가능."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Changing acquired studios' core identity consistently leads to doom, says Nightdive Studios CEO",
+    "translated_title": "인수 스튜디오의 핵심 정체성 변경은 종종 파멸을 부른다: 나이트다이브 스튜디오 CEO",
+    "link": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+    "date": "2026-10-27",
+    "summary": [
+      "대형 퍼블리셔들이 회사를 인수할 때, 그들의 강점을 살릴 수 있도록 내버려 두는 것이 중요하다.",
+      "인수된 스튜디오의 핵심 정체성을 바꾸려는 시도는 부정적인 결과를 초래하는 경향이 있다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "translated_title": "체크포인트, Daybreak로 취약점 연구 가속화하는 방법",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "date": "2026-10-27",
+    "summary": [
+      "OpenAI Daybreak를 활용하여 새로운 보안 위협에 대한 연구를 가속화합니다.",
+      "취약점 정보를 고객 방어로 더 빠르게 전환합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -522,21 +681,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "translated_title": "IBM Granite 시계열 모델을 이용한 앙상블 예측",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "date": "2026-10-22",
-    "summary": [
-      "IBM Granite 시계열 모델을 활용하여 앙상블 예측 기법을 소개합니다.",
-      "앙상블 예측의 원리와 IBM Granite 모델의 적용 방법을 설명합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Beyond tree cover: mapping the world’s forest types",
     "translated_title": "나무 덮개를 넘어: 전 세계 산림 유형 지도 제작",
     "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -551,6 +695,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "translated_title": "IBM Granite 시계열 모델을 이용한 앙상블 예측",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "date": "2026-10-22",
+    "summary": [
+      "IBM Granite 시계열 모델을 활용하여 앙상블 예측 기법을 소개합니다.",
+      "앙상블 예측의 원리와 IBM Granite 모델의 적용 방법을 설명합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
@@ -4449,157 +4608,5 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
-    "translated_title": "보도: EA, NHL 27에 생성형 AI로 해설자 목소리 입힌다",
-    "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-    "date": "2026-09-08",
-    "summary": [
-      "EA가 NHL 27 게임 내 해설에 생성형 AI를 활용하고 있다는 보도입니다.",
-      "베테랑 스포츠 해설가 존 부치그로스는 EA가 자신의 목소리를 사용한 기술 시연을 보여줬다고 주장했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "GPT-6 Astra Changes Everything",
-    "translated_title": "GPT-6 Astra, 모든 것을 바꾼다",
-    "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-    "date": "2026-09-08",
-    "summary": [
-      "GPT-6 Astra는 획기적인 변화를 예고하는 인공지능 모델입니다.",
-      "다양한 연구 및 관련 링크들이 공유되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Riot Games is considering making premium titles, says co-founder",
-    "translated_title": "라이엇 게임즈, 유료(프리미엄) 게임 출시 고려 중",
-    "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
-    "date": "2026-09-08",
-    "summary": [
-      "라이엇 게임즈 공동 창립자가 유료 타이틀 제작 가능성을 언급했습니다.",
-      "모든 게임이 '무한'이 될 필요는 없다고 밝혔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "translated_title": "GPT-5.6 Sol, 양자 컴퓨팅 실험 실행을 돕는 방법",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "date": "2026-09-08",
-    "summary": [
-      "MIT 연구원이 GPT-5.6 Sol와 Codex를 사용하여 양자 컴퓨팅 실험을 자율적으로 실행합니다.",
-      "실험 결과 분석 및 큐비트 보정에도 활용됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "translated_title": "이제 손안에 있는 업무",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "date": "2026-09-08",
-    "summary": [
-      "AI의 발전으로 더 많은 업무 수행이 가능해졌습니다.",
-      "AI의 가격 경쟁력 확보로 비용 효율적인 성장이 가능해집니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience",
-    "translated_title": "팀 셰이퍼: 더블 파인의 독특한 게임도 충분히 상업적 성공을 거둘 수 있다",
-    "link": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
-    "date": "2026-09-08",
-    "summary": [
-      "더블 파인 대표 팀 셰이퍼는 독특한 게임도 잠재적 성공 가능성을 인정했습니다.",
-      "그는 게임이 성공하기 위해선 적합한 유저층을 찾는 것이 중요하다고 강조했습니다.",
-      "더블 파인은 Xbox 산하에서는 수익을 내지 못했다고 언급했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: FuturLab lays off devs without informing team leads or managers",
-    "translated_title": "퓨처랩, 팀장·매니저에게 알리지 않고 개발자 해고 보도",
-    "link": "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-without-informing-team-leads-or-managers",
-    "date": "2026-09-08",
-    "summary": [
-      "퓨처랩이 팀장이나 매니저에게 사전 통보 없이 개발자들을 해고했다는 보도가 나왔습니다.",
-      "해고된 직원들을 '떠나는 사람들(the leavers)'로 지칭하도록 지시하며 진실을 은폐하려 했다는 의혹도 제기되었습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Don't Nod considering laying off 90 workers in France",
-    "translated_title": "돈 노드, 프랑스에서 90명 감원 고려 중",
-    "link": "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france",
-    "date": "2026-09-08",
-    "summary": [
-      "라이프 이즈 스트레인지 개발사인 돈 노드가 운영 자금 부족으로 2027년 1월 31일 이후 운영이 어려울 수 있다고 경고했습니다.",
-      "프랑스 지점에서 90명의 직원을 해고하는 방안을 검토 중입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.5",
-    "translated_title": "ChatGPT 이미지 2.5 출시",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "date": "2026-09-08",
-    "summary": [
-      "아이디어, 스케치, 참고 사진을 개인화되고 세련된 이미지로 변환합니다.",
-      "사용자의 아이디어를 더 잘 반영하는 이미지를 생성합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "translated_title": "나비에-스토크스 밀레니엄 상 문제에 대한 고찰",
-    "link": "https://openai.com/index/navier-stokes-solution",
-    "date": "2026-09-08",
-    "summary": [
-      "AI가 생성한 나비에-스토크스 방정식의 밀레니엄 상 문제에 대한 해법을 공개합니다.",
-      "해법은 상세한 설명과 Lean 언어로 작성된 공식 증명을 포함합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
   }
 ];
