@@ -45,6 +45,144 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds",
+    "translated_title": "도널드 글로버, 넷플릭스 PUBG 배틀그라운드 각색작 연출 및 출연",
+    "link": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover",
+    "date": "2026-10-29",
+    "summary": [
+      "넷플릭스가 배틀 로얄 슈팅 게임 'PUBG 배틀그라운드'의 영상화 판권을 확보했습니다.",
+      "도널드 글로버가 각본, 제작, 출연을 맡을 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
+    "translated_title": "Xbox CEO, 콘솔 수요가 공급 초과하지만 판매량은 하락세라고 밝혀",
+    "link": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+    "date": "2026-10-29",
+    "summary": [
+      "Xbox CEO는 콘솔 수요는 존재하지만 공급이 부족하다고 주장했습니다.",
+      "이러한 주장은 Xbox의 공개 판매 데이터와 상반될 수 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "translated_title": "Granite Switch 4.1.1 — 소프트웨어 업데이트처럼 모델을 업데이트하세요",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "date": "2026-10-29",
+    "summary": [
+      "Granite Switch 4.1.1이 출시되었습니다.",
+      "소프트웨어 업데이트처럼 모델을 쉽게 업데이트할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "translated_title": "Project ProtoStar 발표: 공공 과학 연구의 AI 준비 강화",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "date": "2026-10-29",
+    "summary": [
+      "Project ProtoStar는 공공 과학 연구의 AI 활용을 지원하기 위해 발표되었습니다.",
+      "이 프로젝트는 과학 연구를 AI에 더 적합하게 만드는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "translated_title": "허깅페이스에 'Le Chonk' Mistral Large 4 모델을 소개합니다",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "date": "2026-10-29",
+    "summary": [
+      "Mistral Large 4 모델, 'Le Chonk'가 허깅페이스에 공개되었습니다.",
+      "이 모델은 AI 분야의 새로운 발전 사항을 나타냅니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "translated_title": "Apple 플랫폼용 개방형 음성 인식 및 결정 모델, AnySpeechRecognizer와 AnyDecisionModel 소개",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "date": "2026-10-29",
+    "summary": [
+      "Apple 플랫폼을 위한 새로운 개방형 음성 인식 모델인 AnySpeechRecognizer를 발표합니다.",
+      "동시에 AnyDecisionModel이라는 개방형 결정 모델도 함께 출시합니다.",
+      "두 모델 모두 Apple 기기에서의 AI 활용성을 높이기 위해 설계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "translated_title": "더욱 유능하고 유익한 AI를 위한 업데이트된 모델 사양",
+    "link": "https://openai.com/index/updated-model-spec",
+    "date": "2026-10-29",
+    "summary": [
+      "OpenAI의 업데이트된 모델 사양은 AI의 판단력, 인간의 주체성, 인간 의도에 대한 충실성을 안내하는 5가지 핵심 가치를 제시합니다.",
+      "이는 AI의 능력을 향상시키고 인간에게 더 큰 이점을 제공하기 위한 지침입니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "translated_title": "최첨단 모델 불일치 탐지 방법",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "date": "2026-10-29",
+    "summary": [
+      "OpenAI는 최첨단 모델 불일치 및 무단 에이전트 동작을 감지하기 위해 계층적 모니터링을 사용합니다.",
+      "이를 통해 사고가 확대되기 전에 대응팀이 개입할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "translated_title": "Ropes & Gray, OpenAI와 협력하여 거래 실사 AI 개발 중",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "date": "2026-10-29",
+    "summary": [
+      "Ropes & Gray는 OpenAI와 협력하여 거래 실사 AI를 개발하고 있습니다.",
+      "AI는 문서 그룹화, 요약 및 보고서 생성을 지원합니다.",
+      "변호사들은 AI가 생성한 정보를 바탕으로 고객에게 조언합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity",
     "translated_title": "구글 플레이 인디 게임 펀드 아프리카 2026 - 유니티로 제작된 게임",
     "link": "https://unity.com/blog/google-play-indie-games-fund-2026",
@@ -173,21 +311,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Legora is building the agentic operating system for legal work",
-    "translated_title": "레고라, 법률 업무를 위한 에이전트 운영체제 구축",
-    "link": "https://openai.com/index/legora",
-    "date": "2026-10-28",
-    "summary": [
-      "레고라는 OpenAI 모델, ChatGPT, Codex를 활용하여 법률 워크플로우를 가속화합니다.",
-      "계약 분석을 확장하고 변호사들이 더 높은 가치의 업무에 집중할 수 있도록 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
     "title": "Gemini 4 Carbon: Our next frontier model",
     "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
     "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -202,6 +325,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "translated_title": "레고라, 법률 업무를 위한 에이전트 운영체제 구축",
+    "link": "https://openai.com/index/legora",
+    "date": "2026-10-28",
+    "summary": [
+      "레고라는 OpenAI 모델, ChatGPT, Codex를 활용하여 법률 워크플로우를 가속화합니다.",
+      "계약 분석을 확장하고 변호사들이 더 높은 가치의 업무에 집중할 수 있도록 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "How does terrain work in video games?",
@@ -251,6 +389,22 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "date": "2026-10-27",
+    "summary": [
+      "Genie 4는 실시간 시뮬레이션에 전례 없는 현실감을 제공하는 새로운 월드 모델입니다.",
+      "차세대 월드 시뮬레이션 기술을 선보입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
@@ -342,22 +496,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Genie 4: A new generation of world simulation",
-    "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "date": "2026-10-27",
-    "summary": [
-      "Genie 4는 실시간 시뮬레이션에 전례 없는 현실감을 제공하는 새로운 월드 모델입니다.",
-      "차세대 월드 시뮬레이션 기술을 선보입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How bosses and enemies decide what to do in video games",
@@ -4468,145 +4606,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent",
-    "translated_title": "플래닛 주 개발사 프론티어 디벨롭먼트, 영업 이익 62% 증가",
-    "link": "https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent",
-    "date": "2026-09-09",
-    "summary": [
-      "프론티어 디벨롭먼트, FY2026에 매출 16% 성장 달성",
-      "다수의 '회사 기록' 경신 보고"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Trump Administration takes down Tetris clone after company warns it takes copyright violation 'very seriously'",
-    "translated_title": "트럼프 행정부, 저작권 침해 '매우 심각하게' 경고한 회사 테트리스 유사 게임 차단",
-    "link": "https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-",
-    "date": "2026-09-09",
-    "summary": [
-      "트럼프 행정부가 'Build The Wall'이라는 게임을 차단했습니다.",
-      "이 게임은 테트리스와 유사한 게임으로, 회사는 저작권 침해를 '매우 심각하게' 경고했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Blizzard union workers ratify historic contract covering 1,900 employees",
-    "translated_title": "블리자드 노조, 1,900명 직원 대상 역사적 계약 비준",
-    "link": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
-    "date": "2026-09-09",
-    "summary": [
-      "생성형 AI 사용 관련 보호 장치 마련",
-      "정리해고 방지 및 재택/하이브리드 근무 혜택 확보"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The AI policy window is open. We need to act.",
-    "translated_title": "AI 정책 결정의 기회가 열렸습니다. 지금 행동해야 합니다.",
-    "link": "https://openai.com/index/ai-policy-window",
-    "date": "2026-09-09",
-    "summary": [
-      "AI 능력 강화에는 더 강력한 안전 증거와 공유 표준이 필요합니다.",
-      "AI 안전을 위한 지속 가능한 정책 조치가 시급합니다.",
-      "현재 AI 정책 결정의 기회가 열려 있는 시점입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "translated_title": "GPT-6 Astra: 업무를 위한 차세대 지능",
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "date": "2026-09-09",
-    "summary": [
-      "GPT-6 Astra는 OpenAI의 가장 뛰어난 비즈니스용 모델입니다.",
-      "향상된 추론, 컴퓨터 활용 능력, 강력한 글쓰기 및 디자인 판단력을 갖추고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "translated_title": "폴 크리스티아노, OpenAI 재단 이사회 합류",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "date": "2026-09-09",
-    "summary": [
-      "폴 크리스티아노가 OpenAI 재단 이사회 및 안전보안위원회에 합류했습니다.",
-      "그는 AI 얼라인먼트, 안전, 표준 분야 경험을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "translated_title": "누구를 위한 안전인가? 전체 주제가 아닌, 주제의 일부만 거부하기",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "date": "2026-09-08",
-    "summary": [
-      "안전이라는 개념이 특정 그룹에게만 유리하거나 편향될 수 있음을 지적합니다.",
-      "주제의 전부가 아닌, 일부에 대한 안전 논의를 거부하는 행위의 문제점을 다룹니다.",
-      "전체적인 맥락과 다양한 관점을 고려하지 않은 채 특정 부분만을 차단하는 것에 대한 비판적인 시각을 제시합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "translated_title": "알파게놈 아틀라스: 인간 게놈의 가능한 모든 DNA 문자 변화 예측 지도",
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "date": "2026-09-08",
-    "summary": [
-      "알파게놈 아틀라스는 인간 게놈의 90억 개 단일 DNA 변이에 대한 분자적 영향을 지도화합니다.",
-      "이는 인간 게놈에서 발생 가능한 모든 DNA 문자 변화를 예측하는 지도입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "DrakkenRidge: Building an open-world adventure for mobile VR",
-    "translated_title": "드라켄릿지: 모바일 VR을 위한 오픈 월드 어드벤처 제작기",
-    "link": "https://unity.com/blog/drakkenridge-building-open-world-mobile-vr-rpg-unity-ecs",
-    "date": "2026-09-08",
-    "summary": [
-      "Garage Collective는 Unity ECS를 사용하여 모바일 VR에 최적화된 오픈 월드 액션 RPG '드라켄릿지'를 개발했습니다.",
-      "ECS를 통해 대규모 오픈 월드 게임 개발의 효율성을 높였습니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
   }
 ];
