@@ -45,32 +45,157 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds",
-    "translated_title": "도널드 글로버, 넷플릭스 PUBG 배틀그라운드 각색작 연출 및 출연",
-    "link": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover",
-    "date": "2026-10-29",
+    "title": "2026 Industry releases and what’s coming in Q4",
+    "translated_title": "2026년 산업별 출시와 4분기 예정 소식",
+    "link": "https://unity.com/blog/unity-industry-product-releases-2026",
+    "date": "2026-10-30",
     "summary": [
-      "넷플릭스가 배틀 로얄 슈팅 게임 'PUBG 배틀그라운드'의 영상화 판권을 확보했습니다.",
-      "도널드 글로버가 각본, 제작, 출연을 맡을 예정입니다."
+      "Unity Industry 2026 주요 제품 출시 정보 (Unity Studio, Pipeline Automation, Simulation Pro, AI Workflows, SOC 2 Type 2, HMI)",
+      "4분기 로드맵 및 계획 공개"
     ],
     "tags": [
-      "News"
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Anthropic orders AI tool Claude to stop remaking video games",
+    "translated_title": "Anthropic, AI 도구 Claude에 게임 재창작 금지 지시",
+    "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+    "date": "2026-10-30",
+    "summary": [
+      "Anthropic이 AI 도구 Claude Code에 대해 특정 게임 재창작을 중단하도록 지시했습니다.",
+      "이는 Opus 5.5 업데이트를 통해 '다른 사람의 특정 게임을 재현'하지 않도록 '유도'하기 위함입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "AI"
     ],
     "source": "gamedeveloper"
   },
   {
-    "title": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
-    "translated_title": "Xbox CEO, 콘솔 수요가 공급 초과하지만 판매량은 하락세라고 밝혀",
-    "link": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-    "date": "2026-10-29",
+    "title": "Roblox growth slumps, but the company is betting big on AI to compensate",
+    "translated_title": "로블록스 성장 둔화, AI로 만회 노린다",
+    "link": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+    "date": "2026-10-30",
     "summary": [
-      "Xbox CEO는 콘솔 수요는 존재하지만 공급이 부족하다고 주장했습니다.",
-      "이러한 주장은 Xbox의 공개 판매 데이터와 상반될 수 있습니다."
+      "로블록스의 분기별 활성 사용자 수 목표 미달",
+      "AI를 통해 실적 부진을 만회할 계획"
     ],
     "tags": [
-      "News"
+      "News",
+      "AI"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "John Romero's canceled game finds a new publisher amidst an overall scope change",
+    "translated_title": "존 로메로의 취소된 게임, 전반적인 범위 변경 속 새 퍼블리셔 확보",
+    "link": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
+    "date": "2026-10-30",
+    "summary": [
+      "존 로메로의 게임이 Xbox에 의해 취소되었으나 새로운 퍼블리셔를 찾았습니다.",
+      "취소 위기에서 스튜디오와 팀 일부를 지켜냈습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: EA shut down BioWare in favor of Star Wars: Battlefront sequel after previously decrying licensed games",
+    "translated_title": "EA, 라이선스 게임 비판했으면서도 스타워즈: 배틀프론트 후속작 위해 바이오웨어 폐쇄 보도",
+    "link": "https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-favor-of-star-wars-battlefront-sequel-after-previously-decrying-licensed-games",
+    "date": "2026-10-30",
+    "summary": [
+      "EA가 '스타워즈: 배틀프론트' 후속작에 집중하기 위해 RPG 명가 바이오웨어를 폐쇄했다는 보도가 나왔습니다.",
+      "이 결정으로 '매스 이펙트' 시리즈 등 기존 개발 자원이 '스타워즈: 배틀프론트'로 이동하게 되었습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GDC Side Quest - An anti-cheat primer with Lucia Suarez",
+    "translated_title": "GDC 사이드 퀘스트 - Lucia Suarez와 함께하는 안티 치트 입문",
+    "link": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
+    "date": "2026-10-30",
+    "summary": [
+      "치터의 심리를 이해하는 방법",
+      "안티 치트 기술 소개"
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "nemotron-halloween",
+    "translated_title": "네모트론 할로윈",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "date": "2026-10-30",
+    "summary": [
+      "AI 모델 \"네모트론\"을 이용한 할로윈 관련 콘텐츠 제작",
+      "기존 모델의 한계 극복을 위한 새로운 접근 방식"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "translated_title": "AI 학습 선호도 표현을 웹사이트에서 더 쉽게",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "date": "2026-10-30",
+    "summary": [
+      "robots.txt를 통해 AI 학습 선호도 명시",
+      "OpenAI, 해당 신호 존중하여 참여 제공업체에 전달"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "translated_title": "커뮤니티 안전 보고 및 10대 보호 강화",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "date": "2026-10-30",
+    "summary": [
+      "ChatGPT의 폭력 예방 기능 강화",
+      "조기 개입 및 공공 안전 보고 노력 확대"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Fair use benefits everyone",
+    "translated_title": "공정 이용은 모두에게 이롭습니다",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "date": "2026-10-30",
+    "summary": [
+      "OpenAI는 창작자, 학계, 접근성 옹호자, 법률 전문가 등의 법정 서한 발췌본을 공유합니다.",
+      "이는 공정 이용이 AI 학습 및 혁신을 어떻게 지원하는지를 보여줍니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
   },
   {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -167,6 +292,34 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds",
+    "translated_title": "도널드 글로버, 넷플릭스 PUBG 배틀그라운드 각색작 연출 및 출연",
+    "link": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover",
+    "date": "2026-10-29",
+    "summary": [
+      "넷플릭스가 배틀 로얄 슈팅 게임 'PUBG 배틀그라운드'의 영상화 판권을 확보했습니다.",
+      "도널드 글로버가 각본, 제작, 출연을 맡을 예정입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
+    "translated_title": "Xbox CEO, 콘솔 수요가 공급 초과하지만 판매량은 하락세라고 밝혀",
+    "link": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+    "date": "2026-10-29",
+    "summary": [
+      "Xbox CEO는 콘솔 수요는 존재하지만 공급이 부족하다고 주장했습니다.",
+      "이러한 주장은 Xbox의 공개 판매 데이터와 상반될 수 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "How Ropes & Gray is developing AI for transactional diligence",
     "translated_title": "Ropes & Gray, OpenAI와 협력하여 거래 실사 AI 개발 중",
     "link": "https://openai.com/index/ropes-gray-ai-diligence",
@@ -214,6 +367,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "date": "2026-10-28",
+    "summary": [
+      "Gemini 4 Carbon이 차세대 프론티어 모델로 공개됩니다.",
+      "이번 모델은 기술적 한계를 뛰어넘는 혁신을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
@@ -311,22 +480,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "date": "2026-10-28",
-    "summary": [
-      "Gemini 4 Carbon이 차세대 프론티어 모델로 공개됩니다.",
-      "이번 모델은 기술적 한계를 뛰어넘는 혁신을 목표로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Legora is building the agentic operating system for legal work",
     "translated_title": "레고라, 법률 업무를 위한 에이전트 운영체제 구축",
     "link": "https://openai.com/index/legora",
@@ -375,22 +528,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "10 things you need to know before building your first video game",
-    "translated_title": "첫 게임 개발 전 꼭 알아야 할 10가지",
-    "link": "https://unity.com/blog/things-to-know-before-starting-your-first-game",
-    "date": "2026-10-27",
-    "summary": [
-      "게임 개발 입문자를 위한 설계 결정 사항 소개",
-      "핵심 루프, 스케일, 물리, 카메라, 조작, 플레이 테스트 등 주요 요소 설명"
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "Tutorial"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Genie 4: A new generation of world simulation",
     "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -405,6 +542,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "10 things you need to know before building your first video game",
+    "translated_title": "첫 게임 개발 전 꼭 알아야 할 10가지",
+    "link": "https://unity.com/blog/things-to-know-before-starting-your-first-game",
+    "date": "2026-10-27",
+    "summary": [
+      "게임 개발 입문자를 위한 설계 결정 사항 소개",
+      "핵심 루프, 스케일, 물리, 카메라, 조작, 플레이 테스트 등 주요 요소 설명"
+    ],
+    "tags": [
+      "GameDev",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
@@ -4443,163 +4596,6 @@ const allArticlesData = [
       "엑스박스가 코지마 프로덕션의 신작 'Physint'의 퍼블리싱을 맡게 되었습니다.",
       "이는 플레이스테이션이 해당 프로젝트를 중단한 이후 결정된 것입니다.",
       "이번 결정은 최근 대규모 정리해고와 다수의 퍼블리싱 파트너십 취소 등 변화를 겪고 있는 엑스박스에게 중요한 의미를 가집니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
-    "translated_title": "'좋은 게임을 출시하고, 배우고, 다음 단계로 나아가세요': id Software 10년 후 인디 개발에서 얻은 교훈",
-    "link": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
-    "date": "2026-09-10",
-    "summary": [
-      "id Software 출신들이 독립 게임 개발사 Turnkey Games를 설립하여 인디 개발에 뛰어든 경험을 공유합니다.",
-      "좋은 게임을 출시하고, 그 경험으로부터 배우며, 이를 바탕으로 다음 프로젝트를 발전시켜 나가는 것이 중요합니다.",
-      "이들의 인디 개발 여정에 대한 인터뷰 내용을 담고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "translated_title": "이제 누구나 데이터를 활용할 수 있습니다",
-    "link": "https://openai.com/index/put-data-to-work",
-    "date": "2026-09-10",
-    "summary": [
-      "ChatGPT Work의 데이터 에이전트 출시",
-      "회사 데이터 연결, AI 기반 인사이트 발굴, 대화형 대시보드 구축",
-      "자연어로 손쉽게 데이터 활용 가능"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
-    "translated_title": "'마침내 정의가 손 닿을 듯': 노조 탄압 재판 시작, 글래스고에서 락스타 해고 노동자들 집회",
-    "link": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-    "date": "2026-09-10",
-    "summary": [
-      "글래스고에서 락스타 게임즈의 해고된 직원들이 노조 탄압 재판을 앞두고 집회를 열었습니다.",
-      "재판은 2026년 10월 16일에 마무리될 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing ChatGPT for Financial Services",
-    "translated_title": "금융 서비스를 위한 ChatGPT 소개",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "date": "2026-09-10",
-    "summary": [
-      "금융 데이터와 GPT-6 Astra를 결합했습니다.",
-      "리서치, 모델링, 고객 자료 제작에 활용 가능합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "translated_title": "연방, 주, 지방 및 부족 정부를 위한 AI 접근성 및 사이버 방어 확대",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "date": "2026-09-10",
-    "summary": [
-      "OpenAI와 GSA가 정부 기관에 AI 라이선스 무료, 사용료 50% 할인 제공",
-      "확대된 사이버 방어 지원도 함께 제공",
-      "대상: 연방, 주, 지방 및 부족 정부"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing the Agents API",
-    "translated_title": "Agents API 소개",
-    "link": "https://openai.com/index/introducing-the-agents-api",
-    "date": "2026-09-10",
-    "summary": [
-      "Agents API를 사용하여 클라우드 에이전트를 구축하고 출시할 수 있습니다.",
-      "Codex 기반의 관리형 서비스로, 오케스트레이션, 장기 실행 세션, 도구 사용을 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Official Unity Plugin for Claude Code",
-    "translated_title": "Claude Code용 공식 Unity 플러그인",
-    "link": "https://unity.com/blog/unity-plugin-for-codex",
-    "date": "2026-09-09",
-    "summary": [
-      "Claude Code용 공식 Unity 플러그인은 Unity에서 작성된 스킬, Unity CLI, MCP 서버를 통한 실시간 에디터 제어를 한 번의 명령으로 설치합니다.",
-      "Unity CLI 및 MCP 서버를 통한 실시간 에디터 제어를 지원합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "translated_title": "IBM, 상업 친화적 라이선스의 최신 시계열 모델 Granite Time Series PatchTST-FM-r2 출시",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "date": "2026-09-09",
-    "summary": [
-      "IBM이 최신 시계열 예측 모델인 Granite Time Series PatchTST-FM-r2를 공개했습니다.",
-      "이 모델은 최첨단(SOTA) 성능을 자랑하며, 상업적 이용이 가능한 라이선스로 제공됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Official Unity Plugin for Claude Code",
-    "translated_title": "Claude Code용 공식 Unity 플러그인",
-    "link": "https://unity.com/blog/unity-plugin-for-claude-code",
-    "date": "2026-09-09",
-    "summary": [
-      "Unity-에서 작성한 스킬, Unity CLI, 실시간 에디터 제어를 Unity MCP 서버를 통해 한 번의 명령으로 설치합니다.",
-      "Unity의 공식 Claude Code 플러그인입니다."
-    ],
-    "tags": [
-      "AI",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Mark Cerny and Geoff Keighley launch university-affiliated fellowship program",
-    "translated_title": "마크 서니와 제프 키글리, 대학 연계 펠로우십 프로그램 론칭",
-    "link": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
-    "date": "2026-09-09",
-    "summary": [
-      "대학 연계 '노바 게임 재단' 펠로우십 프로그램 출범",
-      "매년 젊은 게임 디자이너 20명에게 억대 지원금 지급"
     ],
     "tags": [
       "GameDev",
