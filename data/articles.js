@@ -45,6 +45,150 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Games made with Unity: October 2026 in review",
+    "translated_title": "유니티로 만든 게임: 2026년 10월 리뷰",
+    "link": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
+    "date": "2026-11-02",
+    "summary": [
+      "유니티 커뮤니티의 최신 게임 제작 현황을 확인하세요.",
+      "2026년 10월에 출시된 주목할 만한 유니티 게임 목록을 탐색할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts",
+    "translated_title": "세가 퇴사 후 토시히로 나고시가 설립한 나고시 스튜디오, 넷이즈 투자 중단으로 폐쇄",
+    "link": "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding",
+    "date": "2026-11-02",
+    "summary": [
+      "나고시 스튜디오가 2021년 설립 이후 폐쇄되었습니다.",
+      "이 스튜디오는 넷이즈의 자금 지원을 받아 게임을 개발 중이었습니다.",
+      "넷이즈의 투자 중단이 폐쇄의 주요 원인으로 보도되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The number of game pages doubles on Itch.io as AI games flood the store",
+    "translated_title": "Itch.io 게임 페이지 수 두 배 증가, AI 게임 범람",
+    "link": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
+    "date": "2026-11-02",
+    "summary": [
+      "Itch.io에 AI 게임이 대거 등록되어 게임 페이지 수가 두 배로 늘었습니다.",
+      "하지만 판매량은 이에 비례해 증가하지 않았습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Zelda producer: Ocarina of Time remake helps junior staff learn classic insights",
+    "translated_title": "젤다 프로듀서: '시간의 오카리나' 리메이크, 신입 개발진에게 고전 게임 통찰력 교육",
+    "link": "https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights",
+    "date": "2026-11-02",
+    "summary": [
+      "'시간의 오카리나' 리메이크는 신입 개발진이 고전 게임의 인사이트를 배울 기회를 제공합니다.",
+      "프로듀서 에이지 아오누마는 신입 개발진이 현대 게임을 다르게 생각하도록 돕기 위해 리메이크를 결정했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "translated_title": "OpenAI의 Git 확장 방법",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "date": "2026-11-02",
+    "summary": [
+      "OpenAI는 Codex 개발 규모에 맞춰 Git 호환 백엔드인 Pando를 구축했습니다.",
+      "Pando는 대규모 개발 환경을 지원하도록 설계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "translated_title": "그리드 보호 프로그램 소개",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "date": "2026-11-02",
+    "summary": [
+      "OpenAI의 그리드 보호 프로그램이 유틸리티와 협력합니다.",
+      "미래 컴퓨팅 캠퍼스의 그리드 안정성을 지원합니다.",
+      "소비자 전기 요금을 보호합니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "translated_title": "보안 취약점 발견자에게 더 큰 포상금 지급",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "date": "2026-11-02",
+    "summary": [
+      "OpenAI, 보안 버그 바운티 포상금 인상",
+      "보고서 품질, 참여도, 우선순위 캠페인 보너스 신설",
+      "독립적인 보안 연구자들에게 혜택 확대"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "translated_title": "OpenAI, 다음 보안 스프린트를 통해 방어력 강화 준비",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "date": "2026-11-02",
+    "summary": [
+      "OpenAI는 내부 보안 스프린트를 진행합니다.",
+      "Cathedral Systems와 협력하여 AI를 활용합니다.",
+      "보안 방어 체계를 테스트하고 강화할 예정입니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LifeVal",
+    "translated_title": "AI의 일상생활 지원 능력 평가: LifeVal",
+    "link": "https://openai.com/index/lifeval",
+    "date": "2026-11-02",
+    "summary": [
+      "LifeVal는 AI가 육아, 재정 관리, 공공 서류 처리 등 일상적인 작업을 얼마나 잘 돕는지 측정하는 벤치마크입니다.",
+      "AI의 실질적인 문제 해결 능력을 평가하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "2026 Industry releases and what’s coming in Q4",
     "translated_title": "2026년 산업별 출시와 4분기 예정 소식",
     "link": "https://unity.com/blog/unity-industry-product-releases-2026",
@@ -91,6 +235,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "nemotron-halloween",
+    "translated_title": "네모트론 할로윈",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "date": "2026-10-30",
+    "summary": [
+      "AI 모델 \"네모트론\"을 이용한 할로윈 관련 콘텐츠 제작",
+      "기존 모델의 한계 극복을 위한 새로운 접근 방식"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Speeding up planning decisions with AI",
+    "translated_title": "AI로 건축 인허가 결정 시간 단축",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "date": "2026-10-30",
+    "summary": [
+      "구글 딥마인드와 영국 정부가 협력합니다.",
+      "건축 인허가 심사 시간을 줄이기 위해 AI를 활용합니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "John Romero's canceled game finds a new publisher amidst an overall scope change",
     "translated_title": "존 로메로의 취소된 게임, 전반적인 범위 변경 속 새 퍼블리셔 확보",
     "link": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
@@ -135,21 +310,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "nemotron-halloween",
-    "translated_title": "네모트론 할로윈",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "date": "2026-10-30",
-    "summary": [
-      "AI 모델 \"네모트론\"을 이용한 할로윈 관련 콘텐츠 제작",
-      "기존 모델의 한계 극복을 위한 새로운 접근 방식"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Making it easier for websites to express AI training preferences",
@@ -495,6 +655,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Genie 4: A new generation of world simulation",
+    "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "date": "2026-10-27",
+    "summary": [
+      "Genie 4는 실시간 시뮬레이션에 전례 없는 현실감을 제공하는 새로운 월드 모델입니다.",
+      "차세대 월드 시뮬레이션 기술을 선보입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How does terrain work in video games?",
     "translated_title": "비디오 게임 지형은 어떻게 작동할까요?",
     "link": "https://unity.com/blog/video-game-terrain-guide",
@@ -526,22 +702,6 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Genie 4: A new generation of world simulation",
-    "translated_title": "Genie 4: 새로운 차원의 월드 시뮬레이션",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "date": "2026-10-27",
-    "summary": [
-      "Genie 4는 실시간 시뮬레이션에 전례 없는 현실감을 제공하는 새로운 월드 모델입니다.",
-      "차세대 월드 시뮬레이션 기술을 선보입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "10 things you need to know before building your first video game",
@@ -4442,160 +4602,6 @@ const allArticlesData = [
     "summary": [
       "VR 게임 Moss를 개발한 Polyarc가 문을 닫았습니다.",
       "이 회사는 10년 이상 운영되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Worker-run studio KO_OP confirms layoffs",
-    "translated_title": "노동자 운영 스튜디오 KO_OP, 해고 사실 확인",
-    "link": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-    "date": "2026-09-14",
-    "summary": [
-      "\"Goodbye Volcano High\" 및 \"Young Suns\" 개발사 KO_OP에서 13명의 직원을 해고했습니다.",
-      "이번 해고는 노동자 운영 스튜디오인 KO_OP에서 발생했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "translated_title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 급격한 확장",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "date": "2026-09-11",
-    "summary": [
-      "OpenAI는 Habitat를 Python 라이브러리에서 전역적으로 분산된 스토리지 플랫폼으로 발전시켰습니다.",
-      "이 플랫폼은 10억 명의 ChatGPT 사용자와 초당 2,200만 건의 요청을 처리합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "translated_title": "코그니션, GPT-6 아스트라로 Devin 자체 테스트 지원",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "date": "2026-09-11",
-    "summary": [
-      "GPT-6 아스트라가 Devin의 소프트웨어 테스트 능력을 향상시킵니다.",
-      "이 기술은 엔지니어가 코드 검토 시간을 줄이고 더 많은 제품을 출시하도록 돕는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
-    "translated_title": "솔직한 의견인가, 명예훼손인가? 변호사가 법적 뉘앙스를 설명합니다",
-    "link": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
-    "date": "2026-09-11",
-    "summary": [
-      "Rockstar는 전 직원을 명예훼손으로 고소했습니다.",
-      "Discord에서의 발언이 법적 명예훼손에 해당하는지 논의합니다.",
-      "변호사가 이 법적 용어의 미묘한 차이를 설명합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Rockstar and fired GTA developers outline core arguments during union busting tribunal",
-    "translated_title": "락스타와 해고된 GTA 개발자, 노조 탄압 재판에서 핵심 주장 공개",
-    "link": "https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal",
-    "date": "2026-09-11",
-    "summary": [
-      "락스타 게임즈와 해고된 GTA 개발자들이 노조 탄압 재판에서 각자의 입장을 법적 서류를 통해 공개했습니다.",
-      "게임 개발 전문 매체가 이 법적 문서들을 입수하여 내용을 보도했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "I Never Thought I’d See This Happen",
-    "translated_title": "이런 일이 일어날 줄은 상상도 못 했어요",
-    "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-    "date": "2026-09-10",
-    "summary": [
-      "Navier-Stokes 방정식의 해석적 해법에 대한 OpenAI의 논문을 소개합니다.",
-      "실험실 수준의 유체 시뮬레이션부터 실제 적용까지의 연구를 공유합니다.",
-      "DeepMind CEO Demis Hassabis와의 인터뷰도 언급됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "translated_title": "HF 잡에서 LoRA와 비동기 GRPO: 버킷, 프록시, 그리고 NCCL 없음",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "date": "2026-09-10",
-    "summary": [
-      "LoRA를 활용하여 Hugging Face 잡에서 GRPO를 비동기적으로 처리하는 방법을 설명합니다.",
-      "이를 위해 버킷과 프록시를 사용하며, NCCL(Nvidia Collective Communications Library)은 사용하지 않습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "translated_title": "AUTOMATIC1111 Gradio 워크플로우 재구축",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "date": "2026-09-10",
-    "summary": [
-      "AUTOMATIC1111을 Gradio 워크플로우를 사용하여 재구축하는 방법을 설명합니다.",
-      "주요 단계와 고려 사항을 다룹니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "translated_title": "연구자가 코덱스 및 ChatGPT를 활용하여 새로운 항균 분자를 탐색하는 방법",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "date": "2026-09-10",
-    "summary": [
-      "세자르 데 라 푸엔테 연구실은 코덱스와 ChatGPT를 사용하여 살아있는 및 멸종된 유전체에서 항균 후보 물질을 검색합니다.",
-      "이는 약물 내성 감염 퇴치를 위한 연구입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
-    "translated_title": "플레이스테이션 프로젝트 포기 후 엑스박스, 코지마 프로덕션의 'Physint' 퍼블리싱 확정",
-    "link": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
-    "date": "2026-09-10",
-    "summary": [
-      "엑스박스가 코지마 프로덕션의 신작 'Physint'의 퍼블리싱을 맡게 되었습니다.",
-      "이는 플레이스테이션이 해당 프로젝트를 중단한 이후 결정된 것입니다.",
-      "이번 결정은 최근 대규모 정리해고와 다수의 퍼블리싱 파트너십 취소 등 변화를 겪고 있는 엑스박스에게 중요한 의미를 가집니다."
     ],
     "tags": [
       "GameDev",
