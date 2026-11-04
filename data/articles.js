@@ -45,6 +45,203 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Half of Control Resonant's players were 'new' to the franchise",
+    "translated_title": "컨트롤 레조넌트, 신규 유저 절반이 시리즈 입문",
+    "link": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
+    "date": "2026-11-03",
+    "summary": [
+      "컨트롤 레조넌트, 3주 만에 100만 장 판매 돌파",
+      "신규 플레이어가 판매량 견인 주도",
+      "레메디의 '뉴웨얼드' 액션 시리즈의 인기 증명"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
+    "translated_title": "전 엑스박스 COO 헬렌 장, 퇴사 관련 추측에 반박",
+    "link": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
+    "date": "2026-11-03",
+    "summary": [
+      "엑스박스의 전 COO 헬렌 장이 갑작스러운 퇴사에 대한 소문에 대해 반박했습니다.",
+      "그녀는 마이크로소프트 베테랑인 자신의 퇴사 이유에 대한 많은 추측을 부인했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "What Rami Ismail learned with his return to game development",
+    "translated_title": "라미 이스마일, 게임 개발 복귀 후 얻은 교훈",
+    "link": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
+    "date": "2026-11-03",
+    "summary": [
+      "인디 개발 옹호자인 라미 이스마일이 6년 만에 게임 개발 현장에 복귀했습니다.",
+      "그가 복귀 후 얻은 주요 교훈들을 다룹니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox",
+    "translated_title": "사우스 오브 미드나잇 디렉터, '로마가 불타는' 엑스박스 상황에 '늘 걱정'",
+    "link": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
+    "date": "2026-11-03",
+    "summary": [
+      "사우스 오브 미드나잇 전 디렉터는 자신이 연출한 게임에 대한 투자를 하지 않았을 것이라고 밝혔습니다.",
+      "그는 '로마가 불타는' 상황이 올 것이라는 우려를 계속 가지고 있었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "translated_title": "StateBench: 언어 모델이 장문에서 상태 변화를 추적하는 방법 테스트",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "date": "2026-11-03",
+    "summary": [
+      "StateBench는 긴 문서에서 언어 모델의 상태 변화 추적 능력을 평가하는 벤치마크입니다.",
+      "모델이 문서의 맥락을 유지하며 시간에 따른 정보 변화를 얼마나 잘 파악하는지 측정합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "translated_title": "팔레트: 소규모 모델로 디자인 언어에 맞는 덱 구성 학습시키기",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "date": "2026-11-03",
+    "summary": [
+      "소규모 AI 모델을 훈련시켜 사용자의 디자인 언어에 맞는 덱(deck)을 자동으로 구축합니다.",
+      "팔레트는 디자인 시스템을 이해하고 이에 부합하는 요소를 생성하는 데 중점을 둡니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "translated_title": "CWE-bench v2: 더 넓은 커버리지, 높은 품질, 그리고 투명성",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "date": "2026-11-03",
+    "summary": [
+      "CWE-bench v2는 더 많은 취약점을 다룹니다.",
+      "개선된 품질과 투명성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Transformers Model Integration Contracts",
+    "translated_title": "트랜스포머 모델 통합 계약",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "date": "2026-11-03",
+    "summary": [
+      "트랜스포머 모델 통합에 대한 계약",
+      "모델 통합 관련 계약 조건"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "translated_title": "물리적 세계를 위한 엔지니어링 가속화",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "date": "2026-11-03",
+    "summary": [
+      "ChatGPT와 Codex를 활용하여 엔지니어링 워크플로우를 가속화합니다.",
+      "CAD, PCB 설계, 시뮬레이션 등 물리적 세계 전반의 생산성을 향상시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "translated_title": "Cisco, OpenAI와 협력하여 머신 스피드로 보안 방어 강화",
+    "link": "https://openai.com/index/cisco-cyber",
+    "date": "2026-11-03",
+    "summary": [
+      "Cisco는 네트워크 인텔리전스와 OpenAI 모델을 결합하여 엔터프라이즈 보안을 강화합니다.",
+      "보다 적응적인 방어 시스템을 구축하는 방법을 설명합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "translated_title": "하이메스타덴, AI로 주거용 부동산 관리를 혁신하다",
+    "link": "https://openai.com/index/heimstaden",
+    "date": "2026-11-03",
+    "summary": [
+      "하이메스타덴은 OpenAI의 ChatGPT Enterprise 및 Codex를 활용합니다.",
+      "이를 통해 유럽 전역의 부동산 관리 방식을 혁신하고 비용을 절감합니다.",
+      "직원들의 업무 역량 강화에도 기여합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "translated_title": "OpenAI, 질 헤이즈베이커를 최고 기업 커뮤니케이션 책임자로 임명",
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "date": "2026-11-03",
+    "summary": [
+      "질 헤이즈베이커가 OpenAI의 최고 기업 커뮤니케이션 책임자로 합류합니다.",
+      "그녀는 회사의 글로벌 커뮤니케이션 및 기업 포지셔닝을 총괄할 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
+    "summary": [
+      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
+      "화합물 검색 및 새로운 고리형 거대 분자 제안",
+      "AI를 활용한 약물 발견 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Games made with Unity: October 2026 in review",
     "translated_title": "유니티로 만든 게임: 2026년 10월 리뷰",
     "link": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
@@ -77,6 +274,21 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Scaling Git at OpenAI",
+    "translated_title": "OpenAI의 Git 확장 방법",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "date": "2026-11-02",
+    "summary": [
+      "OpenAI는 Codex 개발 규모에 맞춰 Git 호환 백엔드인 Pando를 구축했습니다.",
+      "Pando는 대규모 개발 환경을 지원하도록 설계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "The number of game pages doubles on Itch.io as AI games flood the store",
     "translated_title": "Itch.io 게임 페이지 수 두 배 증가, AI 게임 범람",
     "link": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
@@ -106,21 +318,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Scaling Git at OpenAI",
-    "translated_title": "OpenAI의 Git 확장 방법",
-    "link": "https://openai.com/index/scaling-git-at-openai",
-    "date": "2026-11-02",
-    "summary": [
-      "OpenAI는 Codex 개발 규모에 맞춰 Git 호환 백엔드인 Pando를 구축했습니다.",
-      "Pando는 대규모 개발 환경을 지원하도록 설계되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
   },
   {
     "title": "Introducing the Grid Protectors Program",
@@ -204,37 +401,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Anthropic orders AI tool Claude to stop remaking video games",
-    "translated_title": "Anthropic, AI 도구 Claude에 게임 재창작 금지 지시",
-    "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-    "date": "2026-10-30",
-    "summary": [
-      "Anthropic이 AI 도구 Claude Code에 대해 특정 게임 재창작을 중단하도록 지시했습니다.",
-      "이는 Opus 5.5 업데이트를 통해 '다른 사람의 특정 게임을 재현'하지 않도록 '유도'하기 위함입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Roblox growth slumps, but the company is betting big on AI to compensate",
-    "translated_title": "로블록스 성장 둔화, AI로 만회 노린다",
-    "link": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
-    "date": "2026-10-30",
-    "summary": [
-      "로블록스의 분기별 활성 사용자 수 목표 미달",
-      "AI를 통해 실적 부진을 만회할 계획"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "nemotron-halloween",
     "translated_title": "네모트론 할로윈",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -264,6 +430,37 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Anthropic orders AI tool Claude to stop remaking video games",
+    "translated_title": "Anthropic, AI 도구 Claude에 게임 재창작 금지 지시",
+    "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+    "date": "2026-10-30",
+    "summary": [
+      "Anthropic이 AI 도구 Claude Code에 대해 특정 게임 재창작을 중단하도록 지시했습니다.",
+      "이는 Opus 5.5 업데이트를 통해 '다른 사람의 특정 게임을 재현'하지 않도록 '유도'하기 위함입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Roblox growth slumps, but the company is betting big on AI to compensate",
+    "translated_title": "로블록스 성장 둔화, AI로 만회 노린다",
+    "link": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+    "date": "2026-10-30",
+    "summary": [
+      "로블록스의 분기별 활성 사용자 수 목표 미달",
+      "AI를 통해 실적 부진을 만회할 계획"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "John Romero's canceled game finds a new publisher amidst an overall scope change",
@@ -496,6 +693,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "date": "2026-10-28",
+    "summary": [
+      "Gemini 4 Carbon이 차세대 프론티어 모델로 공개됩니다.",
+      "이번 모델은 기술적 한계를 뛰어넘는 혁신을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity",
     "translated_title": "구글 플레이 인디 게임 펀드 아프리카 2026 - 유니티로 제작된 게임",
     "link": "https://unity.com/blog/google-play-indie-games-fund-2026",
@@ -527,22 +740,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "translated_title": "Gemini 4 Carbon: 우리의 다음 프론티어 모델",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "date": "2026-10-28",
-    "summary": [
-      "Gemini 4 Carbon이 차세대 프론티어 모델로 공개됩니다.",
-      "이번 모델은 기술적 한계를 뛰어넘는 혁신을 목표로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
@@ -4409,204 +4606,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "How workers are unlocking new ways of working",
-    "translated_title": "직장인들이 새로운 업무 방식을 찾는 방법",
-    "link": "https://openai.com/index/unlocking-new-ways-of-working",
-    "date": "2026-09-16",
-    "summary": [
-      "OpenAI 경제 연구 결과, 직원들이 AI를 전통적인 역할 이상으로 활용하고 있습니다.",
-      "AI를 통해 새롭게 반복적인 업무 활동이 등장하고 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "translated_title": "에이전트가 작업을 성공적으로 수행했습니다. 다시 할 수 있을까요?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "date": "2026-09-15",
-    "summary": [
-      "에이전트의 첫 번째 작업 성공률을 평가합니다.",
-      "재현 가능성과 지속적인 성능 향상 방안을 모색합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "translated_title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "date": "2026-09-15",
-    "summary": [
-      "Gemini 3.8 Live 출시.",
-      "3.8 Live Extended Thinking 기능 추가.",
-      "향상된 Gemini 모델 기능 발표."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-    "translated_title": "Claude가 텍스트에 보이지 않는 지문 남기기 시작",
-    "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-    "date": "2026-09-15",
-    "summary": [
-      "AI 모델 Claude가 생성한 텍스트에 보이지 않는 워터마크를 삽입하는 기술을 개발했습니다.",
-      "이 워터마크는 텍스트의 의미나 가독성에 영향을 주지 않으면서 AI가 생성한 것인지 식별하는 데 사용됩니다.",
-      "이는 AI 생성 콘텐츠의 투명성을 높이고 잠재적인 오용을 방지하는 데 기여할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Roblox will allow devs to release games as standalone apps on other stores",
-    "translated_title": "로블록스, 개발자 게임을 타사 스토어 독립 앱으로 출시 허용",
-    "link": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-    "date": "2026-09-15",
-    "summary": [
-      "로블록스, 개발자들이 타사 플랫폼에 게임 출시 가능하게 함",
-      "게임은 로블록스 앱의 동일한 수익 분배 모델 적용"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Bungie is overhauling Marathon from its original extraction shooter vision",
-    "translated_title": "번지, '마라톤'의 초기 추출 슈터 비전 전면 개편",
-    "link": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-    "date": "2026-09-15",
-    "summary": [
-      "번지가 '마라톤'의 개발 방향을 기존 추출 슈터에서 변경합니다.",
-      "플레이어 피드백을 반영하여 게임의 내용과 제공 방식을 모두 수정할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
-    "translated_title": "워독스 리더, 소셜 미디어에서 크런치 비판하는 인재 채용 않겠다 밝혀",
-    "link": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-    "date": "2026-09-15",
-    "summary": [
-      "워독스 스튜디오는 작업물에 대한 애착이 있다면 가치 있다고 느낄 것이라고 언급했습니다.",
-      "만약 그렇지 않다면, 노예처럼 부려진다는 느낌을 받을 것이라고 덧붙였습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Why does this prominent Washington state politician think video games can be 'soft power?'",
-    "translated_title": "워싱턴주 유력 정치인이 비디오 게임을 '소프트 파워'라고 생각하는 이유는?",
-    "link": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
-    "date": "2026-09-15",
-    "summary": [
-      "워싱턴주 국무장관 스티브 홉스가 비디오 게임을 '소프트 파워'로 규정.",
-      "SLICHE 및 PAX West 2026 행사에서 개발자들에게 이 개념을 제시."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
-    "translated_title": "Bohemia Interactive, Everwind 개발사 Enjoy Studio 지분 인수",
-    "link": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-    "date": "2026-09-15",
-    "summary": [
-      "Bohemia Interactive가 Enjoy Studio의 소수 지분을 인수했습니다.",
-      "양사는 협력을 통해 최고의 게임을 만들고자 합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "translated_title": "Fyxer, 신뢰받는 AI 임원 비서 구축 방법",
-    "link": "https://openai.com/index/fyxer",
-    "date": "2026-09-14",
-    "summary": [
-      "Fyxer는 OpenAI 모델, 파인튜닝, 메모리, 사용자 피드백을 활용합니다.",
-      "사용자의 고유한 말투로 받은 편지함 정리 및 이메일 초안 작성 기능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "translated_title": "Perplexity, GPT-6 Astra로 엔드투엔드 시스템을 운영하다",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "date": "2026-09-14",
-    "summary": [
-      "Perplexity는 GPT-6 Astra 모델을 활용하여 커뮤니케이션 작성, 소프트웨어 변경, 생산 시스템 모니터링을 수행합니다.",
-      "이전 모델에 비해 시스템 점검 빈도가 현저히 줄었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Valve's Steam Frame pricing starts at $1,059",
-    "translated_title": "밸브 스팀 프레임, 1,059달러부터 시작",
-    "link": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
-    "date": "2026-09-14",
-    "summary": [
-      "밸브의 신규 VR 헤드셋, 스팀 프레임 가격 공개",
-      "시작 가격은 1,059달러",
-      "VR 개발자 대상 개발 키트도 함께 출시"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Moss developer Polyarc has shut down",
-    "translated_title": "Moss 개발사 Polyarc, 운영 중단",
-    "link": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-    "date": "2026-09-14",
-    "summary": [
-      "VR 게임 Moss를 개발한 Polyarc가 문을 닫았습니다.",
-      "이 회사는 10년 이상 운영되었습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
