@@ -45,6 +45,179 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "How Ares Interactive runs live ops without waiting on client updates",
+    "translated_title": "Ares Interactive, 클라이언트 업데이트 없이 라이브 운영을 실행하는 방법",
+    "link": "https://unity.com/blog/ares-interactive-live-service-games",
+    "date": "2026-11-04",
+    "summary": [
+      "클라이언트 릴리스 없이 라이브 운영 변경 사항을 배포합니다.",
+      "원격 구성, 버전화된 번들 및 CI를 활용합니다.",
+      "'Baseball Hits 26'과 'The Walking Dead: Aftermath'의 사례를 소개합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "The Immersive Edge: October 2026 industry content wrap-up",
+    "translated_title": "몰입형 엣지: 2026년 10월 산업 콘텐츠 총정리",
+    "link": "https://unity.com/blog/october-2026-industry-content-wrap-up",
+    "date": "2026-11-04",
+    "summary": [
+      "2026년 10월 '몰입형 엣지'에서 제공하는 Unity 산업 리소스 23개 소개",
+      "F1 아카데미 시뮬레이터부터 산업 서밋 5개 세션까지 포함"
+    ],
+    "tags": [
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Tripwire Interactive expands publishing business to focus on smaller developers and games",
+    "translated_title": "트립와이어 인터랙티브, 중소 개발사 및 게임 퍼블리싱 사업 확장",
+    "link": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
+    "date": "2026-11-04",
+    "summary": [
+      "트립와이어 인터랙티브 퍼블리싱 부문이 사업 영역 확대에 나섭니다.",
+      "주요 초점은 규모가 작은 게임과 이에 맞는 지원입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio",
+    "translated_title": "Xbox, 아케인 스튜디오 매각 검토 중... 유비소프트 등 인수 경쟁 참여",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
+    "date": "2026-11-04",
+    "summary": [
+      "Xbox가 아케인 스튜디오 매각을 고려하고 있습니다.",
+      "유비소프트가 인수 후보 중 하나로 거론되고 있습니다.",
+      "아케인 스튜디오는 폐쇄를 피하기 위해 인수 옵션을 모색 중입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Valve warns of slower Steam approvals, possibly due to AI game surge",
+    "translated_title": "밸브, AI 게임 급증으로 스팀 게임 심사 지연 가능성 경고",
+    "link": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+    "date": "2026-11-04",
+    "summary": [
+      "스팀 신규 게임 등록 심사 기간이 길어지고 있습니다.",
+      "밸브는 특정 개발 트렌드 때문이라고 직접 언급하지 않았습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "translated_title": "Dharma Field Extractor: 어떤 문서든 입력하면 JSON 형식의 구조화된 필드로 출력",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "date": "2026-11-04",
+    "summary": [
+      "Dharma Field Extractor는 다양한 형식의 문서를 입력받습니다.",
+      "입력된 문서를 분석하여 구조화된 필드를 추출합니다.",
+      "추출된 결과는 JSON 형식으로 제공됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "translated_title": "OpenAI, 피에르 컴퓨터 컴퍼니 인수 발표",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "date": "2026-11-04",
+    "summary": [
+      "OpenAI가 피에르 컴퓨터 컴퍼니 인수를 통해 Codex의 코드 작성, 이해, 검토 도구를 확장합니다.",
+      "이번 인수는 AI 기반 코드 개발 생태계 강화에 기여할 것으로 예상됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "translated_title": "Daybreak Red, AWS GovCloud(US-East)에서 사용 가능",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "date": "2026-11-04",
+    "summary": [
+      "Daybreak Red가 AWS GovCloud(US-East)에 출시되었습니다.",
+      "Amazon Bedrock을 통해 승인된 고객에게 GPT-5.6 Cyber을 제공합니다.",
+      "승인된 사이버 보안 업무에 활용될 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "translated_title": "루트 접근 경로 948개 차단",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "date": "2026-11-04",
+    "summary": [
+      "OpenAI가 리눅스 커널에서 948개의 로컬 권한 상승 취약점을 발견했습니다.",
+      "이 취약점들은 자동화된 파이프라인을 통해 찾아내고 패치를 생성했습니다.",
+      "이를 통해 시스템 보안을 강화하고 루트 접근 경로를 대폭 줄였습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "translated_title": "Images 2.6 출시",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "date": "2026-11-04",
+    "summary": [
+      "더욱 빨라진 이미지 생성 및 GIF 제작",
+      "정밀해진 편집 기능과 새로운 API 제어 기능 추가",
+      "ChatGPT, Codex, API 전반에 걸쳐 개선 적용"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "translated_title": "DevRev, GPT-6.1 Sol로 자율 셀프 서비스 제공",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "date": "2026-11-04",
+    "summary": [
+      "DevRev이 GPT-6.1 Sol을 활용하여 'Computer'와 'Operator' 기능을 지원합니다.",
+      "이 기술은 엔터프라이즈 서비스에서 추론, 속도, 비용 간의 균형을 맞춥니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Half of Control Resonant's players were 'new' to the franchise",
     "translated_title": "컨트롤 레조넌트, 신규 유저 절반이 시리즈 입문",
     "link": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
@@ -70,36 +243,6 @@ const allArticlesData = [
       "그녀는 마이크로소프트 베테랑인 자신의 퇴사 이유에 대한 많은 추측을 부인했습니다."
     ],
     "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "What Rami Ismail learned with his return to game development",
-    "translated_title": "라미 이스마일, 게임 개발 복귀 후 얻은 교훈",
-    "link": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
-    "date": "2026-11-03",
-    "summary": [
-      "인디 개발 옹호자인 라미 이스마일이 6년 만에 게임 개발 현장에 복귀했습니다.",
-      "그가 복귀 후 얻은 주요 교훈들을 다룹니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox",
-    "translated_title": "사우스 오브 미드나잇 디렉터, '로마가 불타는' 엑스박스 상황에 '늘 걱정'",
-    "link": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
-    "date": "2026-11-03",
-    "summary": [
-      "사우스 오브 미드나잇 전 디렉터는 자신이 연출한 게임에 대한 투자를 하지 않았을 것이라고 밝혔습니다.",
-      "그는 '로마가 불타는' 상황이 올 것이라는 우려를 계속 가지고 있었습니다."
-    ],
-    "tags": [
-      "GameDev",
       "News"
     ],
     "source": "gamedeveloper"
@@ -165,6 +308,52 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
+    "summary": [
+      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
+      "화합물 검색 및 새로운 고리형 거대 분자 제안",
+      "AI를 활용한 약물 발견 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "What Rami Ismail learned with his return to game development",
+    "translated_title": "라미 이스마일, 게임 개발 복귀 후 얻은 교훈",
+    "link": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
+    "date": "2026-11-03",
+    "summary": [
+      "인디 개발 옹호자인 라미 이스마일이 6년 만에 게임 개발 현장에 복귀했습니다.",
+      "그가 복귀 후 얻은 주요 교훈들을 다룹니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox",
+    "translated_title": "사우스 오브 미드나잇 디렉터, '로마가 불타는' 엑스박스 상황에 '늘 걱정'",
+    "link": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
+    "date": "2026-11-03",
+    "summary": [
+      "사우스 오브 미드나잇 전 디렉터는 자신이 연출한 게임에 대한 투자를 하지 않았을 것이라고 밝혔습니다.",
+      "그는 '로마가 불타는' 상황이 올 것이라는 우려를 계속 가지고 있었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Accelerating engineering for the physical world",
     "translated_title": "물리적 세계를 위한 엔지니어링 가속화",
     "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
@@ -224,22 +413,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "date": "2026-11-03",
-    "summary": [
-      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
-      "화합물 검색 및 새로운 고리형 거대 분자 제안",
-      "AI를 활용한 약물 발견 연구"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Games made with Unity: October 2026 in review",
@@ -401,21 +574,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "nemotron-halloween",
-    "translated_title": "네모트론 할로윈",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "date": "2026-10-30",
-    "summary": [
-      "AI 모델 \"네모트론\"을 이용한 할로윈 관련 콘텐츠 제작",
-      "기존 모델의 한계 극복을 위한 새로운 접근 방식"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Speeding up planning decisions with AI",
     "translated_title": "AI로 건축 인허가 결정 시간 단축",
     "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
@@ -430,6 +588,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "nemotron-halloween",
+    "translated_title": "네모트론 할로윈",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "date": "2026-10-30",
+    "summary": [
+      "AI 모델 \"네모트론\"을 이용한 할로윈 관련 콘텐츠 제작",
+      "기존 모델의 한계 극복을 위한 새로운 접근 방식"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Anthropic orders AI tool Claude to stop remaking video games",
@@ -4436,175 +4609,5 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "translated_title": "ChatGPT로 IPO 업무를 가속화하는 쿨리(Cooley)의 방법",
-    "link": "https://openai.com/index/cooley-gopublic",
-    "date": "2026-09-17",
-    "summary": [
-      "쿨리(Cooley)는 IPO 절차에 지능을 더하기 위해 ChatGPT 기반 솔루션 'GO Public'을 개발했습니다.",
-      "이를 통해 변호사들은 문제를 조기에 발견하고 중요한 판단에 집중할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Astra for Law",
-    "translated_title": "Astra for Law 소개",
-    "link": "https://openai.com/index/astra-for-law",
-    "date": "2026-09-17",
-    "summary": [
-      "법률 분야를 위한 최첨단 인공지능 도입",
-      "맞춤형 법률 회사 워크플로우 및 데이터 소스 연결",
-      "기밀 클라이언트 작업을 위한 법률 등급 보안 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Official Unity Plugin for Codex",
-    "translated_title": "Codex를 위한 공식 Unity 플러그인",
-    "link": "https://unity.com/blog/unity-plugin-codex",
-    "date": "2026-09-16",
-    "summary": [
-      "OpenAI Codex가 Unity 공식 플러그인을 통해 Unity 관련 기능을 학습합니다.",
-      "이를 통해 스프라이트 아트, URP 렌더러, 인앱 결제, 현지화 등의 작업을 Unity의 자체 가이드라인에 따라 수행합니다.",
-      "Codex가 기존에 학습한 내용이 아닌 Unity의 정확한 지침을 따르도록 합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "AI",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "translated_title": "노년층의 일상생활 속 AI 활용 지원",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "date": "2026-09-16",
-    "summary": [
-      "OpenAI와 AARP가 1,000명의 노년층을 대상으로 무료 ChatGPT 워크숍을 개최합니다.",
-      "실용적인 AI 기술을 안전하게 습득할 수 있도록 돕는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Reimagining advertising with AI",
-    "translated_title": "AI와 함께 광고의 미래를 재구상하다",
-    "link": "https://openai.com/index/reimagining-advertising-with-ai",
-    "date": "2026-09-16",
-    "summary": [
-      "OpenAI의 AI 기반 새로운 광고 경험 소개",
-      "Sponsored Agents, 마케터를 위한 도구, HubSpot/Shopify 통합 등 포함"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "translated_title": "Hex, GPT-6 Astra로 복잡한 분석을 시각적 리포트로 전환",
-    "link": "https://openai.com/index/hex-gpt-6-astra",
-    "date": "2026-09-16",
-    "summary": [
-      "Hex의 AI 에이전트가 복잡한 분석 결과를 시각화합니다.",
-      "GPT-6 Astra를 활용하여 인터랙티브한 보고서를 생성합니다.",
-      "직원들이 공유하고 싶어하는 결과물을 만들어냅니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How to connect AI usage to business value",
-    "translated_title": "AI 활용과 비즈니스 가치 연결 방법",
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "date": "2026-09-16",
-    "summary": [
-      "ChatGPT와 Codex 분석으로 AI 사용량 및 비용 파악",
-      "AI 교육 필요성 식별 및 도입 성과 측정",
-      "AI 활용을 비즈니스 결과와 연결하는 방법 학습"
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
-    "translated_title": "보도: MindsEye 개발사 Build a Rocket Boy, 추가 해고 후 폐업 수순 밟는 듯",
-    "link": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-    "date": "2026-09-16",
-    "summary": [
-      "MindsEye 개발사인 Build a Rocket Boy에 대규모 해고가 발생했습니다.",
-      "다수의 직원이 소셜 미디어에 작별 인사를 남기며 폐업 가능성을 시사했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
-    "translated_title": "사카구치 히데오, 2026년 다이스 어워드 AIAS 명예의 전당 헌액",
-    "link": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-    "date": "2026-09-16",
-    "summary": [
-      "바이오하자드 디렉터인 사카구치 히데오가 AIAS 명예의 전당에 헌액됩니다.",
-      "2026년 다이스 어워드에서 진행될 예정입니다.",
-      "스다 고이치는 시상자로 나섭니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Activision Blizzard sued by former employee over sexual harassment",
-    "translated_title": "액티비전 블리자드, 전 직원 성희롱 소송 제기",
-    "link": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-    "date": "2026-09-16",
-    "summary": [
-      "14년 근속했던 전 직원이 10명의 남성을 성희롱 및 보복 행위로 고소했습니다.",
-      "해당 고소는 액티비전 블리자드 내부에서 발생한 성추행 및 부당 대우에 관한 것입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Our framework for reporting model misalignment",
-    "translated_title": "모델 불일치 보고를 위한 OpenAI 프레임워크",
-    "link": "https://openai.com/index/model-misalignment-reporting-framework",
-    "date": "2026-09-16",
-    "summary": [
-      "OpenAI가 모델 불일치 추적, 조사, 공개를 위한 프레임워크를 공유했습니다.",
-      "예상치 못한 또는 우려스러운 모델 행동 6가지 보고서를 함께 공개했습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
