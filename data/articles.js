@@ -45,6 +45,141 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Nintendo confident in memory supply in new financial report",
+    "translated_title": "닌텐도, 신규 금융 보고서 통해 메모리 공급에 자신감 표명",
+    "link": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
+    "date": "2026-11-05",
+    "summary": [
+      "닌텐도 사장, 분기별 금융 보고회에서 메모리 공급 부족 문제 없다고 밝힘",
+      "현재 메모리 위기에도 불구하고 충분한 공급량 확보에 자신감을 보임"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "translated_title": "인터랙티브 월드 시뮬레이션을 위한 NVIDIA Cosmos 3 오픈 모델 출시",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "date": "2026-11-05",
+    "summary": [
+      "NVIDIA가 인터랙티브 월드 시뮬레이션용 Cosmos 3 오픈 모델을 공개했습니다.",
+      "이 모델은 실시간 시뮬레이션 및 개발을 지원합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "translated_title": "온디바이스 고품질 음성 합성, 벤치마크를 능가하는 Phonon TTS 심층 분석",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "date": "2026-11-05",
+    "summary": [
+      "Phonon TTS는 벤치마크에서 최고 성능을 기록하는 고품질 온디바이스 음성 합성 기술입니다.",
+      "이 기술은 기기 자체에서 고품질 음성을 구현합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Australian universities are creating AI-native graduates",
+    "translated_title": "호주 대학, AI 시대에 걸맞은 인재 양성 나서",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "date": "2026-11-05",
+    "summary": [
+      "호주 대학들이 ChatGPT 접근성을 확대하고 있습니다.",
+      "AI를 교육 및 학습 과정에 통합하여 준비된 인재를 배출하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "translated_title": "Cult.fit, Codex로 운영 효율성을 강화하다",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "date": "2026-11-05",
+    "summary": [
+      "Cult.fit은 Codex를 활용하여 팀들이 도구를 구축하고 더 빠르게 일하도록 지원합니다.",
+      "Codex를 통해 업무 방식을 혁신하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "translated_title": "GPT‑6 Cyber: 정렬된 사이버 보안 에이전트의 최전선 개척",
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "date": "2026-11-05",
+    "summary": [
+      "GPT‑6 Cyber는 OpenAI의 새로운 사이버 보안 모델입니다.",
+      "취약점을 찾고 수정하는 데 특화되어 있으며, 권한 범위를 벗어나지 않도록 훈련되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "translated_title": "Merge, OpenAI 기술로 제품 및 비즈니스 도구 통합",
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "date": "2026-11-05",
+    "summary": [
+      "Merge는 GPT-6 Astra, ChatGPT, Codex를 활용하여 코드 검토 및 마케팅 지원에 AI를 사용합니다.",
+      "AI는 경영진 식사 계획 및 영업 업데이트 준비 등에도 활용됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "translated_title": "책임감 있는 AI 인프라를 위한 새로운 기준 제시",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "date": "2026-11-05",
+    "summary": [
+      "OpenAI, 지역 자원 보호 및 일자리 창출을 위한 National Community Compact와 Compute Campus Policy Blueprint 발표",
+      "책임감 있는 AI 인프라 개발 방향 제시"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "date": "2026-11-05",
+    "summary": [
+      "Gemini Omni 1.2는 긴 클립 처리에 최적화되었습니다.",
+      "더 빠른 처리 속도와 비용 효율성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "How Ares Interactive runs live ops without waiting on client updates",
     "translated_title": "Ares Interactive, 클라이언트 업데이트 없이 라이브 운영을 실행하는 방법",
     "link": "https://unity.com/blog/ares-interactive-live-service-games",
@@ -234,20 +369,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
-    "translated_title": "전 엑스박스 COO 헬렌 장, 퇴사 관련 추측에 반박",
-    "link": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-    "date": "2026-11-03",
-    "summary": [
-      "엑스박스의 전 COO 헬렌 장이 갑작스러운 퇴사에 대한 소문에 대해 반박했습니다.",
-      "그녀는 마이크로소프트 베테랑인 자신의 퇴사 이유에 대한 많은 추측을 부인했습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "StateBench: Testing how language models track state changes over long documents",
     "translated_title": "StateBench: 언어 모델이 장문에서 상태 변화를 추적하는 방법 테스트",
     "link": "https://huggingface.co/blog/allenai/statebench",
@@ -279,6 +400,36 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
+    "summary": [
+      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
+      "화합물 검색 및 새로운 고리형 거대 분자 제안",
+      "AI를 활용한 약물 발견 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
+    "translated_title": "전 엑스박스 COO 헬렌 장, 퇴사 관련 추측에 반박",
+    "link": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
+    "date": "2026-11-03",
+    "summary": [
+      "엑스박스의 전 COO 헬렌 장이 갑작스러운 퇴사에 대한 소문에 대해 반박했습니다.",
+      "그녀는 마이크로소프트 베테랑인 자신의 퇴사 이유에 대한 많은 추측을 부인했습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "CWE-bench v2: More coverage, quality, and transparency",
     "translated_title": "CWE-bench v2: 더 넓은 커버리지, 높은 품질, 그리고 투명성",
     "link": "https://huggingface.co/blog/cwe-bench",
@@ -306,22 +457,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "date": "2026-11-03",
-    "summary": [
-      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
-      "화합물 검색 및 새로운 고리형 거대 분자 제안",
-      "AI를 활용한 약물 발견 연구"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "What Rami Ismail learned with his return to game development",
@@ -559,21 +694,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "2026 Industry releases and what’s coming in Q4",
-    "translated_title": "2026년 산업별 출시와 4분기 예정 소식",
-    "link": "https://unity.com/blog/unity-industry-product-releases-2026",
-    "date": "2026-10-30",
-    "summary": [
-      "Unity Industry 2026 주요 제품 출시 정보 (Unity Studio, Pipeline Automation, Simulation Pro, AI Workflows, SOC 2 Type 2, HMI)",
-      "4분기 로드맵 및 계획 공개"
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Speeding up planning decisions with AI",
     "translated_title": "AI로 건축 인허가 결정 시간 단축",
     "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
@@ -588,6 +708,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "2026 Industry releases and what’s coming in Q4",
+    "translated_title": "2026년 산업별 출시와 4분기 예정 소식",
+    "link": "https://unity.com/blog/unity-industry-product-releases-2026",
+    "date": "2026-10-30",
+    "summary": [
+      "Unity Industry 2026 주요 제품 출시 정보 (Unity Studio, Pipeline Automation, Simulation Pro, AI Workflows, SOC 2 Type 2, HMI)",
+      "4분기 로드맵 및 계획 공개"
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "nemotron-halloween",
@@ -4471,143 +4606,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Building standards for the next phase of AI",
-    "translated_title": "AI 다음 단계를 위한 구축 표준",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "date": "2026-09-21",
-    "summary": [
-      "OpenAI, 안전 개선을 위한 공동 평가, 보고, 거버넌스 촉구",
-      "전 세계적인 AI 표준 공유 경로 제시"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "translated_title": "OpenAI Academy, 새로운 학습 경로로 확장",
-    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "date": "2026-09-21",
-    "summary": [
-      "OpenAI Academy에서 신규 학습 경로를 제공합니다.",
-      "직원, 개발자, 리더, 교육자, 학생을 대상으로 합니다.",
-      "실용적인 AI 기술 구축 및 시연 기회를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How V7 gives AI agents institutional memory",
-    "translated_title": "V7, AI 에이전트에 기관 메모리 부여하는 방법",
-    "link": "https://openai.com/index/v7",
-    "date": "2026-09-21",
-    "summary": [
-      "V7은 GPT-5.6을 활용하여 분산된 회사 파일을 AI 에이전트가 사용할 수 있는 컨텍스트로 전환합니다.",
-      "이를 통해 AI 에이전트는 복잡한 작업을 출처와 연결하여 완료할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Optimizing Deep Rock Galactic Survivor for mobile",
-    "translated_title": "Deep Rock Galactic: Survivor 모바일 최적화 방법",
-    "link": "https://unity.com/blog/optimizing-deep-rock-galactic-survivor-for-mobile",
-    "date": "2026-09-18",
-    "summary": [
-      "Piktiv에서 Deep Rock Galactic: Survivor를 모바일로 이식한 사례를 다룹니다.",
-      "흐름 필드 내비게이션, KD-트리 물리 쿼리, GPU 기반 렌더링, Burst Job, Addressables 기술을 활용했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
-    "translated_title": "AI 음성 서비스가 '원신' 캐릭터를 모방하자 미호요, 11만 2천 달러 승소",
-    "link": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-    "date": "2026-09-18",
-    "summary": [
-      "AI 음성 서비스가 '원신' 캐릭터를 모방한 사건에서 미호요가 승소했습니다.",
-      "법원은 미호요에 11만 2천 달러를 지급하라고 판결했습니다.",
-      "이번 판결은 중국 법원이 생성형 AI 사용에 대해 어떻게 판결할지 보여주는 신호가 될 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How toolmakers like ARM work with devs, ft. Peter Hodges",
-    "translated_title": "ARM과 같은 툴 제작사들이 개발자들과 협력하는 방식 (ft. Peter Hodges)",
-    "link": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
-    "date": "2026-09-18",
-    "summary": [
-      "ARM의 Peter Hodges가 게임 개발 툴에 대해 이야기합니다.",
-      "1969년 단편 영화 'Lemon'에 대한 언급도 포함됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "King workers call strike after collective agreement negotiations stall",
-    "translated_title": "단체협상 결렬 후 킹(King) 직원들 파업 돌입",
-    "link": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-    "date": "2026-09-18",
-    "summary": [
-      "캔디 크러쉬 스튜디오의 노조 직원들이 파업을 예고했습니다.",
-      "단체협상 교섭이 진전을 보이지 않을 경우 9월 25일 파업에 돌입할 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "translated_title": "호주 청소년 안전 로드맵 공개",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "date": "2026-09-18",
-    "summary": [
-      "OpenAI가 호주 청소년 안전 로드맵을 발표했습니다.",
-      "이는 6가지 핵심 요소를 통해 청소년에게 안전하고 능동적인 AI 경험을 제공하는 것을 목표로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "5 tips for speeding up your XR dev workflows with Unity CLI",
-    "translated_title": "Unity CLI로 XR 개발 워크플로우 속도를 높이는 5가지 팁",
-    "link": "https://unity.com/blog/5-tips-for-speeding-up-your-xr-dev-workflows-with-unity-cli",
-    "date": "2026-09-17",
-    "summary": [
-      "Unity CLI를 활용하여 XR 개발 속도 향상",
-      "Meta의 Dilmer가 공유하는 실질적인 팁"
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
   }
 ];
