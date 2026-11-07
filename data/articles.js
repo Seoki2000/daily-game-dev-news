@@ -45,6 +45,145 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Our new XR e-book is here: Build XR with Unity: Meta XR",
+    "translated_title": "새로운 XR 전자책 출시: Unity와 함께 XR 빌드하기: Meta XR",
+    "link": "https://unity.com/blog/our-new-xr-e-book-is-here-build-xr-with-unity:-meta-xr",
+    "date": "2026-11-06",
+    "summary": [
+      "Unity와 Meta XR을 활용한 XR 구축 방법을 다루는 무료 전자책입니다.",
+      "눈/손 추적, 5K 디스플레이 최적화, AI 기반 워크플로우를 배울 수 있습니다.",
+      "Meta VR Glasses 개발에 유용합니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "Unity",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How SEED renders a world players never stop building",
+    "translated_title": "SEED, 플레이어가 멈추지 않고 구축하는 월드의 렌더링 방식",
+    "link": "https://unity.com/blog/seed-unity-rendering-performance",
+    "date": "2026-11-06",
+    "summary": [
+      "Klang Games는 SEED에서 실제 플레이어가 구축한 사회를 분석했습니다.",
+      "PC와 모바일 환경에서 CPU 및 메모리 병목 현상을 파악하고 해결했습니다.",
+      "Unity 렌더링 성능 최적화에 초점을 맞췄습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
+    "translated_title": "SAG-AFTRA, 게임 피치 시 배우 섭외 위한 새 프로세스 도입",
+    "link": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+    "date": "2026-11-06",
+    "summary": [
+      "SAG-AFTRA 배우들을 게임 개발 초기 단계에 섭외할 수 있게 되었습니다.",
+      "수직 슬라이스, 데모 등 게임 피치에 필요한 콘텐츠 제작에 활용 가능합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
+    "translated_title": "보고서: 실버레이크와 사우디 PIF, 유니티 인수 논의 중",
+    "link": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+    "date": "2026-11-06",
+    "summary": [
+      "실버레이크와 사우디 PIF가 소프트웨어 기업 유니티 인수를 논의 중인 것으로 알려졌습니다.",
+      "두 투자 파트너는 최근 일렉트로닉 아츠(EA)를 인수한 바 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Sony insists its next-generation console plans are still on schedule",
+    "translated_title": "소니, 차세대 콘솔 출시 계획 순조롭다고 밝혀",
+    "link": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+    "date": "2026-11-06",
+    "summary": [
+      "소니가 분기별 재무 보고에서 차세대 콘솔 개발이 예정대로 진행 중이라고 밝혔습니다.",
+      "차세대 콘솔 관련 계획은 현재 일정에 맞춰 순조롭게 진행되고 있습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "translated_title": "토이 블록: 로봇 학습 및 평가를 위한 제어된 환경",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "date": "2026-11-06",
+    "summary": [
+      "로봇 학습 및 평가를 위한 제어된 환경 '토이 블록' 소개",
+      "실제 로봇과 유사한 환경에서의 학습 및 테스트 지원"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "translated_title": "이집트 및 나이지리아 영어, Open ASR 리더보드에 합류",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "date": "2026-11-06",
+    "summary": [
+      "이집트와 나이지리아에서 사용되는 영어 방언이 Open ASR(자동 음성 인식) 리더보드에 새롭게 추가되었습니다.",
+      "이는 다양한 언어 방언에 대한 ASR 기술의 포괄성을 넓히는 중요한 발전입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "translated_title": "OpenAI 시스템 취약점 발견을 위한 Hacktron과의 협력",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "date": "2026-11-06",
+    "summary": [
+      "OpenAI가 Hacktron과 파트너십을 맺었습니다.",
+      "주요 목표는 시스템 취약점 발견, 제3자 서비스 연결 테스트, 최첨단 AI를 활용한 방어 강화입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "translated_title": "AI 에이전트의 일상적인 습식 실험 과학 처리 능력 측정",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "date": "2026-11-06",
+    "summary": [
+      "OpenAI가 100개의 태스크로 구성된 BioBasicsBench를 출시했습니다.",
+      "이 벤치마크는 AI 에이전트가 원시 실험 데이터를 해석하고 습식 실험 과학을 처리하는 능력을 측정합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Nintendo confident in memory supply in new financial report",
     "translated_title": "닌텐도, 신규 금융 보고서 통해 메모리 공급에 자신감 표명",
     "link": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
@@ -135,6 +274,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "date": "2026-11-05",
+    "summary": [
+      "Gemini Omni 1.2는 긴 클립 처리에 최적화되었습니다.",
+      "더 빠른 처리 속도와 비용 효율성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Merge builds product and business tools with OpenAI technology",
     "translated_title": "Merge, OpenAI 기술로 제품 및 비즈니스 도구 통합",
     "link": "https://openai.com/index/merge-builds-with-openai",
@@ -163,21 +317,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "date": "2026-11-05",
-    "summary": [
-      "Gemini Omni 1.2는 긴 클립 처리에 최적화되었습니다.",
-      "더 빠른 처리 속도와 비용 효율성을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How Ares Interactive runs live ops without waiting on client updates",
@@ -226,6 +365,22 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "translated_title": "Dharma Field Extractor: 어떤 문서든 입력하면 JSON 형식의 구조화된 필드로 출력",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "date": "2026-11-04",
+    "summary": [
+      "Dharma Field Extractor는 다양한 형식의 문서를 입력받습니다.",
+      "입력된 문서를 분석하여 구조화된 필드를 추출합니다.",
+      "추출된 결과는 JSON 형식으로 제공됩니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio",
     "translated_title": "Xbox, 아케인 스튜디오 매각 검토 중... 유비소프트 등 인수 경쟁 참여",
     "link": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
@@ -256,22 +411,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "translated_title": "Dharma Field Extractor: 어떤 문서든 입력하면 JSON 형식의 구조화된 필드로 출력",
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "date": "2026-11-04",
-    "summary": [
-      "Dharma Field Extractor는 다양한 형식의 문서를 입력받습니다.",
-      "입력된 문서를 분석하여 구조화된 필드를 추출합니다.",
-      "추출된 결과는 JSON 형식으로 제공됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -353,6 +492,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
+    "summary": [
+      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
+      "화합물 검색 및 새로운 고리형 거대 분자 제안",
+      "AI를 활용한 약물 발견 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Half of Control Resonant's players were 'new' to the franchise",
     "translated_title": "컨트롤 레조넌트, 신규 유저 절반이 시리즈 입문",
     "link": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
@@ -398,22 +553,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "translated_title": "Google Antigravity를 활용한 에이전트 기반 화학정보학",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "date": "2026-11-03",
-    "summary": [
-      "Google Antigravity와 화학정보학 스킬로 신약 개발 워크플로우 가속화",
-      "화합물 검색 및 새로운 고리형 거대 분자 제안",
-      "AI를 활용한 약물 발견 연구"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
@@ -4463,143 +4602,6 @@ const allArticlesData = [
       "GPT-6 Astra로 인해 Parallel의 에이전트들은 노동 시장 데이터 리서치 및 종합에 소요되는 시간을 절반으로 줄였습니다.",
       "이전 모델 대비 비용도 절반으로 절감되었습니다.",
       "이는 작업 효율성을 크게 향상시켰습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Priorities and principles for effective third party assessments",
-    "translated_title": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "date": "2026-09-22",
-    "summary": [
-      "OpenAI는 최첨단 AI 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선순위를 제시했습니다.",
-      "평가 원칙에는 보안성, 독립성, 엄격성이 강조됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "translated_title": "물리학자처럼 LLM을 가지치기하기: 블록 제거를 아이징 최적화 문제로",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "date": "2026-09-21",
-    "summary": [
-      "LLM의 중요하지 않은 부분을 제거하여 효율성을 높이는 방법론을 소개합니다.",
-      "이를 물리학의 아이징 모델을 이용한 최적화 문제로 접근합니다.",
-      "모델 크기를 줄여 토큰 사용량을 절감하는 데 초점을 맞춥니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
-    "translated_title": "번지, 스튜디오의 미래를 공개하며 '데스티니는 아직 끝나지 않았다'고 선언",
-    "link": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-    "date": "2026-09-21",
-    "summary": [
-      "번지는 데스티니가 스튜디오 미래의 초석임을 강조했습니다.",
-      "데스티니 시리즈는 앞으로도 계속 개발될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "translated_title": "토크나이저 v1: 인코딩, 디코딩 및 확장성 측정",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "date": "2026-09-21",
-    "summary": [
-      "토크나이저 v1의 인코딩 및 디코딩 기능 소개",
-      "토크나이저 v1의 확장성 측정 결과 공유",
-      "토큰/시간 절약을 위한 길이 제한의 중요성 강조"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "translated_title": "Higgsfield AI, GPT-6 Astra로 하루 만에 새로운 영상 기능 출시",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "date": "2026-09-21",
-    "summary": [
-      "GPT-6 Astra를 통해 Higgsfield AI는 소상공인을 위한 영상 광고 제작을 더 쉽게 만듭니다.",
-      "새로운 창의적 도구를 시장에 더 빠르게 출시합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
-    "translated_title": "소니, 일부 지역 마블 '울버린' 게임에서 LGBTQ 콘텐츠 검열 의혹",
-    "link": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-    "date": "2026-09-21",
-    "summary": [
-      "소니가 마블 '울버린' 게임에서 LGBTQ 관련 내용을 일부 지역에서 삭제했다는 의혹이 제기되었습니다.",
-      "특정 지역에서는 뮤턴트 커플의 결혼 관련 내용이 언급되지 않는 것으로 파악되었습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Kojima Productions' survival story may sound strikingly familiar to struggling devs",
-    "translated_title": "코지마 프로덕션의 생존 이야기, 고군분투하는 개발자들에게 매우 익숙하게 들릴 수 있다",
-    "link": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
-    "date": "2026-09-21",
-    "summary": [
-      "유명 개발자도 은행 대출금을 제때 갚아야 한다.",
-      "창작자 역시 재정적 압박에서 자유로울 수 없다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "French publisher Dear Villagers confirms layoffs",
-    "translated_title": "프랑스 퍼블리셔 Dear Villagers, 직원 감축 확인",
-    "link": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-    "date": "2026-09-21",
-    "summary": [
-      "Dear Villagers가 직원 감축을 단행했음을 공식 발표했습니다.",
-      "이 회사는 'Caravan SandWitch'와 'The Forgotten City' 등의 게임을 퍼블리싱했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "translated_title": "수학과 인공지능 자문단",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "date": "2026-09-21",
-    "summary": [
-      "OpenAI는 신흥 AI 결과 검토 및 소통을 위한 독립적인 자문단을 운영합니다.",
-      "이 자문단은 수학과 인공지능 분야를 다룹니다."
     ],
     "tags": [
       "AI",
