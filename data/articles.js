@@ -45,6 +45,129 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+    "translated_title": "보도: '스타워즈 제로 컴퍼니' 개발사 빗 리액터, 일부 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+    "date": "2026-11-09",
+    "summary": [
+      "'스타워즈 제로 컴퍼니' 개발사인 빗 리액터가 일부 직원을 해고했다는 보도가 나왔습니다.",
+      "게임 출시 몇 달 후 회복세를 보이는 듯했으나, 이번 해고 소식으로 다시 어려움을 겪는 것으로 보입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+    "translated_title": "월드 오브 워크래프트: 역대 최대 동시 접속자 수를 기록하며 MMORPG 최대 출시 규모 달성",
+    "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+    "date": "2026-11-09",
+    "summary": [
+      "월드 오브 워크래프트의 출시가 MMORPG 사상 최대 규모를 기록했습니다.",
+      "이는 역대 최대 동시 접속자 수를 통해 측정되었습니다.",
+      "블리자드의 이번 출시는 엑스박스 포트폴리오에 긍정적인 영향을 미쳤습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "translated_title": "네모트론-페르소나스-파이낸스-재팬: 일본의 인구 통계 및 금융 맥락을 담은 합성 데이터셋",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "date": "2026-11-09",
+    "summary": [
+      "일본의 인구 통계 및 금융 환경을 반영한 합성 데이터셋 '네모트론-페르소나스-파이낸스-재팬'을 소개합니다.",
+      "이 데이터셋은 일본의 특성을 종합적으로 포착하여 다양한 연구 및 개발에 활용될 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "translated_title": "전문가들에게는 파트너가 있습니다. 관계를 유지할 희망이 있습니다.",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "date": "2026-11-09",
+    "summary": [
+      "전문가들은 종종 파트너와 함께 일하며, 관계를 유지하는 것이 중요하다.",
+      "파트너십을 성공적으로 유지하기 위한 희망적인 방안들이 존재한다."
+    ],
+    "tags": [
+      "Unity",
+      "AI",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "translated_title": "ChatGPT Enterprise, AWS 마켓플레이스 출시",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "date": "2026-11-09",
+    "summary": [
+      "ChatGPT Enterprise가 AWS 마켓플레이스에서 제공됩니다.",
+      "기존 AWS 구매 및 결제 방식을 통해 간편하게 조달할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "translated_title": "컨트롤룸: 연구 인프라 전반의 모델 워크로드 추적 및 중단 시스템",
+    "link": "https://openai.com/index/control-room",
+    "date": "2026-11-09",
+    "summary": [
+      "OpenAI의 컨트롤룸은 연구 인프라 전체의 모델 워크로드를 추적합니다.",
+      "안전 또는 보안 문제가 발생하면 모델 워크로드를 신속하게 중단할 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "translated_title": "CodeRabbit, AI 기반 소프트웨어 개발 가속화로 20배 더 많은 소프트웨어 출시",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "date": "2026-11-09",
+    "summary": [
+      "CodeRabbit은 OpenAI 모델을 활용하여 AI 생성 코드의 품질과 신뢰성을 확보합니다.",
+      "Codex 기술을 통해 동일한 엔지니어링 팀으로 20배 더 많은 소프트웨어를 출시할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "translated_title": "쿠켄 인더스트리, 70년치 도면을 단 몇 분 만에 검색",
+    "link": "https://openai.com/index/kuken",
+    "date": "2026-11-09",
+    "summary": [
+      "쿠켄 인더스트리가 OpenAI API를 활용하여 70년 치 냉각탑 도면을 검색합니다.",
+      "엔지니어들은 수리 도면을 찾는 데 걸리는 시간을 1시간에서 4.5분으로 단축했습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Our new XR e-book is here: Build XR with Unity: Meta XR",
     "translated_title": "새로운 XR 전자책 출시: Unity와 함께 XR 빌드하기: Meta XR",
     "link": "https://unity.com/blog/our-new-xr-e-book-is-here-build-xr-with-unity:-meta-xr",
@@ -184,6 +307,36 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "translated_title": "온디바이스 고품질 음성 합성, 벤치마크를 능가하는 Phonon TTS 심층 분석",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "date": "2026-11-05",
+    "summary": [
+      "Phonon TTS는 벤치마크에서 최고 성능을 기록하는 고품질 온디바이스 음성 합성 기술입니다.",
+      "이 기술은 기기 자체에서 고품질 음성을 구현합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "date": "2026-11-05",
+    "summary": [
+      "Gemini Omni 1.2는 긴 클립 처리에 최적화되었습니다.",
+      "더 빠른 처리 속도와 비용 효율성을 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Nintendo confident in memory supply in new financial report",
     "translated_title": "닌텐도, 신규 금융 보고서 통해 메모리 공급에 자신감 표명",
     "link": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
@@ -210,21 +363,6 @@ const allArticlesData = [
       "Research",
       "AI",
       "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "translated_title": "온디바이스 고품질 음성 합성, 벤치마크를 능가하는 Phonon TTS 심층 분석",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "date": "2026-11-05",
-    "summary": [
-      "Phonon TTS는 벤치마크에서 최고 성능을 기록하는 고품질 온디바이스 음성 합성 기술입니다.",
-      "이 기술은 기기 자체에서 고품질 음성을 구현합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
     ],
     "source": "Hugging Face - Blog"
   },
@@ -272,21 +410,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "date": "2026-11-05",
-    "summary": [
-      "Gemini Omni 1.2는 긴 클립 처리에 최적화되었습니다.",
-      "더 빠른 처리 속도와 비용 효율성을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Merge builds product and business tools with OpenAI technology",
@@ -4484,129 +4607,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "translated_title": "oMLX 제작자 및 유지보수 담당자인 Jun Kim, MLX 커뮤니티 지원을 위해 Hugging Face 합류",
-    "link": "https://huggingface.co/blog/omlx",
-    "date": "2026-09-22",
-    "summary": [
-      "oMLX 창작자인 Jun Kim이 Hugging Face에 합류했습니다.",
-      "이는 MLX 커뮤니티를 더욱 발전시키기 위함입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
-    "translated_title": "‘매우 단순하게 유지하고 싶습니다’: Nex Playground, 하드웨어 위기 속에서 예상을 뛰어넘는 성과를 거둔 비결",
-    "link": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
-    "date": "2026-09-22",
-    "summary": [
-      "Nex Playground는 마진 확보를 통해 소프트웨어 투자를 지속하고 있습니다.",
-      "소프트웨어 비용은 매년 상당히 증가하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
-    "translated_title": "이스케이프 프롬 타르코프 개발사, 신규 퍼블리싱 통해 '위험한' 게임에 투자 원해",
-    "link": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
-    "date": "2026-09-22",
-    "summary": [
-      "이스케이프 프롬 타르코프 개발사인 배틀스테이트 게임즈가 신규 퍼블리싱 사업을 시작합니다.",
-      "이들은 '하드코어' 게임에 대한 퍼블리싱 지원을 제공할 계획입니다.",
-      "이를 통해 '위험 부담이 큰' 게임들에 대한 투자를 모색하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
-    "translated_title": "Xbox, Halo 스튜디오 정리해고 및 언데드 랩스 매각으로 '재정비' 지속",
-    "link": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
-    "date": "2026-09-22",
-    "summary": [
-      "Xbox가 Halo 스튜디오 인력 감축 및 언데드 랩스 매각을 통해 사업 재정비를 이어가고 있습니다.",
-      "Activision이 차기 Halo 타이틀을 개발하며, Ninja Theory 스튜디오는 폐쇄됩니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-    "translated_title": "GTA VI 출시 전, 락스타 게임즈가 밝힌 모딩 금지 규정",
-    "link": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-    "date": "2026-09-22",
-    "summary": [
-      "락스타 게임즈, GTA VI 출시 앞두고 모딩 규정 발표.",
-      "게임의 공식 스토리라인, 캐릭터 등 '확립된 연속성'은 모딩 금지 대상."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Better prompt caching for GPT-6",
-    "translated_title": "GPT-6를 위한 향상된 프롬프트 캐싱",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "date": "2026-09-22",
-    "summary": [
-      "GPT-6는 캐시 적중률 향상으로 프롬프트 캐싱을 개선합니다.",
-      "새로운 진단 기능, 명시적 중단점, 제어 기능으로 지연 시간 및 비용을 절감합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing GPT-6 Sol and Luna",
-    "translated_title": "GPT-6 Sol과 Luna 소개",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "date": "2026-09-22",
-    "summary": [
-      "GPT-6 Sol과 Luna, 두 가지 모델 출시",
-      "일상 업무에 최첨단 인공지능 제공",
-      "역량과 비용의 균형을 다르게 맞춘 모델"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "translated_title": "GPT-6 Astra로 리서치 시간과 비용 절반 단축",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "date": "2026-09-22",
-    "summary": [
-      "GPT-6 Astra로 인해 Parallel의 에이전트들은 노동 시장 데이터 리서치 및 종합에 소요되는 시간을 절반으로 줄였습니다.",
-      "이전 모델 대비 비용도 절반으로 절감되었습니다.",
-      "이는 작업 효율성을 크게 향상시켰습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
