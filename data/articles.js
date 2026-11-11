@@ -45,6 +45,222 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "translated_title": "길버트 + 토빈, AI로 법률 비즈니스 재정의하다",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "date": "2026-11-12",
+    "summary": [
+      "길버트 + 토빈의 CEO 샘 닉리스와의 대화.",
+      "AI를 활용한 법률 비즈니스 혁신에 대해 논의합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "translated_title": "BotPsy: 온디바이스 개인 비서와 10억 개 미만 파라미터의 에이전트 언어 모델",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "date": "2026-11-11",
+    "summary": [
+      "BotPsy는 온디바이스에서 작동하는 개인 비서입니다.",
+      "10억 개 미만의 파라미터를 가진 에이전트 언어 모델을 사용합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
+    "translated_title": "10개 팀, 3개 프로그램, 7년간: 방산 훈련용 3D 에셋의 효율적인 관리",
+    "link": "https://unity.com/blog/3d-asset-management-defense-training",
+    "date": "2026-11-10",
+    "summary": [
+      "i3 Corps는 군사 디지털 트윈을 수년간 유지 관리합니다.",
+      "10개의 아트 팀이 Unity Addressables와 Unity Asset Manager를 사용하여 3D 에셋을 관리하는 방법을 소개합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "10 tips for organizing your first video game project with AI",
+    "translated_title": "AI로 첫 비디오 게임 프로젝트 구성하는 10가지 팁",
+    "link": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+    "date": "2026-11-10",
+    "summary": [
+      "AI를 활용하여 게임 디자인 브리프, 네이밍, 체크포인트, 프롬프트 기록, 플레이 테스트 등 초보자를 위한 10가지 구성 팁을 제공합니다.",
+      "코딩 없이 AI를 통해 비디오 게임 프로젝트를 효율적으로 구성하는 방법을 배울 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "Tutorial",
+      "GameDev",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Is Software Over?",
+    "translated_title": "소프트웨어 시대는 끝났는가?",
+    "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+    "date": "2026-11-10",
+    "summary": [
+      "AI가 소프트웨어를 역공학하고 생성하는 능력에 대한 탐구.",
+      "AI 학습 및 소프트웨어 개발의 미래에 대한 논의."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
+    "translated_title": "테이크투 CEO: GTA 6 사전 예약, 기대치 초과 달성",
+    "link": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
+    "date": "2026-11-10",
+    "summary": [
+      "테이크투 CEO 스트라우스 젤닉이 GTA 6 출시 임박 소식을 전했습니다.",
+      "게임의 사전 예약 판매량이 회사의 예상치를 뛰어넘고 있다고 밝혔습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "translated_title": "Google Cloud 계정으로 Hugging Face Hub 결제하기",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "date": "2026-11-10",
+    "summary": [
+      "Hugging Face Hub에서 Google Cloud 계정으로 결제할 수 있습니다.",
+      "이를 통해 결제가 더욱 간편해집니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Decision Models in Hugging Face",
+    "translated_title": "허깅페이스의 결정 모델",
+    "link": "https://huggingface.co/blog/decision",
+    "date": "2026-11-10",
+    "summary": [
+      "허깅페이스 라이브러리를 사용하여 결정 모델을 구현하는 방법을 설명합니다.",
+      "주요 개념과 실제 적용 사례를 다룹니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "translated_title": "돌봄 제공자를 위한 일상 속 AI 활용법",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "date": "2026-11-10",
+    "summary": [
+      "OpenAI Academy에서 무료 ChatGPT 워크숍을 개최합니다.",
+      "돌봄 제공자들은 실용적인 AI 기술을 배울 수 있습니다.",
+      "행사는 미국 5개 도시에서 진행됩니다."
+    ],
+    "tags": [
+      "Tutorial",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "translated_title": "ChatGPT로 비즈니스 소개하기",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
+    "date": "2026-11-10",
+    "summary": [
+      "ChatGPT에서 비즈니스 정보를 관리하세요.",
+      "내 비즈니스가 어떻게 표시되는지에 대한 인사이트를 얻으세요.",
+      "관심을 행동으로 전환하세요."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "translated_title": "교육 분야 AI 지도 격차 해소",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "date": "2026-11-10",
+    "summary": [
+      "ThinkYoung의 새로운 연구와 OpenAI의 EMEA 교육 파트너십을 통해 교사 지원, AI 리터러시, 독립 학습 방안 모색",
+      "AI 지도 격차를 줄이기 위한 실질적인 연구 및 협력 사례 공유"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "translated_title": "최전선에서 일하기: AI가 프리랜서 업무에 미치는 영향",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "date": "2026-11-10",
+    "summary": [
+      "AI 관련 업무 수요 증가",
+      "새로운 기술 조합 필요성 대두",
+      "AI 프로젝트 예산 및 시간 증가"
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gemini 4 Carbon is now available",
+    "translated_title": "Gemini 4 Carbon 출시",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "date": "2026-11-10",
+    "summary": [
+      "Gemini 4 Carbon이 출시되었습니다.",
+      "새로운 Gemini 4 Carbon을 지금 구매할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "translated_title": "AlphaProof Code 소개: 복잡한 소프트웨어의 심층 검증을 위한 획기적인 솔루션",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "date": "2026-11-10",
+    "summary": [
+      "AlphaProof Code는 Signal의 핵심 암호화 검증을 위해 Lean으로 3백만 줄의 증명을 작성했습니다.",
+      "이는 복잡한 소프트웨어의 깊이 있는 검증에 획기적인 발전을 가져왔습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
     "translated_title": "보도: '스타워즈 제로 컴퍼니' 개발사 빗 리액터, 일부 직원 해고",
     "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
@@ -105,6 +321,21 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "translated_title": "Gemini Robotics 2.5, 현실 세계에서의 범용적인 민첩성 가속화",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "date": "2026-11-09",
+    "summary": [
+      "Gemini Robotics 2.5는 가장 뛰어난 비전-언어-행동 모델입니다.",
+      "로봇의 민첩성, 신뢰성, 안전성을 향상시킵니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -168,6 +399,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+    "translated_title": "OpenAI의 Astra, AI의 블랙박스를 열다",
+    "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+    "date": "2026-11-07",
+    "summary": [
+      "OpenAI가 AI의 내부 작동 방식을 보여주는 Astra를 공개했습니다.",
+      "Weight Space Programming에 대한 연구 결과도 함께 소개되었습니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Our new XR e-book is here: Build XR with Unity: Meta XR",
     "translated_title": "새로운 XR 전자책 출시: Unity와 함께 XR 빌드하기: Meta XR",
     "link": "https://unity.com/blog/our-new-xr-e-book-is-here-build-xr-with-unity:-meta-xr",
@@ -199,6 +446,22 @@ const allArticlesData = [
       "Unity"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+    "translated_title": "AI의 미래는 정말 놀랍습니다 (Spencer Huang)",
+    "link": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+    "date": "2026-11-06",
+    "summary": [
+      "AI 발전의 미래와 로봇 공학의 어려움에 대해 논의합니다.",
+      "AI 학습을 위한 완벽한 데이터, 지능 밀도, AI 월드 구축 등을 다룹니다.",
+      "AI의 현실 괴리, 실패로부터의 학습, 그리고 AI의 최종 능력에 대한 질문을 탐구합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
@@ -307,21 +570,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "translated_title": "온디바이스 고품질 음성 합성, 벤치마크를 능가하는 Phonon TTS 심층 분석",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "date": "2026-11-05",
-    "summary": [
-      "Phonon TTS는 벤치마크에서 최고 성능을 기록하는 고품질 온디바이스 음성 합성 기술입니다.",
-      "이 기술은 기기 자체에서 고품질 음성을 구현합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "translated_title": "Gemini Omni 1.2 플래시: 긴 클립으로 빠르고 비용 효율적으로",
     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -335,6 +583,21 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "translated_title": "온디바이스 고품질 음성 합성, 벤치마크를 능가하는 Phonon TTS 심층 분석",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "date": "2026-11-05",
+    "summary": [
+      "Phonon TTS는 벤치마크에서 최고 성능을 기록하는 고품질 온디바이스 음성 합성 기술입니다.",
+      "이 기술은 기기 자체에서 고품질 음성을 구현합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Nintendo confident in memory supply in new financial report",
@@ -4343,269 +4606,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
-    "translated_title": "아발란체 스튜디오 전 최고 책임자 나탈리 프랜시스, 매시브 엔터테인먼트 총괄 매니저로 합류",
-    "link": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
-    "date": "2026-09-24",
-    "summary": [
-      "아발란체 스튜디오의 전 최고 책임자 나탈리 프랜시스가 매시브 엔터테인먼트의 총괄 매니저로 합류합니다.",
-      "그녀는 10월 1일부터 직책을 맡게 됩니다.",
-      "이는 토마스 안드렌이 크리에이티브 네트워크 총괄 매니저로 임명된 후 이루어졌습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Irish Game Fund expands with additional funding pathways",
-    "translated_title": "아일랜드 게임 펀드, 추가 펀딩 경로 확대",
-    "link": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
-    "date": "2026-09-24",
-    "summary": [
-      "개발 펀드, 프로토타입 펀드, 출시 펀드 신설",
-      "지역 개발자들이 자금 지원받을 수 있게 됨"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "translated_title": "개인 AI 컴퓨팅을 위한 안전한 서버 측 메모리 기반 고급 프라이빗 AI 연산",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "date": "2026-09-23",
-    "summary": [
-      "개인 AI를 위한 프라이빗 AI 컴퓨팅에 서버 측 메모리 도입.",
-      "보안을 강화하여 개인 정보 보호 기능을 향상시킴."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "translated_title": "Gemini 3.8, 텍스트 음성 변환으로 인사하다",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "date": "2026-09-23",
-    "summary": [
-      "Gemini 3.8의 텍스트 음성 변환 기능 소개",
-      "텍스트 음성 변환을 통해 '안녕'이라고 말하는 기능 시연"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "translated_title": "NVIDIA Warp와 MjWarp를 활용한 로보틱스 시뮬레이션 및 학습 워크플로우 가속화 방법",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "date": "2026-09-23",
-    "summary": [
-      "NVIDIA Warp와 MjWarp를 사용하여 로보틱스 시뮬레이션 성능을 크게 향상시킬 수 있습니다.",
-      "이 기술은 학습 워크플로우의 속도를 높여 로보틱스 연구 및 개발을 가속화합니다."
-    ],
-    "tags": [
-      "Tutorial",
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "translated_title": "OpenAI Academy 2주년: 더 많은 커뮤니티에 AI 기술 보급",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "date": "2026-09-23",
-    "summary": [
-      "OpenAI Academy 2주년을 기념하며",
-      "더 많은 지역사회에 AI 기술을 제공하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "translated_title": "OpenAI, 우크라이나 민간 방어를 위한 사이버 접근 지원 확대",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "date": "2026-09-23",
-    "summary": [
-      "OpenAI가 우크라이나 정부에 Daybreak 프로그램 접근 권한을 확대합니다.",
-      "이는 민간 기반 시설의 사이버 방어를 지원하기 위함입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "translated_title": "샘 알트만, 유엔 안전보장이사회 발언",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "date": "2026-09-23",
-    "summary": [
-      "오픈AI CEO 샘 알트만이 유엔 안보리에서 AI 안전, 인간의 통제, 국제 협력에 대해 논의했습니다.",
-      "AI 위험 관리와 책임 있는 개발을 위한 국제적 논의의 중요성을 강조했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "translated_title": "Harvey, GPT-6 Astra로 법률 문서 초안 강화",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "date": "2026-09-23",
-    "summary": [
-      "GPT-6 Astra는 법률 문서의 구조화 및 맥락 이해도를 높입니다.",
-      "변호사들은 전략 수립에 더 집중할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
-    "translated_title": "Discord, '계정 신호' 기반 연령 확인 정책 재도입",
-    "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-    "date": "2026-09-23",
-    "summary": [
-      "Discord가 사용자 연령대 추정을 위한 '계정 신호' 기반 연령 확인 모델을 구축했습니다.",
-      "이 모델은 계정에서 수집되는 다양한 신호를 활용하여 연령대를 파악합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-    "translated_title": "베데스다 사장, 잇섭 직원들에게 '합병 후에도 창의적 정체성 유지될 것'",
-    "link": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-    "date": "2026-09-23",
-    "summary": [
-      "베데스다 사장 질 브래프, 잇섭과의 합병을 '주로 보고 체계 변화'라고 언급",
-      "이번 합병으로 잇섭의 창의적 정체성이 훼손되지 않을 것이라고 밝힘"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "translated_title": "invideo, GPT‑6 Astra로 색 보정 3배 향상하는 방법",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "date": "2026-09-23",
-    "summary": [
-      "GPT‑6 Astra를 사용하여 편집 정밀도 향상",
-      "색 보정 및 그레이딩 3배 개선",
-      "하루에 맞춤형 효과 50개 제작"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-    "translated_title": "언데드 랩스, 엑스박스에서 분리 후 '상당한' 규모의 감원 단행",
-    "link": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-    "date": "2026-09-23",
-    "summary": [
-      "언데드 랩스가 엑스박스에서 분리되었습니다.",
-      "분리 이후 상당한 규모의 감원이 이루어졌습니다.",
-      "마이크로소프트는 올해 초 스튜디오 매각 의사를 밝혔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "From simulation to real-world deployment: Unity Simulation Pro early access",
-    "translated_title": "시뮬레이션부터 실제 배포까지: Unity Simulation Pro 얼리 액세스",
-    "link": "https://unity.com/blog/unity-simulation-pro-early-access",
-    "date": "2026-09-22",
-    "summary": [
-      "Unity Simulation Pro 얼리 액세스 출시",
-      "URDF 임포트, 센서 시뮬레이션, ROS 2, 헤드리스 리눅스 지원",
-      "로보틱스 시뮬레이션 툴킷"
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Content directories: Beyond the AssetBundle",
-    "translated_title": "콘텐츠 디렉터리: AssetBundle의 진화",
-    "link": "https://unity.com/blog/content-directories-beyond-the-assetbundle",
-    "date": "2026-09-22",
-    "summary": [
-      "Unity 6.6에서 콘텐츠 디렉터리가 AssetBundle을 대체합니다.",
-      "빌드 시간 단축, 게임 용량 감소, 로딩 성능 향상.",
-      "Unity 7에서는 원격 배포 기능이 추가될 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "translated_title": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "date": "2026-09-22",
-    "summary": [
-      "영국 AISI와 EvalEval은 벤치마크 결과의 재현성을 높이기 위해 노력하고 있습니다.",
-      "이를 통해 AI 연구 및 개발 커뮤니티에서 투명성과 신뢰성을 확보하고자 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "translated_title": "이제 Transformers에서 llama.cpp 양자화 모델을 실행할 수 있습니다.",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "date": "2026-09-22",
-    "summary": [
-      "Transformers 라이브러리가 llama.cpp 양자화 모델을 지원합니다.",
-      "이를 통해 모델 실행 성능 및 효율성을 향상시킬 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
