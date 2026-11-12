@@ -60,6 +60,81 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "The gods are dead. But not forever: Inside Azra Games’ UnGodly",
+    "translated_title": "신은 죽었지만, 영원하지는 않다: Azra Games의 'UnGodly' 내부 이야기",
+    "link": "https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity",
+    "date": "2026-11-11",
+    "summary": [
+      "'UnGodly'는 Unity로 개발된 다크 판타지 액션 RPG입니다.",
+      "iPhone Duo, Android, Mac, PC, Apple Vision Pro 등 다양한 플랫폼에서 출시됩니다.",
+      "Azra Games는 콘솔 수준의 모바일 게임 경험을 목표로 합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "PlayStation 5 crosses 100 million consoles sold",
+    "translated_title": "플레이스테이션 5, 1억 대 판매 돌파",
+    "link": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
+    "date": "2026-11-11",
+    "summary": [
+      "2020년 출시된 플레이스테이션 5가 1억 대 이상 출하되었습니다.",
+      "이는 플레이스테이션 콘솔 라인의 다른 제품들과 비슷한 수치입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
+    "translated_title": "철권 개발자가 Xbox Series S 하드웨어 출시를 바라지 않았다고 발언",
+    "link": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+    "date": "2026-11-11",
+    "summary": [
+      "반다이 남코 전 총괄 매니저가 엑스박스 보급형 콘솔에 대한 불만을 표출했습니다.",
+      "그는 개발자 컨퍼런스에서 다른 리더들과 함께 이 의견을 공유했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week",
+    "translated_title": "젤다의 전설: 시간의 오카리나, 출시 첫 주 500만 장 돌파",
+    "link": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
+    "date": "2026-11-11",
+    "summary": [
+      "시간의 오카리나 리메이크, 출시 4일 만에 500만 장 판매",
+      "닌텐도 스위치 2 타이틀 중 두 번째 높은 판매량 기록"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Report: PlayStation's Fairgames cancelled, no devs to be laid off",
+    "translated_title": "소식: 플레이스테이션 '페어게임즈' 취소, 개발자 해고는 없을 것",
+    "link": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
+    "date": "2026-11-11",
+    "summary": [
+      "2023년 발표되었던 온라인 멀티플레이어 슈터 '페어게임즈'가 개발 취소되었습니다.",
+      "이번 취소로 인해 개발자 해고는 없을 것으로 알려졌습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "translated_title": "BotPsy: 온디바이스 개인 비서와 10억 개 미만 파라미터의 에이전트 언어 모델",
     "link": "https://huggingface.co/blog/qvac/botpsy",
@@ -73,6 +148,67 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "translated_title": "다중 벡터 임베딩 모델을 위한 토큰 풀링 인식 학습",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "date": "2026-11-11",
+    "summary": [
+      "다중 벡터 임베딩 모델의 학습 성능을 개선하는 새로운 방법.",
+      "토큰 풀링 전략을 학습 과정에 통합하여 효율성을 높임."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "translated_title": "재향 군인 및 현역 군인을 위한 ChatGPT Plus",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "date": "2026-11-11",
+    "summary": [
+      "2만 명 이상의 재향 군인 및 전역 예정 군인이 ChatGPT Plus 1년 무료 혜택을 받았습니다.",
+      "이들이 민간 경력 준비에 ChatGPT Plus를 어떻게 활용하는지 알아보세요."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "translated_title": "JioStar 최고 아키텍트, 5억 사용자 규모 AI 발견에 대해 이야기하다",
+    "link": "https://openai.com/index/jiostar-vijay-seshadri",
+    "date": "2026-11-11",
+    "summary": [
+      "5억 사용자 규모에서의 AI 발견 경험 공유",
+      "AI 프로덕션 적용을 위한 평가, 안전장치에 대한 교훈"
+    ],
+    "tags": [
+      "News",
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "translated_title": "알파지놈 2: 세포가 DNA를 읽는 방식 해독으로 질병 이해 개선",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "date": "2026-11-11",
+    "summary": [
+      "DNA 서열과 변이가 특정 세포 유형 및 질병에 미치는 영향 예측",
+      "질병 이해를 돕기 위해 세포의 DNA 판독 방식 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
@@ -105,21 +241,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Is Software Over?",
-    "translated_title": "소프트웨어 시대는 끝났는가?",
-    "link": "https://www.youtube.com/watch?v=vug73goPJaM",
-    "date": "2026-11-10",
-    "summary": [
-      "AI가 소프트웨어를 역공학하고 생성하는 능력에 대한 탐구.",
-      "AI 학습 및 소프트웨어 개발의 미래에 대한 논의."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
@@ -198,6 +319,51 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Gemini 4 Carbon is now available",
+    "translated_title": "Gemini 4 Carbon 출시",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "date": "2026-11-10",
+    "summary": [
+      "Gemini 4 Carbon이 출시되었습니다.",
+      "새로운 Gemini 4 Carbon을 지금 구매할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "translated_title": "AlphaProof Code 소개: 복잡한 소프트웨어의 심층 검증을 위한 획기적인 솔루션",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "date": "2026-11-10",
+    "summary": [
+      "AlphaProof Code는 Signal의 핵심 암호화 검증을 위해 Lean으로 3백만 줄의 증명을 작성했습니다.",
+      "이는 복잡한 소프트웨어의 깊이 있는 검증에 획기적인 발전을 가져왔습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Is Software Over?",
+    "translated_title": "소프트웨어 시대는 끝났는가?",
+    "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+    "date": "2026-11-10",
+    "summary": [
+      "AI가 소프트웨어를 역공학하고 생성하는 능력에 대한 탐구.",
+      "AI 학습 및 소프트웨어 개발의 미래에 대한 논의."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "Closing the AI guidance gap in education",
     "translated_title": "교육 분야 AI 지도 격차 해소",
     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -231,28 +397,28 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Gemini 4 Carbon is now available",
-    "translated_title": "Gemini 4 Carbon 출시",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "date": "2026-11-10",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "translated_title": "네모트론-페르소나스-파이낸스-재팬: 일본의 인구 통계 및 금융 맥락을 담은 합성 데이터셋",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "date": "2026-11-09",
     "summary": [
-      "Gemini 4 Carbon이 출시되었습니다.",
-      "새로운 Gemini 4 Carbon을 지금 구매할 수 있습니다."
+      "일본의 인구 통계 및 금융 환경을 반영한 합성 데이터셋 '네모트론-페르소나스-파이낸스-재팬'을 소개합니다.",
+      "이 데이터셋은 일본의 특성을 종합적으로 포착하여 다양한 연구 및 개발에 활용될 수 있습니다."
     ],
     "tags": [
-      "News",
+      "Research",
       "AI"
     ],
-    "source": "Google DeepMind News"
+    "source": "Hugging Face - Blog"
   },
   {
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "translated_title": "AlphaProof Code 소개: 복잡한 소프트웨어의 심층 검증을 위한 획기적인 솔루션",
-    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "date": "2026-11-10",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "translated_title": "Gemini Robotics 2.5, 현실 세계에서의 범용적인 민첩성 가속화",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "date": "2026-11-09",
     "summary": [
-      "AlphaProof Code는 Signal의 핵심 암호화 검증을 위해 Lean으로 3백만 줄의 증명을 작성했습니다.",
-      "이는 복잡한 소프트웨어의 깊이 있는 검증에 획기적인 발전을 가져왔습니다."
+      "Gemini Robotics 2.5는 가장 뛰어난 비전-언어-행동 모델입니다.",
+      "로봇의 민첩성, 신뢰성, 안전성을 향상시킵니다."
     ],
     "tags": [
       "Research",
@@ -292,21 +458,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "translated_title": "네모트론-페르소나스-파이낸스-재팬: 일본의 인구 통계 및 금융 맥락을 담은 합성 데이터셋",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "date": "2026-11-09",
-    "summary": [
-      "일본의 인구 통계 및 금융 환경을 반영한 합성 데이터셋 '네모트론-페르소나스-파이낸스-재팬'을 소개합니다.",
-      "이 데이터셋은 일본의 특성을 종합적으로 포착하여 다양한 연구 및 개발에 활용될 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "translated_title": "전문가들에게는 파트너가 있습니다. 관계를 유지할 희망이 있습니다.",
     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -321,21 +472,6 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "translated_title": "Gemini Robotics 2.5, 현실 세계에서의 범용적인 민첩성 가속화",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "date": "2026-11-09",
-    "summary": [
-      "Gemini Robotics 2.5는 가장 뛰어난 비전-언어-행동 모델입니다.",
-      "로봇의 민첩성, 신뢰성, 안전성을 향상시킵니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -4470,141 +4606,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "translated_title": "GPT-6 Astra, Basis의 세금 워크북 작성 시간 2배 단축",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "date": "2026-09-28",
-    "summary": [
-      "GPT-6 Astra, 50페이지 분량의 세금 워크북 작성 시간 GPT-5.6 Sol 대비 2배 단축",
-      "사용자 의도 이해 능력 강화로 실제 활용에 대한 Basis의 신뢰도 향상"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
-    "translated_title": "RUST LTD, H3 VR 게임의 깊이 있는 총기 시뮬레이션을 구축한 방법",
-    "link": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
-    "date": "2026-09-25",
-    "summary": [
-      "H3 VR 게임의 엔진을 Unity ECS 기반으로 재구축했습니다.",
-      "맞춤형 총기 물리 및 퀘스트 3 프레임 예산 최적화에 집중했습니다.",
-      "개발 효율성을 높이는 에디터 툴링을 도입했습니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
-    "translated_title": "GDC 사이드 퀘스트: 샘 칼라일과 함께 공동 개발 기회 탐색",
-    "link": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
-    "date": "2026-09-25",
-    "summary": [
-      "XDS Spark 공동 창립자 샘 칼라일과 GDC 축제 마케팅 매니저 베스 엘더킨이 공동 개발의 진화에 대해 논의합니다.",
-      "본 영상은 공동 개발의 현재와 미래에 대한 통찰력을 제공합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
-    "translated_title": "'직원들이 힘을 합쳐 만들어내는 힘을 보여줍니다:' King, 노조와 단체협약 체결",
-    "link": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
-    "date": "2026-09-25",
-    "summary": [
-      "King이 노조와 단체협약(collective bargaining agreement)을 체결했습니다.",
-      "이는 King, 게임 산업, 그리고 스웨덴 모델에 중요한 진전입니다."
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "translated_title": "Codex로 Proaction, 매출 60% 증대 및 75시간 이상 절감",
-    "link": "https://openai.com/index/proaction",
-    "date": "2026-09-25",
-    "summary": [
-      "Codex, GPT-Live-1, GPT-6 Astra를 활용하여 Proaction이 현대적인 차량 관리 시스템 구축, 운영, 판매 속도를 높였습니다.",
-      "이를 통해 매출이 60% 증가하고 75시간 이상의 업무 시간을 절약했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "translated_title": "LFM2.5-VL-DSpark를 활용한 비전-언어 모델 가속화",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "date": "2026-09-24",
-    "summary": [
-      "LFM2.5-VL-DSpark를 사용하여 비전-언어 모델의 성능을 가속화합니다.",
-      "이 기술은 모델의 효율성과 속도를 향상시키는 데 중점을 둡니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "translated_title": "Gemini 3.8 라이브, 라이브 아바타와 함께 출시",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "date": "2026-09-24",
-    "summary": [
-      "Gemini 3.8이 라이브 아바타 기능과 함께 출시되었습니다.",
-      "주요 기능 및 업데이트에 대한 소개가 있을 것으로 예상됩니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Meta VR Glasses are coming. Build with Unity from day one.",
-    "translated_title": "Meta VR 안경 출시 임박, Unity로 즉시 개발 시작",
-    "link": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
-    "date": "2026-09-24",
-    "summary": [
-      "Unity 6.6, Meta VR 안경 개발에 대한 출시 첫날(Day-one) 지원 추가",
-      "OpenXR, XR Interaction Toolkit, XR Hands, 시선 추적, 쿼드 뷰 렌더링 기능 지원"
-    ],
-    "tags": [
-      "GameDev",
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
-    "translated_title": "메타, 무게 100g에 1,300달러짜리 신형 VR 헤드셋 발표",
-    "link": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-    "date": "2026-09-24",
-    "summary": [
-      "메타가 100g 무게의 신형 VR 헤드셋을 1,300달러에 출시합니다.",
-      "새로운 VR 헤드셋에는 테트리스 이펙트, 비트 세이버, 역전재판 게임이 포함될 예정입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
