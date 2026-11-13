@@ -45,6 +45,179 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Tripwire Interactive lays off workers after announcing new publishing initiative",
+    "translated_title": "Tripwire Interactive, 신규 퍼블리싱 사업 발표 후 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative",
+    "date": "2026-11-12",
+    "summary": [
+      "Killing Floor 개발사인 Tripwire Interactive가 36명의 직원을 해고했습니다.",
+      "해고는 몇 년 전 공동 창업자가 '좌파 세력'에 의해 축출된 것에 대한 보복이라는 주장이 나왔습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "GenAI-using developers say they mostly employ it for 'research and brainstorming'",
+    "translated_title": "GenAI 활용 개발자들, 주로 '리서치 및 브레인스토밍'에 사용한다고 밝혀",
+    "link": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+    "date": "2026-11-12",
+    "summary": [
+      "최근 설문 조사 결과, 개발자들은 생성형 AI를 주로 리서치 및 브레인스토밍에 활용하는 것으로 나타났습니다.",
+      "AI로 생성된 코드는 업계 전문가들이 생성형 AI를 사용하는 세 번째로 일반적인 사례로 집계되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "One in three developers say they've been laid off within the last two years",
+    "translated_title": "개발자 3명 중 1명, 지난 2년간 해고 경험",
+    "link": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
+    "date": "2026-11-12",
+    "summary": [
+      "최근 2년간 개발자의 34%가 해고를 경험했다고 응답했습니다.",
+      "이는 'State of the Industry' 설문 조사 결과입니다."
+    ],
+    "tags": [
+      "Research",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin &amp; Imran Khan",
+    "translated_title": "2026년 게임 산업 현황 설문조사, 두 번째도 가능하다! (feat. Beth Elderkin & Imran Khan)",
+    "link": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
+    "date": "2026-11-12",
+    "summary": [
+      "GameDeveloper.com 팟캐스트 보너스 에피소드에서 GDC 페스티벌 오브 게이밍의 두 번째 '게임 산업 현황' 보고서를 다룹니다.",
+      "새로운 데이터와 함께 게임 개발 세계에 대한 심층적인 내용을 살펴봅니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
+    "translated_title": "올해 GDC에 2,600명 이상의 게임 전문가가 말하는 해고, AI, 차세대 기술",
+    "link": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+    "date": "2026-11-12",
+    "summary": [
+      "GDC 게임 산업 현황 보고서가 돌아왔습니다.",
+      "2,600명 이상의 게임 전문가들의 최신 동향을 담고 있습니다.",
+      "해고, AI, 차세대 기술 등 주요 현안을 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "translated_title": "LLMON: LLM 네이티브 마크업 언어, 이제 Granite 4.1 3B 및 8B에서 지원",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "date": "2026-11-12",
+    "summary": [
+      "LLMON은 LLM을 위한 새로운 마크업 언어입니다.",
+      "LLMON이 Granite 4.1 모델(3B 및 8B)에 통합되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "translated_title": "3D 생성 모델을 위한 궁극의 파인튜닝 가이드",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "date": "2026-11-12",
+    "summary": [
+      "3D 생성 모델 파인튜닝의 핵심 개념 및 절차 설명",
+      "효과적인 파인튜닝을 위한 실질적인 팁과 권장 사항 제공",
+      "결과물 개선을 위한 고급 기술 및 고려 사항 소개"
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "translated_title": "Amplitude, OpenAI로 1~2일 만에 제품 개선을 배포하는 방법",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "date": "2026-11-12",
+    "summary": [
+      "Amplitude의 AI 에이전트 Wave는 OpenAI 모델 기반으로 제품 개선 사항을 식별합니다.",
+      "Wave는 코딩 에이전트를 통해 변경 사항 배포를 지원합니다.",
+      "제품 개선의 영향을 측정하는 기능도 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "translated_title": "Codex 활용으로 개발팀 역량 강화, Gondola 매출 2배 달성",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "date": "2026-11-12",
+    "summary": [
+      "Codex 도입으로 리드 엔지니어 생산성 50% 향상",
+      "ChatGPT를 활용해 일상 업무 간소화",
+      "Gondola, 팀 역량 강화로 매출 2배 성장"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "translated_title": "Holiday Extras, Codex로 구축할 수 있는 새로운 가능성을 모색하다",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "date": "2026-11-12",
+    "summary": [
+      "Holiday Extras는 Codex를 활용하여 고객 경험을 개선하고 있습니다.",
+      "이를 통해 앱 품질 향상, 예약 전환율 증대, 새로운 성장 기회를 창출하고 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Supporting research on AI and children’s safety",
+    "translated_title": "AI와 어린이 안전에 대한 연구 지원",
+    "link": "https://openai.com/index/children-first-declaration",
+    "date": "2026-11-12",
+    "summary": [
+      "OpenAI가 어린이 안전 연구에 200만 달러를 지원합니다.",
+      "이번 연구는 청소년의 위험과 기회를 측정하는 공유 도구를 지원합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "translated_title": "길버트 + 토빈, AI로 법률 비즈니스 재정의하다",
     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -58,6 +231,22 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "translated_title": "Gemini 4 Hydrogen 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "summary": [
+      "Gemini 4 Hydrogen이 공개되었습니다.",
+      "기술적인 혁신에 대한 내용이 담겨 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "The gods are dead. But not forever: Inside Azra Games’ UnGodly",
@@ -74,6 +263,51 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "translated_title": "BotPsy: 온디바이스 개인 비서와 10억 개 미만 파라미터의 에이전트 언어 모델",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "date": "2026-11-11",
+    "summary": [
+      "BotPsy는 온디바이스에서 작동하는 개인 비서입니다.",
+      "10억 개 미만의 파라미터를 가진 에이전트 언어 모델을 사용합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "translated_title": "다중 벡터 임베딩 모델을 위한 토큰 풀링 인식 학습",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "date": "2026-11-11",
+    "summary": [
+      "다중 벡터 임베딩 모델의 학습 성능을 개선하는 새로운 방법.",
+      "토큰 풀링 전략을 학습 과정에 통합하여 효율성을 높임."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "translated_title": "알파지놈 2: 세포가 DNA를 읽는 방식 해독으로 질병 이해 개선",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "date": "2026-11-11",
+    "summary": [
+      "DNA 서열과 변이가 특정 세포 유형 및 질병에 미치는 영향 예측",
+      "질병 이해를 돕기 위해 세포의 DNA 판독 방식 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "PlayStation 5 crosses 100 million consoles sold",
@@ -135,36 +369,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "translated_title": "BotPsy: 온디바이스 개인 비서와 10억 개 미만 파라미터의 에이전트 언어 모델",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "date": "2026-11-11",
-    "summary": [
-      "BotPsy는 온디바이스에서 작동하는 개인 비서입니다.",
-      "10억 개 미만의 파라미터를 가진 에이전트 언어 모델을 사용합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "translated_title": "다중 벡터 임베딩 모델을 위한 토큰 풀링 인식 학습",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "date": "2026-11-11",
-    "summary": [
-      "다중 벡터 임베딩 모델의 학습 성능을 개선하는 새로운 방법.",
-      "토큰 풀링 전략을 학습 과정에 통합하여 효율성을 높임."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "ChatGPT Plus for veterans and servicemembers",
     "translated_title": "재향 군인 및 현역 군인을 위한 ChatGPT Plus",
     "link": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -194,21 +398,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "translated_title": "알파지놈 2: 세포가 DNA를 읽는 방식 해독으로 질병 이해 개선",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "date": "2026-11-11",
-    "summary": [
-      "DNA 서열과 변이가 특정 세포 유형 및 질병에 미치는 영향 예측",
-      "질병 이해를 돕기 위해 세포의 DNA 판독 방식 연구"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
@@ -243,20 +432,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
-    "translated_title": "테이크투 CEO: GTA 6 사전 예약, 기대치 초과 달성",
-    "link": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
-    "date": "2026-11-10",
-    "summary": [
-      "테이크투 CEO 스트라우스 젤닉이 GTA 6 출시 임박 소식을 전했습니다.",
-      "게임의 사전 예약 판매량이 회사의 예상치를 뛰어넘고 있다고 밝혔습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "translated_title": "Google Cloud 계정으로 Hugging Face Hub 결제하기",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -270,6 +445,50 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Gemini 4 Carbon is now available",
+    "translated_title": "Gemini 4 Carbon 출시",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "date": "2026-11-10",
+    "summary": [
+      "Gemini 4 Carbon이 출시되었습니다.",
+      "새로운 Gemini 4 Carbon을 지금 구매할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "translated_title": "AlphaProof Code 소개: 복잡한 소프트웨어의 심층 검증을 위한 획기적인 솔루션",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "date": "2026-11-10",
+    "summary": [
+      "AlphaProof Code는 Signal의 핵심 암호화 검증을 위해 Lean으로 3백만 줄의 증명을 작성했습니다.",
+      "이는 복잡한 소프트웨어의 깊이 있는 검증에 획기적인 발전을 가져왔습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
+    "translated_title": "테이크투 CEO: GTA 6 사전 예약, 기대치 초과 달성",
+    "link": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
+    "date": "2026-11-10",
+    "summary": [
+      "테이크투 CEO 스트라우스 젤닉이 GTA 6 출시 임박 소식을 전했습니다.",
+      "게임의 사전 예약 판매량이 회사의 예상치를 뛰어넘고 있다고 밝혔습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Decision Models in Hugging Face",
@@ -317,36 +536,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Gemini 4 Carbon is now available",
-    "translated_title": "Gemini 4 Carbon 출시",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "date": "2026-11-10",
-    "summary": [
-      "Gemini 4 Carbon이 출시되었습니다.",
-      "새로운 Gemini 4 Carbon을 지금 구매할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "translated_title": "AlphaProof Code 소개: 복잡한 소프트웨어의 심층 검증을 위한 획기적인 솔루션",
-    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "date": "2026-11-10",
-    "summary": [
-      "AlphaProof Code는 Signal의 핵심 암호화 검증을 위해 Lean으로 3백만 줄의 증명을 작성했습니다.",
-      "이는 복잡한 소프트웨어의 깊이 있는 검증에 획기적인 발전을 가져왔습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Is Software Over?",
@@ -397,19 +586,19 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "translated_title": "네모트론-페르소나스-파이낸스-재팬: 일본의 인구 통계 및 금융 맥락을 담은 합성 데이터셋",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "“Follow the fun”: a crowdfunding Q&A with Catino Town",
+    "translated_title": "“재미를 따라가세요”: Catino Town 크라우드 펀딩 Q&A",
+    "link": "https://unity.com/blog/funding-unity-game-catino-town",
     "date": "2026-11-09",
     "summary": [
-      "일본의 인구 통계 및 금융 환경을 반영한 합성 데이터셋 '네모트론-페르소나스-파이낸스-재팬'을 소개합니다.",
-      "이 데이터셋은 일본의 특성을 종합적으로 포착하여 다양한 연구 및 개발에 활용될 수 있습니다."
+      "Catino Town 개발자 Alex Tino가 크라우드 펀딩 캠페인 기획 과정을 공유합니다.",
+      "Unity로 제작된 Catino Town은 12시간 만에 25,000달러를 모금했습니다."
     ],
     "tags": [
-      "Research",
-      "AI"
+      "GameDev",
+      "Unity"
     ],
-    "source": "Hugging Face - Blog"
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
@@ -425,6 +614,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "translated_title": "네모트론-페르소나스-파이낸스-재팬: 일본의 인구 통계 및 금융 맥락을 담은 합성 데이터셋",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "date": "2026-11-09",
+    "summary": [
+      "일본의 인구 통계 및 금융 환경을 반영한 합성 데이터셋 '네모트론-페르소나스-파이낸스-재팬'을 소개합니다.",
+      "이 데이터셋은 일본의 특성을 종합적으로 포착하여 다양한 연구 및 개발에 활용될 수 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
@@ -4407,204 +4611,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Naughty Dog is working on new The Last Of Us 'projects'",
-    "translated_title": "너티 독, 새로운 '더 라스트 오브 어스' 프로젝트 작업 중",
-    "link": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-    "date": "2026-09-29",
-    "summary": [
-      "너티 독은 '인터갤럭틱' 완료 후 차기작을 예고했습니다.",
-      "이는 '더 라스트 오브 어스' 관련 새로운 프로젝트를 의미합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Introducing GPT-6.1 Sol",
-    "translated_title": "GPT-6.1 Sol 소개",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "date": "2026-09-29",
-    "summary": [
-      "GPT-6.1 Sol이 출시되었습니다.",
-      "코딩, 컴퓨터 사용, 전문 업무에 Near-Astra 수준의 지능을 제공합니다.",
-      "Astra API의 1/5 가격으로 이용 가능합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DevDay 2026 Recap",
-    "translated_title": "OpenAI DevDay 2026 리뷰",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "date": "2026-09-29",
-    "summary": [
-      "OpenAI DevDay 2026의 20개 이상의 주요 발표 내용 소개",
-      "GPT-6 Astra, ChatGPT, Codex, API, 보안 및 개발자 도구 등 다룸"
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing dots",
-    "translated_title": "OpenAI의 새로운 도우미, Dots 소개",
-    "link": "https://openai.com/index/introducing-dots",
-    "date": "2026-09-29",
-    "summary": [
-      "Dots는 복잡한 프로젝트와 일상 업무 전반에 걸쳐 작업을 지속하는 능동적인 조수입니다.",
-      "Dots를 통해 업무는 진행되면서도 사용자는 통제력을 유지할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
-    "translated_title": "Control 개발팀, 과도한 '노란색 페인트' 지양해야 하는 이유 설명",
-    "link": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-    "date": "2026-09-29",
-    "summary": [
-      "게임 내 요소에 대한 플레이어의 결정권을 보장해야 합니다.",
-      "플레이어가 직접 세계를 탐험하고 상호작용하는 경험을 중요시합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-    "translated_title": "'계속해서 역량을 초과했습니다': Arc Raiders 개발사 임원, 성공이 번아웃으로 이어졌다고 밝혀",
-    "link": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-    "date": "2026-09-29",
-    "summary": [
-      "Arc Raiders 개발사 Embark의 임원 Aleksander Grøndal이 성공이 직원 번아웃으로 이어졌다고 인정했습니다.",
-      "Embark는 수백만 명의 플레이어 요구와 직원 복지 사이의 균형을 맞추는 데 어려움을 겪고 있다고 밝혔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Scaling Scritchy Scratchy across platforms",
-    "translated_title": "Scritchy Scratchy, Unity로 다양한 플랫폼으로 확장하기",
-    "link": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
-    "date": "2026-09-28",
-    "summary": [
-      "Unity를 사용하여 PC, 모바일, 닌텐도 스위치 등 여러 플랫폼으로 게임을 이식했습니다.",
-      "이식 과정에서 성능과 촉감적인 게임플레이를 유지하는 데 중점을 두었습니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "translated_title": "Holo4: 범용 컴퓨터 사용 에이전트 구동",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "date": "2026-09-28",
-    "summary": [
-      "Holo4는 다양한 일반 컴퓨터 작업을 수행할 수 있는 에이전트입니다.",
-      "범용적인 컴퓨터 사용 에이전트로서의 Holo4의 능력을 탐구합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Towards safety cases for frontier AI training",
-    "translated_title": "최첨단 AI 훈련을 위한 안전 사례 구축을 향하여",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "date": "2026-09-28",
-    "summary": [
-      "최첨단 AI 훈련에 대한 초기 안전 사례 가이드라인을 제시합니다.",
-      "기술적 안전 장치, 운영 관행, 불일치 사건 조사를 다룹니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How we will do better for Australia",
-    "translated_title": "호주를 위해 더 나은 방법을 모색합니다",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "date": "2026-09-28",
-    "summary": [
-      "OpenAI, 호주 정부 웹사이트 관련 사고에 대해 사과했습니다.",
-      "호주의 사이버 방어 강화를 위한 강력한 안전 장치와 지원을 약속했습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
-    "translated_title": "마이크로소프트 CEO, 3년간 5,750명 이상 해고 후 Xbox는 '간소화' 중이라고 밝혀",
-    "link": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-    "date": "2026-09-28",
-    "summary": [
-      "마이크로소프트는 3년간 5,750명 이상의 직원을 해고했습니다.",
-      "Xbox 사업 부문은 '간소화' 과정을 거치고 있다고 CEO가 언급했습니다.",
-      "더블 파인, 컴펄션, 탱고 게임웍스 등 주요 스튜디오를 매각하거나 폐쇄했습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "translated_title": "렌페스트 연구소, OpenAI 지원 확대로 주요 프로그램 성장",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "date": "2026-09-28",
-    "summary": [
-      "OpenAI, 렌페스트 AI 협력 및 펠로우십 프로그램에 500만 달러 지원",
-      "추가로 500만 달러 규모의 소프트웨어 크레딧 및 엔지니어링 지원 제공"
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Are you a Codex Original?",
-    "translated_title": "당신은 코덱스 오리지널인가요?",
-    "link": "https://openai.com/form/codex-originals",
-    "date": "2026-09-28",
-    "summary": [
-      "Codex를 활용하여 놀라운 성과를 이룬 빌더, 연구자, 창작자들의 실제 이야기를 모집합니다.",
-      "Codex Originals 프로그램의 다음 챕터에 참여하고 싶다면, 여러분의 이야기와 프로젝트를 공유해 주세요."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
