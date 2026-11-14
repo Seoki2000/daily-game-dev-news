@@ -30,6 +30,130 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
+    "translated_title": "새롭게 제안된 EU 법안, 부분 유료화 게임에 엄격한 제한을 둘 수도",
+    "link": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
+    "date": "2026-11-13",
+    "summary": [
+      "EU에서 '디지털 공정성법'이 제안되었습니다.",
+      "이 법안이 통과되면 유럽뿐만 아니라 전 세계적으로 게임 개발 및 출판 방식에 큰 변화를 가져올 수 있습니다.",
+      "특히 부분 유료화 게임에 대한 규제가 강화될 것으로 보입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Development secrets of Dressmaker, ft. Ruan Rothmann &amp; Sara Laubscher",
+    "translated_title": "인디 개발자들의 꿈, '드레스메이커'의 개발 비하인드 (feat. Ruan Rothmann & Sara Laubscher)",
+    "link": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+    "date": "2026-11-13",
+    "summary": [
+      "'드레스메이커'는 인디 개발자들이 꿈꾸는 이야기의 주인공입니다.",
+      "2026년 깜짝 히트작이 된 '드레스메이커'를 어떻게 만들었을까요?"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
+    "translated_title": "더 위쳐 3 개발팀, 뇌졸중 후 제랄트 성우 목소리 AI로 복원",
+    "link": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+    "date": "2026-11-13",
+    "summary": [
+      "뇌졸중으로 제랄트 목소리 연기가 불가능해진 성우에게 AI 활용 동의를 얻었습니다.",
+      "AI 기술을 활용하여 더 위쳐 3 차기 확장팩에서 제랄트 목소리를 복원할 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "translated_title": "SimReady 에셋으로 로봇 픽앤플레이스 시뮬레이션 만들기",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "date": "2026-11-13",
+    "summary": [
+      "SimReady 에셋을 활용하여 로봇 픽앤플레이스 시뮬레이션을 구축하는 방법을 안내합니다.",
+      "튜토리얼을 통해 로봇 동작 및 환경 설정을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "Tutorial",
+      "GameDev"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "translated_title": "XYBench: 질문의 근본적인 문제 해결 지원",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "date": "2026-11-13",
+    "summary": [
+      "XYBench는 문제 해결에 도움이 되는 도구입니다.",
+      "질문의 이면에 있는 근본적인 문제를 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "translated_title": "llama.cpp v1.0.0: 로컬 AI 생태계를 위한 더욱 견고한 기반 마련",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "date": "2026-11-13",
+    "summary": [
+      "llama.cpp가 v1.0.0 버전으로 출시되어 로컬 AI 생태계의 기반을 강화했습니다.",
+      "이번 업데이트는 사용자들에게 더욱 강력하고 안정적인 로컬 AI 환경을 제공할 것으로 기대됩니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "translated_title": "ChatGPT 월렛 소개",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "date": "2026-11-13",
+    "summary": [
+      "ChatGPT Work, Codex, dots 에이전트용 안전한 구매 기능",
+      "사용자 승인 및 기존 카드 보호 기능 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "translated_title": "Shield, OpenAI 활용하여 레거시 포털 작업 인수인계 지원",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "date": "2026-11-13",
+    "summary": [
+      "Shield는 OpenAI를 사용하여 IT 기술자가 레거시 포털 작업을 인수인계하도록 돕습니다.",
+      "Shield의 Forge 에이전트가 시스템을 탐색하여 기술자가 중요한 문제에 집중할 수 있게 합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Game Conference MX (GCMX)",
     "translated_title": "게임 콘퍼런스 MX (GCMX)",
     "link": "https://www.gamedeveloper.com/events/untitled",
@@ -43,6 +167,23 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "Rules, states, and win conditions in video games: a guide",
+    "translated_title": "비디오 게임의 규칙, 상태, 승리 조건: 가이드",
+    "link": "https://unity.com/blog/video-game-rules-states-win-conditions",
+    "date": "2026-11-12",
+    "summary": [
+      "게임 규칙, 상태, 승패 조건을 이해합니다.",
+      "간단한 예시와 5단계 정의 방법을 제공합니다.",
+      "게임 개발 전 자신만의 규칙을 정의하는 방법을 배웁니다."
+    ],
+    "tags": [
+      "Unity",
+      "Tutorial",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Tripwire Interactive lays off workers after announcing new publishing initiative",
@@ -72,54 +213,6 @@ const allArticlesData = [
       "Research",
       "AI",
       "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "One in three developers say they've been laid off within the last two years",
-    "translated_title": "개발자 3명 중 1명, 지난 2년간 해고 경험",
-    "link": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
-    "date": "2026-11-12",
-    "summary": [
-      "최근 2년간 개발자의 34%가 해고를 경험했다고 응답했습니다.",
-      "이는 'State of the Industry' 설문 조사 결과입니다."
-    ],
-    "tags": [
-      "Research",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin &amp; Imran Khan",
-    "translated_title": "2026년 게임 산업 현황 설문조사, 두 번째도 가능하다! (feat. Beth Elderkin & Imran Khan)",
-    "link": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
-    "date": "2026-11-12",
-    "summary": [
-      "GameDeveloper.com 팟캐스트 보너스 에피소드에서 GDC 페스티벌 오브 게이밍의 두 번째 '게임 산업 현황' 보고서를 다룹니다.",
-      "새로운 데이터와 함께 게임 개발 세계에 대한 심층적인 내용을 살펴봅니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
-    "translated_title": "올해 GDC에 2,600명 이상의 게임 전문가가 말하는 해고, AI, 차세대 기술",
-    "link": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
-    "date": "2026-11-12",
-    "summary": [
-      "GDC 게임 산업 현황 보고서가 돌아왔습니다.",
-      "2,600명 이상의 게임 전문가들의 최신 동향을 담고 있습니다.",
-      "해고, AI, 차세대 기술 등 주요 현안을 다룹니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "GameDev"
     ],
     "source": "gamedeveloper"
   },
@@ -202,6 +295,70 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "translated_title": "Gemini 4 Hydrogen 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "summary": [
+      "Gemini 4 Hydrogen이 공개되었습니다.",
+      "기술적인 혁신에 대한 내용이 담겨 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "One in three developers say they've been laid off within the last two years",
+    "translated_title": "개발자 3명 중 1명, 지난 2년간 해고 경험",
+    "link": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
+    "date": "2026-11-12",
+    "summary": [
+      "최근 2년간 개발자의 34%가 해고를 경험했다고 응답했습니다.",
+      "이는 'State of the Industry' 설문 조사 결과입니다."
+    ],
+    "tags": [
+      "Research",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin &amp; Imran Khan",
+    "translated_title": "2026년 게임 산업 현황 설문조사, 두 번째도 가능하다! (feat. Beth Elderkin & Imran Khan)",
+    "link": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
+    "date": "2026-11-12",
+    "summary": [
+      "GameDeveloper.com 팟캐스트 보너스 에피소드에서 GDC 페스티벌 오브 게이밍의 두 번째 '게임 산업 현황' 보고서를 다룹니다.",
+      "새로운 데이터와 함께 게임 개발 세계에 대한 심층적인 내용을 살펴봅니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
+    "translated_title": "올해 GDC에 2,600명 이상의 게임 전문가가 말하는 해고, AI, 차세대 기술",
+    "link": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+    "date": "2026-11-12",
+    "summary": [
+      "GDC 게임 산업 현황 보고서가 돌아왔습니다.",
+      "2,600명 이상의 게임 전문가들의 최신 동향을 담고 있습니다.",
+      "해고, AI, 차세대 기술 등 주요 현안을 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "Supporting research on AI and children’s safety",
     "translated_title": "AI와 어린이 안전에 대한 연구 지원",
     "link": "https://openai.com/index/children-first-declaration",
@@ -233,22 +390,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Introducing Gemini 4 Hydrogen",
-    "translated_title": "Gemini 4 Hydrogen 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "summary": [
-      "Gemini 4 Hydrogen이 공개되었습니다.",
-      "기술적인 혁신에 대한 내용이 담겨 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "The gods are dead. But not forever: Inside Azra Games’ UnGodly",
     "translated_title": "신은 죽었지만, 영원하지는 않다: Azra Games의 'UnGodly' 내부 이야기",
     "link": "https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity",
@@ -263,6 +404,21 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "translated_title": "알파지놈 2: 세포가 DNA를 읽는 방식 해독으로 질병 이해 개선",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "date": "2026-11-11",
+    "summary": [
+      "DNA 서열과 변이가 특정 세포 유형 및 질병에 미치는 영향 예측",
+      "질병 이해를 돕기 위해 세포의 DNA 판독 방식 연구"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -293,21 +449,6 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "translated_title": "알파지놈 2: 세포가 DNA를 읽는 방식 해독으로 질병 이해 개선",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "date": "2026-11-11",
-    "summary": [
-      "DNA 서열과 변이가 특정 세포 유형 및 질병에 미치는 영향 예측",
-      "질병 이해를 돕기 위해 세포의 DNA 판독 방식 연구"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "PlayStation 5 crosses 100 million consoles sold",
@@ -432,21 +573,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "translated_title": "Google Cloud 계정으로 Hugging Face Hub 결제하기",
-    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "date": "2026-11-10",
-    "summary": [
-      "Hugging Face Hub에서 Google Cloud 계정으로 결제할 수 있습니다.",
-      "이를 통해 결제가 더욱 간편해집니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Gemini 4 Carbon is now available",
     "translated_title": "Gemini 4 Carbon 출시",
     "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -475,6 +601,36 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Opening the datasets behind our AI weather models",
+    "translated_title": "AI 기상 모델의 기반이 되는 데이터셋 공개",
+    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "date": "2026-11-10",
+    "summary": [
+      "지구를 명확하게 관측하기 위한 기초 강수량 및 정지궤도 위성 데이터셋을 공개합니다.",
+      "AI 기상 모델의 개발과 투명성을 위한 데이터셋 공개의 중요성을 강조합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "translated_title": "Google Cloud 계정으로 Hugging Face Hub 결제하기",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "date": "2026-11-10",
+    "summary": [
+      "Hugging Face Hub에서 Google Cloud 계정으로 결제할 수 있습니다.",
+      "이를 통해 결제가 더욱 간편해집니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
@@ -4459,157 +4615,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
-    "translated_title": "스다 51, 넷이즈에서 분사하여 자체 개발사 설립",
-    "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
-    "date": "2026-09-30",
-    "summary": [
-      "스다 51의 Grasshopper Manufacture가 넷이즈로부터 분사했습니다.",
-      "그는 다시 한번 독립적으로 게임 개발에 나섭니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
-    "translated_title": "유비소프트 몬트리올 직원들, 하이브리드 근무제 유지를 위한 집단 행동 개시",
-    "link": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-    "date": "2026-09-30",
-    "summary": [
-      "유비소프트 몬트리올 직원들이 하이브리드 근무제 유지를 요구하고 나섰습니다.",
-      "이들의 첫 번째 행동은 청원서 제출입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "translated_title": "협력적인 모델 증류 캠페인 방해",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "date": "2026-09-30",
-    "summary": [
-      "OpenAI는 보호된 모델 추론 추출 시도를 성공적으로 방해했습니다.",
-      "AI 모델을 보호하기 위한 방어 체계를 강화하고 있습니다.",
-      "적대적 증류 공격에 대한 대응책을 모색 중입니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "translated_title": "소상공인을 위한 AI 활용 지원",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "date": "2026-09-30",
-    "summary": [
-      "OpenAI와 America's SBDC가 협력하여 소상공인을 위한 AI 교육 및 현장 지원 확대",
-      "소규모 팀의 AI 활용에 대한 새로운 보고서 발표"
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "CICD Made Easier with Unity CLI",
-    "translated_title": "Unity CLI로 CICD를 더욱 쉽게",
-    "link": "https://unity.com/blog/cicd-made-easier-with-unity-cli",
-    "date": "2026-09-30",
-    "summary": [
-      "Unity CLI를 사용하여 복잡한 커스텀 스크립트를 대체하고 CI/CD를 간소화합니다.",
-      "Unity 설치 관리, 테스트 실행, 빌드 실행 등을 단일 명령줄 인터페이스로 처리합니다.",
-      "어떤 CI 제공업체에서도 쉽게 적용 가능합니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "translated_title": "NVIDIA Kumo Tabular, 표 형식 예측의 정확도-효율성 새로운 지평을 열다",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "date": "2026-09-29",
-    "summary": [
-      "NVIDIA Kumo Tabular는 표 형식 데이터 예측에서 정확성과 효율성 모두에서 새로운 기준을 제시합니다.",
-      "이는 기존 모델의 한계를 뛰어넘는 혁신적인 성능을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Unity Announces External Dependency Manager Package",
-    "translated_title": "Unity, 외부 종속성 관리자 패키지 발표",
-    "link": "https://unity.com/blog/external-dependency-manager",
-    "date": "2026-09-29",
-    "summary": [
-      "Unity의 외부 종속성 관리자(EDM)가 Android 및 iOS SDK 종속성을 위해 EDM4U를 대체합니다."
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
-    "translated_title": "Steam의 할인 및 이벤트 탭, 곧 알고리즘 기반으로 전면 개편",
-    "link": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-    "date": "2026-09-29",
-    "summary": [
-      "Steam이 할인 및 이벤트 탭에 대한 대규모 변경 사항을 발표했습니다.",
-      "이번 변경으로 플레이어에게 표시되는 게임 목록이 달라집니다.",
-      "새로운 기능은 알고리즘을 통해 게임 추천 방식을 개선할 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "translated_title": "단순 사실 확인을 넘어: MCP 에이전트를 위한 출처 인지 검증",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "date": "2026-09-29",
-    "summary": [
-      "MCP 에이전트의 검증에 있어 사실 자체뿐만 아니라 정보의 출처를 함께 고려하는 것이 중요함을 강조합니다.",
-      "이러한 '출처 인지 검증' 방식은 에이전트의 신뢰성과 정확성을 높일 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-    "translated_title": "다잉 라이트 프랜차이즈 총괄, 블로버팀 호러 레이블 '브로큰 미러 게임즈' 합류",
-    "link": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
-    "date": "2026-09-29",
-    "summary": [
-      "다잉 라이트 프랜차이즈의 전 총괄이 블로버팀의 신규 호러 레이블 '브로큰 미러 게임즈'에 합류했습니다.",
-      "개발자, 스튜디오, 창작자를 대상으로 흥미로운 호러 프로젝트 제보를 받고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
