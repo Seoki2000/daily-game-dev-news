@@ -30,6 +30,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "translated_title": "격자 양자 색역학으로 표준 모형 정의를 향한 한 걸음",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "date": "2026-11-15",
+    "summary": [
+      "표준 모형에 대한 비섭동적 격자 정의의 후보를 탐구합니다.",
+      "GPT-6 Astra가 아이디어를 상세한 증명으로 발전시키는 데 도움을 주었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Our new blog for science",
+    "translated_title": "OpenAI의 새로운 과학 블로그",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "date": "2026-11-15",
+    "summary": [
+      "OpenAI 과학 블로그는 새로운 연구 결과와 실용적인 방법을 공유합니다.",
+      "AI를 활용한 과학 연구의 발전 과정을 연구자들의 경험담과 함께 소개합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
     "translated_title": "새롭게 제안된 EU 법안, 부분 유료화 게임에 엄격한 제한을 둘 수도",
     "link": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
@@ -264,6 +295,22 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "translated_title": "Gemini 4 Hydrogen 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "summary": [
+      "Gemini 4 Hydrogen이 공개되었습니다.",
+      "기술적인 혁신에 대한 내용이 담겨 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Gondola doubles revenue as its team builds more with Codex",
     "translated_title": "Codex 활용으로 개발팀 역량 강화, Gondola 매출 2배 달성",
     "link": "https://openai.com/business/customer-stories/gondola",
@@ -293,22 +340,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Gemini 4 Hydrogen",
-    "translated_title": "Gemini 4 Hydrogen 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "summary": [
-      "Gemini 4 Hydrogen이 공개되었습니다.",
-      "기술적인 혁신에 대한 내용이 담겨 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "One in three developers say they've been laid off within the last two years",
@@ -4584,36 +4615,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "Introducing SynthID Bio",
-    "translated_title": "SynthID Bio 소개",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "date": "2026-09-30",
-    "summary": [
-      "AI 생성 단백질 워터마킹 개념 증명",
-      "생물학적 기능 보존을 유지하며 워터마킹 가능"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "translated_title": "Open TTS 리더보드: 다국어 TTS 및 음성 복제를 위한 확장 가능한 평가",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "date": "2026-09-30",
-    "summary": [
-      "다국어 텍스트 음성 변환(TTS) 및 음성 복제 성능을 평가하는 확장 가능한 시스템인 Open TTS 리더보드를 소개합니다.",
-      "리더보드는 다양한 TTS 모델을 비교하고 순위를 매기는 데 사용될 수 있습니다.",
-      "연구자와 개발자들이 TTS 기술 발전에 기여할 수 있는 플랫폼을 제공합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
