@@ -30,6 +30,223 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "The Unity CLI 1.0 is here!",
+    "translated_title": "Unity CLI 1.0 출시!",
+    "link": "https://unity.com/the-unity-cli-1.0-is-here",
+    "date": "2026-11-17",
+    "summary": [
+      "Unity CLI 1.0이 베타에서 정식 출시되었습니다.",
+      "Claude Code, Codex, Grok Build, Antigravity와 연동하여 빌드 및 테스트 자동화가 가능합니다.",
+      "터미널에서 Unity 프로젝트를 관리할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
+    "translated_title": "Synty Studios, Unity에 합류하여 아티스트 제작 에셋을 Unity Spark로 제공",
+    "link": "https://unity.com/blog/synty-studios-acquisition",
+    "date": "2026-11-16",
+    "summary": [
+      "Unity가 POLYGON 3D 에셋 팩 제작사 Synty Studios를 인수했습니다.",
+      "Synty의 에셋 라이브러리는 Unity Spark로 통합됩니다.",
+      "기존 Synty 에셋 팩 및 라이선스는 그대로 유지됩니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+    "translated_title": "닌텐도 미야모토 시게루, D.I.C.E. 어워드 초대 '전설상' 수상자로 선정",
+    "link": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+    "date": "2026-11-16",
+    "summary": [
+      "닌텐도의 초기 게임 디렉터이자 크리에이티브 펠로우인 미야모토 시게루가 D.I.C.E. 어워드에서 첫 '전설상' 수상자로 선정되었습니다.",
+      "이는 제30회 D.I.C.E. 어워드에서 수여하는 초대 '전설상'입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Riot unveils New Dawn, a major overhaul for League of Legends",
+    "translated_title": "라이엇, 리그 오브 레전드 대규모 개편 '뉴던' 공개",
+    "link": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+    "date": "2026-11-16",
+    "summary": [
+      "2026 리그 오브 레전드 챔피언십에서 라이엇이 새로운 시대 개막을 알렸습니다.",
+      "시네마틱 영상을 통해 대규모 개편 '뉴던'을 공개했습니다.",
+      "영상은 세부 정보가 부족한 편이었습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
+    "translated_title": "'인수 루머에 대한 추측과 헤드라인은 흔하게 나옵니다': Unity 임원, 인수 루머에 대해 입을 열다",
+    "link": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+    "date": "2026-11-16",
+    "summary": [
+      "Unity 임원이 인수합병(M&A)에 대한 추측은 강력한 분기 실적 발표 이후 흔하게 나온다고 언급했습니다.",
+      "회사의 긍정적인 실적 발표가 인수 루머를 촉발하는 경향이 있음을 시사합니다."
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Paradox Interactive names new CEO",
+    "translated_title": "패러독스 인터랙티브, 신임 CEO 임명",
+    "link": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+    "date": "2026-11-16",
+    "summary": [
+      "현 CEO 프레드릭 웨스터, 임기 복귀 후 은퇴",
+      "부 CEO 마티아스 릴라가 직책 승계"
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
+    "translated_title": "Xbox, PC 게임도 플레이 가능한 콘솔 '프로젝트 헬릭스' 공개",
+    "link": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+    "date": "2026-11-16",
+    "summary": [
+      "Xbox가 차세대 콘솔 '프로젝트 헬릭스'에 대한 정보를 일부 공개했습니다.",
+      "이 콘솔은 PC 게임 플레이 기능도 갖출 것으로 예상됩니다.",
+      "하지만 구체적인 설명이나 정보는 아직 부족한 상황입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "$50K for Indie Devs",
+    "translated_title": "인디 개발자를 위한 5만 달러 지원",
+    "link": "https://www.youtube.com/shorts/XxXHuHExzyw",
+    "date": "2026-11-16",
+    "summary": [
+      "Unity Fellowship에서 10개 팀에게 각 5만 달러 지원 (상환, 로열티, 지분 없음)",
+      "자격 요건 및 프로그램 조건 적용",
+      "신청 마감: 12월 18일 오후 5시 ET"
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "translated_title": "허깅페이스와 오픈라우터, 오픈 가중치 모델 실행을 쉽게 만들기 위해 협력",
+    "link": "https://huggingface.co/blog/openrouter",
+    "date": "2026-11-16",
+    "summary": [
+      "허깅페이스와 오픈라우터가 오픈 가중치 모델 실행을 간소화하기 위해 파트너십을 맺었습니다.",
+      "이번 협력을 통해 사용자는 이전보다 쉽게 오픈 소스 AI 모델에 접근하고 실행할 수 있게 됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "translated_title": "AI 접근성 확대: 전 세계 과학자들을 위한 지원 강화",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "date": "2026-11-16",
+    "summary": [
+      "ChatGPT for Academic Researchers 프로그램 확대",
+      "전 세계 20만 명 연구원에게 무료 접근권 제공",
+      "최첨단 AI 모델 이용 기회 확대"
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "translated_title": "온라인 아동 성 착취 및 학대 방지를 위한 새로운 도구와 지원 강화",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "date": "2026-11-16",
+    "summary": [
+      "온라인 아동 성 착취 및 학대 방지를 위한 새로운 도구, 실질적인 지침, 파트너십이 도입됩니다.",
+      "이는 예방, 탐지 및 대응 능력을 향상시키는 데 기여할 것입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "translated_title": "최전선 과학: 과학자들은 ChatGPT를 어떻게 활용하는가",
+    "link": "https://openai.com/index/science-at-the-frontier",
+    "date": "2026-11-16",
+    "summary": [
+      "1,800명 이상의 과학자들이 연구에 ChatGPT를 사용하는 방식 탐구",
+      "일상 업무, 생산성, 발견에 대한 기대치 조사 결과 발표"
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "translated_title": "리볼트, 수준은 낮추지 않고 어떻게 야심을 높이는가",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "date": "2026-11-16",
+    "summary": [
+      "OpenAI 모델 및 Codex를 활용하여 코딩 시간을 30-60% 단축했습니다.",
+      "금융 범죄 조사 역량을 강화하고 보안을 저해하지 않으면서 혁신을 이루었습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "translated_title": "LVMH 미디어 부문, OpenAI와 전략적 파트너십 발표",
+    "link": "https://openai.com/index/lvmh-media-division-partnership",
+    "date": "2026-11-16",
+    "summary": [
+      "LVMH 미디어 부문과 OpenAI가 파트너십을 체결합니다.",
+      "AI를 활용하여 저널리즘을 지원하고, ChatGPT를 통해 간행물의 접근성을 높일 예정입니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "A step toward defining the Standard Model on a lattice",
     "translated_title": "격자 양자 색역학으로 표준 모형 정의를 향한 한 걸음",
     "link": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -61,51 +278,20 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
-    "translated_title": "새롭게 제안된 EU 법안, 부분 유료화 게임에 엄격한 제한을 둘 수도",
-    "link": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
-    "date": "2026-11-13",
+    "title": "AI Can Do Everything…Except This",
+    "translated_title": "AI는 모든 것을 할 수 있지만… 이것은 제외",
+    "link": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+    "date": "2026-11-14",
     "summary": [
-      "EU에서 '디지털 공정성법'이 제안되었습니다.",
-      "이 법안이 통과되면 유럽뿐만 아니라 전 세계적으로 게임 개발 및 출판 방식에 큰 변화를 가져올 수 있습니다.",
-      "특히 부분 유료화 게임에 대한 규제가 강화될 것으로 보입니다."
+      "AI가 거의 모든 것을 할 수 있지만, 아직 인간의 용기와 같은 특정 영역에서는 한계가 있음을 시사하는 콘텐츠입니다.",
+      "이 영상은 AI와 관련된 주제를 다루는 'Fellow Scholars'를 대상으로 하며, AI의 능력이 보편적이지 않다는 점을 강조합니다.",
+      "이 콘텐츠는 AI의 잠재력과 동시에 극복해야 할 인간적인 측면을 탐구합니다."
     ],
     "tags": [
-      "News",
-      "GameDev"
+      "Research",
+      "AI"
     ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Development secrets of Dressmaker, ft. Ruan Rothmann &amp; Sara Laubscher",
-    "translated_title": "인디 개발자들의 꿈, '드레스메이커'의 개발 비하인드 (feat. Ruan Rothmann & Sara Laubscher)",
-    "link": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-    "date": "2026-11-13",
-    "summary": [
-      "'드레스메이커'는 인디 개발자들이 꿈꾸는 이야기의 주인공입니다.",
-      "2026년 깜짝 히트작이 된 '드레스메이커'를 어떻게 만들었을까요?"
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
-    "translated_title": "더 위쳐 3 개발팀, 뇌졸중 후 제랄트 성우 목소리 AI로 복원",
-    "link": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
-    "date": "2026-11-13",
-    "summary": [
-      "뇌졸중으로 제랄트 목소리 연기가 불가능해진 성우에게 AI 활용 동의를 얻었습니다.",
-      "AI 기술을 활용하여 더 위쳐 3 차기 확장팩에서 제랄트 목소리를 복원할 예정입니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
+    "source": "Two Minute Papers"
   },
   {
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -153,6 +339,53 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
+    "translated_title": "새롭게 제안된 EU 법안, 부분 유료화 게임에 엄격한 제한을 둘 수도",
+    "link": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
+    "date": "2026-11-13",
+    "summary": [
+      "EU에서 '디지털 공정성법'이 제안되었습니다.",
+      "이 법안이 통과되면 유럽뿐만 아니라 전 세계적으로 게임 개발 및 출판 방식에 큰 변화를 가져올 수 있습니다.",
+      "특히 부분 유료화 게임에 대한 규제가 강화될 것으로 보입니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Development secrets of Dressmaker, ft. Ruan Rothmann &amp; Sara Laubscher",
+    "translated_title": "인디 개발자들의 꿈, '드레스메이커'의 개발 비하인드 (feat. Ruan Rothmann & Sara Laubscher)",
+    "link": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+    "date": "2026-11-13",
+    "summary": [
+      "'드레스메이커'는 인디 개발자들이 꿈꾸는 이야기의 주인공입니다.",
+      "2026년 깜짝 히트작이 된 '드레스메이커'를 어떻게 만들었을까요?"
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
+    "translated_title": "더 위쳐 3 개발팀, 뇌졸중 후 제랄트 성우 목소리 AI로 복원",
+    "link": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+    "date": "2026-11-13",
+    "summary": [
+      "뇌졸중으로 제랄트 목소리 연기가 불가능해진 성우에게 AI 활용 동의를 얻었습니다.",
+      "AI 기술을 활용하여 더 위쳐 3 차기 확장팩에서 제랄트 목소리를 복원할 예정입니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Introducing ChatGPT Wallet",
@@ -217,6 +450,52 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "DeepMind’s AI Just Did The Impossible",
+    "translated_title": "딥마인드의 AI, 불가능을 해내다",
+    "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+    "date": "2026-11-12",
+    "summary": [
+      "딥마인드, AI 모델 AlphaProof Code 발표",
+      "AI가 코드의 형식 검증을 수행하는 혁신적인 연구"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "translated_title": "LLMON: LLM 네이티브 마크업 언어, 이제 Granite 4.1 3B 및 8B에서 지원",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "date": "2026-11-12",
+    "summary": [
+      "LLMON은 LLM을 위한 새로운 마크업 언어입니다.",
+      "LLMON이 Granite 4.1 모델(3B 및 8B)에 통합되었습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "translated_title": "Gemini 4 Hydrogen 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "summary": [
+      "Gemini 4 Hydrogen이 공개되었습니다.",
+      "기술적인 혁신에 대한 내용이 담겨 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Tripwire Interactive lays off workers after announcing new publishing initiative",
     "translated_title": "Tripwire Interactive, 신규 퍼블리싱 사업 발표 후 직원 해고",
     "link": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative",
@@ -246,21 +525,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "translated_title": "LLMON: LLM 네이티브 마크업 언어, 이제 Granite 4.1 3B 및 8B에서 지원",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "date": "2026-11-12",
-    "summary": [
-      "LLMON은 LLM을 위한 새로운 마크업 언어입니다.",
-      "LLMON이 Granite 4.1 모델(3B 및 8B)에 통합되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
@@ -293,22 +557,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Gemini 4 Hydrogen",
-    "translated_title": "Gemini 4 Hydrogen 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "summary": [
-      "Gemini 4 Hydrogen이 공개되었습니다.",
-      "기술적인 혁신에 대한 내용이 담겨 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -435,6 +683,23 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Fable 5.2 AI Game Prototypes in Unity & Unreal 5.9 Preview",
+    "translated_title": "Fable 5.2 AI 게임 프로토타입: Unity 및 Unreal 5.9 미리보기",
+    "link": "https://www.youtube.com/watch?v=H-Yp9X-5RDo",
+    "date": "2026-11-11",
+    "summary": [
+      "Claude Fable 5.2가 Unity와 Unreal 엔진으로 드래곤 게임 프로토타입을 개발했습니다.",
+      "Magic Pig Games의 Andrew Slater와 함께 프로토타입 결과를 살펴보고 VR 드래곤 라이더 아이디어를 차세대 AI 에이전트 개발을 위한 빌드 계획으로 전환합니다.",
+      "영상에는 게임 플레이, 에셋, VR 조작, 주문 시전, 드래곤 자동 공격, PvP 등에 대한 설명이 포함됩니다. VR 디자인은 개발 계획이며 완성된 버전이 아닙니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Jason Weimann (GameDev)"
   },
   {
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
@@ -572,36 +837,19 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
-    "translated_title": "10개 팀, 3개 프로그램, 7년간: 방산 훈련용 3D 에셋의 효율적인 관리",
-    "link": "https://unity.com/blog/3d-asset-management-defense-training",
+    "title": "Is Software Over?",
+    "translated_title": "소프트웨어 시대는 끝났는가?",
+    "link": "https://www.youtube.com/watch?v=vug73goPJaM",
     "date": "2026-11-10",
     "summary": [
-      "i3 Corps는 군사 디지털 트윈을 수년간 유지 관리합니다.",
-      "10개의 아트 팀이 Unity Addressables와 Unity Asset Manager를 사용하여 3D 에셋을 관리하는 방법을 소개합니다."
+      "AI가 소프트웨어를 역공학하고 생성하는 능력에 대한 탐구.",
+      "AI 학습 및 소프트웨어 개발의 미래에 대한 논의."
     ],
     "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "10 tips for organizing your first video game project with AI",
-    "translated_title": "AI로 첫 비디오 게임 프로젝트 구성하는 10가지 팁",
-    "link": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
-    "date": "2026-11-10",
-    "summary": [
-      "AI를 활용하여 게임 디자인 브리프, 네이밍, 체크포인트, 프롬프트 기록, 플레이 테스트 등 초보자를 위한 10가지 구성 팁을 제공합니다.",
-      "코딩 없이 AI를 통해 비디오 게임 프로젝트를 효율적으로 구성하는 방법을 배울 수 있습니다."
-    ],
-    "tags": [
-      "Unity",
-      "Tutorial",
-      "GameDev",
+      "Research",
       "AI"
     ],
-    "source": "Unity Blog RSS Feed"
+    "source": "Two Minute Papers"
   },
   {
     "title": "Gemini 4 Carbon is now available",
@@ -647,6 +895,38 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
+    "translated_title": "10개 팀, 3개 프로그램, 7년간: 방산 훈련용 3D 에셋의 효율적인 관리",
+    "link": "https://unity.com/blog/3d-asset-management-defense-training",
+    "date": "2026-11-10",
+    "summary": [
+      "i3 Corps는 군사 디지털 트윈을 수년간 유지 관리합니다.",
+      "10개의 아트 팀이 Unity Addressables와 Unity Asset Manager를 사용하여 3D 에셋을 관리하는 방법을 소개합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "10 tips for organizing your first video game project with AI",
+    "translated_title": "AI로 첫 비디오 게임 프로젝트 구성하는 10가지 팁",
+    "link": "https://unity.com/blog/how-to-organize-a-game-project-with-ai",
+    "date": "2026-11-10",
+    "summary": [
+      "AI를 활용하여 게임 디자인 브리프, 네이밍, 체크포인트, 프롬프트 기록, 플레이 테스트 등 초보자를 위한 10가지 구성 팁을 제공합니다.",
+      "코딩 없이 AI를 통해 비디오 게임 프로젝트를 효율적으로 구성하는 방법을 배울 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "Tutorial",
+      "GameDev",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -723,21 +1003,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Is Software Over?",
-    "translated_title": "소프트웨어 시대는 끝났는가?",
-    "link": "https://www.youtube.com/watch?v=vug73goPJaM",
-    "date": "2026-11-10",
-    "summary": [
-      "AI가 소프트웨어를 역공학하고 생성하는 능력에 대한 탐구.",
-      "AI 학습 및 소프트웨어 개발의 미래에 대한 논의."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
   },
   {
     "title": "Closing the AI guidance gap in education",
@@ -4352,268 +4617,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne",
-    "translated_title": "왜 아직도 몰입형 시뮬레이션 게임을 만드는 것이 가치 있는지: 하비 스미스 & 벤 호른",
-    "link": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-    "date": "2026-10-05",
-    "summary": [
-      "하비 스미스와 벤 호른이 블랙 포니 임머시브의 비전을 제시합니다.",
-      "과거 아케인 오스틴 출신의 두 개발자가 몰입형 시뮬레이션 게임의 미래를 논합니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Building advertising for the way people use AI",
-    "translated_title": "AI 사용 방식에 맞춘 광고 구축",
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "date": "2026-10-05",
-    "summary": [
-      "OpenAI, ChatGPT에서 새로운 비주얼 광고 형식 도입",
-      "광고주를 위한 측정 도구, 기여 파트너십, 브랜드 적합성 확장"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "translated_title": "상담원은 완료했다고 했지만, 데이터베이스는 동의하지 않았다.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "date": "2026-10-03",
-    "summary": [
-      "상담원의 말과 실제 데이터베이스 기록 간의 불일치가 발생했습니다.",
-      "이러한 오류는 잠재적으로 고객 서비스 및 데이터 무결성에 영향을 미칠 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "From attention to action: why the state of play matters for marketers",
-    "translated_title": "관심에서 행동으로: 현황이 마케터에게 중요한 이유",
-    "link": "https://unity.com/blog/mobile-gaming-attention-economy-driving-marketing-performance",
-    "date": "2026-10-02",
-    "summary": [
-      "파편화된 미디어 환경에서 '현황'은 마케터에게 중요합니다.",
-      "모바일 게임이 높은 품질의 관심을 어떻게 확보하여 측정 가능한 마케팅 성과를 이끌어내는지 알아보세요."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "Research"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "translated_title": "Asta의 빠른 보고서 생성 모델 AstaBrief, 오픈 소스 공개",
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "date": "2026-10-02",
-    "summary": [
-      "Asta의 빠른 보고서 생성 모델인 AstaBrief을 오픈 소스로 공개했습니다.",
-      "이 모델은 개발자들이 더 빠르고 효율적으로 보고서를 생성하도록 돕습니다."
-    ],
-    "tags": [
-      "News",
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "translated_title": "AutoSynthData: 엔터프라이즈 에이전트 학습 데이터 자동 생성",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "date": "2026-10-02",
-    "summary": [
-      "AutoSynthData는 엔터프라이즈 에이전트 학습을 위한 데이터를 자동으로 생성하는 기술입니다.",
-      "이 기술은 학습 데이터 생성 과정을 효율화하여 에이전트 개발을 가속화합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
-    "translated_title": "Reigns 개발사 Nerial, '휴면 모드' 진입 및 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-    "date": "2026-10-02",
-    "summary": [
-      "Reigns 시리즈를 개발한 Nerial 스튜디오가 운영을 중단합니다.",
-      "이번 조치는 일시적인 '휴면 모드' 진입으로 인한 것입니다.",
-      "운영 중단과 함께 직원 해고도 이루어졌습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "translated_title": "GPT-6 모델 활용 가이드",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "date": "2026-10-02",
-    "summary": [
-      "스타트업을 위한 GPT-6 모델 선택 및 튜닝 방법",
-      "프롬프트 엔지니어링, 도구 통합, 생산 워크플로우 준비"
-    ],
-    "tags": [
-      "Tutorial",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "translated_title": "채텀, OpenAI로 자본 시장 전문성 강화",
-    "link": "https://openai.com/index/chatham-financial",
-    "date": "2026-10-02",
-    "summary": [
-      "채텀 파이낸셜, Codex와 GPT-5.6 활용 기술 개발 및 워크플로우 재설계",
-      "무역 검증 시간 30분에서 4분 이내로 단축"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Meeting you where you work: Unity Plugin for Grok Build",
-    "translated_title": "업무 현장으로 찾아가는 안내: Grok Build용 Unity 플러그인",
-    "link": "https://unity.com/blog/unity-plugin-grok",
-    "date": "2026-10-01",
-    "summary": [
-      "Grok Build에서 공식 Unity 플러그인을 사용할 수 있게 되었습니다.",
-      "터미널 명령어 하나로 30개 이상의 Unity 기반 스킬을 이용하세요.",
-      "Unity 6 이상 버전에서 지원됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity",
-      "AI"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Games made with Unity: September 2026 in review",
-    "translated_title": "유니티로 만든 게임: 2026년 8월 결산",
-    "link": "https://unity.com/blog/games-made-with-unity-september-2026-releases",
-    "date": "2026-10-01",
-    "summary": [
-      "유니티 커뮤니티의 최신 게임들을 소개합니다.",
-      "2026년 8월에 출시된 주목할 만한 유니티 게임 목록을 확인하세요."
-    ],
-    "tags": [
-      "News",
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "'Xbox is not for sale,' CEO Asha Sharma says",
-    "translated_title": "“Xbox, 판매 불가” CEO 아샤 샤르마 발언",
-    "link": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-    "date": "2026-10-01",
-    "summary": [
-      "Xbox는 현재 판매되지 않는다고 CEO가 밝혔다.",
-      "새 CEO는 뉴욕 타임스와의 인터뷰에서 이 발언을 했다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The eternal complement",
-    "translated_title": "영원한 조력자",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "date": "2026-10-01",
-    "summary": [
-      "혁신적인 아이디어의 이면에 있는 루틴 작업에 AI가 중요할 수 있습니다.",
-      "실행력이 다음 경제와 발전 속도를 어떻게 형성할지 탐구합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "translated_title": "Albertsons Companies, AI로 내부 혁신을 통한 리테일의 미래를 재구상하다",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "date": "2026-10-01",
-    "summary": [
-      "Albertsons는 ChatGPT Enterprise와 OpenAI API를 활용하여 업무 효율성을 높이고 있습니다.",
-      "이를 통해 수백만 명의 고객에게 더욱 편리한 식료품 쇼핑 경험을 제공하고자 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "translated_title": "The Den, ChatGPT로 주당 10-15시간 절약하고 성장하다",
-    "link": "https://openai.com/index/the-den-family-social",
-    "date": "2026-10-01",
-    "summary": [
-      "The Den은 ChatGPT를 활용하여 업무 시간을 크게 단축했습니다.",
-      "신규 지점 개설 시, 보조금 신청서를 3일에서 2시간으로, 주류 면허 관련 서류를 4일에서 3시간으로 처리했습니다.",
-      "이를 통해 연간 10-15시간의 업무 시간을 절약하여 사업 성장에 집중할 수 있게 되었습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "translated_title": "Olmo-core 3 소개: 대규모 MoE를 위한 개방적이고 확장 가능한 학습 인프라",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "date": "2026-10-01",
-    "summary": [
-      "Olmo-core 3는 대규모 MoE(Mixture-of-Experts) 모델을 위한 학습 인프라입니다.",
-      "개방적이며 확장 가능한 설계를 특징으로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "translated_title": "Gemini 4 Argon: 차세대 프론티어 인텔리전스의 시작",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "date": "2026-09-30",
-    "summary": [
-      "Gemini 4 Argon은 차세대 프론티어 인텔리전스를 선보입니다.",
-      "AI 기술의 새로운 시대를 열 것으로 기대됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   }
 ];
