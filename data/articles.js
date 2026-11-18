@@ -47,6 +47,177 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
+    "title": "Unite Tokyo 2026 Keynote recap: Built for the speed of your ideas",
+    "translated_title": "Unity Tokyo 2026 키노트 리뷰: 당신의 아이디어 속도에 맞춰 구축되었습니다",
+    "link": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+    "date": "2026-11-17",
+    "summary": [
+      "Unity 7, ECS for All, Unity CLI 등 주요 업데이트 발표",
+      "Synty Studios의 Unity 합류 및 새로운 Unity Fellowship 소개"
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+    "translated_title": "OpenAI의 새로운 돌파구는... 완전한 혼돈",
+    "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+    "date": "2026-11-17",
+    "summary": [
+      "OpenAI가 새로운 연구를 발표했습니다.",
+      "이 연구는 과학적 이해를 구축하는 데 중점을 둡니다.",
+      "하지만 그 결과는 혼란스럽다는 평가입니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "European Game Worker unions publish manifesto warning against unchecked AI usage",
+    "translated_title": "유럽 게임 노동자 연대, AI 무분별한 사용 경고 성명 발표",
+    "link": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+    "date": "2026-11-17",
+    "summary": [
+      "유럽 게임 노동자 연대가 생성형 AI 사용에 대한 우려를 제기했습니다.",
+      "아일랜드, 스페인, 밀라노 지부 회원들이 모여 문제점과 해결책을 논의했습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
+    "translated_title": "2027년 게임 어워드 후보작: 젤다와 그랜드 테프트 오토 6가 선두",
+    "link": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+    "date": "2026-11-17",
+    "summary": [
+      "2027년 게임 어워드 후보작이 발표되었습니다.",
+      "주요 후보작으로는 '그랜드 테프트 오토 VI'와 '젤다의 전설: 시간의 오카리나'가 있습니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals",
+    "translated_title": "올해 비디오 게임 그래미 후보작, 보컬 곡에 불리한 아카데미의 성향 드러내",
+    "link": "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs",
+    "date": "2026-11-17",
+    "summary": [
+      "올해 그래미 시상식은 훌륭한 비디오 게임 사운드트랙들을 조명합니다.",
+      "하지만 한 인디 개발자는 보컬이 많은 점 때문에 그래미 후보에서 탈락했다고 주장합니다."
+    ],
+    "tags": [
+      "News",
+      "GameDev"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
+    "translated_title": "GTA VI 출시 직전, 테이크투가 파이어액시스 직원 해고",
+    "link": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+    "date": "2026-11-17",
+    "summary": [
+      "테이크투 산하 게임 개발사 파이어액시스에서 직원 해고가 발생했습니다.",
+      "이는 GTA VI 출시를 앞두고 일어난 일입니다.",
+      "파이어액시스는 '문명 VII', '마블 미드나잇 선즈' 등으로 유명한 스튜디오입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "translated_title": "GPT-6.2 Astra 및 Sol 소개",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "date": "2026-11-17",
+    "summary": [
+      "ChatGPT Work, Codex, API 전반에 걸쳐 전문적인 결과물, 코딩, 컴퓨터 사용 능력 향상",
+      "비용 효율성 증대",
+      "성능 및 효율성 개선"
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "translated_title": "AI를 통한 NATO 및 동맹국의 사이버 방어 강화",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "date": "2026-11-17",
+    "summary": [
+      "OpenAI는 NATO 및 동맹국 사이버 기관과 협력하고 있습니다.",
+      "신뢰할 수 있는 방어자가 취약점을 찾고, 수정 사항을 테스트하며, 핵심 시스템을 보호하도록 지원합니다."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing ChatGPT for Sales",
+    "translated_title": "영업을 위한 ChatGPT 소개",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "date": "2026-11-17",
+    "summary": [
+      "ChatGPT의 새로운 영업 플러그인을 소개합니다.",
+      "30개 이상의 파트너 플러그인을 통해 잠재 고객 조사, 제안 준비, CRM 업데이트, 거래 성사 촉진이 가능합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Astra for Law leads in legal intelligence",
+    "translated_title": "Astra for Law, 법률 인텔리전스 분야 선두 차지",
+    "link": "https://openai.com/index/astra-law-6-2",
+    "date": "2026-11-17",
+    "summary": [
+      "Astra for Law, 24개 법률 분야 론칭 평가에서 1위 달성.",
+      "모든 ChatGPT Enterprise 고객은 이제 Astra for Law 접근 요청 가능."
+    ],
+    "tags": [
+      "News",
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "translated_title": "OpenAI, 칠레와의 협력 발표",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "date": "2026-11-17",
+    "summary": [
+      "OpenAI와 칠레 정부가 협력합니다.",
+      "책임감 있는 AI 도입, 공공 부문 역량 강화, 지역 스타트업 지원을 목표로 합니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
     "translated_title": "Synty Studios, Unity에 합류하여 아티스트 제작 에셋을 Unity Spark로 제공",
     "link": "https://unity.com/blog/synty-studios-acquisition",
@@ -76,6 +247,38 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "$50K for Indie Devs",
+    "translated_title": "인디 개발자를 위한 5만 달러 지원",
+    "link": "https://www.youtube.com/shorts/XxXHuHExzyw",
+    "date": "2026-11-16",
+    "summary": [
+      "Unity Fellowship에서 10개 팀에게 각 5만 달러 지원 (상환, 로열티, 지분 없음)",
+      "자격 요건 및 프로그램 조건 적용",
+      "신청 마감: 12월 18일 오후 5시 ET"
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "translated_title": "허깅페이스와 오픈라우터, 오픈 가중치 모델 실행을 쉽게 만들기 위해 협력",
+    "link": "https://huggingface.co/blog/openrouter",
+    "date": "2026-11-16",
+    "summary": [
+      "허깅페이스와 오픈라우터가 오픈 가중치 모델 실행을 간소화하기 위해 파트너십을 맺었습니다.",
+      "이번 협력을 통해 사용자는 이전보다 쉽게 오픈 소스 AI 모델에 접근하고 실행할 수 있게 됩니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Riot unveils New Dawn, a major overhaul for League of Legends",
@@ -135,38 +338,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "$50K for Indie Devs",
-    "translated_title": "인디 개발자를 위한 5만 달러 지원",
-    "link": "https://www.youtube.com/shorts/XxXHuHExzyw",
-    "date": "2026-11-16",
-    "summary": [
-      "Unity Fellowship에서 10개 팀에게 각 5만 달러 지원 (상환, 로열티, 지분 없음)",
-      "자격 요건 및 프로그램 조건 적용",
-      "신청 마감: 12월 18일 오후 5시 ET"
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "GameDev"
-    ],
-    "source": "Jason Weimann (GameDev)"
-  },
-  {
-    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-    "translated_title": "허깅페이스와 오픈라우터, 오픈 가중치 모델 실행을 쉽게 만들기 위해 협력",
-    "link": "https://huggingface.co/blog/openrouter",
-    "date": "2026-11-16",
-    "summary": [
-      "허깅페이스와 오픈라우터가 오픈 가중치 모델 실행을 간소화하기 위해 파트너십을 맺었습니다.",
-      "이번 협력을 통해 사용자는 이전보다 쉽게 오픈 소스 AI 모델에 접근하고 실행할 수 있게 됩니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Broadening access to AI for scientists",
@@ -669,22 +840,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "The gods are dead. But not forever: Inside Azra Games’ UnGodly",
-    "translated_title": "신은 죽었지만, 영원하지는 않다: Azra Games의 'UnGodly' 내부 이야기",
-    "link": "https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity",
-    "date": "2026-11-11",
-    "summary": [
-      "'UnGodly'는 Unity로 개발된 다크 판타지 액션 RPG입니다.",
-      "iPhone Duo, Android, Mac, PC, Apple Vision Pro 등 다양한 플랫폼에서 출시됩니다.",
-      "Azra Games는 콘솔 수준의 모바일 게임 경험을 목표로 합니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Fable 5.2 AI Game Prototypes in Unity & Unreal 5.9 Preview",
     "translated_title": "Fable 5.2 AI 게임 프로토타입: Unity 및 Unreal 5.9 미리보기",
     "link": "https://www.youtube.com/watch?v=H-Yp9X-5RDo",
@@ -715,6 +870,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "The gods are dead. But not forever: Inside Azra Games’ UnGodly",
+    "translated_title": "신은 죽었지만, 영원하지는 않다: Azra Games의 'UnGodly' 내부 이야기",
+    "link": "https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity",
+    "date": "2026-11-11",
+    "summary": [
+      "'UnGodly'는 Unity로 개발된 다크 판타지 액션 RPG입니다.",
+      "iPhone Duo, Android, Mac, PC, Apple Vision Pro 등 다양한 플랫폼에서 출시됩니다.",
+      "Azra Games는 콘솔 수준의 모바일 게임 경험을 목표로 합니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -4442,174 +4613,6 @@ const allArticlesData = [
     "summary": [
       "점프 트레이딩은 OpenAI의 ChatGPT를 활용하여 퀀트 리서치를 확장하고 있습니다.",
       "더 긴 실행 시간의 AI 워크플로우는 여러 데이터 소스와 인간의 검토를 결합합니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "translated_title": "OpenAI, 수학 분야 AI 연구 성과 공유",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "date": "2026-10-06",
-    "summary": [
-      "OpenAI가 자체 AI 모델을 활용해 수학 분야 난제 해결에 대한 새로운 결과를 발표했습니다.",
-      "해당 결과와 Lean 증명 형식화, 연구 세부 정보를 GitHub에 공개했습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
-    "translated_title": "게임스탑 등 소매업체, 중고 PS5 Pro를 정가 대비 66% 웃돈에 판매",
-    "link": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-    "date": "2026-10-06",
-    "summary": [
-      "고성능 PS5 콘솔이 높은 수요와 공급 부족으로 구하기 어려운 상황입니다.",
-      "현재 소매업체들은 정가보다 훨씬 높은 가격에 PS5 Pro를 판매하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
-    "translated_title": "Unlead Labs 스튜디오 대표, 직원들에게 '무책임할 정도로 투명하게' 해고 준비시켰다고 밝혀",
-    "link": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-    "date": "2026-10-06",
-    "summary": [
-      "Unlead Labs 스튜디오 대표 Philip Holt는 해고가 임박했을 때 직원들에게 '믿을 수 없을 정도로 솔직하게' 이야기했다고 말했습니다.",
-      "그는 해고 과정을 앞두고 직원들에게 정보를 투명하게 공개했던 것이 오히려 '무책임했다'고 평가했습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
-    "translated_title": "협업 개발 사례 연구: Blackbird Interactive와 Secret Mode가 Escape the Backrooms를 백룸 붐에 태운 방법",
-    "link": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-    "date": "2026-10-06",
-    "summary": [
-      "Fancy의 히트작 'Escape The Backrooms'가 4백만 명 이상의 플레이어를 확보했습니다.",
-      "이는 Blackbird Interactive와 Secret Mode의 협업 개발 파트너십 덕분입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "translated_title": "팔콘-에미라티: LLM이 방언, 문화, 뉘앙스를 학습할 때",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "date": "2026-10-06",
-    "summary": [
-      "LLM(거대 언어 모델)이 특정 지역의 방언, 문화, 미묘한 차이를 학습하는 방법을 다룹니다.",
-      "이는 AI 모델의 현지화 및 문화적 이해도 향상에 대한 연구를 보여줍니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Advancing computer use with Ironclad",
-    "translated_title": "Ironclad와 함께하는 컴퓨터 사용의 진화",
-    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "date": "2026-10-06",
-    "summary": [
-      "OpenAI와 Ironclad가 복잡한 계약 워크플로우에서 AI 에이전트를 훈련하고 평가합니다.",
-      "이를 통해 전문적인 업무에 컴퓨터 사용을 발전시킵니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "translated_title": "아틀라시안, OpenAI와 파트너십 확장으로 기업 지식을 실행으로 전환",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "date": "2026-10-06",
-    "summary": [
-      "아틀라시안과 OpenAI가 파트너십을 확대합니다.",
-      "기업의 지식을 최첨단 AI 모델과 연결합니다.",
-      "팀의 계획, 구축, 업무 수행을 지원합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "The Billion Dollar AI Advantage Is Disappearing",
-    "translated_title": "수십억 달러 가치의 AI 이점, 사라지다",
-    "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-    "date": "2026-10-05",
-    "summary": [
-      "AI 기술 발전 속도가 빨라지면서 기존의 거대 기술 기업들이 누리던 독점적 이점이 줄어들고 있습니다.",
-      "오픈 소스 모델과 클라우드 기반 GPU 서비스의 확산이 경쟁 구도를 변화시키고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
-    "translated_title": "백룸 공동 제작자가 아크 레이더스, 더 파이널스 TV/영화 각색 진행",
-    "link": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
-    "date": "2026-10-05",
-    "summary": [
-      "엠바크 스튜디오의 멀티플레이어 슈팅 게임 '더 파이널스'와 '아크 레이더스'가 TV 및 영화로 각색됩니다.",
-      "이번 각색은 '백룸'의 공동 제작사가 담당합니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
-    "translated_title": "보도: 닌자 시어리, 엑스박스로부터 분사 실패 후 직원 해고",
-    "link": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
-    "date": "2026-10-05",
-    "summary": [
-      "닌자 시어리가 엑스박스로부터 독립하는 데 실패했습니다.",
-      "이에 따라 스튜디오에서 직원 감축이 이루어지고 있다는 보도가 나왔습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Our approach to EU text provenance rules",
-    "translated_title": "EU 텍스트 출처 규칙에 대한 OpenAI의 접근 방식",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "date": "2026-10-05",
-    "summary": [
-      "OpenAI는 EU 규정에 따라 텍스트 워터마킹 접근 방식을 설명합니다.",
-      "워터마크 적용 범위, 탐지 방식, 연구자 우선 접근 이유를 다룹니다."
     ],
     "tags": [
       "Research",
