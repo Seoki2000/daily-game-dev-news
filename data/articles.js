@@ -30,6 +30,270 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "The inflection point: why mobile gaming is becoming essential to the digital advertising mix",
+    "translated_title": "변곡점: 모바일 게임이 디지털 광고 믹스에 필수적인 이유",
+    "link": "https://unity.com/blog/the-inflection-point-why-mobile-gaming-is-becoming-essential-to-the-digital-advertising-mix",
+    "date": "2026-11-18",
+    "summary": [
+      "광고 지출과 잠재 고객 규모 간의 격차가 줄어들고 있습니다.",
+      "개선된 측정 및 타겟팅 기능으로 모바일 게임이 필수 마케팅 투자로 부상하고 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How to playtest your first video game",
+    "translated_title": "첫 비디오 게임 플레이테스트 하는 방법",
+    "link": "https://unity.com/blog/how-to-playtest-your-first-video-game",
+    "date": "2026-11-18",
+    "summary": [
+      "플레이테스트의 개념과 중요성 이해",
+      "플레이테스트 세션 운영 방법 학습",
+      "AI 활용 시 피드백 적용 방안 확인"
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Clair Obscur: Expedition 33's narrative lead wants to change game funding",
+    "translated_title": "클레르 오브스퀴어: 익스페디션 33 내러티브 리드가 게임 펀딩 방식 변화를 원하다",
+    "link": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
+    "date": "2026-11-18",
+    "summary": [
+      "클레르 오브스퀴어의 내러티브 리드 제니퍼 스베드버그-옌이 다수의 상을 수상했습니다.",
+      "그녀는 게임 펀딩의 우선순위에 대한 인식을 바꾸고 싶어합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly",
+    "translated_title": "플레이스테이션, 26억 달러 규모의 디지털 독점 소송에서 승소",
+    "link": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+    "date": "2026-11-18",
+    "summary": [
+      "플레이스테이션은 영국에서 '과도하고 불공정한 가격'을 책정했다는 혐의로 26억 달러 규모의 소송에 직면했습니다.",
+      "이 소송은 기각되었으며 더 이상 진행되지 않습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "translated_title": "DaisyRose-27B: 후처리 효율성의 새로운 지평을 열다",
+    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "date": "2026-11-18",
+    "summary": [
+      "DaisyRose-27B 모델의 등장",
+      "후처리 과정의 효율성 극대화"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "translated_title": "FLOPs 계산보다 파인튜닝이 더 오래 걸리는 이유",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "date": "2026-11-18",
+    "summary": [
+      "GPU 메모리 부족",
+      "데이터 로딩 속도",
+      "컴퓨팅 오버헤드"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "translated_title": "스트림하우스에서의 시계열 모델: 새로운 지평과 활용 사례",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "date": "2026-11-18",
+    "summary": [
+      "스트림하우스 환경에서 시계열 모델을 활용하는 새로운 접근 방식을 소개합니다.",
+      "다양한 분야에서의 시계열 모델 활용 사례를 탐구합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "translated_title": "1800억 파라미터, 32GB RAM: 트랜스포머로 MoE 추론의 한계를 시험하다",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
+    "date": "2026-11-18",
+    "summary": [
+      "1800억 파라미터 규모의 MoE(Mixture of Experts) 모델 추론에 32GB RAM으로 도전합니다.",
+      "트랜스포머 아키텍처를 사용하여 MoE 추론의 성능 한계를 탐색하는 내용을 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "translated_title": "Rumble-2-Flash: 40개 이상 언어를 지원하는 개방형 0.5B 음성 모델",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "date": "2026-11-18",
+    "summary": [
+      "Rumble-2-Flash는 0.5B 매개변수를 가진 오픈 소스 음성 모델입니다.",
+      "40개 이상의 언어를 지원합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "The Silent Consensus",
+    "translated_title": "조용한 합의",
+    "link": "https://openai.com/index/the-silent-consensus",
+    "date": "2026-11-18",
+    "summary": [
+      "OpenAI 전략 미래 본부장 딘 볼이 AI의 사회적 변화와 인간의 제도 통제력 유지 방안을 논합니다.",
+      "AI의 발전이 사회에 미칠 영향과 이에 대한 인간의 통제력 확보 방법을 탐구합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "translated_title": "연구 가속화: 울퉁불퉁한 개척지",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "date": "2026-11-18",
+    "summary": [
+      "OpenAI, 코딩 에이전트가 AI 연구를 얼마나 가속화하는지 측정",
+      "코딩 에이전트의 성능은 여전히 고르지 않음",
+      "재귀적 자기 개선에 대한 시사점 제시"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "translated_title": "스미토모생명 리더들이 ChatGPT Enterprise 도입을 어떻게 도왔나",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "date": "2026-11-18",
+    "summary": [
+      "스미토모생명은 ChatGPT Enterprise를 보험사 조사, 제안서 작성, 투자 분석 코드 작성에 활용합니다.",
+      "초기 임원들의 사용이 팀의 채택을 촉진했습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Inside the Codex sandbox",
+    "translated_title": "Codex 샌드박스 내부 살펴보기",
+    "link": "https://openai.com/index/inside-the-codex-sandbox",
+    "date": "2026-11-18",
+    "summary": [
+      "Codex가 사용자의 로컬 머신에서 명령을 실행하는 방식을 보여줍니다.",
+      "macOS, Linux, Windows 전반에 걸쳐 파일 시스템 및 네트워크 제한을 제어합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Managing frontier AI risk: From training to deployment",
+    "translated_title": "프론티어 AI 리스크 관리: 훈련부터 배포까지",
+    "link": "https://openai.com/index/managing-frontier-ai-risk",
+    "date": "2026-11-18",
+    "summary": [
+      "OpenAI는 모델 정렬, 샌드박싱, 차단 안전장치, 모니터링을 통해 AI 리스크를 관리합니다.",
+      "훈련 단계부터 배포까지 전 과정에 걸쳐 프론티어 AI 리스크를 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Introducing Gemini 4 Neon",
+    "translated_title": "Gemini 4 Neon 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "summary": [
+      "Gemini 4 Neon 출시 발표",
+      "새로운 AI 모델 Gemini 4 Neon의 특징 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Genie 4 is now available",
+    "translated_title": "Genie 4 출시",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "date": "2026-11-18",
+    "summary": [
+      "Genie 4가 공식 출시되었습니다.",
+      "새로운 기능과 개선 사항을 확인해 보세요."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "\"Amazing stories come out of challenge and struggle and stakes\"",
+    "translated_title": "도전과 고난, 그리고 위기 속에서 탄생하는 놀라운 이야기들",
+    "link": "https://aigamechangers.substack.com/p/amazing-stories-come-out-of-challenge",
+    "date": "2026-11-17",
+    "summary": [
+      "AI Dungeon의 창시자 닉 월튼은 무한한 자유도만으로는 게임이 될 수 없다고 말합니다.",
+      "AI 게임즈의 신작 'Voyage'는 규칙, 지속적인 기억, 실제적인 위기를 더해 AI 스토리텔링에 구조를 부여합니다.",
+      "AI가 플레이어를 죽이도록 훈련시킨 이유와 AAA 스튜디오의 어려움에 대해 설명합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "News"
+    ],
+    "source": "AI Gamechangers"
+  },
+  {
     "title": "The Unity CLI 1.0 is here!",
     "translated_title": "Unity CLI 1.0 출시!",
     "link": "https://unity.com/the-unity-cli-1.0-is-here",
@@ -235,20 +499,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
-    "translated_title": "닌텐도 미야모토 시게루, D.I.C.E. 어워드 초대 '전설상' 수상자로 선정",
-    "link": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
-    "date": "2026-11-16",
-    "summary": [
-      "닌텐도의 초기 게임 디렉터이자 크리에이티브 펠로우인 미야모토 시게루가 D.I.C.E. 어워드에서 첫 '전설상' 수상자로 선정되었습니다.",
-      "이는 제30회 D.I.C.E. 어워드에서 수여하는 초대 '전설상'입니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "$50K for Indie Devs",
     "translated_title": "인디 개발자를 위한 5만 달러 지원",
     "link": "https://www.youtube.com/shorts/XxXHuHExzyw",
@@ -264,6 +514,20 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+    "translated_title": "닌텐도 미야모토 시게루, D.I.C.E. 어워드 초대 '전설상' 수상자로 선정",
+    "link": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+    "date": "2026-11-16",
+    "summary": [
+      "닌텐도의 초기 게임 디렉터이자 크리에이티브 펠로우인 미야모토 시게루가 D.I.C.E. 어워드에서 첫 '전설상' 수상자로 선정되었습니다.",
+      "이는 제30회 D.I.C.E. 어워드에서 수여하는 초대 '전설상'입니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
@@ -604,6 +868,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "DeepMind’s AI Just Did The Impossible",
+    "translated_title": "딥마인드의 AI, 불가능을 해내다",
+    "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+    "date": "2026-11-12",
+    "summary": [
+      "딥마인드, AI 모델 AlphaProof Code 발표",
+      "AI가 코드의 형식 검증을 수행하는 혁신적인 연구"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "translated_title": "Gemini 4 Hydrogen 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "summary": [
+      "Gemini 4 Hydrogen이 공개되었습니다.",
+      "기술적인 혁신에 대한 내용이 담겨 있습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "Rules, states, and win conditions in video games: a guide",
     "translated_title": "비디오 게임의 규칙, 상태, 승리 조건: 가이드",
     "link": "https://unity.com/blog/video-game-rules-states-win-conditions",
@@ -621,21 +916,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "DeepMind’s AI Just Did The Impossible",
-    "translated_title": "딥마인드의 AI, 불가능을 해내다",
-    "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-    "date": "2026-11-12",
-    "summary": [
-      "딥마인드, AI 모델 AlphaProof Code 발표",
-      "AI가 코드의 형식 검증을 수행하는 혁신적인 연구"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "translated_title": "LLMON: LLM 네이티브 마크업 언어, 이제 Granite 4.1 3B 및 8B에서 지원",
     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -649,22 +929,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 4 Hydrogen",
-    "translated_title": "Gemini 4 Hydrogen 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "summary": [
-      "Gemini 4 Hydrogen이 공개되었습니다.",
-      "기술적인 혁신에 대한 내용이 담겨 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "Tripwire Interactive lays off workers after announcing new publishing initiative",
@@ -4360,265 +4624,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "translated_title": "LegalOn, 개발 속도 유지하며 Codex 비용 65% 절감",
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "date": "2026-10-08",
-    "summary": [
-      "LegalOn은 개발 속도를 유지하면서 Codex 일일 예상 비용을 65% 절감했습니다.",
-      "Astra, Sol, Luna를 작업에 맞춰 배치하고 예산을 전략적으로 관리했습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Disrupting AI-enabled “false front” operations",
-    "translated_title": "AI 활용 '가짜 전면' 공작 방해",
-    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-    "date": "2026-10-08",
-    "summary": [
-      "OpenAI는 AI를 이용한 두 개의 영향 공작을 방해했습니다.",
-      "이 공작들은 가짜 기자와 싱크탱크를 동원하여 지정학적 메시지를 퍼뜨렸습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Introducing Falcon ASR",
-    "translated_title": "Falcon ASR 소개",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "date": "2026-10-07",
-    "summary": [
-      "Falcon ASR은 음성 인식 기술입니다.",
-      "이 기술은 음성을 텍스트로 변환하는 데 사용됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "translated_title": "하나의 모델 패밀리로 두 개의 최고 수준 결과 달성: Nemotron을 IOI와 IMO에 미세 조정하기",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "date": "2026-10-07",
-    "summary": [
-      "Nemotron 모델 패밀리를 활용하여 IOI와 IMO 두 분야에서 최고 수준의 성과를 달성했습니다.",
-      "특정 태스크에 맞게 Nemotron 모델을 미세 조정하는 방법을 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Why we built Unity Spark",
-    "translated_title": "유니티 스파크를 개발한 이유",
-    "link": "https://unity.com/blog/why-we-built-unity-spark",
-    "date": "2026-10-07",
-    "summary": [
-      "Unity CEO Matt Bromberg가 Unity Spark를 소개합니다.",
-      "Unity 또는 게임 개발 경험 없이도 브라우저에서 게임을 만들고 공유할 수 있는 새로운 방법입니다."
-    ],
-    "tags": [
-      "News",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Multimodal open d1 decision models for the edge",
-    "translated_title": "엣지 디바이스를 위한 멀티모달 개방형 D1 의사결정 모델",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "date": "2026-10-07",
-    "summary": [
-      "엣지 디바이스에서 작동하는 멀티모달 AI 모델을 소개합니다.",
-      "이 모델은 개방형 D1 아키텍처를 기반으로 합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-    "translated_title": "스타워즈 제로 컴퍼니 개발사 Bit Reactor, 해고 직원 절반 이상 복귀시켜",
-    "link": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-    "date": "2026-10-07",
-    "summary": [
-      "Bit Reactor는 스타워즈 전술 게임 출시 전 직원 대다수를 해고했습니다.",
-      "현재 해고되었던 직원 절반 이상을 다시 고용하고 있습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-    "translated_title": "액티비전 블리자드 전 CEO 바비 코틱, 합병 후 스카이댄스 이사회 합류",
-    "link": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-    "date": "2026-10-07",
-    "summary": [
-      "파라마운트와 워너브라더스의 합병으로 새로운 회사 출범",
-      "바비 코틱, 신규 회사 이사회 멤버로 합류"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "translated_title": "청소년들의 AI 학습, 계획, 미래 설계를 돕는 방법",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "date": "2026-10-07",
-    "summary": [
-      "ChatGPT for Teens에 대학 플래너 기능 추가, 대학 지원 관리 도움",
-      "새로운 플래시카드, 퀴즈, 청소년 AI 위원회 운영 예정",
-      "청소년들의 AI 활용 능력 및 미래 설계 지원"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "DeepMind's New AI Just Cracked The Code Of Life",
-    "translated_title": "딥마인드의 새 AI, 생명의 코드를 해독하다",
-    "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-    "date": "2026-10-07",
-    "summary": [
-      "딥마인드가 인간 게놈의 가능한 모든 DNA 변화를 예측하는 '알파게놈 아틀라스'를 공개했습니다.",
-      "이는 생명의 코드를 이해하는 데 중요한 진전을 의미합니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
-    "translated_title": "일렉트로닉 아츠의 차입매수가 채권단과의 분쟁에 직면하다",
-    "link": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-    "date": "2026-10-07",
-    "summary": [
-      "일렉트로닉 아츠 인수 과정에서 많은 부채가 발생했습니다.",
-      "일부 채권자들이 더 많은 현금을 요구하고 있는 것으로 알려졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
-    "translated_title": "Unity, Google AI와 협력하여 프롬프트 기반 게임 개발 도구 'Unity Spark' 공개",
-    "link": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-    "date": "2026-10-07",
-    "summary": [
-      "Unity가 Google AI와 협력하여 새로운 프롬프트 기반 게임 개발 도구 'Unity Spark'를 출시했습니다.",
-      "Unity Spark는 텍스트 프롬프트를 통해 게임 개발을 지원하는 도구입니다."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "Unity",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "translated_title": "래디슨 호텔 그룹, 챗GPT로 호텔 검색 기능 도입",
-    "link": "https://openai.com/index/radisson",
-    "date": "2026-10-07",
-    "summary": [
-      "래디슨 호텔 그룹이 액센츄어와 협력하여 OpenAI 기술 기반 챗GPT 플러그인을 개발했습니다.",
-      "이 플러그인을 통해 여행객은 여행 계획 중 호텔 검색, 비교, 예약이 가능해집니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "translated_title": "GPT-6와 모두를 위한 지능형 UI",
-    "link": "https://openai.com/index/gpt-6-for-everyone",
-    "date": "2026-10-07",
-    "summary": [
-      "GPT-6가 ChatGPT에 지능형 UI와 함께 글로벌 출시됩니다.",
-      "더 빠른 응답 속도와 시각적, 인터랙티브 경험을 직접 탐색하고 사용할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "translated_title": "EmbeddingGemma 2: 개방형, 경량 멀티모달 임베딩 모델",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "date": "2026-10-06",
-    "summary": [
-      "EmbeddingGemma 2는 오픈소스 기반의 경량 멀티모달 임베딩 모델입니다.",
-      "이 모델은 텍스트와 이미지를 모두 이해하고 처리할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Google debuts new 'experimental' AI game platform named Google Playground",
-    "translated_title": "구글, AI 게임 플랫폼 '구글 플레이그라운드' 공개",
-    "link": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-    "date": "2026-10-06",
-    "summary": [
-      "구글이 새로운 AI 게임 플랫폼 '구글 플레이그라운드'를 선보였습니다.",
-      "이 플랫폼은 AI가 만든 게임을 즐길 수 있는 공간입니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "translated_title": "점프 트레이딩, ChatGPT로 퀀트 리서치를 확장하는 방법",
-    "link": "https://openai.com/index/jump-trading",
-    "date": "2026-10-06",
-    "summary": [
-      "점프 트레이딩은 OpenAI의 ChatGPT를 활용하여 퀀트 리서치를 확장하고 있습니다.",
-      "더 긴 실행 시간의 AI 워크플로우는 여러 데이터 소스와 인간의 검토를 결합합니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   }
 ];
