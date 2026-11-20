@@ -30,6 +30,128 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "DeepMind Just Released The Best Thing AI Ever Did",
+    "translated_title": "딥마인드가 AI 역사상 최고의 성과를 공개했습니다",
+    "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+    "date": "2026-11-19",
+    "summary": [
+      "딥마인드의 AlphaGenome 프로젝트는 DNA 해독 능력을 혁신적으로 향상시켰습니다.",
+      "이는 질병 이해 및 치료법 개발에 크게 기여할 것으로 기대됩니다.",
+      "관련 논문 및 창작자 인터뷰 영상 링크가 제공됩니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
+    "translated_title": "유비소프트, 캐나다 몬트리올 및 퀘벡 시티에서 166명 감축",
+    "link": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
+    "date": "2026-11-19",
+    "summary": [
+      "유비소프트가 캐나다 몬트리올과 퀘벡 시티 스튜디오에서 166명의 직원을 해고했습니다.",
+      "이번 감축은 캐나다 정부의 게임 개발 산업 지원을 받아왔던 주요 스튜디오에서 발생했습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Why greenlighting Dressmaker wasn't an easy decision to make",
+    "translated_title": "영화 '드레스메이커' 제작 승인이 쉽지 않았던 이유",
+    "link": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
+    "date": "2026-11-19",
+    "summary": [
+      "사전 제작 데이터는 '드레스메이커'가 관객을 찾기 어려울 것이라고 예측했습니다.",
+      "Free Lives는 이러한 예측을 뛰어넘어 성공적인 히트작을 만들었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "translated_title": "OpenAI의 퍼포먼스 팩토리가 ChatGPT를 빠르게 유지하는 방법",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "date": "2026-11-19",
+    "summary": [
+      "OpenAI가 ChatGPT의 성능 저하를 찾아 해결하는 '퍼포먼스 팩토리'를 구축했습니다.",
+      "Codex 기반 워크플로우 시스템을 활용하여 ChatGPT의 속도를 유지합니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "translated_title": "Daybreak Red 배포: 안전한 보안 조사 가이드",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "date": "2026-11-19",
+    "summary": [
+      "Daybreak Red를 활용한 지도 보안 조사 레퍼런스 아키텍처 소개",
+      "안전 제어, 설정 및 모니터링 방법 포함"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "See PR scans in action",
+    "translated_title": "PR 스캔 작동 모습 살펴보기",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "date": "2026-11-19",
+    "summary": [
+      "PR 스캔 워크플로우를 시연합니다.",
+      "PR에서 스캔 결과를 검토하는 방법을 보여줍니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Explore the Codex Security Plugin",
+    "translated_title": "Codex 보안 플러그인 알아보기",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "date": "2026-11-19",
+    "summary": [
+      "Codex 보안 플러그인 데모 시청",
+      "시작부터 결과 검토까지 워크플로우 확인"
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "translated_title": "Daybreak Blue 시작하기",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "date": "2026-11-19",
+    "summary": [
+      "Daybreak Blue 온보딩 과정 소개",
+      "설정 경험 및 시작 방법 심층 분석"
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "The inflection point: why mobile gaming is becoming essential to the digital advertising mix",
     "translated_title": "변곡점: 모바일 게임이 디지털 광고 믹스에 필수적인 이유",
     "link": "https://unity.com/blog/the-inflection-point-why-mobile-gaming-is-becoming-essential-to-the-digital-advertising-mix",
@@ -169,6 +291,36 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
+    "title": "Introducing Gemini 4 Neon",
+    "translated_title": "Gemini 4 Neon 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "summary": [
+      "Gemini 4 Neon 출시 발표",
+      "새로운 AI 모델 Gemini 4 Neon의 특징 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Genie 4 is now available",
+    "translated_title": "Genie 4 출시",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "date": "2026-11-18",
+    "summary": [
+      "Genie 4가 공식 출시되었습니다.",
+      "새로운 기능과 개선 사항을 확인해 보세요."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "The Silent Consensus",
     "translated_title": "조용한 합의",
     "link": "https://openai.com/index/the-silent-consensus",
@@ -247,53 +399,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Introducing Gemini 4 Neon",
-    "translated_title": "Gemini 4 Neon 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "date": "2026-11-18",
-    "summary": [
-      "Gemini 4 Neon 출시 발표",
-      "새로운 AI 모델 Gemini 4 Neon의 특징 소개"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Genie 4 is now available",
-    "translated_title": "Genie 4 출시",
-    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "date": "2026-11-18",
-    "summary": [
-      "Genie 4가 공식 출시되었습니다.",
-      "새로운 기능과 개선 사항을 확인해 보세요."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "\"Amazing stories come out of challenge and struggle and stakes\"",
-    "translated_title": "도전과 고난, 그리고 위기 속에서 탄생하는 놀라운 이야기들",
-    "link": "https://aigamechangers.substack.com/p/amazing-stories-come-out-of-challenge",
-    "date": "2026-11-17",
-    "summary": [
-      "AI Dungeon의 창시자 닉 월튼은 무한한 자유도만으로는 게임이 될 수 없다고 말합니다.",
-      "AI 게임즈의 신작 'Voyage'는 규칙, 지속적인 기억, 실제적인 위기를 더해 AI 스토리텔링에 구조를 부여합니다.",
-      "AI가 플레이어를 죽이도록 훈련시킨 이유와 AAA 스튜디오의 어려움에 대해 설명합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "AI",
-      "News"
-    ],
-    "source": "AI Gamechangers"
-  },
-  {
     "title": "The Unity CLI 1.0 is here!",
     "translated_title": "Unity CLI 1.0 출시!",
     "link": "https://unity.com/the-unity-cli-1.0-is-here",
@@ -357,6 +462,23 @@ const allArticlesData = [
       "AI"
     ],
     "source": "gamedeveloper"
+  },
+  {
+    "title": "\"Amazing stories come out of challenge and struggle and stakes\"",
+    "translated_title": "도전과 고난, 그리고 위기 속에서 탄생하는 놀라운 이야기들",
+    "link": "https://aigamechangers.substack.com/p/amazing-stories-come-out-of-challenge",
+    "date": "2026-11-17",
+    "summary": [
+      "AI Dungeon의 창시자 닉 월튼은 무한한 자유도만으로는 게임이 될 수 없다고 말합니다.",
+      "AI 게임즈의 신작 'Voyage'는 규칙, 지속적인 기억, 실제적인 위기를 더해 AI 스토리텔링에 구조를 부여합니다.",
+      "AI가 플레이어를 죽이도록 훈련시킨 이유와 AAA 스튜디오의 어려움에 대해 설명합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "News"
+    ],
+    "source": "AI Gamechangers"
   },
   {
     "title": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
@@ -4507,122 +4629,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "translated_title": "Asana, GPT-6.1 Sol 활용하여 브라우저 테스트에서 모델 비용 76배 절감",
-    "link": "https://openai.com/index/asana-browser-agent",
-    "date": "2026-10-09",
-    "summary": [
-      "Asana는 GPT-6 Astra와 Codex를 사용하여 브라우저 에이전트 비용을 76배 절감했습니다.",
-      "이번 개선으로 에이전트 속도가 5배 빨라졌으며, 고객에게 더 뛰어난 모델을 제공할 수 있게 되었습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
-    "translated_title": "에코 위버: 유니티 6로 구축하는 타임 루프 메트로이드배니아",
-    "link": "https://unity.com/blog/echo-weaver-time-loop-unity",
-    "date": "2026-10-08",
-    "summary": [
-      "Moonlight Kids가 유니티 6를 사용하여 타임 루프 메트로이드배니아 '에코 위버' 개발 과정을 설명합니다.",
-      "주요 기술로는 청크 스트리밍, 루프 리셋 아키텍처, 2D 최적화 팁 등이 있습니다."
-    ],
-    "tags": [
-      "Unity",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
-    "translated_title": "트럼프 행정부, 사기 혐의로 마이크로소프트의 그린카드 신청 자격 정지",
-    "link": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
-    "date": "2026-10-08",
-    "summary": [
-      "트럼프 행정부가 마이크로소프트의 H1-B 비자 신청 자격을 일시 중단했습니다.",
-      "이는 미국에서 일하러 오는 직원들을 위한 것으로, Xbox 채용에 차질을 빚을 수 있습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
-    "translated_title": "Xbox CEO, 게임과 연계된 사업 위한 'XP'라는 새로운 Xbox 부문 공개",
-    "link": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
-    "date": "2026-10-08",
-    "summary": [
-      "Xbox가 IP 중심 전략을 강화합니다.",
-      "새로운 'XP' 부문은 게임 외 IP 확장에 집중할 예정입니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "The model that didn't exist, so you made it yourself",
-    "translated_title": "존재하지 않는 모델, 직접 만들어 보기",
-    "link": "https://huggingface.co/blog/building-with-ml-intern",
-    "date": "2026-10-08",
-    "summary": [
-      "존재하지 않는 AI 모델을 직접 제작하는 과정에 대한 내용입니다.",
-      "개발자가 필요로 하는 모델을 스스로 구현하는 경험을 공유합니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "translated_title": "ChatGPT와 Codex로 오라클이 며칠 치 업무를 몇 분으로 단축하는 방법",
-    "link": "https://openai.com/index/oracle",
-    "date": "2026-10-08",
-    "summary": [
-      "오라클은 ChatGPT와 Codex를 활용하여 전문 지식을 신속하고 반복 가능한 워크플로우로 전환합니다.",
-      "채용, 엔지니어링, 운영 등 다양한 분야에서 업무 효율성을 극대화합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "translated_title": "Pollo AI, OpenAI 기반으로 창의적 아이디어를 캠페인으로 구현",
-    "link": "https://openai.com/index/pollo-ai",
-    "date": "2026-10-08",
-    "summary": [
-      "Pollo AI는 GPT-5.6, GPT-6 Astra, GPT‑Image‑2.5 등 OpenAI 모델을 활용합니다.",
-      "창작자가 대담한 아이디어를 상세한 이미지와 영상 광고로 전환하도록 돕습니다."
-    ],
-    "tags": [
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
-    "translated_title": "Denuvo, 해커 신원 파악 위해 디스코드, 밸브, 레딧에 소환장 발부 시도",
-    "link": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
-    "date": "2026-10-08",
-    "summary": [
-      "Denuvo, 지속적인 크랙 발생에 따라 해커 추적 나서",
-      "해커 신원 파악 위해 디스코드, 밸브, 레딧 등 플랫폼에 정보 요청"
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
   }
 ];
