@@ -30,6 +30,163 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026",
+    "translated_title": "3D가 현실 세계를 만나는 곳: Unity Industry Summit Munich 2026 주요 내용",
+    "link": "https://unity.com/blog/unity-industry-summit-munich-2026-recap",
+    "date": "2026-11-20",
+    "summary": [
+      "2026년 Unity 산업 서밋 뮌헨에서 Mazda, Lufthansa 등 고객 세션, F1 시뮬레이터, AI 에이전트, 로보틱스, 3D 데이터 관련 발표가 있었습니다.",
+      "총 13개의 데모 스테이션을 통해 다양한 산업 응용 사례를 선보였습니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "News"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Phone or computer? How to plan your video game controls",
+    "translated_title": "휴대폰 vs 컴퓨터: 게임 컨트롤 계획 방법",
+    "link": "https://unity.com/blog/video-game-controls-phone-or-computer",
+    "date": "2026-11-20",
+    "summary": [
+      "휴대폰과 컴퓨터 게임 컨트롤을 6단계로 계획합니다.",
+      "액션 매핑부터 실제 기기 테스트까지 포함됩니다.",
+      "Unity Spark 프롬프트 전에 완료하세요."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Grand Theft Auto VI is now the biggest video game launch in history",
+    "translated_title": "그랜드 테프트 오토 VI, 역사상 가장 큰 비디오 게임 출시 기록 경신",
+    "link": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+    "date": "2026-11-20",
+    "summary": [
+      "출시 당일 판매액 37억 9천만 달러 돌파",
+      "출시 전 3250만 장 판매 기록"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Ubisoft misses forecast and bets big on AI development",
+    "translated_title": "유비소프트, 실적 예측치 하회 및 AI 개발에 대규모 투자",
+    "link": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+    "date": "2026-11-20",
+    "summary": [
+      "유비소프트의 상반기 실적이 예측치를 밑돌았습니다.",
+      "하지만 포트폴리오 내 몇몇 긍정적인 성과도 있었습니다.",
+      "회사는 AI 개발에 상당한 투자를 진행할 계획입니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+    "translated_title": "컨트롤 레조넌트의 주인공은 '슬프고 축축한 남자'인가? ft. 미카엘 카슈리넨",
+    "link": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+    "date": "2026-11-20",
+    "summary": [
+      "컨트롤 레조넌트 개발 비하인드 스토리",
+      "도전적인 개발 결정 과정",
+      "미카엘 카슈리넨과의 대화"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "translated_title": "인클링 2 미니 출시: 로컬 환경을 위한 최첨단 성능",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "date": "2026-11-20",
+    "summary": [
+      "새로운 인클링 2 미니 모델 출시",
+      "로컬 환경에 최적화된 혁신적인 성능 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "translated_title": "하네스 어댑터 소개: 좋아하는 모델을 하네스에 맞춰 성능과 비용 개선",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "date": "2026-11-20",
+    "summary": [
+      "하네스 어댑터로 기존 모델을 원하는 하네스에 맞출 수 있습니다.",
+      "이를 통해 성능을 향상시키고 비용을 절감할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "translated_title": "적대적 증류 대응 방안",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "date": "2026-11-20",
+    "summary": [
+      "OpenAI는 모델 훈련, 안전 조치, 탐지, 시행을 결합한 다층적 접근 방식을 사용합니다.",
+      "이는 역량 추출로부터 모델을 보호하기 위함입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "translated_title": "Hebbia, GPT-6 Astra로 금융 연구 개선 확인",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "date": "2026-11-20",
+    "summary": [
+      "Hebbia가 금융 연구에 GPT-6 Astra를 테스트했습니다.",
+      "사전 출시 평가 결과, 소스 커버리지, 인용 관련성, 발표 품질에서 개선점을 발견했습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "translated_title": "AI, 유망 신약 후보 물질 발굴에 도움을 줄 수 있을까?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "date": "2026-11-20",
+    "summary": [
+      "MedChemBench는 AI 모델이 분자 구조를 해석하고, 실험적 증거를 바탕으로 추론하며, 초기 신약 개발에서 화합물을 선택하는 능력을 평가합니다.",
+      "이는 AI가 신약 개발 초기 단계에서 유망한 후보 물질을 식별하는 데 기여할 수 있는지 확인하는 연구입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "DeepMind Just Released The Best Thing AI Ever Did",
     "translated_title": "딥마인드가 AI 역사상 최고의 성과를 공개했습니다",
     "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
@@ -92,6 +249,21 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Explore the Codex Security Plugin",
+    "translated_title": "Codex 보안 플러그인 알아보기",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "date": "2026-11-19",
+    "summary": [
+      "Codex 보안 플러그인 데모 시청",
+      "시작부터 결과 검토까지 워크플로우 확인"
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Deploying Daybreak Red",
     "translated_title": "Daybreak Red 배포: 안전한 보안 조사 가이드",
     "link": "https://openai.com/business/learn/deploying-daybreak-red",
@@ -114,21 +286,6 @@ const allArticlesData = [
     "summary": [
       "PR 스캔 워크플로우를 시연합니다.",
       "PR에서 스캔 결과를 검토하는 방법을 보여줍니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Explore the Codex Security Plugin",
-    "translated_title": "Codex 보안 플러그인 알아보기",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "date": "2026-11-19",
-    "summary": [
-      "Codex 보안 플러그인 데모 시청",
-      "시작부터 결과 검토까지 워크플로우 확인"
     ],
     "tags": [
       "AI",
@@ -186,35 +343,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Clair Obscur: Expedition 33's narrative lead wants to change game funding",
-    "translated_title": "클레르 오브스퀴어: 익스페디션 33 내러티브 리드가 게임 펀딩 방식 변화를 원하다",
-    "link": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
-    "date": "2026-11-18",
-    "summary": [
-      "클레르 오브스퀴어의 내러티브 리드 제니퍼 스베드버그-옌이 다수의 상을 수상했습니다.",
-      "그녀는 게임 펀딩의 우선순위에 대한 인식을 바꾸고 싶어합니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly",
-    "translated_title": "플레이스테이션, 26억 달러 규모의 디지털 독점 소송에서 승소",
-    "link": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
-    "date": "2026-11-18",
-    "summary": [
-      "플레이스테이션은 영국에서 '과도하고 불공정한 가격'을 책정했다는 혐의로 26억 달러 규모의 소송에 직면했습니다.",
-      "이 소송은 기각되었으며 더 이상 진행되지 않습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "translated_title": "DaisyRose-27B: 후처리 효율성의 새로운 지평을 열다",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -261,36 +389,6 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "translated_title": "1800억 파라미터, 32GB RAM: 트랜스포머로 MoE 추론의 한계를 시험하다",
-    "link": "https://huggingface.co/blog/moe-expert-streaming",
-    "date": "2026-11-18",
-    "summary": [
-      "1800억 파라미터 규모의 MoE(Mixture of Experts) 모델 추론에 32GB RAM으로 도전합니다.",
-      "트랜스포머 아키텍처를 사용하여 MoE 추론의 성능 한계를 탐색하는 내용을 다룹니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "translated_title": "Rumble-2-Flash: 40개 이상 언어를 지원하는 개방형 0.5B 음성 모델",
-    "link": "https://huggingface.co/blog/rumble-2-flash",
-    "date": "2026-11-18",
-    "summary": [
-      "Rumble-2-Flash는 0.5B 매개변수를 가진 오픈 소스 음성 모델입니다.",
-      "40개 이상의 언어를 지원합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "Introducing Gemini 4 Neon",
     "translated_title": "Gemini 4 Neon 소개",
     "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -319,6 +417,65 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Clair Obscur: Expedition 33's narrative lead wants to change game funding",
+    "translated_title": "클레르 오브스퀴어: 익스페디션 33 내러티브 리드가 게임 펀딩 방식 변화를 원하다",
+    "link": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
+    "date": "2026-11-18",
+    "summary": [
+      "클레르 오브스퀴어의 내러티브 리드 제니퍼 스베드버그-옌이 다수의 상을 수상했습니다.",
+      "그녀는 게임 펀딩의 우선순위에 대한 인식을 바꾸고 싶어합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly",
+    "translated_title": "플레이스테이션, 26억 달러 규모의 디지털 독점 소송에서 승소",
+    "link": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+    "date": "2026-11-18",
+    "summary": [
+      "플레이스테이션은 영국에서 '과도하고 불공정한 가격'을 책정했다는 혐의로 26억 달러 규모의 소송에 직면했습니다.",
+      "이 소송은 기각되었으며 더 이상 진행되지 않습니다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "translated_title": "1800억 파라미터, 32GB RAM: 트랜스포머로 MoE 추론의 한계를 시험하다",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
+    "date": "2026-11-18",
+    "summary": [
+      "1800억 파라미터 규모의 MoE(Mixture of Experts) 모델 추론에 32GB RAM으로 도전합니다.",
+      "트랜스포머 아키텍처를 사용하여 MoE 추론의 성능 한계를 탐색하는 내용을 다룹니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "translated_title": "Rumble-2-Flash: 40개 이상 언어를 지원하는 개방형 0.5B 음성 모델",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "date": "2026-11-18",
+    "summary": [
+      "Rumble-2-Flash는 0.5B 매개변수를 가진 오픈 소스 음성 모델입니다.",
+      "40개 이상의 언어를 지원합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "The Silent Consensus",
@@ -416,21 +573,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Unite Tokyo 2026 Keynote recap: Built for the speed of your ideas",
-    "translated_title": "Unity Tokyo 2026 키노트 리뷰: 당신의 아이디어 속도에 맞춰 구축되었습니다",
-    "link": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
-    "date": "2026-11-17",
-    "summary": [
-      "Unity 7, ECS for All, Unity CLI 등 주요 업데이트 발표",
-      "Synty Studios의 Unity 합류 및 새로운 Unity Fellowship 소개"
-    ],
-    "tags": [
-      "News",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "OpenAI's New Breakthrough Is... Utter Chaos",
     "translated_title": "OpenAI의 새로운 돌파구는... 완전한 혼돈",
     "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
@@ -446,6 +588,21 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "Unite Tokyo 2026 Keynote recap: Built for the speed of your ideas",
+    "translated_title": "Unity Tokyo 2026 키노트 리뷰: 당신의 아이디어 속도에 맞춰 구축되었습니다",
+    "link": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
+    "date": "2026-11-17",
+    "summary": [
+      "Unity 7, ECS for All, Unity CLI 등 주요 업데이트 발표",
+      "Synty Studios의 Unity 합류 및 새로운 Unity Fellowship 소개"
+    ],
+    "tags": [
+      "News",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "European Game Worker unions publish manifesto warning against unchecked AI usage",
@@ -604,23 +761,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
-    "translated_title": "Synty Studios, Unity에 합류하여 아티스트 제작 에셋을 Unity Spark로 제공",
-    "link": "https://unity.com/blog/synty-studios-acquisition",
-    "date": "2026-11-16",
-    "summary": [
-      "Unity가 POLYGON 3D 에셋 팩 제작사 Synty Studios를 인수했습니다.",
-      "Synty의 에셋 라이브러리는 Unity Spark로 통합됩니다.",
-      "기존 Synty 에셋 팩 및 라이선스는 그대로 유지됩니다."
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "GameDev"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "$50K for Indie Devs",
     "translated_title": "인디 개발자를 위한 5만 달러 지원",
     "link": "https://www.youtube.com/shorts/XxXHuHExzyw",
@@ -636,6 +776,23 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark",
+    "translated_title": "Synty Studios, Unity에 합류하여 아티스트 제작 에셋을 Unity Spark로 제공",
+    "link": "https://unity.com/blog/synty-studios-acquisition",
+    "date": "2026-11-16",
+    "summary": [
+      "Unity가 POLYGON 3D 에셋 팩 제작사 Synty Studios를 인수했습니다.",
+      "Synty의 에셋 라이브러리는 Unity Spark로 통합됩니다.",
+      "기존 Synty 에셋 팩 및 라이선스는 그대로 유지됩니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
@@ -4479,155 +4636,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "translated_title": "로보틱스를 위한 Gemini 4 Argon",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "date": "2026-10-13",
-    "summary": [
-      "Gemini 4 Argon, 로보틱스 분야에서의 활용 방안 소개.",
-      "새로운 Gemini 모델이 로봇 제어 및 인지 능력 향상에 기여할 것으로 예상."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "translated_title": "Gemini 4 Argon: 가장 어려운 문제 해결을 위해 탄생했습니다",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "date": "2026-10-13",
-    "summary": [
-      "Gemini 4 Argon은 복잡한 문제를 해결하도록 설계되었습니다.",
-      "이 모델은 가장 어려운 과제에 대한 솔루션을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
-    "translated_title": "Owlchemy CEO: VR이 '카페 테스트'를 통과하지 못해 아직 신흥 시장인 이유",
-    "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
-    "date": "2026-10-13",
-    "summary": [
-      "VR 시장은 아직 대중에게 '카페 테스트'를 통과하지 못했기 때문에 신흥 시장으로 남아 있습니다.",
-      "일부 VR 기업들이 대중의 요구를 충족시키지 못해 해고가 빈번하게 발생하고 있습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "translated_title": "LFM2.5-24B-A2B로 빠르고 프라이빗한 온디바이스 에이전트 실행",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "date": "2026-10-13",
-    "summary": [
-      "LFM2.5-24B-A2B 모델을 사용하여 온디바이스에서 빠르고 프라이빗한 에이전트를 실행합니다.",
-      "사용자 데이터 프라이버시를 보호하며 즉각적인 반응성을 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "translated_title": "Higgsfield, AI 영상 제작 시간을 1분에서 10분 이상으로 확장",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "date": "2026-10-13",
-    "summary": [
-      "Higgsfield는 GPT-6 Astra를 통해 AI 영상 제작 시간을 1분에서 10분 이상으로 늘립니다.",
-      "GPT-Image-2.5로 정밀한 시각 효과를 구현하며, GPT-Live로 음성 기반 영상 제작 경로를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-    "translated_title": "유비소프트, 레인보우 식스 모바일 출시 7개월 만에 서비스 종료",
-    "link": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-    "date": "2026-10-09",
-    "summary": [
-      "레인보우 식스 모바일이 출시 7개월 만에 서비스를 종료합니다.",
-      "글로벌 출시는 올해 초에 이루어졌습니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
-    "translated_title": "유니티로 만든 오싹한 게임: 2026년 할로윈 추천 플레이리스트",
-    "link": "https://unity.com/blog/horror-games-made-with-unity-halloween-2026",
-    "date": "2026-10-09",
-    "summary": [
-      "2026년 유니티로 개발된 다양한 공포 게임을 소개합니다.",
-      "아늑한 뱀파이어 시뮬레이터부터 협동 공포 게임까지 포함됩니다.",
-      "추천 게임은 공포 수준에 따라 분류됩니다."
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-    "translated_title": "보도: 더블 파인 노조 결성 시도, 오해와 문화 충돌로 무산",
-    "link": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-    "date": "2026-10-09",
-    "summary": [
-      "더블 파인의 노조 결성 시도가 회사 문화와 충돌했습니다.",
-      "노조 자격 요건에 대한 문제가 회사 내부의 오랜 문화와 부딪혔습니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Impactful scheduling for GPU clusters",
-    "translated_title": "GPU 클러스터를 위한 영향력 있는 스케줄링",
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "date": "2026-10-09",
-    "summary": [
-      "GPU 클러스터에서 효율적인 자원 할당을 위한 스케줄링 기법을 설명합니다.",
-      "작업 성능 최적화를 위한 스케줄링의 중요성을 강조합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "translated_title": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
-    "link": "https://openai.com/index/sophos",
-    "date": "2026-10-09",
-    "summary": [
-      "Sophos는 OpenAI Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축했습니다.",
-      "MDR(관리형 탐지 및 대응) 사례의 52%를 자동화하면서도 인간의 감독을 유지합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
   }
 ];
