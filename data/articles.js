@@ -30,6 +30,39 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "AI for Game Dev + Black Friday: What’s Actually Worth It?",
+    "translated_title": "게임 개발을 위한 AI와 블랙프라이데이: 실제로 가치 있는 것은?",
+    "link": "https://www.youtube.com/watch?v=KO4iGGuWumQ",
+    "date": "2026-11-23",
+    "summary": [
+      "Unity 에셋 스토어 블랙프라이데이 세일 정보를 제공합니다.",
+      "Five-Headed Hydra, Ship of Theseus, Infinity PBR 등 게임 개발에 유용한 에셋 및 툴을 소개합니다.",
+      "AI 구매 의도 연구를 언급하며 게임 개발 분야에서의 AI 활용 가능성을 시사합니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "translated_title": "AI 모델의 발전 측정: 혼란도(Perplexity)와 미래 평가",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "date": "2026-11-22",
+    "summary": [
+      "혼란도(Perplexity)가 AI 모델의 발전 정도를 측정하는 방법.",
+      "혼란도를 통해 AI 기능 평가에 대한 공통된 접근 방식 마련 가능성.",
+      "AI 모델의 새로운 능력 평가에 대한 시사점."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026",
     "translated_title": "3D가 현실 세계를 만나는 곳: Unity Industry Summit Munich 2026 주요 내용",
     "link": "https://unity.com/blog/unity-industry-summit-munich-2026-recap",
@@ -4606,35 +4639,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "translated_title": "EU의 AI 다음 챕터: 에이전트 AI",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "date": "2026-10-14",
-    "summary": [
-      "EU 기업 및 중소기업에서 에이전트 AI 도입이 증가하고 있습니다.",
-      "에이전트 AI의 심층적 활용은 더 큰 가치를 창출할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "translated_title": "Gemini 4 Argon의 책임감 있고 안전한 개발",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "date": "2026-10-13",
-    "summary": [
-      "Gemini 4 Argon의 책임감 있는 개발에 초점을 맞춥니다.",
-      "안전성 확보를 위한 개발 과정에 대해 설명합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   }
 ];
