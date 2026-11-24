@@ -30,6 +30,102 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
+    "translated_title": "현실을 찢다: XREAL AURA의 하이퍼 바이저 기술",
+    "link": "https://unity.com/blog/hyper-visor-xreal-aura-physics-scenes",
+    "date": "2026-11-23",
+    "summary": [
+      "XREAL AURA의 하이퍼 바이저는 여러 Unity 물리 씬과 하나의 에너지 스트림을 사용합니다.",
+      "이를 통해 게임플레이, 메뉴, 일시 정지를 통합합니다.",
+      "Owlchemy Labs가 기술을 설명합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Real-time 3D with Unity Industry: What to vibe code with Unity CLI and when to rely on the foundational infrastructure",
+    "translated_title": "Unity 산업에서 실시간 3D: Unity CLI와 함께 코딩할 때와 기반 인프라에 의존해야 할 때",
+    "link": "https://unity.com/blog/ai-vibe-coding-vs-buying-managed-infrastructure",
+    "date": "2026-11-23",
+    "summary": [
+      "AI는 프로토타이핑 및 UI 개발에 도움을 줄 수 있습니다.",
+      "CAD, 보안, 확장성을 위해서는 관리형 Unity 인프라 구매를 고려해야 합니다."
+    ],
+    "tags": [
+      "AI",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Claude AI Solved The Secret Of Black Holes",
+    "translated_title": "클로드 AI, 블랙홀의 비밀을 풀다",
+    "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+    "date": "2026-11-23",
+    "summary": [
+      "클로드 AI가 블랙홀 물리학에 대한 새로운 연구 논문을 발표했습니다.",
+      "이 논문은 블랙홀의 특성과 거동에 대한 기존 이해를 확장할 수 있습니다.",
+      "연구 결과는 람다 GPU 클라우드와 관련 논문 링크를 통해 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation",
+    "translated_title": "엔비디아, 젠슨 황 CEO 복귀 결정",
+    "link": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
+    "date": "2026-11-23",
+    "summary": [
+      "엔비디아 이사회, 젠슨 황 CEO 직책 복귀시켜",
+      "그의 사임 후 2주도 채 되지 않아 결정",
+      "미국 정부 고위 관계자와의 협의 거쳐"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6",
+    "translated_title": "에픽게임즈, 언리얼 엔진 6에서 블루프린트 및 액터 게임플레이 프레임워크 지원 중단 예정",
+    "link": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+    "date": "2026-11-23",
+    "summary": [
+      "에픽게임즈가 언리얼 엔진 6에서 블루프린트와 액터 게임플레이 프레임워크를 더 이상 지원하지 않습니다.",
+      "기존에는 점진적으로 기능을 축소할 계획이었으나, 이제는 AI 기반 도구 지원을 우선시하여 해당 기능들이 완전히 제외되었습니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "AI"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
+    "translated_title": "EVE: Frontier에 사용된 고품질 앰비언트 오클루전 기법, 이제 개발자들도 활용 가능",
+    "link": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+    "date": "2026-11-23",
+    "summary": [
+      "Fenris Creations의 Daniel Isheden이 개발한 CORTAO 프로젝트가 EVE: Frontier에 적용되었습니다.",
+      "CORTAO는 게임 개발자들이 차기작에 고품질 앰비언트 오클루전 기법을 적용할 수 있도록 합니다."
+    ],
+    "tags": [
+      "GameDev",
+      "News",
+      "Research"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
     "title": "AI for Game Dev + Black Friday: What’s Actually Worth It?",
     "translated_title": "게임 개발을 위한 AI와 블랙프라이데이: 실제로 가치 있는 것은?",
     "link": "https://www.youtube.com/watch?v=KO4iGGuWumQ",
@@ -45,6 +141,129 @@ const allArticlesData = [
       "GameDev"
     ],
     "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "AI Can Build and Test Games. Can It Make Them Fun? | Black Friday Edition",
+    "translated_title": "AI가 게임을 만들고 테스트할 수 있다면, 재미까지 만들 수 있을까? | 블랙 프라이데이 에디션",
+    "link": "https://www.youtube.com/watch?v=XaOFN7MnfOk",
+    "date": "2026-11-23",
+    "summary": [
+      "Jason Weimann, Andrew (Infinity PBR), Chris Lucian이 Ship of Theseus의 AI 기반 플레이테스팅, 로컬 AI 모델, 게임 개발 도구에 대해 논의합니다.",
+      "AI의 게임 개발 및 테스트 능력에 초점을 맞추며, 특히 게임의 '재미' 요소를 AI가 구현할 수 있는지에 대한 질문을 던집니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "Can AI Playtest Your Game? | The Game Dev Show",
+    "translated_title": "AI가 게임을 플레이테스트할 수 있을까?",
+    "link": "https://www.youtube.com/watch?v=sx42YBFtBLo",
+    "date": "2026-11-23",
+    "summary": [
+      "\"Ship of Theseus\" 게임의 AI 지원 플레이테스트에 대해 논의합니다.",
+      "로컬 AI 모델과 게임 개발 도구를 활용한 AI 플레이테스트 방안을 다룹니다."
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Unity"
+    ],
+    "source": "Jason Weimann (GameDev)"
+  },
+  {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "translated_title": "로보트래킹: 실제 로봇 조작을 위한 포인트 추적",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "date": "2026-11-23",
+    "summary": [
+      "실제 로봇 조작을 위한 포인트 추적 시스템 '로보트래킹'을 소개합니다.",
+      "이 시스템은 정밀한 포인트 추적을 통해 로봇의 실시간 조작 능력을 향상시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "translated_title": "에이전트 기반 평가 구축 및 유지 관리 방법",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "date": "2026-11-23",
+    "summary": [
+      "에이전트 기반 평가 시스템을 효과적으로 구축하는 방법을 설명합니다.",
+      "시스템의 장기적인 성능 유지를 위한 관리 전략을 다룹니다."
+    ],
+    "tags": [
+      "AI",
+      "Tutorial"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "translated_title": "OpenAI와 Cisco, Shirudo 출시",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "date": "2026-11-23",
+    "summary": [
+      "OpenAI와 Cisco가 Shirudo를 공개했습니다.",
+      "Shirudo는 Linux용 오픈 소스 런타임입니다.",
+      "패치 배포 중 실행 중인 시스템 보호에 도움을 줍니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Connected intelligence for in-house legal",
+    "translated_title": "인하우스 법무팀을 위한 연결된 인텔리전스",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "date": "2026-11-23",
+    "summary": [
+      "AI를 활용하여 비즈니스 맥락을 연결하는 방법을 알아봅니다.",
+      "재사용 가능한 워크플로우를 구축하고 외부 로펌 활용도를 높입니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "translated_title": "Richpanel, 30일 만에 고객 지원 50% 자동화 지원",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "date": "2026-11-23",
+    "summary": [
+      "Richpanel은 GPT-6 Astra와 GPT-6.1 Sol을 활용하여 AI 지원 상담사에게 도구와 절차를 제공합니다.",
+      "AI 상담사의 대화는 GPT-6 Luna를 통해 이루어집니다.",
+      "이를 통해 30일 내 고객 지원의 50%를 자동화할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "translated_title": "에이전트와 형식 검증을 통한 더 빠른 양자 알고리즘 찾기",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23",
+    "summary": [
+      "양자 알고리즘 성능 향상을 위해 에이전트 팀과 형식 검증 기술 활용",
+      "핵융합 및 화학 분야의 양자 알고리즘 개선에 초점"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
   },
   {
     "title": "Perplexity and Intelligence",
@@ -127,22 +346,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
-    "translated_title": "컨트롤 레조넌트의 주인공은 '슬프고 축축한 남자'인가? ft. 미카엘 카슈리넨",
-    "link": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-    "date": "2026-11-20",
-    "summary": [
-      "컨트롤 레조넌트 개발 비하인드 스토리",
-      "도전적인 개발 결정 과정",
-      "미카엘 카슈리넨과의 대화"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "translated_title": "인클링 2 미니 출시: 로컬 환경을 위한 최첨단 성능",
     "link": "https://huggingface.co/blog/inkling2mini",
@@ -187,6 +390,22 @@ const allArticlesData = [
       "News"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+    "translated_title": "컨트롤 레조넌트의 주인공은 '슬프고 축축한 남자'인가? ft. 미카엘 카슈리넨",
+    "link": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+    "date": "2026-11-20",
+    "summary": [
+      "컨트롤 레조넌트 개발 비하인드 스토리",
+      "도전적인 개발 결정 과정",
+      "미카엘 카슈리넨과의 대화"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
   },
   {
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -358,24 +577,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "How to playtest your first video game",
-    "translated_title": "첫 비디오 게임 플레이테스트 하는 방법",
-    "link": "https://unity.com/blog/how-to-playtest-your-first-video-game",
-    "date": "2026-11-18",
-    "summary": [
-      "플레이테스트의 개념과 중요성 이해",
-      "플레이테스트 세션 운영 방법 학습",
-      "AI 활용 시 피드백 적용 방안 확인"
-    ],
-    "tags": [
-      "GameDev",
-      "AI",
-      "Unity",
-      "Tutorial"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "translated_title": "DaisyRose-27B: 후처리 효율성의 새로운 지평을 열다",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -383,37 +584,6 @@ const allArticlesData = [
     "summary": [
       "DaisyRose-27B 모델의 등장",
       "후처리 과정의 효율성 극대화"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "translated_title": "FLOPs 계산보다 파인튜닝이 더 오래 걸리는 이유",
-    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "date": "2026-11-18",
-    "summary": [
-      "GPU 메모리 부족",
-      "데이터 로딩 속도",
-      "컴퓨팅 오버헤드"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "translated_title": "스트림하우스에서의 시계열 모델: 새로운 지평과 활용 사례",
-    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "date": "2026-11-18",
-    "summary": [
-      "스트림하우스 환경에서 시계열 모델을 활용하는 새로운 접근 방식을 소개합니다.",
-      "다양한 분야에서의 시계열 모델 활용 사례를 탐구합니다."
     ],
     "tags": [
       "Research",
@@ -450,6 +620,55 @@ const allArticlesData = [
       "News"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "How to playtest your first video game",
+    "translated_title": "첫 비디오 게임 플레이테스트 하는 방법",
+    "link": "https://unity.com/blog/how-to-playtest-your-first-video-game",
+    "date": "2026-11-18",
+    "summary": [
+      "플레이테스트의 개념과 중요성 이해",
+      "플레이테스트 세션 운영 방법 학습",
+      "AI 활용 시 피드백 적용 방안 확인"
+    ],
+    "tags": [
+      "GameDev",
+      "AI",
+      "Unity",
+      "Tutorial"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "translated_title": "FLOPs 계산보다 파인튜닝이 더 오래 걸리는 이유",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "date": "2026-11-18",
+    "summary": [
+      "GPU 메모리 부족",
+      "데이터 로딩 속도",
+      "컴퓨팅 오버헤드"
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "translated_title": "스트림하우스에서의 시계열 모델: 새로운 지평과 활용 사례",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "date": "2026-11-18",
+    "summary": [
+      "스트림하우스 환경에서 시계열 모델을 활용하는 새로운 접근 방식을 소개합니다.",
+      "다양한 분야에서의 시계열 모델 활용 사례를 탐구합니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Clair Obscur: Expedition 33's narrative lead wants to change game funding",
@@ -589,23 +808,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "The Unity CLI 1.0 is here!",
-    "translated_title": "Unity CLI 1.0 출시!",
-    "link": "https://unity.com/the-unity-cli-1.0-is-here",
-    "date": "2026-11-17",
-    "summary": [
-      "Unity CLI 1.0이 베타에서 정식 출시되었습니다.",
-      "Claude Code, Codex, Grok Build, Antigravity와 연동하여 빌드 및 테스트 자동화가 가능합니다.",
-      "터미널에서 Unity 프로젝트를 관리할 수 있습니다."
-    ],
-    "tags": [
-      "Unity",
-      "News",
-      "AI"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "OpenAI's New Breakthrough Is... Utter Chaos",
     "translated_title": "OpenAI의 새로운 돌파구는... 완전한 혼돈",
     "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
@@ -621,6 +823,23 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Two Minute Papers"
+  },
+  {
+    "title": "The Unity CLI 1.0 is here!",
+    "translated_title": "Unity CLI 1.0 출시!",
+    "link": "https://unity.com/the-unity-cli-1.0-is-here",
+    "date": "2026-11-17",
+    "summary": [
+      "Unity CLI 1.0이 베타에서 정식 출시되었습니다.",
+      "Claude Code, Codex, Grok Build, Antigravity와 연동하여 빌드 및 테스트 자동화가 가능합니다.",
+      "터미널에서 Unity 프로젝트를 관리할 수 있습니다."
+    ],
+    "tags": [
+      "Unity",
+      "News",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Unite Tokyo 2026 Keynote recap: Built for the speed of your ideas",
@@ -4422,222 +4641,5 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Apertus 1.5 Release Notes",
-    "translated_title": "Apertus 1.5 릴리스 노트",
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "date": "2026-10-15",
-    "summary": [
-      "Apertus 1.5 버전 출시",
-      "주요 변경 사항 및 기능 업데이트"
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "translated_title": "GPT-Rosalind, 학술 연구실에 도입",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "date": "2026-10-15",
-    "summary": [
-      "Rosalind Academic Plan을 소개합니다.",
-      "자격 있는 학술 연구실에 GPT-Rosalind를 지원합니다.",
-      "생명 과학 연구 발전을 위한 도구를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "translated_title": "Meta의 오픈 가중치 프론티어 멀티모달 Mixture-of-Experts 모델, Muse Spark Open 출시",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "date": "2026-10-15",
-    "summary": [
-      "Meta에서 Muse Spark Open이라는 새로운 모델을 공개했습니다.",
-      "이 모델은 오픈 가중치 방식의 멀티모달 Mixture-of-Experts(MoE) 아키텍처를 사용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "translated_title": "Diffusers에서 FLUX.3 이미지 Klein을 환영합니다",
-    "link": "https://huggingface.co/blog/flux-3",
-    "date": "2026-10-15",
-    "summary": [
-      "Diffusers 라이브러리에 FLUX.3 이미지 Klein이 추가되었습니다.",
-      "이 업데이트는 이미지 생성 기능을 향상시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "translated_title": "질문을 통해 생각하고 배우도록 학생들을 가르치기",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "date": "2026-10-15",
-    "summary": [
-      "AI for Educators를 통해 교사들의 날을 기념하세요 (브라질 포르투갈어).",
-      "Study Mode가 교사들의 능동적이고 단계별 학습 지원에 어떻게 도움이 되는지 알아보세요."
-    ],
-    "tags": [
-      "AI",
-      "Tutorial"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "translated_title": "설리번앤크롬웰, 계약 검토에 법률 전문성 도입",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "date": "2026-10-15",
-    "summary": [
-      "설리번앤크롬웰이 OpenAI와 협력하여 계약 분석 AI 도구 'Agreement Analyzer'를 개발했습니다.",
-      "이 도구는 초안 계약서의 문제점을 식별하는 데 사용됩니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
-    "translated_title": "유비소프트, Trials 스튜디오 RedLynx 폐쇄 및 싱가포르 스튜디오 규모 축소",
-    "link": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
-    "date": "2026-10-14",
-    "summary": [
-      "유비소프트가 Trials 시리즈 개발사 RedLynx를 폐쇄합니다.",
-      "싱가포르 유비소프트 스튜디오의 규모도 축소될 예정입니다.",
-      "두 스튜디오에서 총 120명 이상의 일자리가 영향을 받습니다."
-    ],
-    "tags": [
-      "News",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development",
-    "translated_title": "손코딩은 옛말? 에픽 게임즈, 디즈니 프로젝트 'AI 우선' 개발로 전환 보도",
-    "link": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
-    "date": "2026-10-14",
-    "summary": [
-      "에픽 게임즈의 신규 스타워즈/마블 슈터 개발에서 AI 활용 비중 확대 지시.",
-      "특히 코드 및 아트 제작에 AI를 적극 활용할 것으로 알려짐."
-    ],
-    "tags": [
-      "News",
-      "AI",
-      "GameDev"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "translated_title": "구글 딥마인드, 싱가포르 정부와 협력하여 시민 대상 사기 방지 AI 도구 공개",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "date": "2026-10-14",
-    "summary": [
-      "구글 딥마인드와 싱가포르 정부가 새로운 AI 도구를 발표했습니다.",
-      "이 도구는 온디바이스 Gemma 모델을 사용하여 대화형 사기를 실시간으로 차단합니다.",
-      "클라우드 데이터 유출 없이 개인정보를 안전하게 보호합니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "translated_title": "HiRO-ACEv2: 3km 해상도로 극심한 날씨를 저렴하게 시뮬레이션",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "date": "2026-10-14",
-    "summary": [
-      "HiRO-ACEv2는 3km 해상도로 극심한 날씨를 시뮬레이션합니다.",
-      "기존 방식보다 훨씬 저렴한 비용으로 높은 해상도의 시뮬레이션이 가능합니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "translated_title": "Amp, OpenAI 모델을 활용해 AI 에이전트를 코드를 넘어 활용하다",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "date": "2026-10-14",
-    "summary": [
-      "Amp는 GPT-6 Astra, Ultrafast, GPT-Live-1, Sign in with ChatGPT 등 OpenAI 모델을 사용하여 AI 에이전트의 활용 범위를 넓힙니다.",
-      "코드 작성 외에도 AI 에이전트의 새로운 가능성을 탐구합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "translated_title": "SentinelOne, 멀웨어 분석 시간 수 주에서 수 시간으로 단축",
-    "link": "https://openai.com/index/sentinelone",
-    "date": "2026-10-14",
-    "summary": [
-      "SentinelOne이 OpenAI Daybreak를 활용하여 멀웨어 분석 시간을 획기적으로 단축했습니다.",
-      "이를 통해 위협 조사 역량을 강화할 수 있게 되었습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "translated_title": "Third Moment Research, GPT-6 기반 에이전트 10,000개로 36시간 이상 운영하는 방법",
-    "link": "https://openai.com/index/third-moment-research",
-    "date": "2026-10-14",
-    "summary": [
-      "GPT-6 Astra, GPT-6.1 Sol, Codex, Daybreak 등 AI 모델 활용",
-      "사이버 보안 분야에 특화된 에이전트 개발",
-      "장시간 집중 및 사용 통한 성능 향상"
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "translated_title": "Block, OpenAI 기술로 AI 기반 보안 구축",
-    "link": "https://openai.com/index/block-ai-powered-security",
-    "date": "2026-10-14",
-    "summary": [
-      "Block은 OpenAI 기술을 활용해 AI 기반 보안을 구축하고 있습니다.",
-      "이를 통해 보안팀은 위협 조사 시간을 단축하고 수 분 내에 패치를 제안할 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
   }
 ];
