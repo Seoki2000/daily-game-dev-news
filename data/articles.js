@@ -30,6 +30,137 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Is your data telling you the whole story?",
+    "translated_title": "데이터가 온전한 이야기를 들려주고 있나요?",
+    "link": "https://unity.com/blog/data-fragmentation-ua-monetization-unity-vector",
+    "date": "2026-11-24",
+    "summary": [
+      "데이터 조각화로 인해 완전한 사용자 파악이 어렵습니다.",
+      "UA 및 수익화 팀이 겪는 문제와 Unity Vector 연결 시 필요한 신호(MMP, GA, IAP)를 다룹니다."
+    ],
+    "tags": [
+      "Unity",
+      "GameDev"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "How Unimora is inspiring the next generation of aged care professionals through VR, built with Unity",
+    "translated_title": "유니티로 구현된 유니모라, VR을 통해 차세대 요양 전문가를 양성하다",
+    "link": "https://unity.com/blog/unimora-vr-care-careers",
+    "date": "2026-11-24",
+    "summary": [
+      "유니티로 개발된 유니모라는 VR을 통해 학생들이 요양 서비스의 양측을 경험하게 합니다.",
+      "이를 통해 요양 분야 커리어에 대한 영감을 불어넣습니다.",
+      "유니티 포 휴머니티 2026 명예로운 언급을 받았습니다."
+    ],
+    "tags": [
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
+    "translated_title": "의견: GTA 6와 월드 오브 워크래프트: 영원함이 보여주는 '평범함의 시대'",
+    "link": "https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment",
+    "date": "2026-11-24",
+    "summary": [
+      "GTA 6와 월드 오브 워크래프트: 영원함 같은 올해의 대작들이 평범함과 지루함 역시 매력적일 수 있음을 보여준다.",
+      "단순한 일상과 잠시의 휴식도 게임 플레이에서 중요한 역할을 할 수 있다.",
+      "이는 '던전 앤 드래곤'과 같은 극적인 요소만큼이나 중요한 게임 경험으로 자리 잡고 있다."
+    ],
+    "tags": [
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "translated_title": "마이크로덕 장애물 회피: Isaac Lab 및 Newton을 활용한 Sim2Real 워크플로우",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "date": "2026-11-24",
+    "summary": [
+      "Isaac Lab과 Newton을 사용하여 마이크로덕의 장애물 회피 시뮬레이션 환경을 구축합니다.",
+      "실제 환경에서의 성능을 예측하고 개선하기 위한 Sim2Real 워크플로우를 제시합니다."
+    ],
+    "tags": [
+      "Research",
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "translated_title": "GPT-6 모델, 내재적 단백질 설계 능력 시연",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "date": "2026-11-24",
+    "summary": [
+      "GPT-6 모델은 추론과 코드를 활용하여 단백질 구조와 서열을 설계합니다.",
+      "실험 결과 5가지 표적에 대한 결합 증거가 발견되었습니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "translated_title": "Searching for distant planets with Astra",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "date": "2026-11-24",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "translated_title": "Intentful, 점(dot)을 활용하여 성장 시간을 확보하는 방법",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "date": "2026-11-24",
+    "summary": [
+      "Intentful의 'dot Aria'는 웹사이트 리서치 및 제안서 작성을 돕습니다.",
+      "또한 메시지를 미리 확인하고 문제를 해결하여 업무 효율성을 높입니다."
+    ],
+    "tags": [
+      "Research",
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "translated_title": "iFood, 15,000개 이상의 저장소에서 코딩 에이전트를 확장하는 방법",
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "date": "2026-11-24",
+    "summary": [
+      "iFood는 15,000개 이상의 저장소에서 코딩 에이전트를 성공적으로 확장하는 방법을 공유합니다.",
+      "이 기술은 대규모 코드베이스 관리 및 개발 효율성 향상에 기여합니다."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "translated_title": "Clay helps sales teams win with Codex and ChatGPT",
+    "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "date": "2026-11-24",
+    "summary": [
+      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+    ],
+    "tags": [
+      "AI"
+    ],
+    "source": "OpenAI News"
+  },
+  {
     "title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
     "translated_title": "현실을 찢다: XREAL AURA의 하이퍼 바이저 기술",
     "link": "https://unity.com/blog/hyper-visor-xreal-aura-physics-scenes",
@@ -57,6 +188,22 @@ const allArticlesData = [
     "tags": [
       "AI",
       "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Access Asset Store and AI Generators using the Unity CLI",
+    "translated_title": "Unity CLI로 에셋 스토어 및 AI 생성기 액세스하기",
+    "link": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
+    "date": "2026-11-23",
+    "summary": [
+      "Unity CLI를 사용하여 에셋 스토어 검색 및 프리팹 가져오기",
+      "60개 이상의 AI 모델로 누락된 에셋 생성 가능"
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "AI"
     ],
     "source": "Unity Blog RSS Feed"
   },
@@ -143,22 +290,6 @@ const allArticlesData = [
     "source": "Jason Weimann (GameDev)"
   },
   {
-    "title": "AI Can Build and Test Games. Can It Make Them Fun? | Black Friday Edition",
-    "translated_title": "AI가 게임을 만들고 테스트할 수 있다면, 재미까지 만들 수 있을까? | 블랙 프라이데이 에디션",
-    "link": "https://www.youtube.com/watch?v=XaOFN7MnfOk",
-    "date": "2026-11-23",
-    "summary": [
-      "Jason Weimann, Andrew (Infinity PBR), Chris Lucian이 Ship of Theseus의 AI 기반 플레이테스팅, 로컬 AI 모델, 게임 개발 도구에 대해 논의합니다.",
-      "AI의 게임 개발 및 테스트 능력에 초점을 맞추며, 특히 게임의 '재미' 요소를 AI가 구현할 수 있는지에 대한 질문을 던집니다."
-    ],
-    "tags": [
-      "AI",
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Jason Weimann (GameDev)"
-  },
-  {
     "title": "Can AI Playtest Your Game? | The Game Dev Show",
     "translated_title": "AI가 게임을 플레이테스트할 수 있을까?",
     "link": "https://www.youtube.com/watch?v=sx42YBFtBLo",
@@ -203,6 +334,37 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "translated_title": "에이전트와 형식 검증을 통한 더 빠른 양자 알고리즘 찾기",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23",
+    "summary": [
+      "양자 알고리즘 성능 향상을 위해 에이전트 팀과 형식 검증 기술 활용",
+      "핵융합 및 화학 분야의 양자 알고리즘 개선에 초점"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "AI Can Build and Test Games. Can It Make Them Fun? | Black Friday Edition",
+    "translated_title": "AI가 게임을 만들고 테스트할 수 있다면, 재미까지 만들 수 있을까? | 블랙 프라이데이 에디션",
+    "link": "https://www.youtube.com/watch?v=XaOFN7MnfOk",
+    "date": "2026-11-23",
+    "summary": [
+      "Jason Weimann, Andrew (Infinity PBR), Chris Lucian이 Ship of Theseus의 AI 기반 플레이테스팅, 로컬 AI 모델, 게임 개발 도구에 대해 논의합니다.",
+      "AI의 게임 개발 및 테스트 능력에 초점을 맞추며, 특히 게임의 '재미' 요소를 AI가 구현할 수 있는지에 대한 질문을 던집니다."
+    ],
+    "tags": [
+      "AI",
+      "GameDev",
+      "Unity"
+    ],
+    "source": "Jason Weimann (GameDev)"
   },
   {
     "title": "OpenAI and Cisco introduce Shirudo",
@@ -251,21 +413,6 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
-    "title": "Finding faster quantum algorithms with agents and formal verification",
-    "translated_title": "에이전트와 형식 검증을 통한 더 빠른 양자 알고리즘 찾기",
-    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "date": "2026-11-23",
-    "summary": [
-      "양자 알고리즘 성능 향상을 위해 에이전트 팀과 형식 검증 기술 활용",
-      "핵융합 및 화학 분야의 양자 알고리즘 개선에 초점"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
     "title": "Perplexity and Intelligence",
     "translated_title": "AI 모델의 발전 측정: 혼란도(Perplexity)와 미래 평가",
     "link": "https://openai.com/index/perplexity-and-intelligence",
@@ -280,6 +427,51 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "Grand Theft Auto VI is now the biggest video game launch in history",
+    "translated_title": "그랜드 테프트 오토 VI, 역사상 가장 큰 비디오 게임 출시 기록 경신",
+    "link": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+    "date": "2026-11-20",
+    "summary": [
+      "출시 당일 판매액 37억 9천만 달러 돌파",
+      "출시 전 3250만 장 판매 기록"
+    ],
+    "tags": [
+      "GameDev",
+      "News"
+    ],
+    "source": "gamedeveloper"
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "translated_title": "인클링 2 미니 출시: 로컬 환경을 위한 최첨단 성능",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "date": "2026-11-20",
+    "summary": [
+      "새로운 인클링 2 미니 모델 출시",
+      "로컬 환경에 최적화된 혁신적인 성능 제공"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "translated_title": "하네스 어댑터 소개: 좋아하는 모델을 하네스에 맞춰 성능과 비용 개선",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "date": "2026-11-20",
+    "summary": [
+      "하네스 어댑터로 기존 모델을 원하는 하네스에 맞출 수 있습니다.",
+      "이를 통해 성능을 향상시키고 비용을 절감할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026",
@@ -315,21 +507,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Grand Theft Auto VI is now the biggest video game launch in history",
-    "translated_title": "그랜드 테프트 오토 VI, 역사상 가장 큰 비디오 게임 출시 기록 경신",
-    "link": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
-    "date": "2026-11-20",
-    "summary": [
-      "출시 당일 판매액 37억 9천만 달러 돌파",
-      "출시 전 3250만 장 판매 기록"
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
     "title": "Ubisoft misses forecast and bets big on AI development",
     "translated_title": "유비소프트, 실적 예측치 하회 및 AI 개발에 대규모 투자",
     "link": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
@@ -344,36 +521,6 @@ const allArticlesData = [
       "News"
     ],
     "source": "gamedeveloper"
-  },
-  {
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "translated_title": "인클링 2 미니 출시: 로컬 환경을 위한 최첨단 성능",
-    "link": "https://huggingface.co/blog/inkling2mini",
-    "date": "2026-11-20",
-    "summary": [
-      "새로운 인클링 2 미니 모델 출시",
-      "로컬 환경에 최적화된 혁신적인 성능 제공"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "translated_title": "하네스 어댑터 소개: 좋아하는 모델을 하네스에 맞춰 성능과 비용 개선",
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "date": "2026-11-20",
-    "summary": [
-      "하네스 어댑터로 기존 모델을 원하는 하네스에 맞출 수 있습니다.",
-      "이를 통해 성능을 향상시키고 비용을 절감할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Hugging Face - Blog"
   },
   {
     "title": "Combatting adversarial distillation",
@@ -561,6 +708,36 @@ const allArticlesData = [
     "source": "OpenAI News"
   },
   {
+    "title": "Introducing Gemini 4 Neon",
+    "translated_title": "Gemini 4 Neon 소개",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "summary": [
+      "Gemini 4 Neon 출시 발표",
+      "새로운 AI 모델 Gemini 4 Neon의 특징 소개"
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Genie 4 is now available",
+    "translated_title": "Genie 4 출시",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "date": "2026-11-18",
+    "summary": [
+      "Genie 4가 공식 출시되었습니다.",
+      "새로운 기능과 개선 사항을 확인해 보세요."
+    ],
+    "tags": [
+      "AI",
+      "News"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
     "title": "The inflection point: why mobile gaming is becoming essential to the digital advertising mix",
     "translated_title": "변곡점: 모바일 게임이 디지털 광고 믹스에 필수적인 이유",
     "link": "https://unity.com/blog/the-inflection-point-why-mobile-gaming-is-becoming-essential-to-the-digital-advertising-mix",
@@ -590,36 +767,6 @@ const allArticlesData = [
       "AI"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Introducing Gemini 4 Neon",
-    "translated_title": "Gemini 4 Neon 소개",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "date": "2026-11-18",
-    "summary": [
-      "Gemini 4 Neon 출시 발표",
-      "새로운 AI 모델 Gemini 4 Neon의 특징 소개"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Genie 4 is now available",
-    "translated_title": "Genie 4 출시",
-    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "date": "2026-11-18",
-    "summary": [
-      "Genie 4가 공식 출시되었습니다.",
-      "새로운 기능과 개선 사항을 확인해 보세요."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "How to playtest your first video game",
@@ -4486,158 +4633,6 @@ const allArticlesData = [
     ],
     "tags": [
       "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Stop Fighting AI",
-    "translated_title": "AI와 싸우지 마세요",
-    "link": "https://www.youtube.com/watch?v=YY28vCh2Wc0",
-    "date": "2026-10-18",
-    "summary": [
-      "AI 도구를 실제 작업에 적용하고, 변경 사항을 검토하며, 결과를 테스트하는 것이 중요합니다.",
-      "AI는 유용하지만, 직업 상실에 대한 우려는 정당하며, 개인은 계속 학습하고 기본기를 다져야 합니다.",
-      "AI를 활용하여 흥미로운 게임을 만들고 자신의 능력을 보여주는 것이 중요합니다."
-    ],
-    "tags": [
-      "Unity",
-      "AI",
-      "GameDev"
-    ],
-    "source": "Jason Weimann (GameDev)"
-  },
-  {
-    "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
-    "translated_title": "Soft Crunch Games, Foxy Dumplings를 모든 플랫폼용으로 구축한 방법",
-    "link": "https://unity.com/blog/foxy-dumplings-cross-platform-development",
-    "date": "2026-10-16",
-    "summary": [
-      "하나의 Unity 프로젝트로 PC, 콘솔, 모바일에 Foxy Dumplings 출시",
-      "플랫폼 추상화, 입력, 프로파일링, 클라우드 세이브 다룸"
-    ],
-    "tags": [
-      "GameDev",
-      "Unity"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "translated_title": "이타우, 모든 고객을 위한 생성형 AI 구축 방법",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "date": "2026-10-16",
-    "summary": [
-      "이타우는 ia.i(대화형 인터페이스)와 IARA 거버넌스 플랫폼을 통해 AI 퍼스트 전략을 적용하고 있습니다.",
-      "이 전략은 브라질의 규제가 엄격한 금융 부문에서 고객과 직원 모두를 대상으로 합니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "translated_title": "인디 사전 학습 확장: 2.8조 토큰 및 오픈 데이터 생성 파이프라인",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "date": "2026-10-16",
-    "summary": [
-      "2.8조 개의 토큰으로 Indic 언어 사전 학습 모델을 확장했습니다.",
-      "연구진은 오픈소스 데이터 생성 파이프라인을 공개했습니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "translated_title": "Beam을 환영합니다: 소유, 맞춤 설정, 확장이 가능한 501B 오픈 모델",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "date": "2026-10-16",
-    "summary": [
-      "Beam은 501B 규모의 오픈 모델입니다.",
-      "사용자는 Beam을 소유하고, 맞춤 설정하며, 확장할 수 있습니다."
-    ],
-    "tags": [
-      "Research",
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "translated_title": "Benefit Street Partners, Codex로 질문에 더 빠르게 답변",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "date": "2026-10-16",
-    "summary": [
-      "Anant Kumar는 Codex를 코드 검토 및 신속한 후속 조치에 사용하여 대출 가치 비교 및 신용 계약 분석 도구를 구축합니다.",
-      "Codex는 Benefit Street Partners의 질문 응답 속도를 향상시키는 데 기여합니다."
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "translated_title": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "date": "2026-10-16",
-    "summary": [
-      "Stack Overflow for Agents는 Codex를 사용하여 몇 주 만에 개발되었습니다.",
-      "ChatGPT 플러그인이 출시되어 에이전트 생성 수가 최대 10배 증가하는 데 기여했습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "translated_title": "Google Antigravity로 항균 펩타이드 탐색 가속화",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "date": "2026-10-15",
-    "summary": [
-      "Google Antigravity for Science를 활용하여 새로운 항균 펩타이드 탐색 속도를 높입니다.",
-      "항균 펩타이드 연구에 Google Antigravity의 혁신적인 기술을 적용합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
-  },
-  {
-    "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
-    "translated_title": "Caves of Qud: Diaspora, 스팀 최초 얼리 액세스 DLC 출시로 새로운 지평을 열다",
-    "link": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-    "date": "2026-10-15",
-    "summary": [
-      "'Caves of Qud'의 신규 DLC 'Diaspora'가 스팀 얼리 액세스로 출시됩니다.",
-      "이는 스팀 얼리 액세스 프로그램 최초의 DLC 얼리 액세스 출시입니다.",
-      "본편 게임은 더 이상 얼리 액세스 상태가 아닙니다."
-    ],
-    "tags": [
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "translated_title": "Granite Switch 4.1: 하나의 엔드포인트에서 대화, 결정, 음성 지원",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "date": "2026-10-15",
-    "summary": [
-      "Granite Switch 4.1은 단일 엔드포인트에서 대화, 의사 결정, 음성 기능을 통합 제공합니다.",
-      "이 기술은 통합된 AI 경험을 가능하게 합니다."
-    ],
-    "tags": [
       "AI"
     ],
     "source": "Hugging Face - Blog"
