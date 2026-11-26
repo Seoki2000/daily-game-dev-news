@@ -30,6 +30,83 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "translated_title": "Nemotron 3.5 파싱: 오픈 데이터, 파인튜닝, 그리고 더 빠른 추론",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "date": "2026-11-26",
+    "summary": [
+      "Nemotron 3.5 모델 파싱에 대한 내용입니다.",
+      "오픈 데이터 활용, 모델 파인튜닝, 추론 속도 향상에 초점을 맞춥니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+    "translated_title": "Claude AI의 가장 큰 수학적 돌파구에 문제가 있다.",
+    "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
+    "date": "2026-11-25",
+    "summary": [
+      "Claude AI가 수학 분야에서 중대한 돌파구를 달성했다고 발표했으나, 해당 내용에 대한 검증 과정에서 문제가 발견되었습니다.",
+      "본 영상에서는 해당 문제점과 함께 관련 논문 및 추가 정보를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
+    "title": "Where scientists draw the line on AI agents",
+    "translated_title": "과학자들이 AI 에이전트의 한계를 어디에 긋는가",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "date": "2026-11-25",
+    "summary": [
+      "AI 에이전트의 능력과 자율성에 대한 과학계의 논의를 다룹니다.",
+      "AI 에이전트의 발전이 가져오는 윤리적, 기술적 경계선을 탐구합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "translated_title": "CUGA를 이용한 인도계 음성 에이전트",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "date": "2026-11-25",
+    "summary": [
+      "CUGA 기술을 활용하여 인도 악센트의 음성 에이전트를 개발했습니다.",
+      "이 프로젝트는 언어 모델과 음성 합성 기술을 통합합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "translated_title": "RTX PRO 6000에서 Inkling 2 Mini 힐클라이밍 모델 추론",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "date": "2026-11-25",
+    "summary": [
+      "RTX PRO 6000 그래픽 카드를 사용하여 Inkling 2 Mini 모델의 힐클라이밍 추론을 수행합니다.",
+      "토큰/시간 절약을 위해 내용 길이가 제한되어 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Is your data telling you the whole story?",
     "translated_title": "데이터가 온전한 이야기를 들려주고 있나요?",
     "link": "https://unity.com/blog/data-fragmentation-ua-monetization-unity-vector",
@@ -75,22 +152,6 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "translated_title": "마이크로덕 장애물 회피: Isaac Lab 및 Newton을 활용한 Sim2Real 워크플로우",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "date": "2026-11-24",
-    "summary": [
-      "Isaac Lab과 Newton을 사용하여 마이크로덕의 장애물 회피 시뮬레이션 환경을 구축합니다.",
-      "실제 환경에서의 성능을 예측하고 개선하기 위한 Sim2Real 워크플로우를 제시합니다."
-    ],
-    "tags": [
-      "Research",
-      "Tutorial",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
     "translated_title": "GPT-6 모델, 내재적 단백질 설계 능력 시연",
     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -107,14 +168,16 @@ const allArticlesData = [
   },
   {
     "title": "Searching for distant planets with Astra",
-    "translated_title": "Searching for distant planets with Astra",
+    "translated_title": "Astra로 멀리 떨어진 행성 탐색하기",
     "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
     "date": "2026-11-24",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "두 명의 아마추어 천문가들이 Codex와 Astra를 활용했습니다.",
+      "NASA의 Kepler 및 TESS 우주 망원경 공개 데이터를 사용하여 외계 행성 후보를 찾았습니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Research"
     ],
     "source": "OpenAI News"
   },
@@ -149,16 +212,50 @@ const allArticlesData = [
   },
   {
     "title": "Clay helps sales teams win with Codex and ChatGPT",
-    "translated_title": "Clay helps sales teams win with Codex and ChatGPT",
+    "translated_title": "Clay, Codex와 ChatGPT로 영업 팀의 승리를 돕다",
     "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
     "date": "2026-11-24",
     "summary": [
-      "요약을 가져오지 못했습니다. 원본 링크를 확인해주세요."
+      "Clay는 ChatGPT와 Codex 통합으로 사용자들의 딜 조사 및 데이터 기반 전략 수립을 지원합니다.",
+      "GPT-6 모델이 복잡한 추론을 담당하여 효율성을 높입니다."
     ],
     "tags": [
-      "AI"
+      "AI",
+      "Research"
     ],
     "source": "OpenAI News"
+  },
+  {
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "translated_title": "스펙트럼에서 구조로: Google Antigravity를 위한 질량 분석 기술로 분자 식별하기",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "date": "2026-11-24",
+    "summary": [
+      "Google Antigravity 사용자를 위한 질량 분석 기술 소개",
+      "질량 분석 기술은 탠덤 질량 스펙트럼 해석을 돕습니다",
+      "이 기술은 분자 구조 규명에 필수적입니다"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "translated_title": "마이크로덕 장애물 회피: Isaac Lab 및 Newton을 활용한 Sim2Real 워크플로우",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "date": "2026-11-24",
+    "summary": [
+      "Isaac Lab과 Newton을 사용하여 마이크로덕의 장애물 회피 시뮬레이션 환경을 구축합니다.",
+      "실제 환경에서의 성능을 예측하고 개선하기 위한 Sim2Real 워크플로우를 제시합니다."
+    ],
+    "tags": [
+      "Research",
+      "Tutorial",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
@@ -306,21 +403,6 @@ const allArticlesData = [
     "source": "Jason Weimann (GameDev)"
   },
   {
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "translated_title": "로보트래킹: 실제 로봇 조작을 위한 포인트 추적",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "date": "2026-11-23",
-    "summary": [
-      "실제 로봇 조작을 위한 포인트 추적 시스템 '로보트래킹'을 소개합니다.",
-      "이 시스템은 정밀한 포인트 추적을 통해 로봇의 실시간 조작 능력을 향상시킵니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
     "title": "How to build and maintain an agentic evaluation",
     "translated_title": "에이전트 기반 평가 구축 및 유지 관리 방법",
     "link": "https://huggingface.co/blog/agentic-evals",
@@ -349,6 +431,21 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "translated_title": "로보트래킹: 실제 로봇 조작을 위한 포인트 추적",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "date": "2026-11-23",
+    "summary": [
+      "실제 로봇 조작을 위한 포인트 추적 시스템 '로보트래킹'을 소개합니다.",
+      "이 시스템은 정밀한 포인트 추적을 통해 로봇의 실시간 조작 능력을 향상시킵니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "AI Can Build and Test Games. Can It Make Them Fun? | Black Friday Edition",
@@ -4540,101 +4637,5 @@ const allArticlesData = [
       "Research"
     ],
     "source": "OpenAI News"
-  },
-  {
-    "title": "OpenAI acquires Orchestra Bio",
-    "translated_title": "OpenAI, Orchestra Bio 인수",
-    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "date": "2026-10-20",
-    "summary": [
-      "OpenAI가 Orchestra Bio를 인수합니다.",
-      "AI 기반 운영을 생명 과학 R&D에 적용합니다.",
-      "신약 개발 가속화 및 신규 치료법 발전에 기여할 것입니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Gemini 4 Argon Is Not What I Expected",
-    "translated_title": "Gemini 4 Argon, 기대했던 것과는 달랐습니다",
-    "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-    "date": "2026-10-19",
-    "summary": [
-      "Gemini 4 Argon 모델 및 관련 안전 보고서가 공개되었습니다.",
-      "해당 모델에 대한 다양한 사용자 반응과 정보가 공유되었습니다.",
-      "Lambda GPU Cloud와 같은 관련 기술 지원 정보도 제공됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI",
-      "News"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
-    "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
-    "translated_title": "RocketWerkz의 C# 프레임워크 'BRUTAL', 모든 개발자에게 공개",
-    "link": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
-    "date": "2026-10-19",
-    "summary": [
-      "코드 완전 제어를 원하는 개발자를 위한 새로운 프레임워크 'BRUTAL' 출시.",
-      "RocketWerkz에서 개발한 C# 기반 프레임워크."
-    ],
-    "tags": [
-      "GameDev",
-      "News"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Moonlighter developer delays public playtest of next game over concerns of AI cloning",
-    "translated_title": "Moonlighter 개발사, AI 복제 우려로 차기작 공개 플레이 테스트 연기",
-    "link": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-    "date": "2026-10-19",
-    "summary": [
-      "Moonlighter 개발사인 Digital Sun Games가 신작 'ReVamp'의 공개 플레이 테스트를 연기합니다.",
-      "AI 기반 복제 기술에 대한 우려가 결정적인 이유입니다.",
-      "테스트는 향후 Discord 커뮤니티 중심으로 진행될 예정입니다."
-    ],
-    "tags": [
-      "GameDev",
-      "News",
-      "AI"
-    ],
-    "source": "gamedeveloper"
-  },
-  {
-    "title": "Advancing coding in low‑resource programming languages",
-    "translated_title": "저자원 프로그래밍 언어 코딩 능력 향상",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "date": "2026-10-19",
-    "summary": [
-      "OpenAI가 저자원 프로그래밍 언어에서 ChatGPT의 성능을 개선하고 있습니다.",
-      "새로운 평가에는 소프트웨어 엔지니어링, SQLite, COBOL 마이그레이션이 포함됩니다."
-    ],
-    "tags": [
-      "Research",
-      "AI"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "translated_title": "TorchNeuron: AWS Trainium에서 HF 모델을 그 어느 때보다 쉽게 실행",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "date": "2026-10-19",
-    "summary": [
-      "TorchNeuron을 사용하면 AWS Trainium에서 Hugging Face(HF) 모델 실행이 간편해졌습니다.",
-      "Hugging Face 모델을 AWS Trainium에서 효율적으로 학습시킬 수 있습니다."
-    ],
-    "tags": [
-      "News",
-      "AI"
-    ],
-    "source": "Hugging Face - Blog"
   }
 ];
