@@ -30,6 +30,22 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "translated_title": "llama.cpp 벤치마크 대시보드: AMD Ryzen 및 Radeon 소개",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "date": "2026-11-26",
+    "summary": [
+      "llama.cpp의 새로운 벤치마크 대시보드를 소개합니다.",
+      "AMD Ryzen 및 Radeon 하드웨어에서의 성능 측정을 지원합니다.",
+      "사용자는 대시보드를 통해 성능을 쉽게 확인하고 비교할 수 있습니다."
+    ],
+    "tags": [
+      "News",
+      "AI"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
     "translated_title": "Nemotron 3.5 파싱: 오픈 데이터, 파인튜닝, 그리고 더 빠른 추론",
     "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -45,20 +61,20 @@ const allArticlesData = [
     "source": "Hugging Face - Blog"
   },
   {
-    "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
-    "translated_title": "Claude AI의 가장 큰 수학적 돌파구에 문제가 있다.",
-    "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
-    "date": "2026-11-25",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "translated_title": "군집, 무리, 갱: 멀티 에이전트 시스템 구축, 훈련 및 평가 방법",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "date": "2026-11-26",
     "summary": [
-      "Claude AI가 수학 분야에서 중대한 돌파구를 달성했다고 발표했으나, 해당 내용에 대한 검증 과정에서 문제가 발견되었습니다.",
-      "본 영상에서는 해당 문제점과 함께 관련 논문 및 추가 정보를 제공합니다."
+      "멀티 에이전트 시스템의 구축, 훈련, 평가 방법을 다룹니다.",
+      "\"군집\", \"무리\", \"갱\"과 같은 다양한 시스템 유형을 탐구합니다."
     ],
     "tags": [
       "AI",
-      "Research",
-      "News"
+      "Tutorial",
+      "GameDev"
     ],
-    "source": "Two Minute Papers"
+    "source": "Hugging Face - Blog"
   },
   {
     "title": "Where scientists draw the line on AI agents",
@@ -90,6 +106,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Hugging Face - Blog"
+  },
+  {
+    "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+    "translated_title": "Claude AI의 가장 큰 수학적 돌파구에 문제가 있다.",
+    "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
+    "date": "2026-11-25",
+    "summary": [
+      "Claude AI가 수학 분야에서 중대한 돌파구를 달성했다고 발표했으나, 해당 내용에 대한 검증 과정에서 문제가 발견되었습니다.",
+      "본 영상에서는 해당 문제점과 함께 관련 논문 및 추가 정보를 제공합니다."
+    ],
+    "tags": [
+      "AI",
+      "Research",
+      "News"
+    ],
+    "source": "Two Minute Papers"
   },
   {
     "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
@@ -305,23 +337,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Claude AI Solved The Secret Of Black Holes",
-    "translated_title": "클로드 AI, 블랙홀의 비밀을 풀다",
-    "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
-    "date": "2026-11-23",
-    "summary": [
-      "클로드 AI가 블랙홀 물리학에 대한 새로운 연구 논문을 발표했습니다.",
-      "이 논문은 블랙홀의 특성과 거동에 대한 기존 이해를 확장할 수 있습니다.",
-      "연구 결과는 람다 GPU 클라우드와 관련 논문 링크를 통해 확인할 수 있습니다."
-    ],
-    "tags": [
-      "AI",
-      "News",
-      "Research"
-    ],
-    "source": "Two Minute Papers"
-  },
-  {
     "title": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation",
     "translated_title": "엔비디아, 젠슨 황 CEO 복귀 결정",
     "link": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
@@ -370,6 +385,38 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "translated_title": "에이전트와 형식 검증을 통한 더 빠른 양자 알고리즘 찾기",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23",
+    "summary": [
+      "양자 알고리즘 성능 향상을 위해 에이전트 팀과 형식 검증 기술 활용",
+      "핵융합 및 화학 분야의 양자 알고리즘 개선에 초점"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Google DeepMind News"
+  },
+  {
+    "title": "Claude AI Solved The Secret Of Black Holes",
+    "translated_title": "클로드 AI, 블랙홀의 비밀을 풀다",
+    "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+    "date": "2026-11-23",
+    "summary": [
+      "클로드 AI가 블랙홀 물리학에 대한 새로운 연구 논문을 발표했습니다.",
+      "이 논문은 블랙홀의 특성과 거동에 대한 기존 이해를 확장할 수 있습니다.",
+      "연구 결과는 람다 GPU 클라우드와 관련 논문 링크를 통해 확인할 수 있습니다."
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Research"
+    ],
+    "source": "Two Minute Papers"
+  },
+  {
     "title": "AI for Game Dev + Black Friday: What’s Actually Worth It?",
     "translated_title": "게임 개발을 위한 AI와 블랙프라이데이: 실제로 가치 있는 것은?",
     "link": "https://www.youtube.com/watch?v=KO4iGGuWumQ",
@@ -416,21 +463,6 @@ const allArticlesData = [
       "Tutorial"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Finding faster quantum algorithms with agents and formal verification",
-    "translated_title": "에이전트와 형식 검증을 통한 더 빠른 양자 알고리즘 찾기",
-    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "date": "2026-11-23",
-    "summary": [
-      "양자 알고리즘 성능 향상을 위해 에이전트 팀과 형식 검증 기술 활용",
-      "핵융합 및 화학 분야의 양자 알고리즘 개선에 초점"
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Google DeepMind News"
   },
   {
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -4606,36 +4638,5 @@ const allArticlesData = [
       "News"
     ],
     "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "translated_title": "ChatGPT Work로 가맹점주, 현금 결산 시간 94% 단축",
-    "link": "https://openai.com/index/ted-taylor-restaurant",
-    "date": "2026-10-20",
-    "summary": [
-      "ChatGPT Work를 활용하여 메뉴 가격 재산정 시간 95% 단축",
-      "연간 10만 달러 현금 흐름 확보 가능성 제시",
-      "독립적인 Schlotzsky’s 및 Cinnabon 가맹점주 사례"
-    ],
-    "tags": [
-      "AI",
-      "News"
-    ],
-    "source": "OpenAI News"
-  },
-  {
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "translated_title": "Terminal X, GPT-6.1와 함께 시니어 투자자 판단 88.6% 일치율 달성",
-    "link": "https://openai.com/index/terminal-x",
-    "date": "2026-10-20",
-    "summary": [
-      "Terminal X의 Eval Agent는 54개 기준 루브릭으로 결과물을 평가합니다.",
-      "GPT-6.1 Sol을 사용하여 펀드 의무 위반 사항을 25% 더 많이 발견합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "OpenAI News"
   }
 ];
