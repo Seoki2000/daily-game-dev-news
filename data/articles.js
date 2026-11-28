@@ -30,6 +30,37 @@ const allArticlesData = [
     "source": "gamedeveloper"
   },
   {
+    "title": "From first campaign to ROAS: your step-by-step guide to user acquisition with Unity Ads",
+    "translated_title": "첫 캠페인부터 ROAS까지: Unity Ads 사용자 확보를 위한 단계별 가이드",
+    "link": "https://unity.com/from-first-campaign-to-roas-your-step-by-step-guide-to-user-acquisition-with-unity-ads",
+    "date": "2026-11-27",
+    "summary": [
+      "Unity Ads를 활용한 사용자 확보(UA)의 단계별 가이드",
+      "캠페인 설정, 플레이 가능한 광고 제작, ROAS 분석 방법 제공",
+      "무료 영상 시리즈 및 전자책으로 제공"
+    ],
+    "tags": [
+      "Tutorial",
+      "Unity"
+    ],
+    "source": "Unity Blog RSS Feed"
+  },
+  {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "translated_title": "Trainium3를 활용한 LTX-2.5 동영상 생성",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "date": "2026-11-27",
+    "summary": [
+      "Trainium3를 사용하여 LTX-2.5 모델로 동영상을 생성하는 방법을 설명합니다.",
+      "이 기술은 동영상 생성 분야의 새로운 연구 결과입니다."
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "source": "Hugging Face - Blog"
+  },
+  {
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
     "translated_title": "llama.cpp 벤치마크 대시보드: AMD Ryzen 및 Radeon 소개",
     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -321,22 +352,6 @@ const allArticlesData = [
     "source": "Unity Blog RSS Feed"
   },
   {
-    "title": "Access Asset Store and AI Generators using the Unity CLI",
-    "translated_title": "Unity CLI로 에셋 스토어 및 AI 생성기 액세스하기",
-    "link": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
-    "date": "2026-11-23",
-    "summary": [
-      "Unity CLI를 사용하여 에셋 스토어 검색 및 프리팹 가져오기",
-      "60개 이상의 AI 모델로 누락된 에셋 생성 가능"
-    ],
-    "tags": [
-      "Unity",
-      "GameDev",
-      "AI"
-    ],
-    "source": "Unity Blog RSS Feed"
-  },
-  {
     "title": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation",
     "translated_title": "엔비디아, 젠슨 황 CEO 복귀 결정",
     "link": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
@@ -398,6 +413,22 @@ const allArticlesData = [
       "Research"
     ],
     "source": "Google DeepMind News"
+  },
+  {
+    "title": "Access Asset Store and AI Generators using the Unity CLI",
+    "translated_title": "Unity CLI로 에셋 스토어 및 AI 생성기 액세스하기",
+    "link": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
+    "date": "2026-11-23",
+    "summary": [
+      "Unity CLI를 사용하여 에셋 스토어 검색 및 프리팹 가져오기",
+      "60개 이상의 AI 모델로 누락된 에셋 생성 가능"
+    ],
+    "tags": [
+      "Unity",
+      "GameDev",
+      "AI"
+    ],
+    "source": "Unity Blog RSS Feed"
   },
   {
     "title": "Claude AI Solved The Secret Of Black Holes",
@@ -4605,37 +4636,6 @@ const allArticlesData = [
     "tags": [
       "AI",
       "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "translated_title": "허깅 페이스와 TorchTPU의 만남: TPUs, 네이티브 지원",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "date": "2026-10-20",
-    "summary": [
-      "허깅 페이스가 PyTorch/XLA를 통해 TPU에 대한 네이티브 지원을 발표했습니다.",
-      "이로써 TPU에서 Hugging Face 라이브러리를 더 효율적으로 사용할 수 있게 됩니다."
-    ],
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "source": "Hugging Face - Blog"
-  },
-  {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "translated_title": "AnyLanguageModel 1.0: Apple 플랫폼에서의 로컬 모델 1년",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "date": "2026-10-20",
-    "summary": [
-      "AnyLanguageModel 1.0 출시 1주년을 맞아 Apple 플랫폼에서의 로컬 AI 모델 개발 현황을 다룹니다.",
-      "로컬 모델의 장점과 Apple 플랫폼에서의 활용 가능성에 대한 정보를 제공합니다."
-    ],
-    "tags": [
-      "AI",
-      "Research",
-      "News"
     ],
     "source": "Hugging Face - Blog"
   }
